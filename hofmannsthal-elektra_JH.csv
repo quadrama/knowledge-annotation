@@ -1,0 +1,11 @@
+begin,end,begin_segment,end_segment,begin_line,end_line,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+184,197,Dramatis Personae.,Dramatis Personae.,-1,-1,"          Dramatis Personae.",Klytämnestra.,"Elektra,            Chrysothe",0,"transfer(""Figurentafel"", audience, parent_of(klytaemnestra, chrysothemis))",false
+10135,10150,,,-1,-1,"nd wir,            dein Blut,",dein Sohn Orest,"und deine Töchter,           ",1,"transfer(elektra, audience, child_of(orest, PARENT[ELEKTRA]))",false
+76342,76351,,,-1,-1,"sein,            die starben,",Agamemnon,"und Orest.                 ",2,"transfer(orest, audience, has_name(PARENT[ELEKTRA], ""Agamemnon""))",false
+72694,72721,,,-1,-1,"                  ELEKTRA.","Ja, ich diene hier im Haus.",Du aber hast hier nichts zu sc,3,"transfer(elektra, orest, identity(elektra, ""Magd""), lie)",false
+184,197,Dramatis Personae.,Dramatis Personae.,-1,-1,"          Dramatis Personae.",Klytämnestra.,"Elektra,            Chrysothe",4,"transfer(""Figurentafel"", audience, parent_of(klytaemnestra, elektra))",false
+76434,76561,,,-1,-1,"                  ELEKTRA.",Verwandt? ich bin dies Blut! ich bin das hündisch            vergoßne Blut des Königs Agamemnon!            Elektra heiß ich.,"OREST.          Nein!       ",5,"transfer(elektra, orest, identity(""Magd"", elektra))",false
+7847,7856,,,-1,-1,"     Allein! Weh, ganz allein.",Der Vater,"fort,            hinabgescheu",6,"transfer(elektra, audience, parent_of(PARENT[ELEKTRA], elektra))",false
+80976,81000,,,-1,-1,"     von seinem Ton getroffen.",Wer            bist du?,Der alte finstre Diener stürzt,7,"transfer(elektra, orest, identity(""Junger Diener"", orest), suspicion)",false
+29979,30000,,,-1,-1,"h kränkt            zu sehen,","daß Ägisth, dein Mann",", die alten Mäntel           ",8,"transfer(elektra, audience, spouses(klytaemnestra, aegisth))",false
+81567,81573,[Stücktext],[Stücktext],-1,-1,ELEKTRA          schreit auf.,Orest!,"OREST          fieberhaft.  ",9,"transfer(elektra, orest, identity(""Junger Diener"", orest))",false
