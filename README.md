@@ -12,12 +12,12 @@ Manual nowledge annotations in Q:TRACK
 | Goethe       | Stella                              | y        | y        | y          | y     | y     |
 | Kleist       | Familie Schroffenstein              | y        | y        | y          | y     | y     |
 | Hofmannsthal | Elektra                             | y        | y        | y          | y     | y     |
-| Hebbel       | Maria Magdalena                     | y        | y        |            |       |       |
-| Lenz         | Der Hofmeister                      | y        | y        |            |       |       |
-| Schiller     | Die Braut von Messina               | y        | y        |            |       |       |
-| Pfeil        | Lucy Woodvil                        |          | y        |            |       |       |
-| Grillparzer  | Die Ahnfrau                         | y        |          |            |       |       |
-| Schnitzler   | Komtesse Mizzi oder Der Familientag |          |          |            |       |       |
-| Schiller     | Die Räuber                          |          |          |            |       |       |
+| Hebbel       | Maria Magdalena                     | y        | y        | y          | y     | y     |
+| Lenz         | Der Hofmeister                      | y        | y        | y          | y     | y     |
+| Schiller     | Die Braut von Messina               | y        | y        | y          | y     | y     |
+| Pfeil        | Lucy Woodvil                        | y        | y        | y          | y     | y     |
+| Grillparzer  | Die Ahnfrau                         | y        | y        | y          | y     | y     |
+| Schnitzler   | Komtesse Mizzi oder Der Familientag | y        | y        | y          | y     | y     |
+| Schiller     | Die Räuber                          | y        | y        | y          | y     | y     |
 
-Stand: 06.07.2021
+Stand: 01.10.2021
