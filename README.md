@@ -23,7 +23,7 @@ Annotations in round 1 were part of the process of guideline development. For th
 |     1 | Schiller     | Die Räuber                          | y        | y        | y          | y     | y     |
 |     2 | Günderode    | Udohla	                             | y        | y        | y          |       |       |
 |     2 | Günderode    | Magie und Schicksal                 | y        | y        | y          |       |       |
-|     2 | Weißenturn   | Das Manuskript                      | y        | y        | y          |       |       |
-|     2 | Gottsched, L.| Das Testament                       | y        | y        | y          |       |       |
+|     2 | Weißenturn   | Das Manuskript                      | y        | y        |            |       |       |
+|     2 | Gottsched, L.| Das Testament                       | y        | y        |            |       |       |
 
 Stand: 25.11.2021
