@@ -1,0 +1,123 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+75041,75078,"te dein Gemüt so häßlich sein,","Da du doch Agnes, Agnes lieben kannst","!
+            
+          
+    ",0,"transfer(ottokar, audience, in_love_with(johann, agnes))",false
+255,269,"e Rossitz.
+          Eustache,",seine Gemahlin,".
+          Ottokar, ihr Sohn.",1,"transfer(""Figurentafel"", audience, spouses(eustache, rupert))",false
+548,560,"der Eustache.
+          Agnes,",ihre Tochter,".
+          Jeronimus von Schr",2,"transfer(""Figurentafel"", audience, child_of(agnes, sylvester))",false
+548,560,"der Eustache.
+          Agnes,",ihre Tochter,".
+          Jeronimus von Schr",3,"transfer(""Figurentafel"", auidence, child_of(agnes, gertrude))",false
+318,342,"r, ihr Sohn.
+          Johann,",Ruperts natürlicher Sohn,".
+          Sylvius, Graf von ",4,"transfer(""Figurentafel"", auidence, child_of(johann, rupert))",false
+432,441," Warwand.
+          Sylvester,",sein Sohn,", regierender Graf.
+          ",5,"transfer(""Figurentafel"", audience, child_of(sylvester, sylvius))",false
+123641,123700,"
+          
+            AGNES.","Ganz deine, in der grenzenlosesten
+              Bedeutung.","OTTOKAR.
+            
+        ",6,"transfer(agnes, [ottokar, audience], in_love_with(agnes, ottokar))",false
+156173,156215,"das Mädchen ihm nicht weigert,",Obschon von ihrer Lieb er noch nichts weiß,".
+              – Wenn Rupert ",7,"transfer(jeronimus, eustache, !knowledge(sylvester, lover(ottokar, agnes)))",false
+290,298,"e Gemahlin.
+          Ottokar,",ihr Sohn,".
+          Johann, Ruperts na",8,"transfer(""Figurentafel"", audience, child_of(ottokar, eustache))",false
+290,298,"e Gemahlin.
+          Ottokar,",ihr Sohn,".
+          Johann, Ruperts na",9,"transfer(""Figurentafel"", audience, child_of(ottokar, rupert))",false
+121201,121233,"         
+            OTTOKAR.","Nun, ich will's nicht leugnen. –","AGNES.
+            Wahrhaftig?",10,"transfer(ottokar, [audience, agnes], knowledge(ottokar, identity(LOVER[OTTOKAR, agnes)))",false
+102024,102094,"             Weiß nur so viel,","daß sein Namen
+              Johann, und er ein unecht Kind des Rupert",",
+              – Daß er den R",11,"transfer(jeronimus, [sylvester, gertrud, agnes], child_of(johann, rupert))",false
+116506,116543,"         
+            OTTOKAR.","Ich weiß, daß er dich heftig liebt. –","AGNES.
+            Mich liebt.",12,"transfer(ottokar, agnes, in_love_with(johann, agnes))",false
+51551,51572,"n,
+              Dir wegen des",an seinem Sohne Peter,Verübten Mords den Frieden auf,13,"transfer(aldoebern, audience, child_of(""Peter"", rupert))",false
+234447,234530,ie kommen! Ritter! Sie kommen!,"Ottokar wirft schnell Agnes' Oberkleid über, und setzt ihren Hut
+              auf.","AGNES.
+            Wer soll de",14,"transfer(""Verkleidung"", [audience, barnabe, agnes], identity(ottokar, COSTUME[AGNES]))",false
+7579,7589,"o, meinst du, soll ich warten,",Peters Tod,"Nicht rächen, bis ich Ottokars",15,"transfer(rupert, audience, has_name(CHILD[EUSTACHE], ""Peter""))",false
+97596,97649,"hien's fast, wie im Wahnsinn –","sprach
+              Von Liebe, daß er mich vergöttre","– nannte
+              Bald ei",16,"transfer(agnes, [sylvester, gertrud, jeronimus], transfer(johann, agnes, in_love_with(johann, agnes)))",false
+197835,197843,"         
+            BARNABE.",Barnabe.,"OTTOKAR.
+            
+        ",17,"transfer(barnabe, ottokar, has_name(HEXE, barnabe))",false
+154150,154192,"       
+            JERONIMUS.","Ei, daß sie sich so treu wie Engel lieben.","EUSTACHE.
+            Wie? Du ",18,"transfer(jeronimus, eustache, transfer(johann, jeronimus, lovers(ottokar, agnes)))",false
+69576,69582,"         
+            OTTOKAR.",Maria!,"Willst du nicht besser von
+   ",19,"transfer(ottokar, audience, has_name(agnes, ""Maria""))",false
+121457,121484,"
+          
+            AGNES.",Ottokar von Schroffenstein.,"OTTOKAR.
+            
+        ",20,"transfer(agnes, [audience, ottokar], knowledge(agnes, identity(LOVER[AGNES], agnes)))",false
+4437,4463,"          
+            RUPERT.",Und Mutter auch des Toten.,"EUSTACHE.
+            O Gott! ",21,"transfer(rupert, audience, child_of(CHILD[EUSTACHE], eustache))",false
+249572,249737,"         
+            SYLVIUS.","Das ist nicht Agnes!
+              – Das wäre Agnes, Knabe? Agnes' Kleid,
+              Nicht Agnes! Nein bei meinem ew'gen Leben,
+              Das ist nicht Agnes!","JOHANN
+            die Leiche ",22,"transfer(sylvius, [johann, sylvester, eustache, rupert, gertrude], identity(COSTUME[AGNES], ottokar))",false
+67205,67267,"chts Böses bin ich mir bewußt,","ich fühle
+              Du gehst mir über alles Glück der Welt",Und nicht ans Leben bin ich so,23,"transfer(ottokar, [audience, agnes], in_love_with(ottokar, agnes))",false
+92025,92039,"   Es folgt dir ja kein Feind,",ich liebe dich,",
+              Ach, lieben! I",24,"transfer(johann, agnes, in_love_with(johann, agnes))",false
+234093,234185,"            der vor ihr steht.","Wer würde glauben, daß der grobe Mantel
+              So Zartes deckte, als ein Mädchenleib!",Drück ich dir noch den Helm au,25,"transfer(""Verkleidung"", [audience, ottokar, barnabe], identity(agnes, COSTUME[OTTOKAR]))",false
+251499,251523," 
+              Lustig, Alter!",Sie ist's! 's ist Agnes!,"SYLVESTER
+            bedeckt ",26,"transfer(johann, [sylvius, sylvester, eustache, gertrude], identity(COSTUME[OTTOKAR], agnes))",false
+32634,32914,"       
+            JERONIMUS.","Ich weiß, was dich so zäh macht in dem Argwohn.
+              's ist wahr, und niemals werd ich's leugnen, ja,
+              Ich hatt das Mädel mir zum Weib erkoren.
+              Doch eh ich je mit Mördern mich verschwägre,
+              Zerbreche mir die Henkershand das Wappen.","OTTOKAR
+            fällt Jero",27,"transfer(jeronimus, [ottokar, audience], !in_love_with(jeronimus, agnes))",false
+502,529,"Gertrude, Sylvesters Gemahlin,",Stiefschwester der Eustache,".
+          Agnes, ihre Tochte",28,"transfer(""Figurentafel"", audience, stepsiblings(gertrude, eustache))",false
+93286,93328,"
+          
+            AGNES.","Errettet mich,
+              Ihr Heiligen!","JOHANN.
+            
+         ",29,"transfer(agnes, [audience, johann], !in_love_with(agnes, johann))",false
+40797,40860,"          Wie du nur sprichst!","Sie haben dir den Enkel,
+              Den Bruder mir vergiftet",", und das sollen
+             ",30,"transfer(agnes, audience, siblings(agnes, ""Phillipp""))",false
+217445,217484,"          Das ist nicht alles.","Rupert
+              Kennt deine Liebe.","–
+            
+          
+    ",31,"transfer(eustache, ottokar, knowledge(rupert, in_love_with(ottokar, agnes)))",false
+183785,183807,Weg selbst zur Versöhnung dir.,Die Kinder lieben sich,", ich habe sichre
+            ",32,"transfer(eustache, rupert, lovers(ottokar, agnes))",false
+481,500,"nder Graf.
+          Gertrude,",Sylvesters Gemahlin,", Stiefschwester der Eustache.",33,"transfer(""Figurentafel"", audience, spouses(sylvester, gertrude))",false
+842,854,"äberswitwe.
+          Barnabe,",ihre Tochter,".
+          Eine Kammerjungfer",34,"transfer(""Figurentafel"", audience, child_of(barnabe, ursula))",false
+30919,31119,bereilt hast du die Auflösung.,"Nicht wahr, das Mädchen, dessen Schleier hier,
+              Ist Agnes nicht, nicht Agnes Schroffenstein?
+            
+          
+          
+            JOHANN.
+            Ich sag dir ja, sie ist es.","OTTOKAR.
+            O mein Go",35,"transfer(johann, [ottokar, audience], identity(LOVER[OTTOKAR], agnes), suspicion)",false

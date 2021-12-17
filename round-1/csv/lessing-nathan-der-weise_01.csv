@@ -1,0 +1,178 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+7525,7538,"          Da kommen die Kamele",meines Vaters,"!
+              Horch! seine s",0,"transfer(daja, audience, knowledge(recha, parent_of(nathan, recha)))",false
+312920,313059,"          
+            NATHAN.","Ihr Bruder!
+          
+          
+            SALADIN.
+            Rechas Bruder?
+          
+          
+            NATHAN.
+            Ja!","RECHA.
+            
+          ",1,"transfer(nathan, saladin, SIBLINGS(SIBLING[RECHA], recha))",false
+315728,315972,utter – die war eine Stauffin.,"Ihr Bruder, Euer Ohm, der Euch erzogen,
+              Dem Eure Eltern Euch in Deutschland ließen,
+              Als, von dem rauhen Himmel dort vertrieben,
+              Sie wieder hier zu Lande kamen: – Der
+              Hieß Curd von Stauffen","; mag an Kindesstatt
+         ",2,"transfer(nathan, audience, has_name(UNCLE[TEMPELHERR], ""Curd von Stauffen""))",false
+322868,322912,"d es, Sittah, sind! Sie sinds!",Sind beide meines ... deines Bruders Kinder!,"Er rennt in ihre Umarmungen.
+ ",3,"transfer(saladin, [sittah, recha, tempelherr] parent_of(""Assad"", recha))",false
+287170,287208,"          
+            NATHAN.",Besonders hat ein Bruder sich gefunden,",
+              Bei dem Ihr um",4,"transfer(nathan, [tempelherr, audience], siblings(SIBLING[RECHA], recha))",false
+117839,117877,"      
+            TEMPELHERR.",Mein Name war – ist Curd von Stauffen.,"– Curd!
+          
+          
+",5,"transfer(tempelherr, nathan, has_name(tempelherr, ""Curd von Stauffen""))",false
+30191,30243,"           
+              Wie?","Al-Hafi? Träumst du wieder? –
+              Er ists!","– wahrhaftig, ists! – kömmt au",6,"transfer(natnan, audience, has_name(derwisch, ""Al-Hafi""))",false
+321860,321922,"         
+            SALADIN.","Mein Bruder! ganz gewiß! Mein Assad! ganz
+              Gewiß!","NATHAN.
+            
+         ",7,"transfer(saladin, [nathan, audience], identity(""Wolf von Filneck"", ""Assad""), suspicion)",false
+197410,197648,"      
+            TEMPELHERR.","Sie wüßte nicht,
+              Was sie geboren sei? – Sie hätt' es nie
+              Von ihm erfahren, daß sie eine Christin
+              Geboren sei, und keine Jüdin?
+            
+          
+          
+            DAJA.
+            Nie!","TEMPELHERR.
+            
+     ",8,"transfer(daja, [tempelherr, audience], !knowledge(recha, !father_of(nathan, recha)))",false
+175758,175771,"tnen Lebens,
+              Hat",meine Tochter,"aus dem Feu'r gerettet.
+      ",9,"transfer(nathan, saladin, child_of(CHILD[NATHAN], nathan))",false
+380,405,"nen.
+          Sultan Saladin.","Sittah, dessen Schwester.","Nathan, ein reicher Jude in Je",10,"transfer(""Figurentafel"", audience, siblings(sittah, saladin))",false
+247917,248049,"   
+            KLOSTERBRUDER.","Der Herr, von welchem ichs Euch brachte,
+              War – ist mir recht – ein Herr von Filneck. – Wolf
+              Von Filneck!","NATHAN.
+            Richtig!
+ ",11,"transfer(klosterbruder, [nathan, audience], parent_of(""Wolf von Filneck"", recha))",false
+196572,196681,"TEMPELHERR
+            hastig.","Und Nathan?
+          
+          
+            DAJA.
+            
+              Nicht
+              Ihr Vater!","TEMPELHERR.
+            
+     ",12,"transfer(daja, tempelherrr, !parent_of(nathan, recha))",false
+465,499,ein reicher Jude in Jerusalem.,"Recha, dessen angenommene Tochter.","Daja, eine Christin, aber in d",13,"transfer(""Figurentafel"", audience, fosterchild_of(recha, nathan)) ",false
+231151,231245,st für sie getan soll haben: –,"Dies Mädchen selbst, ist seine Tochter – nicht;
+              Ist ein verzettelt Christenkind.","SALADIN.
+            
+        ",14,"transfer(tempelherr, saladin, !parent_of(nathan, recha))",false
+184405,184474,"      
+            TEMPELHERR.","Ich heiße selber ja nach meinem Vater: Curd
+              Ist Conrad.","NATHAN.
+            
+         ",15,"transfer(tempelherr, nathan, parent_of(""Conrad von Stauffen"", tempelherr))",false
+20402,20491,"herrn
+              Begnadigt,","weil er seiner Brüder einem,
+              Den er besonders lieb gehabt, so ähnlich sehe.",Doch da es viele zwanzig Jahre,16,"transfer(daja, audience, siblings(SIBLING[SALADIN], saladin)) ",false
+257163,257219,"          
+            NATHAN.","Hieß nicht ihr Bruder
+              Conrad von Stauffen?","– und war Tempelherr?
+        ",17,"transfer(nathan, audience, has_name(UNCLE[RECHA], ""Conrad von Stauffen""))",false
+228044,228192,"      
+            TEMPELHERR.","Daß diesem Eindruck, auf das liebliche
+              Geschwätz des Vaters hin, mein rasches Herz
+               So wenig Widerstand entgegen setzte!","–
+              Ich Tropf! ich",18,"transfer(tempelherr, saladin, in_love_with(tempelherr, recha))",false
+191773,191914," hier zusammen.) – Liebe Daja,","Nehmt für gestanden an, was Ihr verlangt:
+              Daß ich sie liebe; daß ich nicht begreife,
+              Wie ohne sie ich leben werde","; daß ...
+            
+       ",19,"transfer(tempelherr, daja, in_love_with(tempelherr, recha))",false
+322249,322293,"     es begierig aufschlagend.",Ah! seine Hand! Auch die erkenn' ich wieder!,"NATHAN.
+            
+         ",21,"transfer(""Handschrift in Buch"", saladin, parent_of(""Assad"", recha))",false
+314774,314869,"      
+            TEMPELHERR.","Wie heiß ich denn?
+          
+          
+            NATHAN.
+            Heißt Leu von Filneck.","TEMPELHERR.
+            Wie?
+ ",22,"transfer(nathan, tempelherr, has_name(tempelherr, ""Leu von Filneck""))",false
+65349,65442,"   Ich bin ein plumper Schwab.","Des Mädchens Bild
+              Ist längst aus meiner Seele; wenn es je
+              Da war.","DAJA.
+            Doch Eures i",23,"transfer(tempelherr, [audience, daja], !in_love_with(tempelherr, recha))",false
+302583,302705,"
+          
+            RECHA.","Ich sei
+              Aus christlichem Geblüte; sei getauft;
+              Sei Nathans Tochter nicht; er nicht mein Vater!","–
+              Gott! Gott! Er",24,"transfer(recha, sittah, transfer(daja, recha, fosterparent_of(nathan, recha)))",false
+322363,322390,"          
+            NATHAN.",Noch wissen sie von nichts!,"Noch stehts bei dir
+          ",25,"transfer(nathan, saladin, !knowlledge([tempelherr, recha], parent_of(""Assad"", tempelherr)))",false
+61548,61560,"           
+              Auch",Rechas Vater,"ist heut angekommen.
+         ",26,"transfer(daja, tempelherr, parent_of(PARENT[RECHA], recha))",false
+58785,58929,"olle, – meint der Patriarch, –","Daß Euch nur darum Saladin begnadet,
+              Weil ihm in Eurer Mien', in Euerm Wesen,
+              So was von seinem Bruder eingeleuchtet","...
+            
+          
+  ",27,"transfer(klosterbruder, tempelherr, knowledge(patriarch, brother_of(BROTHER[SALADIN], saladin)))",false
+281344,281537,"leiben. – Hört mich, Nathan! –","In dieser Gärung schlich mir Daja nach,
+              Und warf mir ihr Geheimnis an den Kopf,
+              Das mir den Aufschluß Euers rätselhaften
+              Betragens zu enthalten schien.","NATHAN.
+            Wie das?
+ ",28,"transfer(tempelherr, nathan, knowledge(tempelherr, !parent_of(nathan, recha)))",false
+316969,317011,"          
+            NATHAN.","Nannte
+              Sich Wolf von Filneck","; aber war kein Deutscher ...
+",29,"transfer(nathan, tempelherr, has_name(PARENT[TEMPELHERR], ""Wolf von Filneck""))",false
+118425,118435,des Geschlechts schon mehrere.,Mein Oheim,"selbst, – mein Vater will ich ",30,"transfer(tempelherr, nathan, uncle_of(UNCLE[TEMPELHERR], tempelherr))",false
+118446,118471,"          Mein Oheim selbst, –",mein Vater will ich sagen,", –
+              Doch warum s",32,"transfer(tempelherr, nathan, fosterparent_of(UNCLE[TEMPELHERR], tempelherr))",false
+33364,33374,"zes, – denn des größern waltet",Sein Vater,noch – des Schatzes für sein H,33,"transfer(derwisch, nathan, parent_of(""PARENT_OF[SALADIN]"", saladin))",false
+317477,317571,"   Euch! – Aber Rechas Bruder?","Rechas Bruder ...
+            
+          
+          
+            NATHAN.
+            Seid Ihr!","TEMPELHERR.
+            Ich? i",34,"transfer(nathan, [tempelherr, audience], siblings(tempelherr, recha))",false
+319307,319340,"          
+            NATHAN.","Blanda
+              Von Filneck!","TEMPELHERR.
+            
+     ",35,"transfer(nathan, [recha, audience, saladin, sittah, tempelherr], has_name(recha, ""Blanda von Filneck""))",false
+247401,247611,genheit gegeben haben. – Sagt:,"Hat Euch ein Reitknecht nicht vor achtzehn Jahren
+              Ein Töchterchen gebracht von wenig Wochen?
+            
+          
+          
+            NATHAN.
+            Wie das? – Nun freilich – allerdings","–
+          
+          
+      ",36,"transfer(klosterbruder, nathan, knowledge(klosterbruder, fosterchild_of(FOSTERCHILD[NATHAN], nathan))",false
+65508,65539," 
+          
+            DAJA.",Doch Eures ist aus ihrer nicht.,"TEMPELHERR.
+            Was so",37,"transfer(daja, [tempelherr, audience], in_love_with(recha, tempelherr))",false
+104413,104453,"          
+            NATHAN.",Ich heiße Nathan; bin des Mädchens Vater,",
+              Das Eure Großm",38,"transfer(nathan, tempelherr, parent_of(nathan, recha))",false
+178351,178448,mein Tod. – Ist das nun Liebe:,"So – liebt der Tempelritter freilich, – liebt
+              Der Christ das Judenmädchen freilich.","– Hm!
+              Was tuts? ",39,"transfer(tempelherr, audience, in_love_with(tempelherr, recha))",false

@@ -1,0 +1,125 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+918,931,"ist.
+          Jungfer Rehaar,",seine Tochter,".
+          
+        
+      
+ ",0,"transfer(""Figurentafel"", audience, child_of(jungfer_rehaar, rehaar))",false
+165023,165126,müssen mehr Bestätigung haben.,"Du weißt, daß du ihm einmal im Rausch erzählt hast, daß
+              du in deine Kusine verliebt wärst","; siehst du, das hat die maliz",1,"transfer(paetus, audience, transfer(fritz, seiffenblase, in_love_with(fritz, gustchen)))",false
+158162,158177,"ie
+              schreibt mir,",die Kathrinchen,", daß sie nicht genug rühmen k",2,"transfer(rehaar, audience, has_name(jungfer_rehaar, ""Kathrinchen""))",false
+21914,22241,"       Sie sollen schon sehen.","Faßt sie an die Hand. Gustchen – Gustchen!
+              wenn ich Sie verlieren sollte oder der Onkel wollte Sie einem andern geben. – Der
+              gottlose Graf Wermuth! Ich kann Ihnen den Gedanken nicht sagen Gustchen, aber Sie
+              könnten ihn schon in meinen Augen lesen – Er wird ein Graf Paris für uns sein.","GUSTCHEN.
+            Fritzche",3,"transfer(fritz, [audience, gustchen], in_love_with(fritz, gustchen))",false
+132648,132853,te beste Klippe und scheitern.,"Die Hamstern war eine Kokette, die
+              aus dir machte, was sie wollte; sie hat dich um deinen letzten Rock, um deinen guten
+              Namen und um den guten Namen deiner Freunde dazu gebracht",": ich dächte, da hättest du
+  ",4,"transfer(fritz, audience, in_love_with(paetus, jungfer_hamster))",false
+117885,117890,"   Aber wo wollt Ihr denn hin,",Grete,", daß Gott erbarm! da Ihr noch",5,"transfer(marthe, audience, has_name(gustchen, ""Gretel""))",false
+25759,25774,"       FRITZ.
+            Ich,",gnädigster Papa,"?
+          
+          
+      ",6,"transfer(fritz, audience, child_of(fritz, geheimer_rat))",false
+270,282,"       Der Major, sein Bruder.",Die Majorin.,"Gustchen, ihre Tochter.
+      ",7,"transfer(""Figurentafel"", audience, spouses(major, majorin))",false
+68803,68822,Küßt Läuffers Hand inbrünstig.,O göttlicher Romeo!,"LÄUFFER
+            küßt ihre ",8,"transfer(gustchen, audience, in_love_with(gustchen, laeuffer))",false
+182933,183022,"         
+            LÄUFFER.","Laß mich deinen mutwilligen Mund mit meinen Lippen zuschließen! Küßt
+                sie.","O Lise! Wenn du wüßtest, wie u",9,"transfer(laeuffer, [audience, lise], in_love_with(laeuffer, lise))",false
+11832,11876," GRAF.
+            Ich glaube,",sein Vater ist der Prediger hier aus dem Ort,"...
+          
+          
+    ",10,"transfer(graf_wermuth, majorin, parent_of(pastor, laeuffer), suspicion)",false
+17333,17353," Er doch
+              einmal:",ich hab eine Tochter,", das mein Ebenbild ist, und d",11,"transfer(major, laeuffer, child_of(CHILD[MAJOR], major))",false
+200545,200551,"        fällt ihm um den Hals.",Fritz!,Zum Geheimen Rat. Ist's dein F,12,"transfer(fritz, major, lovers(fritz, gustchen))",false
+96077,96114,"      Es ist der Graf Wermuth,",der künftige Schwiegersohn des Majors,"; er ist eifersüchtig
+        ",13,"transfer(laeuffer, [audience, wenzeslaus], engaged(graf_wermuth, gustchen))",false
+7044,7053," ... Läuffer! nicht furchtsam!",Mein Sohn,ist buschscheu genug; wenn der,14,"transfer(majorin, audience, child_of(CHILD[MAJORIN], majorin))",false
+13401,13411,"er. Bist empfindlich, wenn dir",dein Vater,"was sagt? Wer soll dir's denn ",15,"transfer(major, audience, identity(CHILD[MAJOR], leopold))",false
+203911,203917,"st. Nimm mein ganzes Vermögen,",Gustav,"! schalte damit nach
+         ",16,"transfer(der_alte_paetus, audience, has_name(paetus, ""Gustav""))",false
+2700,2711,nur zu artig. Aber was soll er,deinen Sohn,"lehren?
+            
+         ",17,"transfer(geheimer_rat, audience, child_of(CHILD[MAJOR], major))",false
+183262,183296,al und denn ewig nicht wieder!,Küßt sie. Wenzeslaus tritt herein.,"WENZESLAUS.
+            Was is",18,"transfer(laeuffer, wenzelsaus, in_love_with(laeuffer, lise))",false
+145055,145098,"E.
+            Mühselig genug.",Die Mutter dieses Kindes war meine Leiterin,"; sie ging eines Tags aus
+    ",19,"transfer(marthe, laeuffer, parent_of(PARENT[CHILD], CHILD[PARENT]))",false
+303,315,"e Majorin.
+          Gustchen,",ihre Tochter,".
+          Fritz von Berg.
+  ",20,"transfer(""Figurentafel"", audience, child_of(gustchen, majorin))",false
+186697,186756," 
+          
+            LISE.","O ja, ich bin's herzlich wohl zufrieden, Herr Schulmeister.","LÄUFFER.
+            Ich Unglü",21,"transfer(lise, [audience, laeuffer, wenzelsaus], in_love_with(lise, laeuffer))",false
+751,766,"he, alte Frau.
+          Lise.",Der alte Pätus.,"Der alte Läuffer, Stadtpredige",22,"transfer(""Figurentafel"", audience, parent_of(der_alte_paetus, paetus))",false
+119210,119243,sen treibt mich fort von hier.,"Ich hab einen
+              Vater",", der mich mehr liebt als sein",23,"transfer(gustchen, marthe, parent_of(PARENT[GUSTCHEN], gustchen))",false
+199081,199118,Pätus hat's mir verschafft – –,Seine Mutter war das alte blinde Weib,", die
+              Bettlerin,",24,"transfer(major, [audience, geheimer_rat], parent_of(marthe, der_alte_paetus))",false
+130125,130132,"ieder bei
+                ihr.",Gustel!,was fehlt dir? Hast Wasser ein,25,"transfer(major, [audience, graf_wermuth, geheimer_rat], has_name(gustchen, ""Gustel""))",false
+132915,133244,"           klug werden können.","Die Rehaarin ist ein unverführtes unschuldiges jugendliches Lamm:
+              wenn man gegen ein Herz, das sich nicht verteidigen will noch verteidigen kann, alle
+              mögliche Batterien spielen läßt, um es – was soll ich sagen? zu zerstören,
+              einzuäschern, das ist unrecht, Bruder Pätus, das ist unrecht.","Nimm mir's nicht übel,
+       ",26,"transfer(fritz, audience, in_love_with(jungfer_rehaar, paetus))",false
+145769,145792,ich nachgestürzt; das muß wohl,"ihr
+              Vater","gewest sein.
+          
+      ",27,"transfer(marthe, laeuffer, parent_of(PARENT[PARENT_CHILD], PARENT_CHILD))",false
+146529,146557,"         vor den Spiegel. Wie?",dies wären nicht meine Züge?,"Fällt in Ohnmacht;
+           ",28,"transfer(laeuffer, [audience, marthe], parent_of(laeuffer, CHILD[PARENT]), suspicion)",false
+204652,204688,üßt's und trägt's zu Gustchen.,Dies Kind ist jetzt auch das meinige,; ein trauriges Pfand der Schw,29,"transfer(fritz, [audience, geheimer_rat, major, gustchen, der_alte_paetus, paetus], fosterparent_of(fritz, CHILD[GUSTCHEN]))",false
+247,258,"imer Rat.
+          Der Major,",sein Bruder,".
+          Die Majorin.
+     ",30,"transfer(""Figurentafel"", audience, siblings(geheimer_rat, major))",false
+146722,146729,? Hebt das Kind vom Boden auf.,Suschen,", mein liebes
+              Su",31,"transfer(marthe, audience, has_name(CHILD[PARENT], ""Suschen""))",false
+139528,139619,ist das auch honett gehandelt?,"Sind mir gestern zum Fenster hineingestiegen, in meiner
+              Tochter Schlafkammer.","PÄTUS.
+            Was denn, V",32,"transfer(rehaar, [fritz, paetus], lovers(paetus, jungfer_rehaar))",false
+92092,92098,"            Mein – Ich heiße –",Mandel,".
+          
+          
+      ",33,"transfer(laeuffer, [audience, wenzeslaus], has_name(laeuffer, ""Mandel""))",false
+26531,26571,"warum soll ich euch verhehlen,","daß ich euch
+              zugehört habe",. – Das war ein sehr einfältig,34,"transfer(geheimer_rat, [audience, fritz, gustchen], knowledge(geheimer_rat, lovers(fritz, gustchen))",false
+777,793,"ise.
+          Der alte Pätus.",Der alte Läuffer,", Stadtprediger.
+          Leo",35,"transfer(""Figurentafel"", audience, parent_of(pastor, laeuffer))",false
+204296,204323,"  
+            DER ALTE PÄTUS.",Was denn? Du auch verliebt?,Mit Freuden erlaub ich dir all,36,"transfer(paetus, [der_alte_paetus, geheimer_rat, major], in_love_with(paetus, LOVER[PAETUS]))",false
+162106,162300," nicht wird geschrieben haben,","so werden Sie auch wohl den Unglücksfall nicht wissen
+              mit dem Hofmeister, welcher aus Ihres gnädigen Onkels Hause ist gejagt worden, weil er
+              Ihre Kusine genotzüchtigt",", worüber sie sich so zu Gemüt",37,"transfer(""Brief"", fritz, paetus, lovers(laeuffer, gustchen))",false
+88051,88203,"         
+            MAJORIN.","Deine Dochter – Der Hofmeister. – Lauf!
+            Fällt in Ohnmacht.
+          
+          
+            MAJOR.
+            Hat er sie zur Hure gemacht?",Schüttelt sie. Was fällst du d,38,"transfer(majorin, [major, geheimer_rat], in_love_with(laeuffer, gustchen) suspicion)",false
+67339,67367,"        Aber um meinetwillen –","Ich dachte, du liebtest mich",".
+          
+          
+      ",39,"transfer(gustchen, audience, in_love_with(laeuffer, gustchen))",false
+66942,66953,"
+            Rate mir selber –",Dein Bruder,ist der ungezogenste Junge den,40,"transfer(laeuffer, audience, siblings(leopold, gustchen))",false
+22298,22339,"        
+            GUSTCHEN.",Fritzchen – – so mach ich's wie Juliette.,"FRITZ.
+            Was denn? –",41,"transfer(gustchen, [audience, gustchen], in_love_with(gustchen, fritz))",false
+66789,66801,"      Wenn du auch böse wirst,",Herrmannchen,"! Küßt sie. O Tod! Tod! warum
+",42,"transfer(gustchen, audience, has_name(laeuffer, ""Herrmannchen""))",false
+198749,198762,"Rat kömmt. Hier ist mein Kind,",mein Großsohn,. Wo ist Gustchen? Mein allerl,43,"transfer(major, [audience, geheimer_rat], grandchild(CHILD[PARENT], major))",false

@@ -1,0 +1,80 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+58907,58925,"   FÜRST
+          stellt vor.",Mein Sohn Philipp.,"Und das ist Fräulein ...
+     ",0,"transfer(fuerst, lolo, child_of(philipp, fuerst))",false
+11534,11565,"    
+        
+          FÜRST.",Was ist denn dran so merkwürdig,"?
+        
+        
+          ",1,Papierkorb,false
+70426,70476,"  Die G'schicht' ist halt die:",Ich hab' mich so wahnsinnig in den Wasner verliebt,". Sie
+            werden doch ",2,"transfer(lolo, [audience, komtesse], in_love_with(lolo, wasner)) ",false
+74950,74975,"  
+        
+          PHILIPP.",Und sie lieben dich beide,", selbstverständlich. Die Komt",3,"transfer(philipp, [audience, fuerst], in_love_with(komtesse, fuerst), suspicion)",false
+74950,74975,"  
+        
+          PHILIPP.",Und sie lieben dich beide,", selbstverständlich. Die Komt",4,"transfer(philipp, [audience, fuerst], in_love_with(lolo, fuerst), suspicion)",false
+36559,36656,e Schweres über mich gebracht.,"Damals, wie
+            ich ihn hab' hergeben müssen, acht Tage nachdem er zur Welt gekommen ist.","FÜRST.
+          Ja, damals bl",5,"transfer(komtesse, audience, parent_of(komtesse, CHILD[FUERST]))",false
+75877,75972,"bin, in die Stadt hineinfährt?","Wenn es
+            meine eigene Mutter wäre, die ich aus der Zeitung herausgeschnitten habe –?","FÜRST.
+          Bub', du wirs",6,"transfer(philipp, [audience, fuerst], parent_of(lolo, philipp), suspicion)",false
+15769,15810,"cheint, sie merkt's gar nicht.","Glaubst, sie hat was gewußt von der Lolo?","FÜRST
+          lacht.
+       ",7,"transfer(graf, audience, lovers(graf, lolo), uncertain)",false
+62266,62347,al seine Braunen selber fahrt.,"Fiakereigentümer ist mein Verlobter,
+            Hausbesitzer und Bürger von Wien",", der selber nur auf den Bock ",8,"transfer(lolo, [fuerst, philipp, komtesse, audience], identity, (FIANCEE[LOLO], wasner))",false
+229,242,"rpad Pazmandy
+          Mizzi,",seine Tochter,"Egon Fürst Ravenstein
+        ",9,"transfer(""Figurentafel"", audience, child_of(komtesse, graf))",false
+74674,74800,"  
+        
+          PHILIPP.","Dieses Fräulein Lolo ist die natürliche Tochter des Grafen, also eine Schwester der
+            Komtesse, ihre Milchschwester.","FÜRST.
+          Stiefschweste",10,"transfer(philipp, [audience, fuerst], child_of(lolo, graf), suspicion)",false
+62129,62921,"     
+        
+          LOLO.","Aber Gräfin – Kutscher! – Höchstens wie der Herr Papa – verzeihn schon – wenn er
+            zufällig einmal seine Braunen selber fahrt. Fiakereigentümer ist mein Verlobter,
+            Hausbesitzer und Bürger von Wien, der selber nur auf den Bock steigt, wenn's ihn halt
+            freut und wenn er für jemanden eine besondere Wertschätzung hat. Jetzt führt er einen
+            gewissen Baron Radeiner. Jetzt grad, Gräfin, hat er ihn zu Ihrem Herrn Papa
+            herausgeführt. Der geht mir übrigens ab, der Herr Radeiner.
+        
+        
+          PHILIPP.
+          Erlaube, mich vorzustellen: Baron Radeiner.
+        
+        
+          LOLO.
+          Sie, Durchlaucht?
+        
+        
+          PHILIPP.
+          Ich fahr' überhaupt, seit ich in Wien bin, nur mit dem Wasner.","LOLO.
+          Unter einem an",11,"transfer(lolo, [fuerst, philipp, komtesse, audience], identity, (FIANCEE[LOLO], wasner))",false
+72876,72918," nach Haus
+            fuhren,",ich nehm' meinen Sohn in meinem Wagen mit.,"WASNER.
+          Der Herr Soh",12,"transfer(fuerst, wasner, child_of(philipp, fuerst))",false
+17802,17825," malt. Das ist grad so wie bei",meiner gottseligen Tant,"', der
+            Fanny Hohen",13,"transfer(fuerst, [audience, graf], relatives(fuerst, ""Fanny Hohenstein""))",false
+87962,87980,st auch wirklich keinen Grund.,War's nicht schön?,"Reicht ihm die
+            Han",14,"transfer(komtesse, audience, couples(komtesse, professor_windhofer))",false
+8617,8630,"     
+        
+          GRAF.","Ja, die Lolo.","FÜRST.
+          Aber das ist ",15,"transfer(graf, [fuerst, audience], engaged(lolo, FIANCEE[LOLO]))",false
+21203,21212,"    
+        
+          FÜRST.",Mein Sohn,", lieber Arpard.
+        
+    ",16,"transfer( fuerst, [audience, graf], child_of(CHILD[FUERST], fuerst))",false
+47065,47072,"FÜRST.
+          Guten Morgen,",Philipp,". Erlauben Sie, Komtesse, daß ",17,"transfer(fuerst, [komtesse, audience], identity(CHILD[FUERST], philipp))",false
+61778,61822,"     
+        
+          LOLO.","Ja, ich trete in den heiligen Stand der Ehe.","PHILIPP.
+          Und wer ist",18,"transfer(lolo, [fuerst, philipp, komtesse, graf, audeince], identity, (FIANCEE[LOLO], wasner))",false

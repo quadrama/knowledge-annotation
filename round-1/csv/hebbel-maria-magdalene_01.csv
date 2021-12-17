@@ -1,0 +1,66 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+62310,62322,"      Diesmal doch nicht ganz,",liebe Mutter,"! Die Ärmel sind zu weit. Es m",0,"transfer(klara, audience, parent_of(mutter, klara))",false
+155237,155265,"        
+            SEKRETÄR.","Mädchen, du liebst ihn nicht",", du hast dein Wort zurück –
+ ",1,"transfer(sekretaer, klara, !in_love_with(klara, sekretaer))",false
+61408,61419,"  Meister Anton, ein Tischler.",Seine Frau.,"Klara, seine Tochter.
+        ",2,"transfer(""Figurentafel"", audience, spouses(meister_anton, mutter))",false
+61462,61478,"         Klara, seine Tochter.","Karl, sein Sohn.","Leonhard.
+          Ein Sekret",3,"transfer(""Figurentafel"", audience, child_of(karl, meister_anton))",false
+135748,135758,"         
+            WOLFRAM.",Meine Frau,"– Sag Sie mir aufrichtig, Jung",4,"transfer(wolfram, audience, spouses(wolfram, SPOUSES[WOLFRAM]))",false
+61430,61451,"ischler.
+          Seine Frau.","Klara, seine Tochter.","Karl, sein Sohn.
+          Leo",5,"transfer(""Figurentafel"", audience, child_of(klara, meister_anton))",false
+100832,100858,en Tisch gestellt hat. Und nun,Er mein Schwiegersohn wird,",
+              will ich Ihm a",6,"transfer(meister_anton, [audience, leonhard], engaged(klara, leonhard))",false
+150954,151067,"       KLARA
+            wild.","Lieben? Er oder der Tod! Wunderts wen, daß ich ihn wähle? Ich täts nicht, dächt ich
+              an mich allein!","SEKRETÄR.
+            Er oder ",7,"transfer(klara, sekretaer, !in_love_with(klara, leonhard))",false
+69925,69944,"
+          
+            KLARA.",Mag er weg bleiben!,"MUTTER.
+            Ich will n",8,"transfer(klara, [mutter, audience], !couple(leonhard, klara))",false
+150485,150513," Zum
+                Sekretär.","Nimms nicht übel, Friedrich!",– Warum werden mir die Beine a,9,"transfer(klara, audience, has_name(sekretaer, ""Friedrich""))",false
+149609,149960,"        
+            SEKRETÄR.","Du antwortest mir nicht. Freilich, das vergaß ich, du bist Braut! O Mädchen, warum
+              hast du mir das getan! Und doch – habe ich ein Recht, mich zu beklagen? Sie ist, wie
+              alles Liebe und Gute, alles Liebe und Gute hätte mich an sie erinnern sollen, dennoch
+              war sie jahrelang für mich, wie nicht mehr in der Welt.","Dafür hat sie – Wärs nur
+     ",10,"transfer(sekretaer, [klara, audience], in_love_with(sekretaer, klara))",false
+151290,151348,nd! Nenne das Wort nicht mehr!,"Dich! Dich lieb ich! Da! Da! Ich
+              rufs dir zu",", als ob ich schon jenseits de",11,"transfer(klara, [sekretaer, audience], in_love_with(klara, sekretaer))",false
+69808,69871,"  MUTTER
+            lächelnd.","Ja, ja! Ich sehe den Leonhard ja gar nicht mehr. Wie kommt das?","KLARA.
+            Mag er weg ",12,"transfer(mutter, audience, couple(leonhard, klara))",false
+116205,116225,zte Gesicht! Sahs hundert Mal.,"Gute Nacht, Therese!","Du
+              starbst, als ",13,"transfer(meister_anton, audience, has_name(mutter, ""Therese""))",false
+77120,77215,"es zu
+              verlieren?","Meinst du, ich sah die stillen Blicke nicht, die du mit dem Sekretär
+              wechseltest?",Das war ein schöner Freudentag,14,"transfer(leonhard, [audience, klara], in_love_with(klara, sekretaer), suspicion)",false
+65984,65990,"auf.
+            Guten Morgen,",Mutter,"! Nun, Klara, mögtest du mich ",15,"transfer(karl, audience, parent_of(mutter, karl))",false
+101119,101150,"allen zu
+              lassen,",wenn er mein Schwiegervater ist,"!
+          
+          
+      ",16,"transfer(leonhard, audience, parent_in_law_of(meister_anton, leonhard))",false
+81984,82047,"
+          
+            KLARA.","Nicht recht? Mein Tod wärs, wenn ich nicht bald dein Weib würde",", aber du kennst
+             ",17,"transfer(klara, [leonhard, audience], in_love_with(klara, leonhard))",false
+118398,118667,und ein Mutter- Mörder? Lacht.,"EINE MAGD
+            tritt ein mit einem Brief zu Klara.
+            Von Herrn Kassierer Leonhard!
+          
+          
+            MEISTER ANTON.
+            Du brauchst ihn nicht zu lesen! Er sagt sich von dir los! Schlägt in die
+                Hände. Bravo, Lump!","KLARA
+            hat gelesen.",18,"transfer(""Brief"", [klara, audience], !couple(leonhard, klara))",false
+81758,81794,"        
+            LEONHARD.",Bei deinem Vater um dich anzuhalten!,"KLARA.
+            Ach!
+      ",19,"transfer(leonhard, audience, in_love_with(leonhard, klara))",false

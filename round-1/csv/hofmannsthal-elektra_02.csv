@@ -1,0 +1,35 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+72694,72721,"  
+        
+          ELEKTRA.","Ja, ich diene hier im Haus.",Du aber hast hier nichts zu sc,0,"transfer(elektra, orest, identity(elektra, ""Magd""), lie)",false
+7847,7856,"     Allein! Weh, ganz allein.",Der Vater,"fort,
+            hinabgescheu",1,"transfer(elektra, audience, parent_of(PARENT[ELEKTRA], elektra))",false
+80976,81000,"     von seinem Ton getroffen.","Wer
+            bist du?",Der alte finstre Diener stürzt,2,"transfer(elektra, orest, identity(""Junger Diener"", orest), suspicion)",false
+76434,76561,"  
+        
+          ELEKTRA.","Verwandt? ich bin dies Blut! ich bin das hündisch
+            vergoßne Blut des Königs Agamemnon!
+            Elektra heiß ich.","OREST.
+          Nein!
+       ",3,"transfer(elektra, orest, identity(""Magd"", elektra))",false
+184,197," 
+          Dramatis Personae.",Klytämnestra.,"Elektra,
+            Chrysothe",4,"transfer(""Figurentafel"", audience, parent_of(klytaemnestra, elektra))",false
+76342,76351,"sein,
+            die starben,",Agamemnon,"und Orest.
+          
+        ",5,"transfer(orest, audience, has_name(PARENT[ELEKTRA], ""Agamemnon""))",false
+184,197," 
+          Dramatis Personae.",Klytämnestra.,"Elektra,
+            Chrysothe",6,"transfer(""Figurentafel"", audience, parent_of(klytaemnestra, chrysothemis))",false
+29979,30000,"h kränkt
+            zu sehen,","daß Ägisth, dein Mann",", die alten Mäntel
+           ",7,"transfer(elektra, audience, spouses(klytaemnestra, aegisth))",false
+10135,10150,"nd wir,
+            dein Blut,",dein Sohn Orest,"und deine Töchter,
+           ",8,"transfer(elektra, audience, child_of(orest, PARENT[ELEKTRA]))",false
+81567,81573,"ELEKTRA
+          schreit auf.",Orest!,"OREST
+          fieberhaft.
+  ",9,"transfer(elektra, orest, identity(""Junger Diener"", orest))",false

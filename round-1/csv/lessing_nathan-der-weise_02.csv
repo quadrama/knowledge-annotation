@@ -1,0 +1,70 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+231151,231197,st für sie getan soll haben: –,"Dies Mädchen selbst, ist seine Tochter – nicht",";
+              Ist ein verzet",0,"transfer(tempelherr, saladin, !parent_of(nathan, recha))",false
+286257,286387,"          
+            NATHAN.","Daß wir nun wissen, wem
+              Sie anverwandt; nun wissen, wessen Händen
+              Sie sicher ausgeliefert werden kann:","TEMPELHERR.
+            Das da",1,"transfer(nathan, tempelherr, knowledge(nathan, identity(recha, IDENTITY[RECHA]))",false
+252673,252687,"              Befunden, die in",meines Bruders,"Hause,
+              Zu dem ic",2,"transfer(nathan, audience, siblings(SIBLING[NATHAN], nathan))",false
+29969,29977,"          
+            NATHAN.",Al-Hafi?,"das Al-Hafi?
+          
+      ",3,"transfer(nathan, audience, has_name(derwisch, ""Al-Hafi""))",false
+196651,196681," 
+          
+            DAJA.","Nicht
+              Ihr Vater!","TEMPELHERR.
+            
+     ",4,"transfer(daja, tempelherr, !parent_of(nathan, recha))",false
+252603,252636,"t, daß unter diesen meine Frau",Mit sieben hoffnungsvollen Söhnen,"sich
+              Befunden, d",5,"transfer(nathan, audience, children_of(CHILDREN[NATHAN], nathan))",false
+314847,314869,"          
+            NATHAN.",Heißt Leu von Filneck.,"TEMPELHERR.
+            Wie?
+ ",6,"transfer(nathan, tempelherr, has_name(tempelherr, ""Leu von Filneck""))",false
+302658,302683,stlichem Geblüte; sei getauft;,Sei Nathans Tochter nicht,"; er nicht mein Vater! –
+     ",7,"transfer(recha, sittah, transfer(daja, recha, !child_of(recha, nathan)))",false
+312920,312931,"          
+            NATHAN.",Ihr Bruder!,"SALADIN.
+            Rechas Br",8,"transfer(nathan, [saladin, sittah, tempelherr, recha], siblings(SIBLING[RECHA], recha))",false
+20402,20429,"herrn
+              Begnadigt,",weil er seiner Brüder einem,",
+              Den er besonde",9,"transfer(daja, audience, siblings(SIBLING[SALADIN], saladin))",false
+380,405,"nen.
+          Sultan Saladin.","Sittah, dessen Schwester.","Nathan, ein reicher Jude in Je",10,"transfer(""Figurentafel"", audience, siblings(sittah, saladin))",false
+252578,252588,"  Wohl nicht, daß unter diesen",meine Frau,Mit sieben hoffnungsvollen Söh,11,"transfer(nathan, audience, spouses(SPOUSE[NATHAN], nathan))",false
+197644,197648," 
+          
+            DAJA.",Nie!,"TEMPELHERR.
+            
+     ",12,"transfer(daja, [audience, tempelherr], !knowledge(recha, !parent_of(nathan, recha)))",false
+281344,281436,"leiben. – Hört mich, Nathan! –","In dieser Gärung schlich mir Daja nach,
+              Und warf mir ihr Geheimnis an den Kopf",",
+              Das mir den Au",13,"transfer(tempelherr, nathan, transfer(daja, tempelherr, !parent_of(nathan, recha)))",false
+287170,287208,"          
+            NATHAN.",Besonders hat ein Bruder sich gefunden,",
+              Bei dem Ihr um",14,"transfer(nathan, [audience, tempelherr], siblings(SIBLING[RECHA], recha))",false
+317562,317571,"          
+            NATHAN.",Seid Ihr!,"TEMPELHERR.
+            Ich? i",15,"transfer(nathan, [audience, tempelherr], siblings(tempelherr, recha))",false
+322249,322293,"     es begierig aufschlagend.",Ah! seine Hand! Auch die erkenn' ich wieder!,"NATHAN.
+            
+         ",16,"transfer(""Handschrift in Buch"", saladin, parent_of(""Assad"", tempelherr))",false
+118176,118249,"          
+            NATHAN.","Von Stauffen? – Des Geschlechts
+              Sind wohl schon mehrere ...","TEMPELHERR.
+            
+     ",17,"transfer(tempelherr, nathan, relatives(tempelherr, ""Nathan bekannter von Stauffen""), suspicion)",false
+117839,117877,"      
+            TEMPELHERR.",Mein Name war – ist Curd von Stauffen.,"– Curd!
+          
+          
+",18,"transfer(tempelherr, nathan, has_name(tempelherr, ""Curd von Stauffen""))",false
+319307,319340,"          
+            NATHAN.","Blanda
+              Von Filneck!","TEMPELHERR.
+            
+     ",19,"transfer(nathan, [audience, saladin, sittah, tempelherr, recha], has_name(recha, ""Blanda von Filneck""))",false
+465,499,ein reicher Jude in Jerusalem.,"Recha, dessen angenommene Tochter.","Daja, eine Christin, aber in d",20,"transfer(""Figurentafel"", audience, fosterchild_of(recha, nathan))",false

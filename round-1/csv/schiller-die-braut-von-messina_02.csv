@@ -1,0 +1,107 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+23472,23482,"Isabella, Fürstin von Messina.",Don Manuel,",
+              Don Cesar,
+   ",0,"transfer(""Figurentafel"", audience, child_of(don_manuel, isabella))",false
+25065,25165,"          Er selber ist dahin,","doch lebt sein Geist
+              In einem tapfern Heldenpaare fort
+              Glorreicher Söhne",", dieses Landes Stolz.
+       ",1,"transfer(isabella, audience, parent_of(PARENT[DON_MANUEL], don_manuel))",false
+77945,77965,"           Nicht will ich, daß",Don Manuels Verlobte,"Als eine Heimatlose, Flüchtige",2,"transfer(don_manuel, [audience, erster_chor], engaged(don_manuel, ""Nonne""))",false
+89955,90071,blendend ein Zauber der Hölle?,"Dem Manne folgt ich,
+              Dem kühnen Entführer in sträflicher Flucht.
+              O komm, mein Geliebter!",Wo bleibst du und säumest? Bef,3,"transfer(""Beatrice-1"", audience, in_love_with(""Beatrice-1"", LOVER[""BEATRICE-1""]))",false
+65708,65852,menlosen hat sie sich gegeben.,"Nicht ahnet sie, daß es Don Manuel,
+              Messinas Fürst ist, der die goldne Binde
+              Ihr um die schöne Stirne flechten wird.","Wie süß ists, das Geliebte zu ",4,"transfer(don_manuel, [audience, erster_chor], !knowledge(LOVER[DON_MANUEL], identity(LOVER[LOVER[DON_MANUEL]], don_manuel)))",false
+74047,74088," Diener naht von Zeit zu Zeit,",Der einzge Bote zwischen Kind und Mutter.,"CHOR.
+            
+           ",5,"transfer(don_manuel, [audience, erster_chor], parent_of(PARENT[""NONNE""], ""Nonne""))",false
+193524,193544,"       
+            DON CESAR.",Sie meine Schwester!,"ISABELLA.
+            Welche a",6,"transfer(isabella, don_cesar, identity(""Beatrice-1"", ""Beatrice-2""))",false
+70204,71323," wundernd das erschrockne Tier","Zu einer Nonne Füßen zitternd liegen,
+              Die es mit zarten Händen schmeichelnd kost.
+              Bewegungslos starr ich das Wunder an,
+              Den Jagdspieß in der Hand, zum Wurf ausholend –
+              Sie aber blickt mit großen Augen flehend
+              Mich an, so stehn wir schweigend gegeneinander –
+              Wie lange Frist, das kann ich nicht ermessen,
+              Denn alles Maß der Zeiten war vergessen.
+              Tief in die Seele drückt sie mir den Blick,
+              Und umgewandelt schnell ist mir das Herz.
+              – Was ich nun sprach, was die Holdselge mir
+              Erwidert, möge niemand mich befragen,
+              Denn wie ein Traumbild liegt es hinter mir
+              Aus früher Kindheit dämmerhellen Tagen,
+              An meiner Brust fühlt ich die ihre schlagen,
+              Als die Besinnungskraft mir wiederkam.
+              Da hört ich einer Glocke helles Läuten,
+              Den Ruf zur Hora schien es zu bedeuten,
+              Und schnell wie Geister in die Luft verwehen,
+              Entschwand sie mir und ward nicht mehr gesehen.","CHOR.
+            
+           ",7,"transfer(don_manuel, [audience, erster_chor] identity(LOVER[L-1], ""Nonne""))",false
+123466,123482," an.
+              Wo ist sie?",Wo ist Beatrice?,"Will hinaus.
+          
+      ",8,"transfer(isabella, [audience, don_manuel, don_cesar], has_name(CHILD[ISABELLA], ""Beatrice""))",false
+23498,23507,"    
+              Don Manuel,",Don Cesar,",
+              ihre Söhne.
+  ",9,"transfer(""Figurentafel"", audience, child_of(don_cesar, isabella))",false
+99264,99303,ie ists von diesem Augenblick!,Die Ehre meiner Braut und eurer Fürstin,",
+              Belehret sie v",10,"transfer(don_cesar, [audience, zweiter_chor], engaged(don_cesar, ""Beatrice-1""))",false
+95710,95925,"reift ihre
+              Hand.","Wo warst du? Welches Gottes Macht entrückte,
+              Verbarg dich diese lange Zeit? Dich hab ich
+              Gesucht, nach dir geforschet, wachend, träumend
+              Warst du des Herzens einziges Gefühl",",
+              Seit ich bei j",11,"transfer(don_cesar, [audience, ""Beatrice-1""], in_love_with(don_cesar, ""Beatrice-1""))",false
+113699,113789," der Liebe neu Gefühl gelehrt.","Eh dieses Tages Sonne sinkt, führt auch
+              Don Cesar seine Gattin dir entgegen.","DON MANUEL.
+            
+     ",12,"transfer(don_cesar, [isabella, don_manuel], engaged(don_cesar, FIANCÉE[DON_MANUEL]))",false
+178064,178104,"        
+            ISABELLA.","Ich, deine Mutter, bin Messinas Fürstin.","BEATRICE.
+            Du bist ",13,"transfer(isabella, beatrice, siblings(beatrice, don_manuel))",false
+146273,146299,"      
+            DON MANUEL.",Don Cesar ist mein Bruder.,"BEATRICE.
+            Ist dein",14,"transfer(don_manuel, beatrice, siblings(don_manuel, don_cesar))",false
+95710,95926,"reift ihre
+              Hand.","Wo warst du? Welches Gottes Macht entrückte,
+              Verbarg dich diese lange Zeit? Dich hab ich
+              Gesucht, nach dir geforschet, wachend, träumend
+              Warst du des Herzens einziges Gefühl,",Seit ich bei jenem Leichenfest,15,"transfer(TYP-AUS-KIRCHE, [audience, ""Beatrice-1""], in_love_with(TYP-AUS-KIRCHE, ""Beatrice-1""))",false
+70213,70218,"ne Tier
+              Zu einer",Nonne,"Füßen zitternd liegen,
+       ",16,"transfer(don_manuel, [audience, erster_chor], identity(LOVER[L-2], ""Gott""))",false
+112697,112815,", Mutter! Segne deinen Sohn! –","Dies Herz,
+              Es hat gewählt, gefunden hab ich sie,
+              Die mir durchs Leben soll Gefährtin sein.","Eh dieses Tages Sonne sinkt, f",17,"transfer(don_manuel, [isabella, don_cesar], engaged(don_manuel, FIANCÉE[DON_MANUEL]))",false
+90863,90968,"en beigesellt,
+              –","Da stand er plötzlich an des Klosters Pforte,
+              Schön wie ein Gott und männlich wie ein Held.","O mein Empfinden nennen keine ",18,"transfer(""Beatrice-1"", audience, identity(LOVER[DON_MANUEL], ""Beatrice-1""), suspicion)",false
+194717,194787,"hren Armen überrascht ich ihn,","Sie ist es, die ich liebe, die zur Braut
+              Ich mir gewählt","– den Bruder aber fand ich
+   ",19,"transfer(don_cesar, isabella, identity(beatrice, FINACÉE[DON_CESAR]))",false
+194717,194787,"hren Armen überrascht ich ihn,","Sie ist es, die ich liebe, die zur Braut
+              Ich mir gewählt","– den Bruder aber fand ich
+   ",20,"transfer(don_cesar, isabella, in_love_with(don_cesar, beatrice))",false
+105695,105754,"nen Geheimnis.
+              –","Auch eine Tochter hab ich eurem Vater
+              Geboren","– eine jüngre Schwester lebt
+ ",21,"transfer(isabella, [audience, don_manuel, don_cesar], siblings(don_manuel, CHILD[ISABELLA]))",false
+88105,88113,m anstoßenden Gartensaal tritt,BEATRICE,"geht unruhig auf und nieder, n",22,"transfer(""Nebentext, audience, has_name(""Nonne"", ""Beatrice-1""))",false
+65374,65577," sehe diese Hallen, diese Säle","Und denke mir das freudige Erschrecken
+              Der überraschten, hocherstaunten Braut,
+              Wenn ich als Fürstin sie und Herrscherin
+              Durch dieses Hauses Pforten führen werde.",– Noch liebt sie nur den Liebe,23,"transfer(don_manuel, [audience, erster_chor], in_love_with(don_manuel, LOVER[DON_MANUEL]))",false
+95021,95084,"         
+            BEATRICE","mit Schrecken zurückfliehend.
+            Weh mir! Was seh ich!","In demselben Augenblick tritt ",24,"transfer(""Beatrice-1"", [audience, don_cesar, zweiter_chor], !in_love_with(""Beatrice-1"", don_cesar))",false
+25065,25165,"          Er selber ist dahin,","doch lebt sein Geist
+              In einem tapfern Heldenpaare fort
+              Glorreicher Söhne",", dieses Landes Stolz.
+       ",25,"transfer(isabella, audience, parent_of(PARENT[DON_MANUEL], don_cesar))",false
+123611,123620,"          für sich, betroffen.",Beatrice!,"DIEGO
+            hält sie zur",26,"transfer(don_manuel, audience, identity(""Beatrice-2"", ""Beatrice-1"")suspicion) ",false

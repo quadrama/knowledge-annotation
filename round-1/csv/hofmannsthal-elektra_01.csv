@@ -1,0 +1,82 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+7847,7856,"     Allein! Weh, ganz allein.",Der Vater,"fort,
+            hinabgescheu",0,"transfer(elektra, audience, parent_of(PARENT[ELEKTRA], elektra))",false
+29979,30000,"h kränkt
+            zu sehen,","daß Ägisth, dein Mann",", die alten Mäntel
+           ",1,"transfer(elektra, audience, spouses(klytaemnestra, aegisth))",false
+76263,76351,"n nicht anders, als zu denken:","du
+            muß ein verwandtes Blut zu denen sein,
+            die starben, Agamemnon","und Orest.
+          
+        ",2,"transfer(orest, audience, has_name(PARENT[ELEKTRA], ""Agamemnon""))",false
+60355,60374,"h
+            hingehen und das",Weib und ihren Mann,"erschlagen.
+          
+       ",3,"transfer(elektra, audience, spouses(klytaemnestra, aegisth))",false
+10135,10150,"nd wir,
+            dein Blut,",dein Sohn Orest,"und deine Töchter,
+           ",4,"transfer(elektra, audience, child_of(orest, PARENT_OF[ELEKTRA]))",false
+76434,76561,"  
+        
+          ELEKTRA.","Verwandt? ich bin dies Blut! ich bin das hündisch
+            vergoßne Blut des Königs Agamemnon!
+            Elektra heiß ich.","OREST.
+          Nein!
+       ",5,"transfer(elektra, orest, identity(""Magd"", elektra))",false
+221,276,"sonae.
+          Klytämnestra.","Elektra,
+            Chrysothemis,
+            Töchter.","Ägisth.
+          Orest.
+     ",6,"transfer(""Figurentafel"", audience, child_of(chrysothemis, klytaemnestra))",false
+72574,72721,"            hier aus dem Haus?","bist eine von den Mägden
+            des Hauses?
+          
+        
+        
+          ELEKTRA.
+          
+            Ja, ich diene hier im Haus.",Du aber hast hier nichts zu sc,7,"transfer(elektra, orest, identity(elektra, ""Magd""), lie)",false
+80700,81573,acht in diesem Haus verbringt.,"OREST.
+          
+            Bei meines Vaters Leichnam! dazu kam
+            das Kind ins Haus, damit noch diese Nacht
+            die sterben, welche sterben sollen –
+          
+        
+        
+          ELEKTRA
+          von seinem Ton getroffen.
+          
+            Wer
+            bist du?
+          
+          Der alte finstre Diener stürzt aus dem Hof lautlos herein, wirft sich vor Orest
+            nieder, küßt seine Füße, rafft sich auf, angstvoll um sich schauend, und stürzt lautlos
+            wieder ab.
+        
+        
+          ELEKTRA
+          kaum ihrer mächtig.
+          Wer bist du denn? Ich fürchte mich.
+        
+        
+          OREST
+          sanft.
+          
+            Die Hunde auf dem Hof erkennen mich,
+            und meine Schwester nicht?
+          
+        
+        
+          ELEKTRA
+          schreit auf.
+          Orest!","OREST
+          fieberhaft.
+  ",8,"transfer(orest, elektra, identity(""Fremder"", orest))",false
+221,276,"sonae.
+          Klytämnestra.","Elektra,
+            Chrysothemis,
+            Töchter.","Ägisth.
+          Orest.
+     ",9,"transfer(elektra, audience, spouses(klytaemnestra, aegisth))",false

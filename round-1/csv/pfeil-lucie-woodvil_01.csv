@@ -1,0 +1,163 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+155217,155275,nen zu erhalten gesuchet habe.,"Ich bin diesen Augenblick mit
+              ihr vermählet.",List und Liebe haben alle Ihre,0,"transfer(karl, [audience, robert, willhelm], spouses(lucie, karl))",false
+45928,45952,"          Nebenbuhlerin darum?","Ich weiß, Karl liebt sie",", nur die Hoffnung zu mir mach",1,"transfer(amalie, audience, in_love_with(karl, lucie))",false
+209460,209526,"
+          
+            LUCIE.",Ihre Schwester! Ha! Lucie selbst weiß ihre Laster noch nicht alle.,"Fürchterliche
+              Du",2,"transfer(lucie, audience, siblings(lucie, karl), suspicion)",false
+92015,92249,"ht
+              gleichgültig.","Aber ich schwöre Ihnen, ich empfand von dem Augenblicke an, da ich Ihre
+              und meine Pflichten kennenlernete, nichts als Freundschaft. Ich biete Ihnen heute
+              diese Freundschaft noch einmal an. Wollen Sie diese?","KARL.
+            Sagen Sie me",3,"transfer(amalie, [audience, karl], !in_love_with(amalie, karl))",false
+6640,6651,"onst
+              lieben, als",meinen Sohn,"?
+          
+          
+      ",4,"transfer(willhelm, audience, parent_of(willhelm, karl))",false
+215400,215466,ls Ihren Gemahl lieben können.,"Sie sind des
+              Sir Willhelms leibliche Tochter, Lucie.","Lucie und Amalie, beide in der",5,"transfer(robert, [karl, lucie, amalie, betty, audience], identity(PARENT-1, wilhelm))",false
+107337,107366," 
+          
+            KARL.","Ewig der Ihrige, meine Lucie.","Sie gehen ab.
+          
+     ",6,"transfer(karl, [betty, amalie, lucie], in_love_with(karl, lucie))",false
+104086,104149," 
+          
+            KARL.","Für Lucien, die ich anbete, die ich mehr als meine Seele liebe.","LUCIE.
+            Sie mich li",7,"transfer(karl, [audience, lucie], in_love_with(karl, lucie))",false
+208059,208745,"
+          
+            LUCIE.","Ruchloser! Sie wissen meine Laster, meine Schande, und Sie verdoppeln noch die
+              Ihrigen durch Ihre Zärtlichkeiten? Was zögern Sie? Tun Sie die einzige gute Tat, die
+              Sie in Ihrem Leben können getan haben.  Stoßen Sie den Dolch in diese
+              Brust, die Sie durch Ihre verfluchte Liebe zu einer Wohnung der schwärzesten Laster
+              und der Qual dieser Laster gemachet haben. Hören Sie die Stimme Ihres Vaters, diese
+              Stimme, die Rache wider mich verlanget, wenn Sie meine Bitte nicht hören wollen. Nur
+              unter dieser einzigen Bedingung verzeihe ich Ihnen die Grausamkeiten, die Sie an mir
+              ausgeübet haben.","KARL.
+            Ein einziger",8,"transfer(lucie, karl, child_of(lucie, willhelm), suspicion)",false
+120001,120034,"tig sein
+              können?",Mein Herz verdienet Amalien nicht,. Lassen Sie es der armen Luci,9,"transfer(karl, [willhelm, robert], !in_love_with(karl, amalie))",false
+74937,74980,"             Lucie Sie liebet,","er weiß, daß Sie Lucien nicht wieder lieben",", daß Ihr ganzes Herz
+        ",10,"transfer(robert, karl, knowledge(willhelm, !in_love_with(karl, lucie)))",false
+78654,78680,rzeiht deiner Unverschämtheit.,"Wisse, Amalie liebet mich.","Nur noch eine kleine Zeit, so ",11,"transfer(karl, jakob, in_love_with(amalie, karl))",false
+74982,75033,"ie Lucien nicht wieder lieben,","daß Ihr ganzes Herz
+              meiner Amalie ist",. Ihre ganze Aufführung verdie,12,"transfer(robert, karl, knowledge(willhelm, in_love_with(karl, amalie)))",false
+211610,211655,"für dich, wenn es Bosheit ist?","Aber
+              wie, wenn es Wahrheit wäre","? Unsinnige Furcht! sie kann, ",13,"transfer(karl, audience, siblings(karl, lucie), suspicion)",false
+21870,21908,k aus dem Munde seines Vaters.,Er hat eine Gemahlin für ihn bestimmt.,"Gott!
+              was wird L",14,"transfer(lucie, betty, engaged(karl, FIANCEE[KARL]))",false
+46543,46595,".
+          
+            KARL.","Was sagst du, Jakob? daß ich Lucien verlieren würde?","JAKOB.
+            Daß Sie sol",15,"transfer(karl, jakob, !couple(karl, lucie))",false
+13636,13663," erweisen zu dürfen? Ich weiß,",Sie sind mein andrer Vater.,"Aber vergeben Sie, die Natur
+ ",16,"transfer(lucie, [wilhelm, audience], fosterparent_of(wilhelm, lucie))",false
+2465,2493,"     Wie? der Name derjenigen,",die alle deine Liebe besitzt,"? die dir ebensoviel Liebe
+   ",17,"transfer(robert, audience, in_love_with(willhelm, lucie))",false
+74885,74935," Vater falsch. Hören Sie mich.","Ihr Vater weiß, daß
+              Lucie Sie liebet",", er weiß, daß Sie Lucien nich",18,"transfer(robert, karl, knowledge(willhelm, in_love_with(lucie, karl)))",false
+98465,98541," allein noch für Lucien übrig.","Amalie liebt Karln. Sie hat ihm bereits ihre Hand
+              versprochen.","Ich habe es diesen Augenblick ",19,"transfer(lucie, [audience, betty], transfer(robert, lucie, in_love_with(amalie, karl)))",false
+69929,69946," freue dich mit mir, Willhelm,",Amalie liebet ihn,".
+          
+          
+      ",20,"transfer(robert, willhelm, in_love_with(amalie, karl))",false
+96913,96942,"eufzet, fühle ich Elende noch,",daß ich ihn ewig lieben werde,", und
+              weil ich i",21,"transfer(lucie, amalie, in_love_with(lucie, karl), already-known)",false
+78708,78788,"ch. Nur noch eine kleine Zeit,","so wird sie auf ihren Gemahl,
+              auf ihren Karl Southwell stolz sein.","Sagete ich nicht, daß ich Sieg",22,"transfer(karl, jakob, engaged(amalie, karl))",false
+169648,169730,"
+          
+            BETTY.","Der alte Southwell? in Sie verliebet? Wirklich, Fräulein, ich würde lachen müssen,",wenn unsere Umstände weniger g,23,"transfer(lucie, betty, !in_love_with(willhelm, lucie))",false
+189960,190030,ter an meine Brust zu drücken?,"Umarme deinen Vater, meine einzige, meine
+              wahre Tochter!","– Ach, der Schmerz dringt nähe",24,"transfer(willhelm, [audience, lucie], identity(PARENT-1, willhelm), suspicion)",false
+35238,35365,"
+          
+            LUCIE.","Geh! Bösewicht, und die Rache des Himmels und meine Flüche werden dich auf jedem
+              deiner Wege zu begleiten wissen!","BETTY.
+            Wahrhaftig,",25,"transfer(lucie, [karl, betty, audience], !in_love_with(lucie, karl))",false
+65971,66003,e hat ältere Rechte auf Karln.,"Sie liebete ihn, eh ich ihn sah.","Sie liebet ihn so stark, als i",26,"transfer(amalie, robert, in_love_with(lucie, karl))",false
+65243,65333,"er
+              Freundschaft,","der Gerechtigkeit selbst bringen darf. Karls Herz kann nimmermehr mein
+              sein.","ROBERT.
+            Was für Du",27,"transfer(amalie, [audience, robert], !in_love_with(karl, amalie))",false
+168547,169594,und von Seufzern unterbrochen.,"Er umarmte mich, seine
+              Küsse waren voll von einem gewissen Feuer, sein Herz klopfete, und jedes seiner
+              Glieder zitterte. Er sprach mit einer Art von Enthusiasterei von seiner Liebe gegen
+              mich. Er versprach mir einen würdigern Liebhaber als Karln. Deine Ankunft unterbrach
+              ihn. Wie soll meine Seele alle diese Rätsel auflösen? Sollte Torheit und Laster über
+              sein Alter triumphieret haben. Sollte seine Liebe gegen mich mit seines Sohnes Liebe
+              aus einerlei Quelle fließen? Sollte mich seine Hartnäckigkeit seinem Sohne bloß
+              deswegen versagen, weil sie mich zu einem Opfer für sich selbst bestimmet hat? Aber
+              würde er nicht sodann ein Bösewicht sein? Und seine Tugend – Doch was Tugend? Ist sie
+              mehr als ein leerer Name, auch dann, wenn sie in ihrem größten Glanze schimmert?
+              Bewies es nicht Lucie bei allem ihrem Stolze selbst, und sollte der elende Southwell
+              weniger fähig sein, es zu beweisen?","BETTY.
+            Der alte So",28,"transfer(lucie, betty, in_love_with(willhelm, lucie))",false
+114991,115019," lieben sollte? Gütigster Sir!","Ich
+              liebe sie.",Sollte ich sie nicht bloß desw,29,"transfer(karl, [willhelm, robert], in_love_with(karl, lucie))",false
+384,398,"n der Lucie.
+          Robert,",Amaliens Vater,"und Freund des Sir Willhelms.
+",30,"transfer(""Figurentafel"", audience, father_of(robert, amalie))",false
+38076,38179,"l ist
+              undankbar.","Er verläßt mich und ist bereit, eine neue Gemahlin von der Hand seines
+              Vaters anzunehmen.","AMALIE.
+            Vielleicht",31,"transfer(lucie, amalie, engaged(karl, FIANCEE[KARL]))",false
+72065,72107,Einwilligung. Hoffe noch mehr.,Amalie ist nicht unempfindlich gegen dich.,"KARL
+            vor sich.
+   ",32,"transfer(willhelm, karl, in_love_with(amalie, karl))",false
+15019,15046,"iel, zu viel Gütigkeit! Hätten",diese unbarmherzigen Eltern,"doch nur den
+              ger",33,"transfer(lucie, audience, child_of([PARENT-1, PARENT-2], lucie))",false
+69833,69893,nd die Seele der Lucie heilen.,"Dein Sohn ist für meine
+              Amalie allein zärtlich",", und freue dich mit mir, Will",34,"transfer(robert, willhelm, in_love_with(karl, amalie))",false
+106496,106623,ir nicht immer noch ein Traum?,"Habe ich nicht
+              aus dem Munde des Sir Roberts selbst die Neigung seiner Tochter gegen Karln
+              gehöret?","KARL.
+            Ach! Lucie, ",35,"transfer(lucie, [amalie, karl, betty], transfer(robert, lucie, in_love_with(amalie, karl)))",false
+11280,11435,"              dafür zu danken.","Sie haben mich bei der Frau Norris in allem demjenigen, was das Leben
+              eines Frauenzimmers nützlich und angenehm machen kann, erziehen lassen.","Ich empfinde,
+              se",36,"transfer(lucie, audience, fosterparent_of(""Frau Norris"", lucie))",false
+7713,7788,ch schon bin. Ich will ihr die,unter uns verabredete Verbindung meines Sohnes mit deiner Amalie entdecken.,"Die Miene,
+              mit d",37,"transfer(willhelm, audience, engaged(karl, amalie))",false
+217208,217221,"rb,
+              eine gewisse",Jungfer Wills,"kennen. Sie liebeten sich, und",38,"transfer(robert, [karl, lucie, amalie, betty, audience], identity(Parent-2, ""Jungfer Wils"")) ",false
+56920,56938,an. Klagen Sie sich selbst an.,Ich liebete Lucien,". Ich sah Amalien. Konnte
+    ",39,"transfer(karl, amalie, in_love_with(karl, lucie))",false
+209460,209526,"
+          
+            LUCIE.",Ihre Schwester! Ha! Lucie selbst weiß ihre Laster noch nicht alle.,"Fürchterliche
+              Du",40,"transfer(lucie, audience, identity(PARENT-1[LUCIE], willhelm), suspicion)",false
+44902,44916,"h wider deinen Willen, Amalie?",Er liebet mich,". Seine
+              Seufzer,",41,"transfer(amalie, audience, in_love_with(karl, amalie))",false
+6593,6652,"nd der Lucie, wenn sie liebet.","Wen könnte sie sonst
+              lieben, als meinen Sohn?","ROBERT.
+            Deinen Soh",42,"transfer(karl, [robert, audience], in_love_with(lucie, karl))",false
+37927,37978,"t ein Betrüger, ein Bösewicht!","Ich hasse ihn, ich hasse mich
+              selbst!","Meine Kräfte reichen nicht zu,",43,"transfer(lucie, amalie, !in_love_with(lucie, karl))",false
+39061,39089,"        Unglückliche Freundin!",du siehst sie hier vor dich.,"Zu Lucien.
+              Verge",44,"transfer(amalie, lucie, identity(FIANCEE[KARL], amalie))",false
+98812,98861,"
+          
+            BETTY.","Es ist zu spät, Fräulein, Amalie hat ihn gelesen.","LUCIE.
+            Meine Neben",45,"transfer(betty, lucie, knowledge(amalie, in-love-with(lucie, karl)))",false
+274,301,"ell.
+          Karl Southwell,",Liebhaber der Lucie Woodvil,".
+          Lucie Woodvil.
+   ",46,"transfer(""Figurentafel"", audience, lovers(karl, lucie))",false
+66726,66772,"          
+            AMALIE.",Ist er ungerührt gegen den Wert ihres Herzens.,Aber er wird es nicht länger s,47,"transfer(amalie, robert, !in_love_with(karl, lucie))",false
+17511,17604," Vater zu empfinden fähig ist.","Ich hoffe,
+              meinen Sohn bald durch eine tugendhafte Gemahlin glücklich zu sehen.","– Was fehlt
+              Ihne",48,"transfer(willhelm, [lucie, audience], engaged(karl, FIANCEE[KARL]))",false
+222,246,"   Willhelm Southwell, Ritter,",Vater von Karl Southwell,".
+          Karl Southwell, Li",49,"transfer(""Figurentafel"", audience, father_of(willhelm, karl))",false
+79500,79608,iner Unruhe voll Verzweiflung.,"Bald hätte mein Vater durch meine
+              Unvorsichtigkeit meine ganze Liebe mit Lucien erfahren. Aber","es ging alles gut,
+           ",50,"transfer(karl, jakob, !knowledge(willhelm, in_love_with(karl, lucie)))",false
+190757,190813,te Geschwätz  ganz außer sich.,"Wäre der alte
+              Narr weniger verliebt in sie",", er hätte durch ihren Unsinn ",51,"transfer(betty, audience, in_love_with(willhelm, lucie), suspicion)",false
+190751,190813,törichte Geschwätz  ganz außer,"sich. Wäre der alte
+              Narr weniger verliebt in sie",", er hätte durch ihren Unsinn ",52,Papierkorb,false

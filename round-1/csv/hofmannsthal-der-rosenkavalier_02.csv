@@ -1,0 +1,154 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup,Baron Ochs,f4da222d-ef7e-4cfd-b0fd-4adbb71651fd,ce2595ba-18c8-4583-bdf7-c1aa367a6e9d,Baron Ochs,a15d060e-bc0c-4de9-910d-9275e5c75e58,8afc90ce-8062-4305-b9cd-8d1817ac3f0c,Baron Ochs,Fürstin Werdenberg,Octavian,Fürstin Werdenberg,Octavian
+189686,189831,"   
+        
+          SOPHIE.","Ist ein Traum, kann nicht wirklich sein,
+            daß wir zwei beieinander sein,
+            beieinand für alle Zeit
+            und Ewigkeit!","Sie sinkt an ihn hin, er küßt ",0,"transfer(sophie, audience, lovers(sophie, octavian))",false,false,false,false,false,false,false,false,false,false,false,false
+75685,75753," Ich weiß alle Ihre Taufnamen:","Octavian Maria Ehrenreich Bonaventura Fernand
+              Hyazinth",".
+          
+        
+        ",1,"transfer(sophie, octavian, has_name(octavian, Octavian Maria Ehrenreich Bonaventura Fernand Hyazinth)",false,false,false,false,false,false,false,false,false,false,false,false
+173326,173428," 
+        
+          DER BARON","nachdem er sich Octavians Gesicht scharf in der Nähe betrachtet, mit Resignation
+            vor sich.",Is schon aso! Hab gnug von dem,2,"transfer(octavian, der_baron, identity(kammerzofe, octavian))",false,false,false,false,false,false,false,false,false,false,false,false
+108486,108624,"  ANNINA
+          auf sie zu.","Der junge Kavalier
+            und die Fräuln Braut, verstehts?
+            waren im geheimen
+            schon recht vertraut, verstehts?",Valzacchi und der Almosenier z,3,"transfer(annina, die_lerchenauischen, in_love_with(octavian, sophie))",false,false,false,false,false,false,false,false,false,false,false,false
+7831,7876," 
+        
+          OCTAVIAN.",Heute nacht hat dir von deinem Mann geträumt?,"MARSCHALLIN.
+          
+      ",4,"transfer(octavian, audience, spouses(feldmarschall, marschallin))",false,false,false,false,false,false,false,false,false,false,false,false
+170295,170550,nicht so viel zu schaffen hab.,"Und mein Herr Vater laßt Ihm sagen: wenn Er allsoweit
+            die Frechheit sollte treiben, daß man Seine Nasen nur
+            erblicken tät auf hundert Schritt von unserm Stadtpalais,
+            so hätt Er sich die bösen Folgen selber zuzuschreiben",",
+            das ist, was mei",5,"transfer(sophie, der_baron, transfer(faninal, sophie, !engaged(der_baron, sophie)))",false,false,false,false,false,false,false,false,false,false,false,false
+6884,6893," 
+        
+          OCTAVIAN.",Bichette!,"MARSCHALLIN.
+          Quin-qu",6,"transfer(octavian, audience, has_name(marschallin, Bichette))",false,false,false,false,false,false,false,false,false,false,false,false
+6761,6774,. Er blickt zu ihr auf. Leise.,Marie Theres!,"MARSCHALLIN.
+          Octavia",7,"transfer(octavian, audience, has_name(marschallin, Marie Theres))",false,false,false,false,false,false,false,false,false,false,false,false
+116505,116556,"it einer
+            Reverenz.",Heirat den Herrn dort nicht lebendig und nicht tot!,Sperr mich zuvor in meine Kamm,8,"transfer(sophie, faninal, !in_love_with(sophie, der_baron))",false,false,false,false,false,false,false,false,false,false,false,false
+12166,12216," der Ochs.
+            Das ist","mein Vetter, der Lerchenau, der Ochs auf Lerchenau",".
+            Was will denn de",9,"transfer(marschallin, audience, cousins(der_baron, marschallin))",false,false,false,false,false,false,false,false,false,false,false,false
+124225,124413," Den Sonntagabend hätt i frei.","Sie ham mir schon gefallen, nur geschamt
+            hab i mi vor die Fürstli'n Gnadn
+            weil i noch gar so jung bin. Das bewußte Mariandel,
+            Kammerzofel und Verliebte.",Wenn der Herr Kavalier den Nam,10,"transfer(""Brief"", kammerzofe, in_love_with(kammerzofe, der_baron))",false,false,false,false,false,false,false,false,false,false,false,false
+183494,183732,"zugleich mit Sophie, vor sich.","Hab mirs gelobt, ihn liebzuhaben in der richtigen Weis,
+            daß ich selbst seine Lieb zu einer andern
+            noch liebhab ...
+            Hab mirs freilich nicht gedacht,
+            daß es so bald mir aufgelegt sollt werden.","Sie geht hinüber zu Sophie.
+  ",11,"transfer(marschallin, sophie, in_love_with(marschallin, octavian))",false,false,false,false,false,false,false,false,false,false,false,false
+153872,153928,"        Werd nicht manquieren.","Ist die Jungfer Faninal
+            Sophia, Anna Barbara",", eheliche Tochter
+           ",12,"transfer(der_baron, kommissarius, identity(sophie, kammerzofe), lie))",false,false,false,false,false,false,false,false,false,false,false,false
+6945,6955,"       
+          MARSCHALLIN.",Quin-quin!,"OCTAVIAN.
+          Mein Schat",13,"transfer(marschallin, audience, has_name(octavian, Quin-quin))",false,false,false,false,false,false,false,false,false,false,false,false
+159874,159897," nach den
+            Kindern.","Gar nix, ein Schwindel!","Kenn nit das Bagagi!
+         ",14,"transfer(der_baron, faninal, !parent_of(der_baron, die_drei_waisen))",false,false,false,false,false,false,false,false,false,false,false,false
+157350,157383,"      
+            Soso, lala!","Ja, ja, wird schon derselbe sein.","War heut den ganzen Abend gar ",15,"transfer(der_baron, kommissarius, parent_in_law(faninal, der_baron))",false,false,false,false,false,false,false,false,false,false,false,false
+373,386,"eugeadelter.
+          Sophie,",seine Tochter,".
+          Jungfer Marianne L",16,"transfer(""Figurentafel"". audience, child_of(sophie, faninal))",false,false,false,false,false,false,false,false,false,false,false,false
+180778,180805," 
+        
+          OCTAVIAN.",Ich hab Sie übermäßig lieb.,"SOPHIE.
+          
+           ",17,"transfer(octavian, sophie, in_love_with(octavian, sophie))",false,false,false,false,false,false,false,false,false,false,false,false
+50729,50746,"
+        
+          VALZACCHI.",Onkel und Nickte.,"Su sweien maken alles besser.
+",18,"transfer(valzacchi, [audience, der_baron], uncle_of(valzacchi, annina))",false,false,false,false,false,false,false,false,false,false,false,false
+93607,93625,"nen Schritt auf ihn zu, leise.",Nicht um die Welt!,Mit einem Blick auf die Duenna,19,"transfer(sophhie, octavian, !in_love_with(sophie, der_baron))",false,false,false,false,false,false,false,false,false,false,false,false
+96753,96799," 
+        
+          OCTAVIAN.","– wird bei Ihr bleiben, wo Sie geht und steht!","SOPHIE.
+          Bleib Er bei",20,"transfer(octavian, [audience, sophie, valzacchi, annina] in_love_with(octavian, sophie))",false,false,false,false,false,false,false,false,false,false,false,false
+96687,96704,"   
+        
+          SOPHIE.",Bleib Er bei mir!,"OCTAVIAN.
+          – wird bei",21,"transfer(sophie, [audience, octavian, valzacchi, annina] in_love_with(sophie, octavian))",false,false,false,false,false,false,false,false,false,false,false,false
+135759,135806,"m der Partnerin ganz nahe ist,",durchzuckt ihn jäh die Ähnlichkeit mit Octavian,". Er
+            fährt zurück ",22,"transfer(octavian, der_baron, identity(kammerzofe, octavian) suspicion))",false,false,false,false,false,false,false,false,false,false,false,false
+140165,140283,d er nähert sich ihr zärtlich.,"Da meint er wieder das Gesicht Octavians ganz
+            nahe dem seinigen zu erkennen, und er fährt abermals zurück.","Mariandl rührt sich kaum.
+    ",22,"transfer(octavian, der_baron, identity(kammerzofe, octavian) suspicion))",false,false,false,false,false,false,false,false,false,false,false,false
+111775,111907,eifrig zu Faninal links vorne.,"Der junge Kavalier
+            und die Fräuln Braut, Gnaden,
+            waren im geheimen
+            schon recht vertraut, Gnaden!","Wir voller Eifer
+             ",23,"transfer(annina, faninal, in_love_with(octavian, sophie))",false,false,false,false,false,false,false,false,false,false,false,false
+153872,153928,"        Werd nicht manquieren.","Ist die Jungfer Faninal
+            Sophia, Anna Barbara",", eheliche Tochter
+           ",24,"transfer(der_baron, audience, has_name(sophie, Sophie Anna Barbara Faninal))",false,false,false,false,false,false,false,false,false,false,false,false
+239,266," Der Baron Ochs auf Lerchenau.","Octavian, genannt Quin-quin",", ein junger Herr aus großem H",25,"transfer(""Figurentafel"", audience, has_name(octavian, ""Quin-quin""))",false,false,false,false,false,false,false,false,false,false,false,false
+36981,37050,"
+        
+          DER BARON.","Octavian –
+        
+        
+          MARSCHALLIN.
+          Rofrano",", des Herrn Marchese zweiter B",26,"transfer(marschallin, audience, has_name(octavian, Octavian Rofrano))",false,false,false,false,false,false,false,false,false,false,false,false
+100838,100864,"   Die Fräulein, kurz und gut,",die Fräulein mag Ihn nicht,".
+          
+        
+        ",27,"transfer(octavian, der_baron, !in_love_with(sophie, der_baron))",false,false,false,false,false,false,false,false,false,false,false,false
+153167,153197,"missar, wenn eine Standsperson",mit seiner ihm verlobten Braut,"um neune
+            abends ei",28,"transfer(der_baron, komissarius, engaged(der_baron, kammerzofe), lie)",false,false,false,false,false,false,false,false,false,false,false,false
+176264,176317,"      sehr betreten, für sich.","Was drum und dran hängt, ist mit dieser Stund vorbei.","DER BARON
+          für sich, ",29,"transfer(sophie, der_baron, !engaged(sophie, der_baron))",false,false,false,false,false,false,false,false,false,false,false,false
+153930,153994,"         Sophia, Anna Barbara,","eheliche Tochter
+            des wohlgeborenen Herrn von Faninal",",
+            wohnhaft am Hof ",30,"transfer(der_baron, komissarius, child_of(sophie, faninal))",false,false,false,false,false,false,false,false,false,false,false,false
+19141,19162,"
+        
+          DER BARON.",Das Fräulein Faninal.,"Ich hab Euer Gnaden den Namen ",31,"transfer(der_baron, marschallin, identity(FIANCÉE[DER BARON], sophie))",false,false,false,false,false,false,false,false,false,false,false,false
+159874,159897," nach den
+            Kindern.","Gar nix, ein Schwindel!","Kenn nit das Bagagi!
+         ",32,"transfer(der_baron, faninal, !spouses(dame_in_trauer, der_baron))",false,false,false,false,false,false,false,false,false,false,false,false
+18323,18344,"en vielleicht verwundert sein,",daß ich als Bräutigam,"Sieht sich um.
+          indes",33,"transfer(der_baron, [audience, marschallin, octavian], engaged(der_baron, BRIDE[DER_BARON]))",false,false,false,false,false,false,false,false,false,false,false,false
+39816,39858,"n Platz links
+            ein.",Die adelige Mutter mit ihren drei Töchtern,", alle in Trauer, stellen sich",34,"transfer(""Nebentext"", audience, parent_of(PARENT[DREI_ADELIGE_WAISEN], drei_adelige_waisen))",false,false,false,false,false,false,false,false,false,false,false,false
+75127,75137,"IAN.
+          Sie kennt mich,",ma cousine,"?
+        
+        
+          ",35,"transfer(octavian, audience, cousin_of(octavian, sophie), suspicion)",false,false,false,false,false,false,false,false,false,false,false,false
+103529,103550," respektiert,
+             und",wär Er nicht verwandt,", es wär mir jetzo schwer,
+   ",36,"transfer(der_baron, audience, relatives(der_baron, octavian))",false,false,false,false,false,false,false,false,false,false,false,false
+126562,126608,ischen. Das Zimmer halbdunkel.,"Annina steht da, als Dame in Trauer gekleidet.",Valzacchi richtet Annina den S,37,"transfer(""Annina verkleidet sich"", [valzacchi, audience], identity(dame in trauer, annina))",false,false,false,false,false,false,false,false,false,false,false,false
+157921,157979,"   
+            Meine Tochter?","Da der Fetzen
+            gibt sich für meine Tochter aus?","DER BARON
+          gezwungen ",38,"transfer(faninal, kommissarius, !child_of(kammerzofe, faninal))",false,false,false,false,false,false,false,false,false,false,false,false
+176057,176172,"t, wenn eine Sach ein End hat?","Die ganze Brautschaft und Affär' und alles sonst,
+            was drum und dran hängt, ist mit dieser Stund vorbei.","SOPHIE
+          sehr betreten",39,"transfer(marschallin, der_baron, !engaged(der_baron, sophie))",false,false,false,false,false,false,false,false,false,false,false,false
+144822,144839,"INDER
+          durchdringend.",Papa! Papa! Papa!,"ANNINA.
+          Hörst du die",40,"transfer(die_kinder, [audience, der_baron, octavian, wirt], child_of(die_kinder, der_baron), lie)",false,false,false,false,false,false,false,false,false,false,false,false
+37052,37085,"ARSCHALLIN.
+          Rofrano,",des Herrn Marchese zweiter Bruder,".
+        
+        
+          ",41,"transfer(marschallin, der_baron, brother_of(octavian, BROTHER[OCTAVIAN]))",false,false,false,false,false,false,false,false,false,false,false,false
+13238,13375,"  
+        
+          OCTAVIAN","in einem Frauenrock und Jäckchen, das Haar mit einem Schnupftuch und einem Bande,
+            wie in einem Häubchen, tritt hervor, knixt.","Befehln fürstli' Gnadn, i bin ",42,"transfer(""Octavian verkleidet sich"", [marschallin, audience], identity(kammerzofe, octavian))",false,false,false,false,false,false,false,false,false,false,false,false

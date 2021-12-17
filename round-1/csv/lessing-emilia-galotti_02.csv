@@ -1,0 +1,101 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+37039,37086,"ardo Galotti, und die Vorigen.","ODOARDO.
+            Guten Morgen, meine Liebe!","– Nicht wahr, das heißt überra",0,"transfer(odoardo, audience, identity(SPOUSE[CLAUDIA], odoardo))",false
+54558,54570,"          
+            EMILIA.",Den Prinzen.,"CLAUDIA.
+            Den Prinz",1,"transfer(emilia, claudia, identity(LOVER[EMILIA], der_prinz))",false
+157,256,"     
+      
+        Personen.","Emilia Galotti.
+        
+          Odoardo,
+          Claudia Galotti,
+          Eltern der Emilia.","Hettore Gonzaga, Prinz von Gua",2,"transfer(""Figurentafel"", audience, child_of(emilia, odoardo))",false
+50226,50318,"rs Feind: folglich – folglich,","wenn er ein Auge für die Tochter hat, so
+              ist es einzig, um ihn zu beschimpfen?","–
+            
+          
+    ",3,"transfer(claudia, audience, !in_love_with(der_prinz, emilia), suspicion)",false
+46326,46422,ngen Tugend so verhaßt sind. –,"Hier, nur
+              hier konnte die Liebe zusammen bringen, was für einander geschaffen war.","Hier nur
+              konnte ",4,"transfer(claudia, audience, in_love_with(appiani, emilia))",false
+3017,3091,"    wieder wegwirft. – Nun ja;","ich habe sie zu lieben geglaubt! Was glaubt man
+              nicht alles?","Kann sein, ich habe sie auch w",5,"transfer(der_prinz, audience, !in_love_with(der_prinz, orsina))",false
+16847,17269," wahr, daß ich dich besitze? –","Wer
+              dich auch besäße, schönres Meisterstück der Natur! – Was Sie dafür wollen, ehrliche
+              Mutter! Was du willst, alter Murrkopf! Fodre nur! Fodert nur ! – Am liebsten kauft'
+              ich dich, Zauberin, von dir selbst! – Dieses Auge voll Liebreiz und Bescheidenheit!
+              Dieser Mund! und wenn er sich zum Reden öffnet! wenn er lächelt! Dieser Mund! – Ich
+              höre kommen.",– Noch bin ich mit dir zu neid,6,"transfer(der_prinz, audience, in_love_with(der_prinz, emilia))",false
+79511,79522,"ott den Grafen bewegen konnte,",seine Liebe,"der Ehre nachzusetzen:
+       ",7,"transfer(marinelli, der_prinz, in_love_with(appiani, emilia))",false
+48814,48882,"         
+            CLAUDIA.",Hat von ihrer Schönheit mit so vielen Lobeserhebungen gesprochen – –,"ODOARDO.
+            Lobeserhe",8,"transfer(claudia, odoardo, transfer(""Verhalten des Prinzen"", claudia, in_love_with(der_prinz, emilia)))",false
+18974,19024,"   Allerdings, sehr Unrecht! –",Meine nahe Vermählung mit der Prinzessin von Massa,", will
+              durchaus,",9,"transfer(der_prinz, audience, engaged(der_prinz, ""Prinzessin von Massa""))",false
+148087,148172,"          
+            ORSINA.",Mit einer Vertraulichkeit! mit einer Inbrunst! – Sie hatten nichts Kleines abzureden.,"Und recht gut, wenn es abgered",10,"transfer(orsina, odoardo, in_love_with(der_prinz, emilia))",false
+36695,36707,"         
+            CLAUDIA.",Mein Gemahl?,"Ist es möglich?
+          
+   ",11,"transfer(claudia, audience, spouses(SPOUSE[CLAUDIA], claudia))",false
+168776,168827,"       
+            MARINELLI.",Daß ein Nebenbuhler ihn aus dem Wege räumen lassen.,"ODOARDO
+            bitter.
+  ",12,"transfer(marinelli, odoardo, in_love_with(LOVER[EMILIA], emilia))",false
+68140,68213,n ihn woll' es nicht anders. –,"Und ich bin schwach genug gewesen,
+              es ihnen zu versprechen.",Eben wollt' ich noch bei ihm v,13,"""Papierkorb""",false
+20624,20656,"ine Beziehung über die andere,",die ihr gefoltertes Herz verriet,". Mit
+              dem lustig",14,"transfer(marinelli, der_prinz, in_love_with(orsina, der_prinz))",false
+140466,140568,"      Vergeben Sie, mein Herr,","einem Vater, der in der  äußersten Bestürzung
+              ist, – daß er so unangemeldet hereintritt.","ORSINA.
+            Vater? Keh",15,"transfer(odoardo, orsina, father_of(odoardo, emilia))",false
+125992,126040,"r, bis zum Tone der Schwermut.","Freilich liebt er mich
+              nicht mehr.",Das ist ausgemacht. Und an die,16,"transfer(orsina, marinelli, !in_love_with(der_prinz, orsina), already-known)",false
+134700,134722,"       
+            MARINELLI.",Es ist Emilia Galotti.,"ORSINA.
+            Wer? – Emi",17,"transfer(marinelli, orsina, identity(FIANCÉE[APPIANI], emilia))",false
+46326,46422,ngen Tugend so verhaßt sind. –,"Hier, nur
+              hier konnte die Liebe zusammen bringen, was für einander geschaffen war.","Hier nur
+              konnte ",18,"transfer(claudia, audience, in_love_with(emilia, appiani))",false
+133839,133850,er nach dem Schlosse gerettet:,seine Braut,"nämlich, und die Mutter der
+  ",19,"transfer(marinelli, orsina, engaged(appiani, FINACÉE[APPIANI]))",false
+41977,42089,ll er: ein bloßer Spazierritt.,"Seine Tochter wird, heut' Abend, auf dem
+              Gute, von dem er herkömmt, dem Grafen Appiani angetrauet.","Er kann die Zeit nicht
+       ",20,"transfer(pirro, angelo, engaged(appiani, emilia))",false
+192,256,"sonen.
+        Emilia Galotti.","Odoardo,
+          Claudia Galotti,
+          Eltern der Emilia.","Hettore Gonzaga, Prinz von Gua",21,"transfer(""Figurentafel"", audience, parent_of(odoardo, emilia))",false
+23822,23857,"       
+            MARINELLI.",Es ist eine gewisse Emilia Galotti.,"DER PRINZ.
+            Wie, Ma",22,"transfer(marinelli, der_prinz, identity(FIANCÉE[APPIANI], emilia))",false
+73386,73422,eine Kleinigkeit! – Sehen Sie;,ich soll noch heut' eine Frau nehmen,".
+          
+          
+      ",23,"transfer(appiani, marinelli, engaged(appiani, FINACÉE[APPIANI]), already-known)",false
+157,256,"     
+      
+        Personen.","Emilia Galotti.
+        
+          Odoardo,
+          Claudia Galotti,
+          Eltern der Emilia.","Hettore Gonzaga, Prinz von Gua",24,"transfer(""Figurentafel"", audience, child_of(emilia, claudia))",false
+74987,75006,"         
+            APPIANI.",Mit Emilia Galotti.,"MARINELLI.
+            Der Toc",25,"transfer(appiani, marinelli, identity(FIANCÉE[APPIANI], emilia), already-known)",false
+21515,21592,"     So gut, wie gar nichts. –","Denn daß die Verbindung des Grafen Appiani heute vollzogen
+              wird",", – ist nicht viel mehr, als g",26,"transfer(marinelli, der_prinz, engaged(appiani, FIANCÉE[APPIANI]))",false
+211,256,"i.
+        
+          Odoardo,","Claudia Galotti,
+          Eltern der Emilia.","Hettore Gonzaga, Prinz von Gua",27,"transfer(""Figurentafel"", audience, parent_of(claudia, emilia))",false
+70082,70160,"leich an den Herzog von Massa,","in Angelegenheit seiner
+              Vermählung mit dessen Prinzessin Tochter",", einen Bevollmächtigten sende",28,"transfer(marinelli, appiani, engaged(der_prinz, prinzessin_von_massa))",false
+105110,105129,"       
+            MARINELLI.",Marchese Marinelli.,"CLAUDIA.
+            So ist es",29,"transfer(marinelli, claudia, has_name(marinelli, Marchese Marinelli))",false
+26722,26742,"    Verräter! – was mir ist? –",Nun ja ich liebe sie,; ich bete sie an. Mögt ihr es,30,"transfer(der_prinz, marinelli, in_love_with(der_prinz, emilia))",false
+53415,53449,"ndert hätten, mehr zu hören! –","Es sprach von Schönheit, von Liebe","– Es
+              klagte, daß",31,"transfer(emilia, claudia, in_love_with(LOVER[EMILIA], emilia))",false

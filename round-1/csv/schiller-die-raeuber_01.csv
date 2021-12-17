@@ -1,0 +1,66 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+277599,277628,"   springt erschrocken zurück.",Das ist meines Vaters Stimme!,"DER ALTE MOOR.
+            Hab",0,"transfer(karl_von_moor, audience, identity(STIMME-AUS-SCHLOSS, der_alte_moor))",false
+209998,210068,"Trauring von  meiner Hand, und","übermorgen sollte ich meine Amalia vor den
+              Altar führen.","Moor steht schnell auf.
+      ",1,"transfer(kosinsky, [karl_von_moor, schweizer], engaged(kosinsky, ""Amalia""))",false
+277559,277628,"  
+          
+            MOOR","springt erschrocken zurück.
+            Das ist meines Vaters Stimme!","DER ALTE MOOR.
+            Hab",2,"transfer(""Stimme"", karl_von_moor, identity(STIMME-AUS-SCHLOSS, der_alte_moor))",false
+10020,10025,"an, regierender Graf von Moor.","Karl,","Franz,
+          seine Söhne.
+",3,"transfer(""Figurentafel"", audience, child_of(karl_von_moor, der_alte_moor))",false
+331531,331573,Retter sind Räuber und Mörder!,"Dein Karl ist ihr
+              Hauptmann!",Der alte Moor gibt seinen Geis,4,"transfer(karl_von_moor, der_alte_moor, identity(FREMDER-RETTER, karl_von_moor))",false
+228865,228980," 
+          
+            FRANZ","blaß.
+            Hat er, hat er wirklich? Wie, so laß mich doch hören! Er sagte, er sei mein
+              Bruder?","DANIEL
+            betroffen.
+",5,"transfer(franz_von_moor, [daniel, audience], identity(""Graf von Brand"", karl_von_moor), suspicion)",false
+183456,183492,"ßt, was du unserm Hause warst,",du wardst gehalten wie Moors Tochter,",
+              selbst den Tod",6,"transfer(franz_von_moor, audience, fosterparent_of(der_alte_moor, amalia))",false
+333849,333863,".
+            Sie vergibt mir,",sie liebt mich,"! Rein bin ich wie der Äther d",7,"transfer(karl_von_moor, die_raeuber, in_love_with(amalia, karl_von_moor))",false
+238733,238842,"          
+            DANIEL.","Ich muß! Er greift sie, betrachtet sie schnell und fällt vor ihm
+                nieder. Lieber, bester Karl!","MOOR
+            erschrickt, f",8,"transfer(daniel, audience, knowledge(daniel, identity(""Graf von Brand"", karl_von_moor)))",false
+84005,84031,"          
+            AMALIA.","O nein, das taten sie nie!","FRANZ.
+            Ach, sie st",9,"transfer(amalia, [audience, franz_von_moor], !in_love_with(amalia, franz_von_moor))",false
+238936,238982," erschrickt, faßt sich, fremd.","Freund, was sagst du? Ich verstehe dich nicht.","DANIEL.
+            Ja, leugne",10,"transfer(karl_von_moor, [daniel, audience], !identity(""Graf von Brand"", karl_von_moor))",false
+180916,180927,"gezogenem
+              Degen.",Dritter Akt,"Erste Szene
+          
+       ",11,Papierkorb,false
+243302,243385,"        fällt ihm um den Hals.","Ja! Daniel, ich wills nicht mehr verhehlen! Ich bin dein Karl, dein verlorner Karl!","Was macht meine Amalia?
+      ",12,"transfer(karl_von_moor, [daniel, audience], identity(""Graf von Brand"", karl_von_moor))",false
+10036,10041,"Moor.
+        
+          Karl,",Franz,",
+          seine Söhne.
+     ",13,"transfer(""Figurentafel"", audience, child_of(franz_von_moor, der_alte_moor))",false
+252682,252698,"e, das Ihnen so gleich kommt –",das ich so liebe,"–
+            Moor sieht zur E",14,"transfer(amalia, ""Graf von Brand"", in_love_with(amalia, karl_von_moor))",false
+221584,221615," 
+          
+            MOOR.","Sie liebt mich, Sie liebt mich!",– ihr ganzes Wesen fing an sic,15,"transfer(karl_von_moor, audience, in_love_with(amalia, karl_von_moor))",false
+76451,76490,"
+          
+            FRANZ.","Ich liebe dich wie mich selbst, Amalia!","AMALIA.
+            Wenn du mi",16,"transfer(franz_von_moor, [audience, amalia], in_love_with(franz_von_moor, amalia))",false
+215011,215082,"        
+            KOSINSKY.","Ihr seid der Graf von Brand, kommt aus Mecklenburg, ich Euer Reutknecht","– sorgt
+              nicht, i",17,"transfer(kosinsky, audience, identity(karl_von_moor, ""Graf von Brand""))",false
+284734,284758,"t – oh seht doch, seht doch! –",es ist mein eigner Vater,", ich
+              wills nur ",18,"transfer(karl_von_moor, [schweizer, die_raeuber], parent_of(der_alte_moor, karl_von_moor))",false
+51469,51527,"            väterlichen Haine,",in den Armen meiner Amalia lockt mich ein edler Vergnügen.,"Schon
+              die vorige",19,"transfer(karl_von_moor, [spiegelberg, audience], in_love_with(karl_von_moor, amalia))",false
+77736,77749," Welt
+              gestehen –",ich lieb ihn!,"FRANZ.
+            Unmenschlic",20,"transfer(amalia, [franz_von_moor, audience], in_love_with(amalia, karl_von_moor))",false

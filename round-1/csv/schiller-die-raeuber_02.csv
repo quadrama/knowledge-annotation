@@ -1,0 +1,109 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+55381,55395,"h
+              bedaure dich –",Franz von Moor,"«.
+          
+          
+     ",0,"transfer(""Brief von Franz"", [spiegelberg, schweizer, grimm, roller, schufterle, razmann, schwarz], identity(SIBLING[KARL_VON_MOOR], franz_von_moor))",false
+331531,331573,Retter sind Räuber und Mörder!,"Dein Karl ist ihr
+              Hauptmann!",Der alte Moor gibt seinen Geis,1,"transfer(karl_von_moor, der_alte_moor, identity(FREMDER-RETTER, karl_von_moor))",false
+333849,333863,".
+            Sie vergibt mir,",sie liebt mich,"! Rein bin ich wie der Äther d",2,"transfer(karl_von_moor, die_raeuber, in_love_with(amalia, karl_von_moor))",false
+10330,10366," Libertiner, nachher Banditen.","Hermann, Bastard von einem Edelmann.","Daniel, Hausknecht des Grafen ",3,"transfer(""Figurentafel"", audience, child_of(hermann, PARENT[HERMANN]))",false
+100886,100905,"ird sein: Vivat der neue Herr,",Franziskus von Moor,"!
+          
+          
+      ",4,"transfer(hermann, audience, has_name(franz_von_moor, ""Franziskus von Moor""))",false
+221584,221615," 
+          
+            MOOR.","Sie liebt mich, Sie liebt mich!",– ihr ganzes Wesen fing an sic,5,"transfer(karl_von_moor, audience, in_love_with(amalia, karl_von_moor))",false
+277599,277628,"   springt erschrocken zurück.",Das ist meines Vaters Stimme!,"DER ALTE MOOR.
+            Hab",6,"transfer(karl_von_moor, audience, identity(STIMME-AUS-TURM, der_alte_moor))",false
+284734,284758,"t – oh seht doch, seht doch! –",es ist mein eigner Vater,", ich
+              wills nur ",7,"transfer(karl_von_moor, [die_raeuber, schweizer], parent_of(der_alte_moor, karl_von_moor))",false
+209093,209200," Die Gegend war paradiesisch –","denn sie
+              enthielt einen Engel – ein Mädchen, geschmückt mit allen Reizen der blühenden Jugend",",
+              und keusch wie",8,"transfer(kosinsky, [audience, karl_von_moor, schweizer, spiegelberg], in_love_with(kosinsky, LOVER[KOSINSKY]))",false
+252682,252698,"e, das Ihnen so gleich kommt –",das ich so liebe,"–
+            Moor sieht zur E",9,"transfer(amalia, ""Graf von Brand"", in_love_with(amalia, karl_von_moor))",false
+76865,77091,"irst,
+                Stolz. –","Hasse mich! Ich müßte feuerrot werden vor Scham, wenn ich an
+              Karln denke und mir eben einfiel', daß du mich nicht hassest. Du versprichst mirs
+              doch? – Itzt geh, und laß mich, ich bin so gern allein!","FRANZ.
+            Allerliebst",10,"transfer(amalia, [audience, franz_von_moor], !in_love_with(amalia, franz_von_moor))",false
+220224,220240,"nd
+                ergreifend.",Lieber Herr Graf,", es reift keine Seligkeit unt",11,"transfer(karl_von_moor, amalia, identity(karl_von_moor, ""Graf von Brand""))",false
+51469,51526,"            väterlichen Haine,",in den Armen meiner Amalia lockt mich ein edler Vergnügen,". Schon
+              die vori",12,"transfer(karl_von_moor, [audience, spiegelberg], in_love_with(karl_von_moor, amalia))",false
+204064,204073,"        
+            KOSINSKY.",Kosinsky.,"MOOR.
+            Wie Kosinsky",13,"transfer(kosinsky, [karl_von_moor, schweizer, spiegelberg], identity(FREMDER_MANN, ""Kosinsky""))",false
+210081,210104,"en
+              Altar führen.",Moor steht schnell auf.,"KOSINSKY.
+            Mitten i",14,"transfer(karl_von_moor, audience, identity(""Amalia"", amalia), suspicion)",false
+210020,210032,"and, und übermorgen sollte ich",meine Amalia,"vor den
+              Altar fü",15,"transfer(kosinsky, [audience, karl_von_moor, schweizer, spiegelberg], has_name(LOVER[KOSINSKY], ""Amalia""))",false
+183273,183283,über ich dich vernehmen wollte,Maximilian,"– ist schlafen
+              g",16,"transfer(franz_von_moor, audience, has_name(der_alte_moor, ""Maximillian von Moor""))",false
+51770,51776,"      Laß uns Abschied nehmen,",Moritz,". Wir sehen uns heut, und nie ",17,"transfer(karl_von_moor, audience, has_name(spiegelberg, ""Moritz""))",false
+95111,95376,", wovon ich dir sagen wollte –","hast du das Fräulein von Edelreich
+              schon vergessen, Hermann?
+          
+          
+            HERMANN.
+            Wetter Element! was erinnert Ihr mich an das?
+          
+          
+            FRANZ.
+            Mein Bruder hat sie dir weggefischt.","HERMANN.
+            Er soll d",18,"transfer(franz_von_moor, [audience, hermann], has_name(amalia, ""Fräulein von Edelreich""))",false
+76451,76490,"
+          
+            FRANZ.","Ich liebe dich wie mich selbst, Amalia!","AMALIA.
+            Wenn du mi",19,"transfer(franz_von_moor, [audience, amalia], in_love_with(franz_von_moor, amalia))",false
+10036,10041,"Moor.
+        
+          Karl,",Franz,",
+          seine Söhne.
+     ",20,"transfer(""Figurentafel"", audience, child_of(franz_von_moor, der_alte_moor))",false
+77736,77748," Welt
+              gestehen –",ich lieb ihn,"!
+          
+          
+      ",21,"transfer(amalia, [audience, franz_von_moor], in_love_with(amalia, karl_von_moor))",false
+116695,117032,",
+              siehst du nun?","Er schriebs mit erstarrender Hand, schriebs mit dem warmen Blut seines
+              Herzens, schriebs an der Ewigkeit feierlichem Rande! sein fliehender Geist verzog,
+              Franz und Amalia noch zusammenzuknüpfen.
+          
+          
+            AMALIA.
+            Heiliger Gott! es ist seine Hand. – Er hat mich nie geliebt!","Schnell
+                ab.
+  ",22,"transfer(amalia, [audience, franz_von_moor, der_alte_moor], transfer(""Blut auf Schwert"", amalia, !in_love_with(karl_von_moor, amalia)))",false
+329028,329157,"        mit fliegenden Haaren.","Die Toten, schreien sie, seien erstanden auf seine Stimme – mein Oheim lebendig – in
+              diesem Wald – wo ist er? Karl!",Oheim! – Ha! Stürzt auf den Al,23,"transfer(amalia, [audience, karl_von_moor, die_raeuber, grimm, schwarz], identity(""Graf von Brand"", karl_von_moor))",false
+238822,238842,"or ihm
+                nieder.","Lieber, bester Karl!","MOOR
+            erschrickt, f",24,"transfer(daniel, [audience, karl_von_moor], knowledge(daniel, identity(""Graf von Brand"", karl_von_moor)))",false
+223590,223602,agst du mir diese Ahndung ein?,Es ist Karl!,"Ja, itzt
+              werden ",25,"transfer(franz_von_moor, audience, identity(""Graf von Brand"", karl_von_moor))",false
+10020,10024,"an, regierender Graf von Moor.",Karl,",
+          Franz,
+          s",26,"transfer(""Figurentafel"", audience, child_of(karl_von_moor, der_alte_moor))",false
+53274,53294," 
+          
+            MOOR.",Meines Bruders Hand!,"SCHWARZ.
+            Was treib",27,"transfer(karl_von_moor, [spiegelberg, schweizer, grimm, roller, schufterle, razmann, schwarz], siblings(karl_von_moor, SIBLING[KARL_VON_MOOR]))",false
+183456,183492,"ßt, was du unserm Hause warst,",du wardst gehalten wie Moors Tochter,",
+              selbst den Tod",28,"transfer(franz_von_moor, audience, fosterparent_of(der_alte_moor, amalia))",false
+277599,277628,"   springt erschrocken zurück.",Das ist meines Vaters Stimme!,"DER ALTE MOOR.
+            Hab",29,"transfer(""Stimme"", karl_von_moor, identity(STIMME-AUS-TURM, der_alte_moor))",false
+109899,109932," aber Euch kenne ich sehr gut,",Ihr seid der Vater Karls von Moor,".
+          
+          
+      ",30,"transfer(hermann, [amalia, der_alte_moor], knowledge(hermann, parent_of(der_alte_moor, karl_von_moor)))",false
+215011,215146,"        
+            KOSINSKY.","Ihr seid der Graf von Brand, kommt aus Mecklenburg, ich Euer Reutknecht – sorgt
+              nicht, ich will meine Rolle schon spielen",", lebt wohl! Ab.
+          
+  ",31,"transfer(kosinsky, audience, identity(karl_von_moor, ""Graf von Brand""))",false

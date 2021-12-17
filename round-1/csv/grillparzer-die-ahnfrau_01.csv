@@ -1,0 +1,88 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+13140,13213,"Und mein Vater, für das alles,","Was er erst für mich getan,
+            Konnt ich wen'ger als ihn lieben?","GRAF.
+          Und ihr saht e",0,"transfer(bertha, [der_graf, audience], in_love_with(bertha, jaromir))",false
+139528,139541," 
+        
+          BOLESLAV.","Derselbe, ja!","GRAF.
+          
+            T",1,"transfer(boleslav, [der_graf,guenther, hauptmann, soldat, bertha, audience], identity(CHILD[DER_GRAF], jaromir))",false
+159481,159549," Stolz sieh auf den Boden hin,","Du trittst deiner Väter erbe,
+            Bist ein Graf von Borotin!","JAROMIR
+          zusammenfahr",2,"transfer(boleslav, jaromir, child_of(jaromir, der_graf))",false
+97216,97229,"    
+        
+          BERTHA",es erkennend.,"Ha!
+          Sie läßt ihr Sch",3,"transfer(""Schärpe"",[bertha, audience], identity(""Räuber"", jaromir), suspicion)",false
+101398,101421,"ins den Mörder: Bruder nennen,",Bin der Räuber Jaromir!,"BERTHA.
+          Weh mir, weh",4,"transfer(jaromir, [bertha, audience], identity(""Räuber"", jaromir))",false
+47317,47350,"  Frieden auf mich niedertaut.","Ja, du bists, du bists, Geliebte!","BERTHA.
+          
+           ",5,"transfer(jaromir, [audience, bertha], in_love_with(jaromir, bertha))",false
+154615,154653," 
+        
+          BOLESLAV.","Nein, mein Sohn, nicht mehr mein Sohn.","JAROMIR.
+          
+          ",6,"transfer(boleslav, jaromir, !parent_of(boleslav, jaromir))",false
+192,205," von Borotin
+          Bertha,",seine Tochter,"Jaromir
+          Boleslav
+   ",7,"transfer(""Figurentafel"", audience, child_of(bertha, der_graf))",false
+65349,65373," Dankt sie nur dem kühnen Mute",Ihres wackern Bräutigams,"Jaromir von Eschen hier.
+     ",8,"transfer(der_graf, hauptmann, engaged(bertha, jaromir))",false
+180136,180163,"  
+        
+          AHNFRAU.",Deine Bertha bin ich nicht!,"Bin die Ahnfrau deines Hauses,",9,"transfer(FRAU-AUF-FRIEDHOF, jaromir, !identity(FRAU-AUF-FRIEDHOF, bertha))",false
+180176,180205,"   Deine Bertha bin ich nicht!",Bin die Ahnfrau deines Hauses,",
+            Deine Mutter, Sü",10,"transfer(""Bertha"", jaromir, identity(""FRAU-AUF-FRIEDHOF"", ahnfrau_gestalt))",false
+6134,6145," Mund zu Mund,
+            Daß",die Ahnfrau,"unsers Hauses,
+            Ob ",11,"transfer(der_graf, [bertha, audience], relatives([bertha, der_graf], RELATIVE))",false
+176319,176335,"gen, du seist meine Schwester!",Meine Schwester!,"– Lache Mädchen,
+            L",12,"knowledge(jaromir, identity(FRAU-AUF-FRIEDHOF, bertha))",false
+137146,137162,"   GRAF.
+          Ach es war,",es war mein Sohn,"!
+        
+        
+          ",13,"transfer(der_graf, [boleslav, hauptmann, soldat], identity(KIND-IM-WALD, CHILD[DER_GRAF]))",false
+64802,64830,"     
+        
+          GRAF.","Ja, es ist mein einzig Kind.","HAUPTMANN.
+          
+        ",14,"transfer(der_graf, hauptmann, child_of(bertha, der_graf))",false
+138152,138179," Bald vergaß er euch und sich,",Und er ehrt als Vater mich.,"GRAF.
+          
+            G",15,"transfer(boleslav, [der_graf, guenther, hauptmann, soldat, bertha, audience], fosterparent_of(boleslav, CHILD[DER_GRAF]))",false
+42833,43145,"  
+        
+          JAROMIR.","Ach, da bist du ja, du Holde!
+            Ich bins, Teure, zürne nicht!
+            Wink mich nicht so kalt von dir,
+            Gönne dem gepreßten Herzen
+            Die so lang entbehrte Lust,
+            An der engelreinen Brust,
+            Aus den himmelklaren Augen
+            Trost und Ruhe einzusaugen!",Die Gestalt tritt aus der Türe,16,"transfer(jaromir, BERTHA-ÄHNLICHE, in_love_with(jaromir, BERTHA-ÄHNLICHE))",false
+43167,43178,"   Trost und Ruhe einzusaugen!",Die Gestalt,"tritt aus der Türe, die sich h",17,"transfer(""Nebentext"", audience, identity(""Bertha"", ahnfrau_gestalt))",false
+24853,25021,"  
+        
+          GÜNTHER.","Saht ihr nie ihr Bild im Saale,
+            Euch so ähnlich, gnädges Fräulein,
+            Gleich als hättet ihr dem Maler,
+            Lieblich wie ihr seid, gesessen?","BERTHA.
+          
+           ",18,"transfer(guenther, [bertha, audience], identity(RELATIVE, ahnfrau_gestalt), suspicion)",false
+176478,176508,"
+          mit dumpfer Stimme.",Ich bin deine Schwester nicht.,"JAROMIR.
+          
+          ",19,"transfer(FRAU-AUF-FRIEDHOF, jaromir, !identity(FRAU-AUF-FRIEDHOF, bertha))",false
+6859,6868," war unsre Ehe
+            Und",ein Knabe,"und ein Mädchen
+            Sp",20,"transfer(der_graf, audience, parent_of(der_graf, CHILD_OF[DER_GRAF])",false
+35777,35895,"   
+        
+          BERTHA.","Ja, er ists, er ists, mein Vater!
+            Ja, er ists, der mich gerettet,
+            Ja, er ists, der teure Mann!","GRAF.
+          
+            Z",21,"transfer(bertha, [der_graf, audience], identity(LOVER[BERTHA], jaromir))",false

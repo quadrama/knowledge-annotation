@@ -1,0 +1,46 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+103997,104009,ommen – um deinetwillen nicht!,Guelfos Weib,", kehren
+              Sie zu ",0,"""Papierkorb""",false
+50848,50907,"rimaldi
+              erbarmt.",O der Seligkeit der Stunden! o der Seligkeit des Grimaldis!,"o der Verdammung
+             ",1,"transfer(grimaldi, audience, in_love_with(LOVER[GRIMALDI], grimaldi))",false
+7595,7622,"fo! Guelfo! faß dich! Camilla,",die der rauhe Guelfo liebte,", die der süße,
+              ",2,"transfer(grimaldi, audience, in_love_with(guelfo, camilla))",false
+38548,38572,"g
+              nutzen wollte.",Du bist mein Sohn nicht.,"GUELFO.
+            Sagt das n",3,"""Papierkorb""",false
+239,289,"ter.
+          Amalia, Mutter.","Ferdinando,
+            Guelfo,
+            Söhne.","Grimaldi.
+          Gräfin Cam",4,"transfer(""Figurentafel"", audience, siblings(ferdinando, guelfo))",false
+61227,61243," hat Ihnen ihr Herz geschenkt,",da sie mir's gab,"; und ihr Blick
+              ",5,"transfer(ferdiando, alter_guelfo, amalia, in_love_with(camilla, ferdiando))",false
+75906,75945,"l willkommen, meine Schwester!","Meiner Liebe willkommen, meine Camilla!","O so
+              schwebe vor",6,"transfer(guelfo, camilla, in_love_with(guelfo, camilla))",false
+19692,19725,"t mir's.
+              Guelfo!",Du bist Ferdinandos Bruder nicht.,Ha! Wie kamst du unter das Ges,7,"transfer(grimaldi, guelfo, !siblings(guelfo, ferdinando))",false
+52000,52011," daß sie mich nach sich zieht.",O Juliette!,"Juliette!
+          
+         ",8,"transfer(grimaldi, audience, identity(LOVER[GRIMALDI], juliette))",false
+39815,39833," ihm beide um den Hals fallen.",Du bist mein Sohn!,"mein lieber Sohn.
+          
+ ",9,"""Papierkorb""",false
+200,215,"onen.
+          Guelfo, Vater.","Amalia, Mutter.","Ferdinando,
+            Guelfo",10,"transfer(""Figurentafel"", audience, parent_of(amalia, ferdinando, guelfo))",false
+58533,58581,"h zu Tode! Sie sieht nach ihm,","und Liebe
+              zittert auf ihren Lippen",– sieht herauf – was denn? Cam,11,"transfer(guelfo, audience, in_love_with(camilla, ferdinando))",false
+22543,22580,"        
+            GRIMALDI.",Du bist des alten Guelfos Sohn nicht.,Du bist außer dem Bette gezeug,12,"transfer(grimaldi, guelfo, !child_of(guelfo, alter_guelfo))",false
+7467,7519," und, noch
+              mehr,",ihm die reiche und schöne Gräfin Camilla verschaffte,", die er nie kriegt hätte.
+   ",13,"transfer(grimaldi, audience, engaged(camilla, ferdinando))",false
+175,189," 
+        
+          Personen.","Guelfo, Vater.","Amalia, Mutter.
+          
+   ",14,"transfer(""Figurentafel"", audience, parentof(alter_guelfo, ferdinando, guelfo))",false
+71323,71345,"          dazwischen vor sich.",Er meint meine Tochter,", und hat recht. Wischt sich d",15,"transfer(alter_guelfo, audience, child_of(""Juliette"", alter_guelfo))",false
+93418,93433,e diese Sturmwolken peitschen!,sie liebt mich!,"– Sie schlung ihre
+           ",16,"transfer(guelfo, grimaldi, in_love_with(camilla, guelfo))",false

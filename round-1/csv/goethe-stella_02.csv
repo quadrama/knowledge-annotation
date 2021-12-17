@@ -1,0 +1,106 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+53326,53334,"les genau:
+            wie wir",Cäcilien,"so liebenswürdig fanden, uns i",0,"transfer(verwalter, audience, has_name(SPOUSE[FERNANDO], ""Cäcilien""))",false
+5355,5366,"; die
+            ersten Jahre",unserer Ehe,"! Damals hatte alles den Reiz ",1,"transfer(madame_sommer_bzw_caecilie, audience, spouses(madame_sommer_bzw_caecilie, PARENT[LUCIE]))",false
+55647,55967,"  FERNANDO
+          vor sich.","O Gott! und auch ihre Gestalt muß mich an mein Vergehen erinnern! Herz! Unser Herz! o,
+            wenn's in dir liegt, so zu fühlen und so zu handeln, warum hast du nicht auch Kraft, dir
+            das Geschehene zu verzeihen? – Ein Schatten der Gestalt meiner Frau! – O wo seh ich den
+            nicht! Laut. Madame!","MADAME SOMMER.
+          Was b",2,"transfer(fernando, audience, identity(SPOUSE[FERNANDO], madame_sommer_bzw_caecilie), suspicion)",false
+42645,42684,"     
+          MADAME SOMMER.",Er ist's! Er ist's! – Ich bin verloren!,"Dritter Akt
+        Stella in ",3,"transfer(madame_sommer_bzw_caecile, audience, identity(PARENT[LUCIE], fernando))",false
+42848,42897,"TELLA
+          zu den Wänden.",Er ist wieder da! Seht ihr ihn? Er ist wieder da!,"Vor das Gemälde einer Venus
+  ",4,"transfer(stella, audience, identity(""Offizier"", fernando))",false
+10580,10615,"o vertreibt sie sich die Zeit,","seit ihr
+            Gemahl weg ist",". Es ist unbegreiflich, wie si",5,"transfer(postmeisterin, [audience, madame_sommer_bzw_caecilie, lucie], spouses(""Frau Baronesse"", SPOUSE[FRAU_BARONESSE]))",false
+80125,80156," 
+        
+          FERNANDO.",Und dieses Weib ist meine Frau!,"–
+        
+        
+          ",6,"transfer(fernando, stella, spouses(fernando, madame_sommer_bzw_caecilie))",false
+1425,1438,ist nicht schwer; aber nehm Er,meiner Mutter,"die Schachtel ab.
+        
+   ",7,"transfer(lucie, [audience, postmeisterin], parent_of(madame_sommer_bzw_caecilie, lucie))",false
+174,220,"    Personen.
+          Stella","Cäcilie, anfangs unter dem Namen Madame Sommer","Fernando
+          Lucie
+     ",8,"transfer(""Figurentafel"", audience, has_name(madame_sommer_bzw_caecilie, ""Madame Sommer""))",false
+36724,36737," Und dann, auf einmal das Grab",meines Kindes,"zu
+            meinen Füßen. –",9,"transfer(stella, [madame_sommer_bzw_caecilie, lucie], child_of(CHILD[STELLA], stella))",false
+60349,60363,"    Nichts ist bleibend – Ach,",er liebte mich,"! liebte mich so gewiß als ich",10,"transfer(madame_sommer_bzw_caecilie, [audience, fernando], in_love_with(LOVER[MADAME_SOMMER_BZW_CAECILIE], madame_sommer_bzw_caecilie))",false
+51757,51770,"LTER.
+          Ihre Gemahlin?",Ihre Tochter?,"FERNANDO.
+          Ich habe s",11,"transfer(verwalter, audience, child_of(CHILD[FERNANDO], fernando))",false
+27444,27621," Ratschluß ist unerforschlich.","Wenn ich von seinen Küssen meine
+            Augen zu dir hinauf wendete, mein Herz an dem seinen glühte, und ich mit bebenden Lippen
+            seine große Seele in mich trank",", und ich dann mit Wonnetränen",12,"transfer(stella, audience, in_love_with(SPOUSE[STELLA], stella))",false
+53267,53460,er Freude manche Not brachten.,"Ich erinnere mich noch an alles genau:
+            wie wir Cäcilien so liebenswürdig fanden, uns ihr aufdrangen, unsere jugendliche
+            Freiheit nicht geschwind genug loswerden konnten.","FERNANDO.
+          Es war doc",13,"transfer(verwalter, audience, spouses(fernando, madame_sommer_bzw_caecilie))",false
+27936,27944,"ckt ihre Hände ans Herz. Nein,",Fernando,", nein, das war kein
+         ",14,"transfer(stella, audience, has_name(SPOUSE[STELLA], fernando))",false
+63687,63697,"ANDO
+          zu ihren Füßen.",Ich bin's!,"MADAME SOMMER
+          mit ei",15,"transfer(fernando, [audience, madame_sommer_bzw_caecilien], identity(LOVER[MADAME_SOMMER_BZW_CAECILIEN], fernando))",false
+43491,43590," 
+        
+          FERNANDO.","Stella! meine Stella! An ihrem Halse. Gott im Himmel, du gibst mir meine
+            Tränen wieder!","STELLA.
+          O du Einzige",16,"transfer(fernando, stella, in_love_with(fernando, stella))",false
+39899,39979,"    
+        
+          LUCIE.","Heute! Nur war jener älter, brauner verbrannt von der Sonne. Er ist's! Er ist's!","STELLA
+          zieht die Sch",17,"transfer(lucie, stella, identity(""Offizier"", SPOUSE[STELLA]), suspicion)",false
+31633,31684,igen Liede seines Herzens war:,"»Stella! Stella! Wie lieb du mir
+            bist!«","LUCIE.
+          Kann man denn",18,"transfer(stella, [audience, lucie, madame_sommer_bzw_caecilie], in_love_with(fernando, stella))",false
+51742,51756,"
+        
+          VERWALTER.",Ihre Gemahlin?,"Ihre Tochter?
+        
+       ",19,"transfer(verwalter, audience, spouses(SPOUSE[FERNANDO], fernando))",false
+41499,41519," Der Erwartete – Geliebte! – –",Das ist mein Gemahl!,"– Es ist
+            dein Vate",20,"transfer(madame_sommer_bzw_caecilie, [audience, lucie], identity(PARENT[LUCIE], fernando))",false
+63687,63697,"ANDO
+          zu ihren Füßen.",Ich bin's!,"MADAME SOMMER
+          mit ei",21,"transfer(fernando, madame_sommer_bzw_caecilie, identity(PARENT[LUCIE], fernando))",false
+5572,5583,"ard, durch seinen Geist, durch",seine Liebe,"! –
+        
+        
+        ",22,"transfer(madame_sommer_bzw_caecilie, audience, in_love_with(PARENT[LUCIE], madame_sommer_bzw_caecilie))",false
+37294,37298,"! So groß, denk ich, wär meine",Mina,"! Ich heb es ängstlich liebend",23,"transfer(stella, [audience, madame_sommer_bzw_caecilie, lucie], has_name(CHILD[STELLA], ""Mina""))",false
+65716,65782,ütiger Himmel! wieviel Freude!,"Sollte das
+            liebenswürdige Geschöpf meine Tochter sein?",– – Ich habe dich aufgesucht ü,24,"transfer(fernando, audience, parent_of(fernando, lucie), suspicion)",false
+80297,80331," 
+        
+          FERNANDO.",Und das Mädchen ist meine Tochter!,"Stella! Er bemerkt erst, daß s",25,"transfer(fernando, stella, child_of(lucie, fernando))",false
+5218,5228,"e ganz anders war's damals, da",dein Vater,noch mit mir reiste: da wir di,26,"transfer(madame_sommer_bzw_caecilie, audience, parent_of(PARENT[LUCIE], lucie))",false
+10949,10979,"ichts von ihm.
+            Und",sie hat ihn geliebt über alles,". Mein Mann konnte nie fertig ",27,"transfer(postmeisterin, [audience, madame_sommer_bzw_caecilie], in_love_with(""Frau Baronesse"", SPOUSE[FRAU_BARONESSE]))",false
+174,220,"    Personen.
+          Stella","Cäcilie, anfangs unter dem Namen Madame Sommer","Fernando
+          Lucie
+     ",28,"transfer(""Figurentafel"", audience, has_name(madame_sommer_bzw_caecilie, ""Cäcilie""))",false
+60365,60397,"leibend – Ach, er liebte mich!",liebte mich so gewiß als ich ihn,". Es war
+            eine Zeit",29,"transfer(madame_sommer_bzw_caecilie, [audience, fernando], in_love_with(madame_sommer_bzw_caecilie, LOVER[MADAME_SOMMER_BZW_CAECILIE]))",false
+27444,27621," Ratschluß ist unerforschlich.","Wenn ich von seinen Küssen meine
+            Augen zu dir hinauf wendete, mein Herz an dem seinen glühte, und ich mit bebenden Lippen
+            seine große Seele in mich trank",", und ich dann mit Wonnetränen",30,"transfer(stella, audience, identity(""Frau Baronesse"", stella))",false
+66522,66538," 
+        
+          FERNANDO.",O meine Tochter!,"LUCIE.
+          Lieber, beste",31,"transfer(fernando, audience, child_of(lucie, fernando))",false
+79776,79794,ir alles bist! Stella! – Kalt.,Ich verlasse dich!,"STELLA
+          verwirrt läch",32,"transfer(fernando, [stella, audience], !in_love_with(fernando, stella))",false
+43346,43442,"      Ihm um den Hals fallend.","Du bist da! Ich will nichts fühlen, nichts
+            hören, nichts wissen, als daß du da bist!","FERNANDO.
+          Stella! me",33,"transfer(stella, fernando, in_love_with(stella, fernando))",false
+56894,56918,"endet sich
+              ab. –","Gott, es ist meine Frau!","– Laut. Verzeihen Sie!
+       ",34,"transfer(fernando, audience, identity(""Cäcilien"", madame_sommer_bzw_caecilien))",false

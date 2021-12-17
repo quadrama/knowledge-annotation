@@ -1,0 +1,51 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+205075,205112,"icht, ich eile, dir zu folgen!",Hier meine Hand: wir gehen zum Altar.,,0,"transfer(eugenie, [gerichtsrat, audience], engaged(eugenie, gerichtsrat))",false
+16406,16417,"         
+            EUGENIE.",Mein Vater!,"HERZOG.
+            
+         ",1,"""Papierkorb""",false
+153304,153404,hwesterlich entzückte Neigung!,"Ich fühle mich als dein Geschöpf und kann
+              Dir leider, wie du wünschest, nicht gehören.","GERICHTSRAT.
+            So sc",2,"transfer(eugenie, [gerichtsrat, audience], !in_love_with(eugenie, gerichtsrat))",false
+49497,49729,"          Mir auch ein Rätsel,","daß ich noch an dir
+              Mit solcher Neigung hänge, da du mich
+              Zum jähen Abgrund hinzureißen strebst?
+              Warum, o! schuf dich die Natur von außen
+              Gefällig, liebenswert, unwiderstehlich",",
+              Wenn sie ein k",3,"transfer(hofmeisterin, [sekretär, audience], in_love_with(hofmeisterin, sekretär))",false
+47817,48178," je mit freier Brust genießen?","Eugenie! du, deren holdes Wesen
+              In meiner Nähe sich von Jugend auf
+              Aus reicher Fülle rein entwickeln sollte,
+              Kann ich noch unterscheiden, was an dir
+              Dein eigen ist, und was du mir verdankst?
+              Dich, die ich als mein selbst gebildet Werk
+              Im Herzen trage, sollt' ich nun zerstören?",Von welchem Stoffe seid ihr de,4,"transfer(hofmeisterin, audience, fosterchild(eugenie, hofmeisterin))",false
+39993,40000," wahres, unauslöschlichs Bild:",Eugenie,", das Leben meines Lebens,
+   ",5,"transfer(herzog, audience, has_name(CHILD-2[HERZOG], ""Eugenie""))",false
+5455,5472,"          
+            HERZOG.",Ist eine Tochter.,"KÖNIG.
+            
+          ",6,"tranfer(herzog, [koenig, audience], child_of(CHILD-2[HERZOG], herzog))",false
+6204,6393,"
+          
+            KÖNIG.","Die Fürstin? Die verehrte, nah verwandte,
+              Nur erst verstorbne?
+              
+            
+          
+          
+            HERZOG.
+            
+              War die Mutter!","Laß,
+              O laß mich ",7,"transfer(herzog, [koenig, audience], parent_of(""fürstin"", CHILD[HERZOG]))",false
+846,851,"de.
+              Wo sind wir,",Oheim,"? Herzog, sage mir,
+          ",8,"transfer(koenig, audience, uncle_of(herzog, koenig))",false
+3962,3980,gefühlt? Verkümmerte dir nicht,Dein einz'ger Sohn,"durch rohes, wildes Wesen,
+   ",9,"transfer(koenig, audience, child_of(CHILD-1[HERZOG], herzog))",false
+148918,148958,"     
+            GERICHTSRAT.",Entschieden bleibt auf ewig mein Gefühl.,"EUGENIE.
+            Der Augen",10,"transfer(gerichtsrat, [eugenie, audience], in_love_with(gerichtsrat, eugenie))",false
+61607,61631,"t! du Freundin meines Herzens,",An Mutter Statt Geliebte,", sei gegrüßt.
+            
+  ",11,"transfer(eugenie, audience, fosterparent(hofmeisterin, eugenie))",false

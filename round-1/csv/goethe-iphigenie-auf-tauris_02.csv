@@ -1,0 +1,58 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+123636,123648,"       Und nun verlassen hat –",es ist Orest,",
+              Mein Bruder, u",0,"transfer(iphigenie, thoas, identity(""Laodamas"", orest))",false
+52761,52777,"          Ich bin der jüngste,",Cephalus genannt,",
+              Und er Laodama",1,"transfer(pylades, [audience, iphigenie], identity(pylades, ""Cephalus""), lie)",false
+26267,26272,zwischen beiden Schwestern nun,Orest,",
+              Der Liebling, ",2,"transfer(iphigenie, [audience, thoas], siblings(iphigenie, orest))",false
+2683,2720," auf dich, Diana, die du mich,",Des größten Königes verstoßne Tochter,",
+              In deinen heil",3,"transfer(iphigenie, audience, parent_of(PARENT-1[IPHIGENIE], iphigenie))",false
+3120,3134,"nem Vaterland zurückbegleitet,",Die Gattin ihm,", Elektren und den Sohn,
+     ",4,"transfer(iphigenie, audience, spouses(""Agamemnon"", SPOUSE[AGAMEMNON]))",false
+129368,129395,"n ihm
+              Den König,",der mein zweiter Vater ward,"!
+              Verzeih mir, B",5,"""Papierkorb""",false
+123664,123675," verlassen hat – es ist Orest,",Mein Bruder,", und der andre sein Vertraute",6,"transfer(iphigenie, thoas, siblings(iphigenie, orest))",false
+2796,2809,"rm genommen.
+              Ja,",Tochter Zeus',", wenn du den hohen Mann,
+    ",7,"transfer(iphigenie, audience, child_of(diana, zeus))",false
+25909,25921,"ehn.
+              Ihm brachte",Klytämnestra,"mich, den Erstling
+           ",8,"transfer(iphigenie, [audience, thoas], identity(PARENT-2[IPHIGENIE], ""Klytämnestra""))",false
+36216,36246,"ettung
+              Im Tempel",seiner vielgeliebten Schwester,",
+              Die über Tauri",9,"transfer(orest, audience, siblings(diana, apollo))",false
+75259,75262,"
+          
+            OREST.",Du!,"IPHIGENIE.
+            Mein Br",10,"transfer(iphigenie, orest, identity(SIBLING[OREST], iphigenie))",false
+60782,60823,"
+          
+            OREST.","Verbirgst du deinen Namen, deine Herkunft","Mit klugem Vorsatz? oder darf ",11,"""Papierkorb""",false
+83778,83799," ihr auch schon herabgekommen?","Wohl, Schwester, dir!","Noch fehlt Elektra:
+          ",12,"transfer(orest, pylades, identity(""Priesterin"", iphigenie))",false
+5370,5376," Seele
+              An Vater,",Mutter,"und Geschwister band,
+        ",13,"transfer(iphigenie, [audience, arkas], parent_of(PARENT-2[IPHIGENIE], iphigenie))",false
+3145,3157,"      Die Gattin ihm, Elektren",und den Sohn,",
+              Die schönen Sc",14,"transfer(iphigenie, audience, child_of(CHILD[AGAMEMNON], ""Agamemnon""))",false
+5381,5392,"          An Vater, Mutter und",Geschwister,"band,
+              Die neuen ",15,"transfer(iphigenie, [audience, arkas], siblings(SIBLINGS[IPHIGENIE], iphigenie))",false
+115221,115263,h nun ein eigen Schicksal aus.,Durch Schmeichelei gewann sie mir das Herz,":
+              Nun widersteh'",16,"transfer(thoas, audience, in_love_with(thoas, iphigenie))",false
+25966,25979,"tling
+              Der Liebe,",dann Elektren,". Ruhig herrschte
+            ",17,"transfer(iphigenie, [audience, thoas], parent_of(""Klytämnestra"", ""Elektra""))",false
+19998,20031," nützt.
+              Vernimm!",Ich bin aus Tantalus' Geschlecht.,"THOAS.
+            
+          ",18,"transfer(iphigenie, [audience, thoas], relatives(iphigenie, ""Tantalus""))",false
+2933,2942,"    Wenn du den göttergleichen",Agamemnon,",
+              Der dir sein L",19,"transfer(iphigenie, audience, identity(PARENT-1[IPHIGENIE], ""Agamemnon""))",false
+74213,74259,es Busens leise wehend kühlen.,"Orest, mein Teurer, kannst du nicht vernehmen?",Hat das Geleit der Schreckensg,20,"""Papierkorb""",false
+52800,52808," genannt,
+              Und er",Laodamas,", der älteste
+              De",21,"transfer(pylades, [audience, iphigenie], identity(orest, ""Laodamas""), lie)",false
+105600,105627,"arnt,
+              Den König,",der mein zweiter Vater ward,",
+              Nicht tückisch",22,"""Papierkorb""",false

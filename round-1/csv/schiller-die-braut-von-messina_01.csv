@@ -1,0 +1,112 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+90048,90071,tführer in sträflicher Flucht.,"O komm, mein Geliebter!",Wo bleibst du und säumest? Bef,0,"transfer(beatrice, audience, in_love_with(beatrice, LOVER[BEATRICE]))",false
+98517,98534,"dir zu nennen.
+              –",Ich bin Don Cesar,"und in dieser Stadt
+          ",1,"transfer(TYP-AUS-KIRCHE, beatrice, identity(TYP-AUS-KIRCHE, don_cesar))",false
+146273,146299,"      
+            DON MANUEL.",Don Cesar ist mein Bruder.,"BEATRICE.
+            Ist dein",2,"transfer(don_manuel, beatrice, siblings(don_manuel, don_cesar))",false
+74063,74087,"
+              Der einzge Bote",zwischen Kind und Mutter,".
+            
+          
+    ",3,Papierkorb,false
+194287,195031,"            Was ist dir? Gott!","DON CESAR.
+            
+              Verflucht der Schoß, der mich
+              Getragen! – Und verflucht sei deine Heimlichkeit,
+              Die all dies Gräßliche verschuldet! Falle
+              Der Donner nieder, der dein Herz zerschmettert,
+              Nicht länger halt ich schonend ihn zurück –
+              Ich selber, wiß es, ich erschlug den Bruder,
+              In ihren Armen überrascht ich ihn,
+              Sie ist es, die ich liebe, die zur Braut
+              Ich mir gewählt – den Bruder aber fand ich
+              In ihren Armen – alles weißt du nun!
+              – Ist sie wahrhaftig seine, meine Schwester,
+              So bin ich schuldig einer Greueltat,
+               Die keine Reu und Büßung kann versöhnen!","CHOR.
+            
+           ",4,"transfer(don_cesar, isabella, identity(FIANCEE[DON_CESAR], beatrice))",false
+77945,77965,"           Nicht will ich, daß",Don Manuels Verlobte,"Als eine Heimatlose, Flüchtige",5,"transfer(don_manuel, chor, engaged(don_manuel, LOVER[DON_MANUEL]))",false
+178064,178104,"        
+            ISABELLA.","Ich, deine Mutter, bin Messinas Fürstin.","BEATRICE.
+            Du bist ",6,"transfer(isabella, beatrice, parent_of(isabella, beatrice))",false
+95000,95084,Don Cesar. Beatrice. Der Chor.,"BEATRICE
+            mit Schrecken zurückfliehend.
+            Weh mir! Was seh ich!","In demselben Augenblick tritt ",7,"transfer(beatrice, [audience, don_cesar, chor], !in_love_with(beatrice, don_cesar))",false
+123466,123481," an.
+              Wo ist sie?",Wo ist Beatrice,"?
+            
+            Wil",8,"transfer(isabella, [audience, don_manuel, don_cesar], has_name(CHILD[ISABELLA], ""Beatrice""))",false
+65427,65577,e mir das freudige Erschrecken,"Der überraschten, hocherstaunten Braut,
+              Wenn ich als Fürstin sie und Herrscherin
+              Durch dieses Hauses Pforten führen werde.",– Noch liebt sie nur den Liebe,9,"transfer(don_manuel, [audience,chor], in_love_with(don_manuel, LOVER[DON_MANUEL]))",false
+115779,115882,"der Tag, der alles lösen wird.","Am besten mag die Braut sich selbst verkünden,
+              Des sei gewiß, du wirst sie würdig finden.","ISABELLA.
+            
+       ",10,"transfer(don_manuel, [isabella, don_cesar], engaged(don_cesar, LOVER[DON_MANUEL]))",false
+115779,115781,"der Tag, der alles lösen wird.",Am,besten mag die Braut sich selb,10,"transfer(don_manuel, [isabella, don_cesar], engaged(don_cesar, LOVER[DON_MANUEL]))",false
+98138,98173,"selbst die Niedrigste geboren,",Du müßtest dennoch meine Liebe sein,",
+              Die Freiheit h",11,"transfer(TYP-AUS-KIRCHE, [audience, beatrice], in_love_with(TYP-AUS-KIRCHE, beatrice))",false
+23498,23534,"    
+              Don Manuel,","Don Cesar,
+              ihre Söhne.","Beatrice.
+            Diego.
+ ",12,"transfer(""Figurentafel"", audience, child_of(don_cesar, isabella))",false
+65594,65852," führen werde.
+              –","Noch liebt sie nur den Liebenden! Dem Fremdling,
+              Dem Namenlosen hat sie sich gegeben.
+              Nicht ahnet sie, daß es Don Manuel,
+              Messinas Fürst ist, der die goldne Binde
+              Ihr um die schöne Stirne flechten wird.","Wie süß ists, das Geliebte zu ",13,"transfer(don_manuel, [audience, chor], !knowledge(LOVER[DON_MANUEL], identity(don_manuel, don_manuel)))",false
+90861,90968," Glut den Schatten beigesellt,","– Da stand er plötzlich an des Klosters Pforte,
+              Schön wie ein Gott und männlich wie ein Held.","O mein Empfinden nennen keine ",14,"transfer(beatrice, audience, identity(LOVER[DON_MANUEL], beatrice))",false
+23472,23534,"Isabella, Fürstin von Messina.","Don Manuel,
+              Don Cesar,
+              ihre Söhne.","Beatrice.
+            Diego.
+ ",15,"transfer(""Figurentafel"", audience, child_of(don_manuel, isabella))",false
+99206,99471,"     
+            Zu dem Chor.","Gebt ihr – sie ists von diesem Augenblick!
+               Die Ehre meiner Braut und eurer Fürstin,
+              Belehret sie von ihres Standes Größe.
+              Bald kehr ich selbst zurück, sie heimzuführen,
+              Wies meiner würdig ist und ihr gebührt.","Er geht ab.
+        
+        
+",16,"transfer(don_cesar, [audience, chor, beatrice], engaged(don_cesar, beatrice))",false
+152723,152823,Brüder. Beide Chöre. Beatrice.,"ZWEITER CHOR
+            zu Don Cesar.
+            Du glaubst uns nicht – Glaub deinen eignen Augen.","DON CESAR
+            tritt he",17,"transfer(zweiter_chor, don_cesar, lovers(don_manuel, beatrice))",false
+193579,193856,"          Sie meine Schwester!","ISABELLA.
+            Welche andre sonst?
+          
+          
+            DON CESAR.
+            Meine Schwester?
+          
+          
+            ISABELLA.
+            Die du selber mir gesendet.
+          
+          
+            DON CESAR.
+            Und seine Schwester!","CHOR.
+            Wehe! Wehe! ",18,"transfer(isabella, don_cesar, identity(SIBLING-1, beatrice))",false
+123578,123620,"       
+            DON MANUEL","für sich, betroffen.
+            Beatrice!","DIEGO
+            hält sie zur",19,"transfer(don_manuel, audience, identity(SIBLING-1, beatrice), suspicion)",false
+131181,131364,nheit Glanz birgt keine Hülle.,"DON MANUEL
+            vor sich, erleichtert.
+            
+              Glückselges Wort, das mir das Herz befreit!
+              Das gleicht ihr nicht! Dies Zeichen trifft nicht zu.","ISABELLA.
+            Wahnsinn",20,"transfer(don_manuel, audience, !identity(SIBLING-1, beatrice), suspicion)",false
+113699,113789," der Liebe neu Gefühl gelehrt.","Eh dieses Tages Sonne sinkt, führt auch
+              Don Cesar seine Gattin dir entgegen.","DON MANUEL.
+            
+     ",21,"transfer(don_cesar, [isabella, don_manuel], engaged(don_cesar, LOVER[DON_CESAR]))",false
+105412,105452,"n beiden einen Bruder schenkt,",Auch eine Schwester hat er euch geboren.,– Ihr staunt? Ihr seht mich mi,22,"transfer(isabella, [audience, don_manuel, don_cesar], siblings([don_manuel, don_cesar], SIBLING-1))",false

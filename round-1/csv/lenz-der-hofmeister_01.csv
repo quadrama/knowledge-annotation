@@ -1,0 +1,141 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+145055,145098,"E.
+            Mühselig genug.",Die Mutter dieses Kindes war meine Leiterin,"; sie ging eines Tags aus
+    ",0,"transfer(marthe, laeuffer, parent_of(PARENT[CHILD], CHILD[PARENT]))",false
+165023,165126,müssen mehr Bestätigung haben.,"Du weißt, daß du ihm einmal im Rausch erzählt hast, daß
+              du in deine Kusine verliebt wärst","; siehst du, das hat die maliz",1,"transfer(paetus, [audience, fritz], transfer(fritz, seiffenblase, in_love_with(fritz, gustchen)))",false
+190118,190237,"         
+            LÄUFFER.","Komm zu deinem Vater, Lise! seine Einwilligung noch und ich bin der glücklichste
+              Mensch auf dem Erdboden!","Eilfte Szene
+          Zu Inst",2,"transfer(laeuffer, audience, engaged(laeuffer, lise))",false
+117857,117890,"          
+            MARTHE.","Aber wo wollt Ihr denn hin, Grete",", daß Gott erbarm! da Ihr noch",3,"transfer(marthe, audience, has_name(gustchen, ""Grete""))",false
+68772,68801,", was
+              ich leide.",Küßt Läuffers Hand inbrünstig,". O göttlicher Romeo!
+        ",4,"transfer(""Inbrünstiger Kuss"", audience, in_love_with(gustchen, laeuffer))",false
+7044,7053," ... Läuffer! nicht furchtsam!",Mein Sohn,ist buschscheu genug; wenn der,5,"transfer(majorin, audience, child_of(CHILD[MAJOR], majorin))",false
+183125,183154," 
+          
+            LISE.","O pfui, Herr, was machen Sie?","LÄUFFER.
+            Noch einm",6,"transfer(lise, [laeuffer, audience], !in_love_with(lise, laeuffer))",false
+204296,204323,"  
+            DER ALTE PÄTUS.",Was denn? Du auch verliebt?,Mit Freuden erlaub ich dir all,7,"transfer(paetus, [der_alte_paetus, geheimer_rat, major], in_love_with(paetus, LOVER[PAETUS]))",false
+12001,12067,"h habe nicht  darnach gefragt,","ja doch,
+              ich glaub es fast: er heißt ja auch Läuffer",; nun denn ist er freilich noc,8,"transfer(majorin, graf_wermuth, parent_of(pastor, laeuffer), uncertain)",false
+25754,25775,"
+          
+            FRITZ.","Ich, gnädigster Papa?","GEHEIMER RAT.
+            Ich?",9,"transfer(fritz, audience, child_of(fritz, geheimer_rat))",false
+751,766,"he, alte Frau.
+          Lise.",Der alte Pätus.,"Der alte Läuffer, Stadtpredige",10,"transfer(""Figurentafel"", audience, parent_of(der_alte_paetus, paetus))",false
+92080,92099,"   LÄUFFER.
+            Mein –",Ich heiße – Mandel.,"WENZESLAUS.
+            Herr M",11,"transfer(laeuffer, wenzeslaus, has_name(laeuffer, ""Mandel""))",false
+2700,2711,nur zu artig. Aber was soll er,deinen Sohn,"lehren?
+            
+         ",12,"transfer(geheimer_rat, audience, child_of(CHILD[MAJOR], major))",false
+17333,17353," Er doch
+              einmal:",ich hab eine Tochter,", das mein Ebenbild ist, und d",13,"transfer(major, laeuffer, child_of(CHILD[MAJOR], major))",false
+293,316,"Bruder.
+          Die Majorin.","Gustchen, ihre Tochter.","Fritz von Berg.
+          Graf",14,"transfer(""Figurentafel"", audience, child_of(gustchen, [major, majorin]))",false
+24574,25276,"un sag, was soll ich schwören?","GUSTCHEN.
+            Daß du in drei Jahren von der Universität zurückkommen willst und dein Gustchen zu
+              deiner Frau machen; dein Vater mag dazu sagen, was er will.
+          
+          
+            FRITZ.
+            Und was willst du mir dafür wieder schwören, mein engliches ...
+            Küßt sie.
+          
+          
+            GUSTCHEN.
+            Ich will schwören, daß ich in meinem Leben keines andern Menschen Frau werden will
+              als deine, und wenn der Kaiser von Rußland selber käme.
+          
+          
+            FRITZ.
+            Ich schwör dir hunderttausend Eide – Der geheime Rat tritt herein: beide
+                springen mit lautem Geschrei auf.","Sechste Szene
+          Geheim",15,"transfer(""Schwur"", audience, lovers(fritz, gustchen))",false
+902,932,"       Herr Rehaar, Lautenist.","Jungfer Rehaar, seine Tochter.","Erster Akt
+        
+          ",16,"transfer(""Figurentafel"", audience, chld_of(jungfer_rehaar, rehaar))",false
+186959,187138,h laß einmal nicht von ihm ab.,"Nehmen
+              Sie mir das Leben; ich lasse nicht ab von ihm. Ich hab ihn gern und mein Herz sagt
+              mir, daß ich niemand auf der Welt so gern haben kann als ihn.","WENZESLAUS.
+            So – d",17,"transfer(lise, [laeuffer, wenzeslaus, audience], in_love_with(lise, laeuffer)) ",false
+777,809,"ise.
+          Der alte Pätus.","Der alte Läuffer, Stadtprediger.","Leopold, Junker des Majors, ei",18,"transfer(""Figurentafel"", audience, parent_of(pastor, laeuffer))",false
+820,857,"r alte Läuffer, Stadtprediger.","Leopold, Junker des Majors, ein Kind.","Herr Rehaar, Lautenist.
+      ",19,"transfer(""Figurentafel"", audience, audience, child_of(""Leopold"", major))",false
+19702,19717,"     soll drein fahren. – Aber",mit der Tochter,nehm Er sich in Acht; die Frau,20,"transfer(major, laeuffer, child_of(CHILD[MAJOR], major))",false
+182933,183022,"         
+            LÄUFFER.","Laß mich deinen mutwilligen Mund mit meinen Lippen zuschließen! Küßt
+                sie.","O Lise! Wenn du wüßtest, wie u",21,"transfer(laeuffer, [lise, audience], in_love_with(laeuffer, lise))",false
+202127,202214,werde mich unglücklich machen.,"O was hab ich von einer solchen Frau
+              anders zu gewarten als einen Himmel?","MAJOR.
+            Ja wohl ein",22,"transfer(fritz, major, in_love_with(fritz, gustchen))",false
+13360,13421,ieht er das Maul schon wieder.,"Bist empfindlich, wenn dir
+              dein Vater was sagt?","Wer soll dir's denn sagen? Du ",23,Papierkorb,false
+204652,204688,üßt's und trägt's zu Gustchen.,Dies Kind ist jetzt auch das meinige,; ein trauriges Pfand der Schw,24,"transfer(fritz, [geheimer_rat, major, gustchen, paetus, der_alte_paetus, audience], fosterparent_of(laeuffer, CHILD[PARENT]))",false
+199081,199190,Pätus hat's mir verschafft – –,"Seine Mutter war das alte blinde Weib, die
+              Bettlerin, von der uns Gustchen so viel erzählt hat.","DER ALTE PÄTUS.
+            Un",25,"transfer(major, [geheimer_rat , audience], parent_of(marthe, der_alte_paetus))",false
+11820,11876," 
+          
+            GRAF.","Ich glaube, sein Vater ist der Prediger hier aus dem Ort","...
+          
+          
+    ",26,"transfer(graf_wermuth, majorin, parent_of(pastor, laeuffer), uncertain)",false
+88051,88090,"         
+            MAJORIN.",Deine Dochter – Der Hofmeister. – Lauf!,"Fällt in Ohnmacht.
+          
+",27,"transfer(majorin, [major, geheimer_rat], lovers(laeuffer, gustchen), suspicion)",false
+146524,146575,"              vor den Spiegel.",Wie? dies wären nicht meine Züge? Fällt in Ohnmacht,";
+                das Kind fän",28,"transfer(laeuffer, audience, parent_of(laeuffer, CHILD[PARENT]), suspicion)",false
+162106,162300," nicht wird geschrieben haben,","so werden Sie auch wohl den Unglücksfall nicht wissen
+              mit dem Hofmeister, welcher aus Ihres gnädigen Onkels Hause ist gejagt worden, weil er
+              Ihre Kusine genotzüchtigt",", worüber sie sich so zu Gemüt",29,"transfer(paetus, fritz, lovers(laeuffer, gustchen))",false
+134099,134740,"
+          
+            FRITZ.","So bist du doch zum Fenster hineingestiegen und  die Nachbarn haben's
+              gesehen, meinst du, ihre Zunge wird so verschämt sein, wie deine Hand vielleicht
+              gewesen ist? Ich kenne dich, ich weiß, so dreust du scheinst, bist du doch blöde
+              gegen's Frauenzimmer, und darum lieb ich dich: aber wenn's auch nichts mehr wäre, als
+              daß das Mädchen ihren guten Namen verliert, und eine Musikantentochter dazu, ein
+              Mädchen, das alles von der Natur empfing, vom Glück nichts; der ihre einzige
+              Aussteuer, ihren guten Namen, zu rauben – du hast sie unglücklich gemacht, Pätus.","–
+            Herr Rehaar komm",30,"transfer(fritz, paetus, lovers(paetus, jungfer_rehaar), suspicion)",false
+119210,119243,sen treibt mich fort von hier.,"Ich hab einen
+              Vater",", der mich mehr liebt als sein",31,"transfer(gustchen, marthe, parent_of(PARENT([GUTSCHEN], gustchen))",false
+139528,139619,ist das auch honett gehandelt?,"Sind mir gestern zum Fenster hineingestiegen, in meiner
+              Tochter Schlafkammer.","PÄTUS.
+            Was denn, V",32,"transfer(rehaar, [paetus, fritz], lovers(paetus, jungfer_rehaar), suspicion)",false
+236,259,"  Herr von Berg, Geheimer Rat.","Der Major, sein Bruder.","Die Majorin.
+          Gustche",33,"transfer(""Figurentafel"", audience, siblings(major, geheimer_rat))",false
+66803,66811,"auch böse wirst, Herrmannchen!",Küßt sie,". O Tod! Tod! warum
+          ",34,"transfer(""Kuss"", audience, in_love_with(laeuffer, gustchen))",false
+2802,2806,"R.
+            Ich weiß nicht,",Berg,", du tust immer solche wunderl",35,"transfer(major, geheimer_rat, has_name(geheimer_rat, ""Berg""))",false
+183262,183296,al und denn ewig nicht wieder!,Küßt sie. Wenzeslaus tritt herein.,"WENZESLAUS.
+            Was is",36,"transfer(""Kuss"", wenzeslaus, in_love_with(laeuffer, lise))",false
+26446,27582,", zu früh Gustchen, mein Kind.","Du
+              hast noch nicht kommuniziert. – Denn warum soll ich euch verhehlen, daß ich euch
+              zugehört habe. – Das war ein sehr einfältig Stückchen von euch beiden; besonders von
+              dir, großer vernünftiger Junker Fritz, der bald einen Bart haben wird wie ich und eine
+              Perücke aufsetzen und einen Degen anstecken. Pfui, ich glaubt einen vernünftigern Sohn
+              zu haben. Das macht dich gleich ein Jahr jünger und macht, daß du länger auf der
+              Schule bleiben mußt. Und Sie, Gustchen, auch Ihnen muß ich sagen, daß es sich für Ihr
+              Alter gar nicht mehr schickt, so kindisch zu tun. Was sind das für Romane, die Sie da
+              spielen? Was für Eide, die Sie sich da schwören, und die ihr doch alle beide so gewiß
+              brechen werdet als ich itzt mit euch rede. Meint ihr, ihr seid in den Jahren, Eide zu
+              tun, oder meint ihr, ein Eid sei ein Kinderspiel, wie es das Versteckspiel oder die
+              blinde Kuh ist? Lernt erst einsehen, was ein Eid ist: lernt erst zittern dafür, und
+              alsdenn wagt's, ihn zu schwören.","Wißt, daß  ein Meineidiger die",37,"transfer(geheimer_rat, [gustchen, fritz], knowledge(geheimer_rat, lovers(gustchen, fritz)))",false
+96052,96201,"         
+            LÄUFFER.","Es ist der Graf Wermuth, der künftige Schwiegersohn des Majors; er ist eifersüchtig
+              auf mich, weil das Fräulein ihn nicht leiden kann –","WENZESLAUS.
+            Aber w",38,"transfer(laeuffer, [wenzeslaus, audience], engaged(graf_wermuth, gustchen))",false
+198715,198763,st du? He! Geheimer Rat kömmt.,"Hier ist mein Kind,
+              mein Großsohn.",Wo ist Gustchen? Mein allerlie,39,"transfer(major, [geheimer_rat, audience], grandparent_of(major, CHILD[PARENT]))",false
