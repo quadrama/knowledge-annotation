@@ -1,0 +1,44 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+45726,45764,"     
+        
+          SINO.","Er ist dein Bruder, ist Bahadars Sohn.","Udohla eilt auf sie zu, sie si",0,"transfer(sino, [sultan, nerissa], child_of(udohla, ""Bahadar""))",false
+13800,13933,"sinken,
+            Ihm sagen:","Daß ich nicht Nerissa sey,
+            Nicht seine Schwester, daß ich eine Fremde
+            An der entflohnen Schwester Stelle sey.",Warum ließ ich zur Lüge mich b,1,"transfer(nerissa, elpa, !identity(nerissa, ""Nerissa-Schwester""), already-known)",false
+3850,3894,"die königlichen Freuen wohnen,",Des Sultans Schwester wird des Sultans Weib.,"DERWISCH.
+          
+         ",2,"transfer(mangu, [derwisch, audience], engaged(nerissa, sultan))",false
+10925,10965,"        Mangu und Derwisch ab.","Warum o Schicksal, muß ich diese lieben?",Die Einzige die du mir hast ve,3,"transfer(sultan, audience, in_love_with(sultan, nerissa))",false
+45122,45213,merdar durch deine eigne That;,"Des Vaters Blut belastet deine Seele,
+            Bahadars Tochter ists, die vor dir steht.","SULTAN.
+          O Allah!
+   ",4,"transfer(nerissa, [sultan, udohla, audience], child_of(nerissa, ""Bahadar""))",false
+45530,45562,"ge, daß ich nie erwachen möge!","Ewana, meine Schwester wäre sie?","NERISSA.
+          Wie? Hör ic",5,"transfer(udohla, [sultan, audience], has_name(nerissa, ""Ewana""))",false
+32214,32251,", so wie er sich dir genennet,","Es ist Bahadars, des Verräthers Sohn.","SULTAN.
+          
+           ",6,"transfer(mangu, sultan, identity(udohla, ""Bahadar""))",false
+36238,36481,"    
+        
+          MANGU.","Der Aga hat mir ins Geheim gestanden,
+            Daß Todes-Furcht ihn zum Betrug verführt;
+            Daß ein geraubtes Mädchen er gezwungen
+            Und überredet habe zu dem Schritt,
+            Als unsers Sultan Schwester zu erscheinen",";
+            Und wie ihn Elpa",7,"transfer(mangu, sino, transfer(""Aga"", mangu, identity(nerissa, ""Geraubtes-Mädchen"")))",false
+23058,23094,"ommen, geh! mich zu verrathen.","Ich bin Bahadar, eures Feindes Sohn.","SINO.
+          
+            O",8,"transfer(udohla, sino, identity(udohla, ""Bahadar""))",false
+13800,13933,"sinken,
+            Ihm sagen:","Daß ich nicht Nerissa sey,
+            Nicht seine Schwester, daß ich eine Fremde
+            An der entflohnen Schwester Stelle sey.",Warum ließ ich zur Lüge mich b,9,"transfer(nerissa, audience, !identity(nerissa, ""Nerissa-Schwester""))",false
+40457,40496,ultan gänzlich bist verrathen?,"Daß er es weiß, du seyst Bahadars Sohn?","Was du zu fürchten hast, nagst",10,"transfer(sino, udohla, knowledge(sultan, identity(udohla, ""Bahadar"")))",false
+12425,12516,ewahrte sich mit banger Scheu.,"Mein Lieben wollte ihre Furcht besiegen,
+            Doch meine Liebe überwand mich selbst.",Was soll ich nun? Ich kann ihr,11,"transfer(sultan, sino, in_love_with(sultan, nerissa))",false
+23075,23094,".
+            Ich bin Bahadar,",eures Feindes Sohn.,"SINO.
+          
+            O",12,"transfer(udohla, sino, child_of(udohla, ""Bahadar""))",false
+3030,3051,"           Die Blutsverwandte,",seine eigne Schwester,"Sich zu vermählen, wider Pflic",13,"transfer(mangu, [sino, audience], siblings(nerissa, sultan))",false

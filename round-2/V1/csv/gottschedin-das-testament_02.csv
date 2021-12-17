@@ -1,0 +1,23 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+127019,127030,"be ich nunmehro Nachricht, daß",mein Bruder,in einer halben Stunde hier se,0,"transfer(herr_von_ziegendorf, audience, siblings(herr_von_ziegendorf, SIBLING[HERR_VON_ZIEGENDORF]))",false
+4224,4251,".
+            Je nun! freilich",hat sie noch eine Schwester,: aber sie wird ihr Vermögen d,1,"transfer(fraeulein_amalie, audience, siblings(frau_von_tiefenbronn, SIBLING2[FRAU_VON_TIEFENBRONN]))",false
+319,339,"ne,
+          Fräulein Amalie,",Herr von Kaltenbrunn,"ihrer Schwester Kinder
+       ",2,"transfer(""Figurentafel"", audience, nephew_of(herr_von_kaltenbrunn, frau_von_tiefenborn))",false
+350,365,"          Herr von Kaltenbrunn",ihrer Schwester,"Kinder
+        
+        Herr H",3,"transfer(""Figurentafel"", audience, siblings(frau_von_tiefenbronn, SIBLING1[FRAU_VON_TIEFENBRONN]))",false
+63772,63786,"  Das ist mir von Herzen leid,",Frau Schwester,": allein, lassen Sie denn auch",4,Papierkorb,false
+263,280,"enborn, eine alte reiche Witwe",Fräulein Karoline,",
+          Fräulein Amalie,
+ ",5,"transfer(""Figurentafel"", audience, niece_of(fraeulein_karoline, frau_von_tiefenborn))",false
+292,307," 
+          Fräulein Karoline,",Fräulein Amalie,",
+          Herr von Kaltenbru",6,"transfer(""Figurentafel"", audience, niece_of(fraeulein_amalie, frau_von_tiefenborn))",false
+176012,176041,n's nicht länger verschweigen.,Sie hat sich in mich verliebt,": sie will
+              mich ",7,"transfer(herr_von_wagehals, frau_von_tiefenborn, in_love_with(fraeulein_amalie, herr_von_wagehals))",false
+164544,164635,", Fräulein! unter allen Damen,","die sich noch in mich verliebt haben, ist
+              auch keine so scheu gewesen als Sie",. Warum rücken Sie mit der Spr,8,"transfer(herr_von_wagehals, [audience, fraeulein_amalie], knowledge(herr_von_wagehals, in_love_with(fraeulein_amalie, herr_von_wagehals)))",false
+350,372,"          Herr von Kaltenbrunn",ihrer Schwester Kinder,"Herr Hauptmann von Wagehals
+  ",9,"transfer(""Figurentafel"", audience, siblings([fraeulein_karoline, fraeulein_amalie], herr_von_kaltenbrunn))",false

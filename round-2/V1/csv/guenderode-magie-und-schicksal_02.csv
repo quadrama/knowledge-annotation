@@ -1,0 +1,68 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+11645,11686," o Herr! wie immer abgewiesen.",Mit deinem Feind vermählt sie morgen sich,".
+          
+        
+        ",0,"transfer(bote, [audience, liagres, zeno], engaged(ladikae, timandras))",false
+274,282,"s Wittwe.
+          Timandras,",ihr Sohn,".
+          Ladikä, seine Geli",1,"transfer(""Figurentafel"", audience, child_of(timandras, cassandra))",false
+9652,9695,"änzlich von Ladikä abzuwenden,","Seit du es wissest, daß sie dich verschmäht","?
+          
+        
+        ",2,"transfer(zeno, audience, !in_love_with(ladikae, ligares))",false
+39933,40021,erlohr ich die so schöne Zeit?,"Die süße Heimath in Ladikäs Armen
+            Vertauscht' ich mit der Wälder Einsamkeit.","Ligares springt auf.
+         ",3,"transfer(timandras, [ligares, zeno], identity(""Jäger"", timandras))",false
+69385,69857,"
+        
+          CASSANDRA.","Ich habe dich, o Fremdling! hier belauschet,
+            Und deiner Werte Sinn hat mich gerührt.
+            Ja, wunderbar und tief hat's mich ergriffen,
+            So unbekannt mir auch dein Schicksal ist.
+            Wenn dir der Himmel vieles auch versagte,
+            Verschmähe trotzig drum den Antheil nicht,
+            Den deine Reden mir so tief erreget –
+            Wohl eine kleine Gabe ist's für dich;
+            Doch Antheil sollte nie verschmähet werden.","LIGARES.
+          
+          ",4,"transfer(cassandra, [audience, ligares], transfer(""Ligares Monolog"", cassandra, in_love_with(""Fremdling"", LOVER[FREMDLING])))",false
+42460,42473,"!
+            Er hat gesiegt –",sie liebt ihn,"– und er siegt!
+            Wa",5,"transfer(ligares, [audience, zeno], in_love_with(ladikae, timandras))",false
+9493,9696,"O.
+          
+            Wie?","hast du selbst dir heilig nicht gelobet,
+            Der falschen Hoffnung länger nicht zu traun?
+            Dich gänzlich von Ladikä abzuwenden,
+            Seit du es wissest, daß sie dich verschmäht?","LIGARES.
+          
+          ",6,"transfer(zeno, audience, in_love_with(ligares, ladikae))",false
+73371,73422,"     
+            Ligares, du?","erkenne deine Mutter;
+            Cassandra bin ich","; o verzeihe mir,
+            ",7,"transfer(cassandra, ligares, has_name(PARENT[LIGARES], ""Cassandra""))",false
+61975,62124,"mich, doch höre mich gelassen:","Von Liebe kann die Rede nicht mehr seyn;
+             Doch sieh, von Herzen will ich dir begegnen,
+            Wie einem Freunde, wenn du ruhig bist.","Sag nicht, daß ich die Treue d",8,"transfer(ladikae, ligares, !in_love_with(ladikae, ligares))",false
+73371,73422,"     
+            Ligares, du?","erkenne deine Mutter;
+            Cassandra bin ich","; o verzeihe mir,
+            ",9,"transfer(cassandra, ligares, identity(""fremde Frau"", PARENT[LIGARES]))",false
+22478,22724," Antlitz so verräthrisch noch?","Kann sie in ihm die schlimme That noch lesen,
+            Die Reue und Vergangenheit begrub? –
+            Hinweg von dem Gedanken des Entsetzens,
+            Den krankhaft Reue immer neu erzeugt;
+            Warum Vergangnes aus dem Grabe rufen?",Es ruhet besser in Vergessenhe,10,"transfer(cassandra, audience, parent_of(cassandra, ligares))",false
+75367,75461," Mutter hast du heut gefunden,","Ich führe dir noch einen Bruder zu;
+            Wie wird sich nicht Timandras deiner freuen. –","LIGARES.
+          Timandras, ",11,"transfer(cassandra, ligares, siblings(timandras, ligares))",false
+203,212,"ein Magier.
+          Ligares,",sein Sohn,".
+          Cassandra, Tresasp",12,"transfer(""Figurentafel"", audience, child_of(ligares, magier))",false
+302,316,"s, ihr Sohn.
+          Ladikä,",seine Geliebte,".
+          Zeno, des Alkmenes",13,"transfer(""Figurentafel"", audience, lovers(timandras, ladikae))",false
+73096,73149,"
+            Mein Vater starb,","Alkmenes war sein Name,
+            Ligares heiß' ich","– aber du erbebst –
+          ",14,"transfer(ligares, cassandra, identity(""Fremdling"", ligares))",false

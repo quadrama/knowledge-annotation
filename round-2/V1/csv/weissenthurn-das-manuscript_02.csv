@@ -1,0 +1,103 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+210247,210253,"e finden. Ja, Mutter! Freunde!",Gatte!,"ich werde sehen, ich
+         ",0,"transfer(albertine, [audience, madame_woelbing, gehrmann, august, annchen], engaged(albertine, august))",false
+95558,95597,"iten Welt kein Mädchen findet,","das
+              ihn so liebt, wie ich",. Geht weinend ab in die Seite,1,"transfer(emerike, [audience, flint], in_love_with(emerike, flint))",false
+135217,135237,"  
+            MADAME WÖLBING.",Albertine war schön.,"AUGUST
+            mit Wärme.
+",2,"transfer(madame_woelbing, august, has_name(CHILD[MADAME_WOELBING], ""Albertine""))",false
+199341,199589,"          
+            AUGUST.","Noch nie stand ich mit diesem Gefühle der Hingebung vor einem sehenden
+              Mädchen, wie ich hier vor der Erblindeten stehe. Voll
+                Feuer. Mein Los ist geworfen! Mein Ideal hat Leben. Albertine!
+              werden Sie mein?","ALBERTINE
+            sehr ers",3,"transfer(august, [madame_woelbing, albertine], in_love_with(august, albertine))",false
+206,216,"Buchhändler.
+          August,",sein Neffe,".
+          Flint, erster Comm",4,"transfer(""Figurentafel"", audience, nephew_of(august, gehrmann))",false
+104541,104565,"  
+            MADAME WÖLBING.","Eine Tochter, mein Herr.","AUGUST.
+            O dann, gl",5,"transfer(madame_woelbing, august, child_of(CHILD[MADAME_WOELBING], madame_woelbing))",false
+99714,99854,"          So wissen Sie denn –","der, dem Sie den Auftrag gaben, einen Andern dahin zu bringen,
+              daß er Emeriken seine Hand reiche, der liebt das Mädchen selbst",".
+          
+          
+      ",6,"transfer(flint, gehrmann, in_love_with(flint, emerike))",false
+348,363,"s Mündel.
+          Kunigunde,",ihre Erzieherin,".
+          Herr von Giebel.
+ ",7,"transfer(""Figurentafel"", audience, fosterparent_of(kunigunde, emerike))",false
+302,325,"mis.
+          Emerike Würzig,",Herrn Gehrmann's Mündel,".
+          Kunigunde, ihre Er",8,"transfer(""Figurentafel"", audience, fosterchild_of(emerike, gehrmann))",false
+91978,92003,"         
+            EMERIKE.",Weil ich ihn nicht liebe.,"FLINT
+            schnell ihre",9,"transfer(emerike, flint, !in_love_with(emerike, august))",false
+38469,38482,"
+          
+            FLINT.",Konrad Flint.,"EMERIKE.
+            Konrad –
+",10,"transfer(flint, [audience, emerike], has_name(flint, ""Konrad Flint""))",false
+173032,173060,"          
+            AUGUST.",Sie ist – Schriftstellerin –,"GEHRMANN
+            in höchst",11,"transfer(august, gehrmann, identity(LOVER[AUGUST], ""Schriftstellerin""))",false
+153711,153753,el! das ist ein lieber Mensch!,dem würde ich mit Freude meine Hand geben.,"KUNIGUNDE
+            erstaunt",12,"transfer(emerike, kunigunde, in_love_with(emerike, flint))",false
+95097,95136,"GEHRMANN
+            zu Flint.","Sie liebt ihn! sehen Sie, sie liebt ihn",", und der verstockte Mensch lä",13,"transfer(gehrmann, [audience, flint], transfer(emerike, [gehrmann, flint], in_love_with(emerike, august)))",false
+1759,1777,"        
+            GEHRMANN.",Deine Braut kommt.,"AUGUST
+            erstaunt.
+ ",14,"transfer(gehrmann, audience, engaged(august, FIANCÉE[AUGUST]))",false
+15772,15783,"Rosalia Meyer ihr das Liebste,",ihre Nichte,", anvertraut!
+            
+   ",15,"transfer(gehrmann, audience, niece_of(emerike, ""Rosalia Meyer""))",false
+147361,147382,"  
+            MADAME WÖLBING.",Herrn Gehrmanns Neffe,", der sich für die werdende Sc",16,"transfer(madame_woelbing, albertine, nephew_of(NEPHEW[GEHRMANN], gehrmann))",false
+4620,4653,"m Mädchen meine Hand zu geben,","das ich nicht
+              liebe",".
+          
+          
+      ",17,"transfer(august, [audience, gehrmann], !in_love_with(august, FIANCÉE[AUGUST]))",false
+154337,154403,"  EMERIKE
+            lebhaft.","Nein Kundel, ehe ich den nehme, ehe würde ich ins Wasser springen.","KUNIGUNDE.
+            Was? so",18,"transfer(emerike, kunigunde, !in_love_with(emerike, august))",false
+168996,169005,"AUGUST.
+            Nun denn –",ich liebe,"!
+          
+          
+      ",19,"transfer(august, [audience, gehrmann], in_love_with(august, LOVER[AUGUST]))",false
+470,482," Wölbing.
+          Albertine,",ihre Tochter,".
+          Annchen, ein Kind ",20,"transfer(""Figurentafel"", audience, child_of(albertine, madame_woelbing))",false
+99549,99578,"
+          
+            FLINT.",Auch nicht mit meinem Gefühl.,"GEHRMANN.
+            Wie?
+   ",21,"transfer(flint, audience, in_love_with(flint, emerike))",false
+87020,87037,"         
+            EMERIKE.",Ich heiße Emerike,"–
+          
+          
+      ",22,"transfer(emerike, flint, has_name(FIANCÉE[AUGUST], ""Emerike""))",false
+5212,5224,bin ich zuvorgekommen. Sie ist,meine Mündel,", du mein Neffe; meine
+       ",23,"transfer(gehrmann, audience, identity(FIANCÉE[AUGUST], emerike))",false
+207438,207510,e Menschen gefunden zu haben –,"und neben meiner Mutter noch
+              einen würdigen Mann zu lieben",". Mehr darf ich nicht.
+       ",24,"transfer(albertine, [audience, august, gehrmann, madame_woelbing], in_love_with(albertine, august))",false
+94949,95019,"    mit einem Blick auf Flint.","Ach nein! er will mich nicht, und ich werde doch keinen Andern lieben.","GEHRMANN
+            zu Flint.",25,"transfer(emerike, [gehrmann, flint, audience], in_love_with(emerike, LOVER[EMERIKE]))",false
+2270,2282,".
+            Durch den Wucher",ihres Vaters,"erworben.
+          
+         ",26,"transfer(august, audience, parent_of(PARENT[FIANCÉE[AUGUST]], FIANCÉE[AUGUST]))",false
+153508,153539,"del – ich begreife jetzt wohl,",daß mich Herr Flint nicht liebt,".
+          
+          
+      ",27,"transfer(emerike, [audience, kunigunde], !in_love_with(flint, emerike))",false
+184164,184172,"erissen, ihre Hand ergreifend.",Er will!,"EMERIKE
+            voll Freud",28,"transfer(flint, emerike, in_love_with(flint, emerike))",false
+180095,180123,"         
+            EMERIKE.",Und ich will ihn auch nicht!,"Ach, ich bin so voll Freude!
+ ",29,"transfer(emerike, gehrmann, !in_love_with(emerike, august))",false

@@ -1,0 +1,116 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+93503,93532," die Braut eines Andern, und –",ich habe nur Achtung für Sie.,"EMERIKE
+            seufzt.
+  ",0,"transfer(flint, [emerike,audience], !in_love_with(flint, emerike), lie)",false
+75848,75877,"   GIEBEL
+            vornehm.","Pamphilius, Edler von Giebel.","FLINT.
+            Sie sind de",1,"transfer(giebel, [audience, flint], has_name(giebel, ""Pamphilius Edler von Giebel""))",false
+184164,184172,"erissen, ihre Hand ergreifend.",Er will!,"EMERIKE
+            voll Freud",2,"transfer(flint, emerike, in_love_with(flint, emerike))",false
+202951,203134,"          
+            AUGUST.","Nein, Albertine! ich liebe nicht nur Sie, ich liebe Ihr
+                Unglück. Ich setze meinen Ruhm, meinen Stolz darein, es zu theilen, zu
+              mildern – werden Sie mein!","ALBERTINE.
+            Nein – ",3,"transfer(august, [albertine, audience], in_love_with(august, albertine))",false
+459,483,"ing.
+          Madame Wölbing.","Albertine, ihre Tochter.","Annchen, ein Kind von 8 bis 10",4,"transfer(""Figurentafel"", audience, child_of(albertine, madame_woelbing))",false
+337,364,"rzig, Herrn Gehrmann's Mündel.","Kunigunde, ihre Erzieherin.","Herr von Giebel.
+          Hel",5,Papierkorb,false
+180095,180123,"         
+            EMERIKE.",Und ich will ihn auch nicht!,"Ach, ich bin so voll Freude!
+ ",6,"transfer(emerike, gehrmann, !in_love_with(emerike, august))",false
+153483,153540,"er ich,
+              Kundel –","ich begreife jetzt wohl, daß mich Herr Flint nicht liebt.","KUNIGUNDE.
+            Wer ist",7,"transfer(emerike, kunigunde, !in_love_with(flint, emerike))",false
+87936,88055,"     Hause gar nicht; – aber –","wenn Sie mit diesem Tone Emerike sagen, dann
+              dünkt mir, es gibt gar keinen schöneren Nahmen auf der Welt.","FLINT
+            ihre Hand er",8,"transfer(emerike, [flint, audience], in_love_with(emerike, flint), uncertain)",false
+4620,4654,"m Mädchen meine Hand zu geben,","das ich nicht
+              liebe.","GEHRMANN.
+            Mit der ",9,"transfer(august, [audience, gehrmann], !in_love_with(august, FIANCEÉ[AUGUST]))",false
+94910,94977,"          
+            EMERIKE","mit einem Blick auf Flint.
+            Ach nein! er will mich nicht",", und ich werde doch keinen An",10,Papierkorb,false
+104541,104553,"  
+            MADAME WÖLBING.",Eine Tochter,", mein Herr.
+          
+      ",11,"transfer(madame_woelbing, august, child_of(madame_woelbing, CHILD[MADAME_WOELBING]))",false
+184252,184269,"ERIKE
+            voll Freude.",Und ich will auch,", und die Muhme wird gewiß auc",12,"transfer(emerike, flint, in_love_with(emerike, flint))",false
+95075,95111,"         
+            GEHRMANN","zu Flint.
+            Sie liebt ihn!","sehen Sie, sie liebt ihn, und ",13,"transfer(gehrmann, flint, in_love_with(emerike, august))",false
+40503,40599,"ule herum, oder fielen gar zu.","Aber bey Ihnen würden sie nicht zufallen, ich
+              könnte Tagelang in Ihre Augen sehen.","FLINT
+            für sich.
+  ",14,"transfer(emerike, [flint, audience], in_love_with(emerike, flint), uncertain)",false
+168985,169006,"          
+            AUGUST.",Nun denn – ich liebe!,"GEHRMANN
+            erstaunt.",15,"transfer(august, gehrmann, in_love_with(august, LOVER[AUGUST]))",false
+210247,210253,"e finden. Ja, Mutter! Freunde!",Gatte!,"ich werde sehen, ich
+         ",16,"transfer(albertine, [gehrmann, audience, august, annchen, madame_woelbing], engaged(albertine, august))",false
+206732,206862,"        
+            GEHRMANN.","Er sagte mir Ihren wahren Nahmen, ich erröthete; denn unter uns, Madame, ich glaube,
+              daß ich gegen Ihren braven Mann","noch etwas im Rückstande bin. ",17,"transfer(gehrmann, albertine, transfer(august, gehrmann, child_of(PARENT[ALBERTINE], albertine)))",false
+99714,99855,"          So wissen Sie denn –","der, dem Sie den Auftrag gaben, einen Andern dahin zu bringen,
+              daß er Emeriken seine Hand reiche, der liebt das Mädchen selbst.","GEHRMANN
+            erstaunt.",18,"transfer(flint, [gehrmann,audience], in_love_with(flint, emerike))",false
+67139,67152,"
+          
+            FLINT.",Konrad Flint.,"JÜNGLING.
+            Auch der",19,"transfer(flint, juengling, has_name(flint, ""Konrad Flint""))",false
+91978,92003,"         
+            EMERIKE.",Weil ich ihn nicht liebe.,"FLINT
+            schnell ihre",20,"transfer(emerike, [flint, audience], !in_love_with(emerike, august))",false
+88108,88166," 
+          
+            FLINT","ihre Hand ergreifend.
+            Liebes, holdes Geschöpf!","EMERIKE.
+            Ach! Steh",21,"transfer(flint, [emerike, audience], in_love_with(flint, emerike), uncertain)",false
+286,326,"mis.
+          Walter, Commis.","Emerike Würzig, Herrn Gehrmann's Mündel.","Kunigunde, ihre Erzieherin.
+  ",22,"transfer(""Figurentafel"", audience, fosterchild_of(emerike, gehrmann))",false
+131738,131820,"ach, und tritt dann rasch vor.","Wie ist mir? So gerührt war ich nie. So schön, so anmuthsvoll, und so unglücklich!",und dennoch – dieser kindliche,23,"transfer(august, audience, in_love_with(august, albertine))",false
+198,217,"        Gehrmann, Buchhändler.","August, sein Neffe.","Flint, erster Commis.
+        ",24,"transfer(""Figurentafel"", audience, nephew_of(august, gehrmann))",false
+92353,92750," Für sich. wie wird das enden!","EMERIKE
+            etwas verschämt.
+            Ich kenne einen Andern, den ich gerne glücklich machen möchte.
+          
+          
+            FLINT.
+            Einen – Andern?
+          
+          
+            EMERIKE.
+            Ja – ich kenne – sehen Sie jetzt immer ein wenig nach Ihrem Schreibtische hin, denn
+              ich möchte Ihnen sagen – Herzlich. daß ich Ihnen recht gut bin.","FLINT.
+            Emerike! Go",25,"transfer(emerike, [flint, audience], in_love_with(emerike, flint))",false
+40674,40701,"   FLINT
+            für sich.","Flint, sey auf deiner Huth!","EMERIKE.
+            Habe ich ",26,"transfer(flint, audience, in_love_with(flint, emerike), uncertain)",false
+154780,154806,"Um nicht einen Mann zu nehmen,",den ich nicht lieben kann.,"KUNIGUNDE.
+            Mann is",27,"transfer(emerike, kunigunde, !in_love_with(emerike, august))",false
+38469,38482,"
+          
+            FLINT.",Konrad Flint.,"EMERIKE.
+            Konrad –
+",28,"transfer(flint, [audience, emerike], has_name(flint, ""Konrad Flint""))",false
+15772,15783,"Rosalia Meyer ihr das Liebste,",ihre Nichte,", anvertraut!
+            
+   ",29,Papierkorb,false
+94910,95019,"          
+            EMERIKE","mit einem Blick auf Flint.
+            Ach nein! er will mich nicht, und ich werde doch keinen Andern lieben.","GEHRMANN
+            zu Flint.",30,"transfer(emerike, gehrmann, in_love_with(emerike, august), missunderstanding)",false
+1759,1777,"        
+            GEHRMANN.",Deine Braut kommt.,"AUGUST
+            erstaunt.
+ ",31,"transfer(gehrmann, [audience, august], engaged(august, FIANCEÉ[AUGUST]))",false
+179944,179979," Treppe begegnet. Voll Freude.","Er
+                will mich nicht.","GEHRMANN.
+            So?
+    ",32,"transfer(emerike, gehrmann, transfer(august, emerike, !in_love_with(august, emrike)))",false
+19996,20014," Sprache bekommen? Zu Emerike.",Das ist mein Neffe,", liebes
+              Kind.
+ ",33,"transfer(gehrmann, emerike, nephew_of(august, gehrmann))",false
