@@ -1,0 +1,100 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+71906,72113,ch in mein Eigenthum gedrängt.,"Noch mehr: die Mutter selbst hat mich verrathen,
+            Verlassend ihren Sohn, als Säugling noch;
+            Verrathend ihren Gatten, der sie liebte,
+            Hat sie zum fremden Manne sich gewandt.",Entsetzlich ist mein Schicksal,0,"transfer(""Biografie Ligares"", cassandra, parent_of(cassandra, ligares), uncertain)",false
+47129,47222,"bte, war ich selbst mir fremd;","Doch in Timandras hab ich mich gefunden,
+            Denn meiner Liebe Heimath ist sein Herz.","MANDANE.
+          Ich trage M",1,"transfer(ladikae, mandane, in_love_with(ladikae, timandras))",false
+47129,47222,"bte, war ich selbst mir fremd;","Doch in Timandras hab ich mich gefunden,
+            Denn meiner Liebe Heimath ist sein Herz.","MANDANE.
+          Ich trage M",1,"transfer(ladikae, mandane, in_love_with(ladikae, timandras))",false
+263,283,"  Cassandra, Tresaspes Wittwe.","Timandras, ihr Sohn.","Ladikä, seine Geliebte.
+      ",2,"transfer(""Figurentafel"", audience, child_of(timandras, cassandra))",false
+9652,9696,"änzlich von Ladikä abzuwenden,","Seit du es wissest, daß sie dich verschmäht?","LIGARES.
+          
+          ",3,"transfer(zeno, audience, !in_love_with(ladikae, ligares))",false
+75367,75459," Mutter hast du heut gefunden,","Ich führe dir noch einen Bruder zu;
+            Wie wird sich nicht Timandras deiner freuen.","–
+          
+        
+        ",4,"transfer(cassandra, ligares, siblings(ligares, timandras))",false
+294,317,"          Timandras, ihr Sohn.","Ladikä, seine Geliebte.","Zeno, des Alkmenes Freigelasse",5,"transfer(""Figurentafel"", audience, lovers(timandras, ladikae))",false
+72614,72821,er Götter willen! bleibe noch!,"Noch eine Frage! die ich zitternd nenne –
+            O Gott! wie klopft mein Herz so bang und schwer.
+            Ich bitte, Jüngling! sage deinen Namen
+            Und deines Vaters Namen; sprich ihn aus –","LIGARES.
+          Was kann me",6,Papierkorb,false
+21122,21209,"  LADIKÄ
+          zu Mandane.","O Himmel! sind das nicht Ligares Augen?
+            Mandane sieh! das ist Ligares Mund!",Es hat ein böser Geist des Jün,7,"transfer(""optische Ähnlichkeit von Cassandra und LIgares"", audience, relatives(cassandra, ligares), suspicion)",false
+9488,9696,"     
+        
+          ZENO.","Wie? hast du selbst dir heilig nicht gelobet,
+            Der falschen Hoffnung länger nicht zu traun?
+            Dich gänzlich von Ladikä abzuwenden,
+            Seit du es wissest, daß sie dich verschmäht?","LIGARES.
+          
+          ",8,"transfer(zeno, audience, in_love_with(ligares, ladikae))",false
+68671,68762,"t, und bleibt im Hintergrunde.","Und diese einzige ist mir versaget,
+            Und kein Ersatz, so weit der Himmel reicht.",Armseligkeit der reichen Schic,9,"transfer(""Monolog des Fremden"", cassandra, in_love_with(""Fremder"", LOVER[FREMDER]))",false
+194,213,"         Alkmenes, ein Magier.","Ligares, sein Sohn.","Cassandra, Tresaspes Wittwe.
+ ",10,"transfer(""Figurentafel"", audience, child_of(ligares, magier)) ",false
+73078,73149,"  
+        
+          LIGARES.","Mein Vater starb, Alkmenes war sein Name,
+            Ligares heiß' ich","– aber du erbebst –
+          ",11,"transfer(ligares, cassandra, identity(""Fremder"", ligares))",false
+39933,40021,erlohr ich die so schöne Zeit?,"Die süße Heimath in Ladikäs Armen
+            Vertauscht' ich mit der Wälder Einsamkeit.","Ligares springt auf.
+         ",12,"transfer(""Erwähnung von Ladikä"", ligares, identity(""Jäger"", timandras))",false
+224,251,"
+          Ligares, sein Sohn.","Cassandra, Tresaspes Wittwe",".
+          Timandras, ihr Soh",13,"transfer(""Figurentafel"", audience, widow:er_of(cassandra, ""Teraspes""))",false
+31709,31724," Gattinn treulos mich verließ;",Es ist ihr Sohn,", was durft ich von ihm hoffen",14,"transfer(magier, audience, child_of(ligares, SPOUSE[MAGIER]))",false
+17354,17447,den Tag du drohend vor mir auf,"Und zeigst das Bild Alkmenes mir erzürnet,
+            Die Mutter hassend den verlaßnen Sohn.","Timandras kommt.
+        
+    ",15,"transfer(cassandra, audience, ex-lovers(cassandra, alkmenes), uncertain)",false
+31653,31695,"on dem einzgen Sohn verlassen,",Wie einst die Gattinn treulos mich verließ,";
+            Es ist ihr Sohn,",16,"transfer(magier, audience, ex-spouses(magier, SPOUSE[MAGIER]))",false
+46737,46831,"dem Timandras ihn vergleichen,","Dem holden anmuthsvollen, süßen Freund,
+            Ligares, den Entsetzlichsten der Menschen?","Mir schauert, denk' ich seiner",17,"transfer(ladikae, mandane, !in_love_with(ladikae, ligares))",false
+46789,46885,"n anmuthsvollen, süßen Freund,","Ligares, den Entsetzlichsten der Menschen?
+            Mir schauert, denk' ich seiner Liebe nur.",Wohl mir! daß ich dem schlimms,17,"transfer(ladikae, mandane, !in_love_with(ladikae, ligares))",false
+61975,62014,"mich, doch höre mich gelassen:",Von Liebe kann die Rede nicht mehr seyn,";
+             Doch sieh, von ",18,"transfer(ladikae, ligares, !in_love_with(ladikae, ligares))",false
+61975,62014,"mich, doch höre mich gelassen:",Von Liebe kann die Rede nicht mehr seyn,";
+             Doch sieh, von ",18,"transfer(ladikae, ligares, !in_love_with(ladikae, ligares))",false
+61975,62014,"mich, doch höre mich gelassen:",Von Liebe kann die Rede nicht mehr seyn,";
+             Doch sieh, von ",18,"transfer(ladikae, ligares, !in_love_with(ladikae, ligares))",false
+43524,43539,"        Bestatte hier noch des",Alkmenes Leiche,",
+            Dann folgst du m",19,Papierkorb,false
+73358,73438,"
+        
+          CASSANDRA.","Ligares, du? erkenne deine Mutter;
+            Cassandra bin ich; o verzeihe mir",",
+            Verwünsche die n",20,Papierkorb,false
+20863,20900,Ladikä und Mandane treten ein.,Sieh Mutter! das ist meine süße Liebe,",
+            Ich führ in dein",21,Papierkorb,false
+11645,11687," o Herr! wie immer abgewiesen.",Mit deinem Feind vermählt sie morgen sich.,"LIGARES.
+          
+          ",22,"transfer(bote, [audience, zeno, ligares], engaged(ladikae, timandras))",false
+73358,73438,"
+        
+          CASSANDRA.","Ligares, du? erkenne deine Mutter;
+            Cassandra bin ich; o verzeihe mir",",
+            Verwünsche die n",23,"transfer(cassandra, [ligares, audioence], parent_of(cassandra, ligares))",false
+36029,36175,"        Er kommt nicht – Zeno!","sage meinem Sohne,
+            Daß er des Feindes Leben schonen soll –
+            Und sag ihm, daß er seine Mutter finden –
+            Timandras",– ach! ich kann nicht – Lebe w,24,"transfer(magier, audience, relatives(timandras, ligares), uncertain)",false
+22783,22819,ruhet besser in Vergessenheit.,Hab eines Sohnes Liebe ich verlohren,",
+            So hab ich die d",25,Papierkorb,false
+162,170," 
+        
+          Personen.",Alkmenes,", ein Magier.
+          Ligare",26,"transfer(""Figurentafel"", audience, has_name(magier, ""Alkmenes""))",false
+17409,17447,"as Bild Alkmenes mir erzürnet,",Die Mutter hassend den verlaßnen Sohn.,"Timandras kommt.
+        
+    ",27,"transfer(casandra, audience, parent_of(cassandra, ligares), uncertain)",false

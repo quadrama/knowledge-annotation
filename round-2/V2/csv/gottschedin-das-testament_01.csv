@@ -1,0 +1,65 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+206712,206740,"          FRAU VON TIEFENBORN.",Ich heiße Veronika Eustasia.,"NOTARIUS
+            schreibt ",0,Papierkorb,false
+176012,176041,n's nicht länger verschweigen.,Sie hat sich in mich verliebt,": sie will
+              mich ",1,"transfer(herr_von_wagenhals, frau_von_tiefenborn, in_love_with(fraeulein_amalie, herr_von_wagehals))",false
+214305,214347,"         HERR VON KALTENBRUNN.",Albanus Basilius Torpetus von Kaltenbrunn.,"NOTARIUS
+            schreibt ",2,Papierkorb,false
+213620,213670," 
+            FRÄULEIN AMALIE.",Ich heiße Euphemia Rebekka Amalia von Kaltenbrunn.,"NOTARIUS
+            schreibt ",3,Papierkorb,false
+211378,211406,"GENDORF.
+            Freilich!",Ich heiße Wunnibald Agathon.,"NOTARIUS
+            schreibt ",4,Papierkorb,false
+169839,169867,freilich! Ich erbe ja noch von,meiner seligen Mutter Bruder,"einmal alles.
+          
+     ",5,"transfer(fraeulein_amalie, [herr_von_wagehals, audience], siblings(SIBLING-1[FRAU_VON_TIEFENBORN], SIBLING-2[FRAU_VON_TIEFENBORN]))",false
+182032,182043,"GENDORF.
+            Freilich,",er hat Frau,"und Kinder.
+          
+       ",6,Papierkorb,false
+263,372,"enborn, eine alte reiche Witwe","Fräulein Karoline,
+          Fräulein Amalie,
+          Herr von Kaltenbrunn
+          ihrer Schwester Kinder","Herr Hauptmann von Wagehals
+  ",7,"transfer(""Figurentafel"", audience, siblings(fraeulein_karoline, [fraeulein_amalie, herr_von_kaltenbrunn]))",false
+127019,127030,"be ich nunmehro Nachricht, daß",mein Bruder,in einer halben Stunde hier se,8,Papierkorb,false
+211698,211725,"            HERR VON WAGEHALS.",Beuterich Putz von Wagehals,", Hauptmann unterm Brichhalsis",9,Papierkorb,false
+63772,63786,"  Das ist mir von Herzen leid,",Frau Schwester,": allein, lassen Sie denn auch",10,Papierkorb,false
+141838,141860,"
+            DR. SCHLAGBALSAM.",Ich heiße Schlagbalsam,mit meinem christlichen Zuname,11,Papierkorb,false
+69035,69048,"           So? meinen Sie das,",Herr Schwager,. Ich bin doch aber schon vier,12,"transfer(frau_von_tiefenborn, audience, siblings-in-law(frau_von_tiefenborn, herr_von_ziegendorf))",false
+223390,223441,"KAROLINE
+            lächelnd.","Ersparen Sie sich die Mühe, mein Herr von Kreuzweg.","Ich habe nur gar zu deutlich
+ ",13,"transfer(fraeulein_karoline, [fraeulein_amalie, fraeulein_karoline, herr_von_wagehals, ""Dr. Schlagbalsam"", dr_hippokras, herr_von_kaltenbrunn, herr_von_kreuzweg, herr_von_ziegendorf, notarius], !in_love_with(fraeulein_karoline, herr_von_kreuzweg))",false
+217604,217639,"          FRAU VON TIEFENBORN.","Ja, als meinem verlobten Bräutigam.",Herr von Kaltenbrunn und Fräul,14,"transfer(frau_von_teifenborn, [fraeulein_amalie, fraeulein_karoline, herr_von_wagehals, ""Dr. Schlagbalsam"", dr_hippokras, herr_von_kaltenbrunn, herr_von_kreuzweg, herr_von_ziegendorf, notarius], engaged(frau_von_tiefenborn, herr_von_ziegendorf))",false
+169985,170006,"           Je! der hat ja noch",zween lebendige Söhne,"am Leben!
+          
+         ",15,"transfer(herr_von_wagehals, audience, child_of(SIBLING-2[FRAU_VON_TIEFENBORN], CHILD_OF[SIBLING-2[FRAU_VON_TIEFENBORN]]))",false
+4224,4251,".
+            Je nun! freilich",hat sie noch eine Schwester,: aber sie wird ihr Vermögen d,16,"transfer(fraeulein_amalie, [fraeulein_karoline, audience], siblings(frau_von_tiefenborn, SIBLING[FRAU_VON_TIEFENBORN]))",false
+33629,33675,"           Person zu belachen,",die ich im Leben als eine Mutter verehret habe,". Sie küßt
+                ihr",17,"transfer(fraeulein_karoline, [fraeulein_amalie, frau_von_tiefenborn, audience], fosterparent_of(frau_von_tiefenborn, fraeulein_karoline))",false
+176805,176835,"   Die Sache klingt sehr groß.",Ich glaube sie nur noch nicht.,"HERR VON WAGEHALS.
+           ",18,"transfer(herr_von_wagenhals, frau_von_tiefenborn, in_love_with(fraeulein_amalie, herr_von_wagehals), uncertain)",false
+212963,213008,"   
+            DR. HIPPOKRAS.",Meine Name ist Pankratius Mammertus Hippokras,", Medicinae Doktor.
+          ",19,Papierkorb,false
+263,372,"enborn, eine alte reiche Witwe","Fräulein Karoline,
+          Fräulein Amalie,
+          Herr von Kaltenbrunn
+          ihrer Schwester Kinder","Herr Hauptmann von Wagehals
+  ",20,"transfer(""Figurentafel"", audience, child_of([fraeulein_amalie, fraeulein_karoline, herr_von_kaltenbrunn], SIBLING-1[FRAU_VON_TIEFENBORN]))",false
+213958,213989,"            FRÄULEIN KAROLINE.",Judith Karoline von Kaltenbrunn,", eine Bedienung habe ich nich",21,Papierkorb,false
+217974,218000," VON WAGEHALS.
+            Ja,",so mag ich sie auch nicht!,Mit einer Bettlerin ist mir ni,22,"transfer(herr_von_wagehals, [fraeulein_amalie, fraeulein_karoline, herr_von_wagehals, ""Dr. Schlagbalsam"", dr_hippokras, herr_von_kaltenbrunn, herr_von_kreuzweg, herr_von_ziegendorf, notarius], !in_love_with(herr_von_wagehals, fraeulein_amalie))",false
+71233,71254,"
+            Ach! ich denke an",meinen seligen Gemahl,"!
+          
+          
+      ",23,"transfer(frau_von_tiefenborn, audience, widow:er_of(frau_von_tiefenborn, HUSBAND[FRAU_VON_TIEFENBORN]))",false
+212390,212431,"WEG.
+            Mein Name ist",Arnolphus Carpasius Volkmar von Kreuzweg.,"NOTARIUS
+            schreibt ",24,Papierkorb,false
+182044,182055,"         Freilich, er hat Frau",und Kinder.,"FRÄULEIN AMALIE
+            ve",25,Papierkorb,false
