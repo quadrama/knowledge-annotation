@@ -1,0 +1,254 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+80016,80144,"nig, Herr Automate, noch eins.","SARMIENTO
+            demaskiert sich.
+            Ihr habt mich schon ganz erschöpft. Ihr kennt mich nicht, ich bin der Mercado",",
+              Kapitän bei de",0,"transfer(sarmiento, felix, has_name(sarmiento, ""Mercado""))",false
+108357,108384,"         
+            VALERIA.",Ich liebe dich jetzt nicht.,"PORPORINO.
+            Ach – j",1,Papierkorb,false
+43696,43808,"         
+            VALERIO.","Er ist sehr zärtlich, es ist die Tochter der Witwe Domingos de las Torres, die in
+              Saragossa wohnt.","Es ist ein gutes Mädchen, und ",2,"transfer(valerio, sarmiento, lovers(felix, lucilla))",false
+168959,168991," VALERIA
+            vor sich.",Wie Porporino närrisch aussieht!,"PORPORINO
+            zu Melan",3,"knowledge(valeria, identity(""Arzt"", porporino))",false
+351131,351161,h war der Schneider und Maler;,"Duca Aquilar, ich war der Arzt",", und habe
+              Euch ",4,"transfer(porporino, aquilar, identity(""Arzt"", porporino))",false
+335724,335752,"IA.
+            Sie liebt ihn,","aber weiß nicht, wer er ist.","PONCE
+            kömmt aus de",5,"transfer(""Flametta"", lucilla, !knowledge(isidora, identity(""Pilger""[ponce, aquilar])))",false
+223120,223149,n der Raserei nicht entwischt.,"AQUILAR
+            küßt sie.","O welcher Blitz, der rückwärts",6,"transfer(aquilar, [audience, melanie, isabella], in_love_with(aquilar, melanie))",false
+71210,71229,"       
+            SARMIENTO.",Ich bin der Mercado,", Kapitän der Kavallerie, und ",7,"transfer(sarmiento, [aquilar, ponce, audience], has_name(sarmiento, ""Mercado""))",false
+22011,22025,"         
+            VALERIA.",Ich liebe ihn.,"VALERIO.
+            So jage i",8,"transfer(valeria, valerio, in_love_with(valeria, ponce))",false
+55936,56048,"       
+            PORPORINO.","Seid Ihr Sarmiento?
+          
+          
+            SARMIENTO
+            umarmt ihn.
+            Ja, ich bins","; aber schweige, ich bins jetz",9,"transfer(sarmiento, porporino, identity(""Maskierter"", sarmiento))",false
+351087,351129,"       
+            PORPORINO.","Don Ponce, ich war der Schneider und Maler","; Duca Aquilar, ich war der Ar",10,"transfer(porporino, ponce, identity(""Maler und Schneider"", porporino))",false
+21551,21570,"         
+            VALERIA.",Er will mich nicht.,"VALERIO.
+            Er will d",11,"transfer(valeria, [valerio, audience], !in_love_with(ponce, valeria))",false
+141895,141951,"
+            Lieber Porporino,",ich liebe dich seit ein paar Tagen doch ein bißchen mehr,"; sage mirs
+              doch",12,"transfer(valeria, [porporino, audience], in_love_with(valeria, porprino))",false
+236633,236695,"          Hilf! Mädchen, hilf!","Sieh, alles Liebesfeuer, was uns armen Jungen im Herzen brennt",",
+              soll sich zu s",13,"transfer(aquilar, ""Flametta"", in_love_with(ponce, isidora))",false
+201645,201800,"RIA
+            zurücktretend.","Ein Fremdling – ach! ein Fremdling seid Ihr? Ich irrte mich – verzeiht, – und rühmt
+              Euch nicht, daß Euch an diesem Schlosse ein Weib umarmte.","Sie geht schnell ins
+         ",14,Papierkorb,false
+142676,142685,"       
+            PORPORINO.",Sarmiento,– nun ist es heraus – nun weiß,15,"transfer(porporino, valeria, identity(""Mercado"", sarmiento))",false
+105919,105980,"            nichts eigentlich;","aber sieh, er hat sich in Isidora, Felix' Schwester, verliebt",", und
+              in ein Bru",16,"transfer(aquilar, valeria, in_love_with(ponce, isidora))",false
+350186,350277,"         
+            VALERIA.","Porporino, da du Ritter bist, willst du mich noch? Er umfängt sie
+                lächelnd.","SARMIENTO.
+            Isidora",17,"transfer(valeria, [sarmiento, audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], lovers(valeria, porporino))",false
+349485,349578,"ein Mutter, und nun mein Weib!","Ich schickte sie als meine Schwester
+              her, damit ihr eure Mutter kennen lerntet.","JUANNA.
+            Ei, wegen ",18,"transfer(sarmiento, [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], !siblings(sariento, isabella))",false
+349440,349464,"       
+            SARMIENTO.",Isabella ist dein Mutter,", und nun mein Weib! Ich schic",19,"transfer(sarmiento, [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], parent_of(isabella, porporino))",false
+163284,163307,"
+            Ach! das ist sie,",das ist Ponces Geliebte,"; o gerne trete ich zurück.
+  ",20,"transfer(valeria, valerio, in_love_with(ponce, isidora))",false
+341495,341512,"     Steigend. Ficht, Ponce! –",ich bin Porporino,"– ich sterbe hier – wo
+       ",21,"transfer( ritter, [ponce, valeria, valerio, audience], identity(ritter, porporino))",false
+185550,185564,"e mir Don
+              Ponce,",sie liebt ihn.,"ISIDORA.
+            Liebt ihn",22,"transfer(""Flametta"", isidora, in_love_with(LOVER[PONCE], ponce))",false
+163284,163307,"
+            Ach! das ist sie,",das ist Ponces Geliebte,"; o gerne trete ich zurück.
+  ",23,Papierkorb,false
+213999,214029,"          Das weiß der Himmel,",denn sie ist der Himmel selbst,", und ich will selig sterben –",24,"transfer(porporini, ""Flametta"", in_love_with(porporino, valeria))",false
+70831,70864,ier mein Freund bewegten mich.,"SARMIENTO
+            demaskiert.","Hier bin auch ich, doch hilft ",25,"SARMIENTO
+            demaskiert.",false
+287468,287485,"  FELIX.
+            Verzeihe,",ich liebe dich so,", daß ich immer glaube, du wüß",26,"transfer(felix, [lucilla, audience], in_love_with(felix, lucilla))",false
+248830,248879,"         
+            ISIDORA.","Und jener, den du meinen nanntest – heiße Carlos.","MELANIE.
+            So können",27,"transfer(isidora, [melanie, audience], has_name(ponce, ""Carlos""))",false
+344892,344918,"        
+            ISABELLA.",Dort steht der Prätendent.,"FELIX.
+            Porporino, ",28,"transfer(isabella, felix, identity(ritter, porporino))",false
+340188,340235,"   komme in kein fremdes Haus,","ich komme, meine Braut zu holen – Donna Lucilla",", die Don
+              Felix ",29,"transfer(ritter, [ponce, audience, valerio], engaged(ritter, lucilla))",false
+176595,176638,"         
+            VALERIO.","Tue sie ab, armer Schelm, bis jemand kömmt.","PORPORINO.
+            Ich möc",30,"knowledge(valerio, identity(""Arzt"", porporino))",false
+349466,349484,"     Isabella ist dein Mutter,",und nun mein Weib!,Ich schickte sie als meine Sch,31,"transfer(sarmiento, [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], spouses(sarmiento, isabella))",false
+11399,11425,"        Valeria, seine Tochter","Porporino, sein Findelsohn","Isabella, in Saragossa adelige",32,"transfer(""Figurentafel"", audience, fosterchild_of(porporino, valerio))",false
+191397,191445," und deiner Freundin schreibe,","daß ich Ponce niemals lieben
+              werde",", weil sie ihn liebt.
+        ",33,"transfer(isidora, ""Flametta"", !in_love_with(isidora, ponce))",false
+346168,346227,"          
+            VALERIA","tritt in die Mitte, nimmt den Helm ab, sie ist wieder weiß.","VALERIO.
+            Jesus – V",34,"transfer(""Helm ab"", [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], identity(""Schwarzes Mädchen"", valeria)) ",false
+348486,348524,mich zur Entführung beredete –,"SARMIENTO.
+            Ist dein Vater!","FELIX, ISIDORA, MELANIE
+      ",35,"transfer(""Nimmt Pelz ab"", [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], identity(""Mercado"", sarmiento))",false
+236633,236695,"          Hilf! Mädchen, hilf!","Sieh, alles Liebesfeuer, was uns armen Jungen im Herzen brennt",",
+              soll sich zu s",36,"transfer(aquilar, ""Flametta"", in_love_with(aquilar, melanie))",false
+200789,200826,"
+          
+            PONCE.","Bei Gott, sie ist es, sie liebt schon","; ich komme zu der Stunde, die",37,"transfer(ponce, audience, identity(""Frau im Dunkeln"", isidora), uncertain)",false
+168695,168742,"  
+          Sechster Auftritt","PORPORINO
+            als Arzt, sehr verstellt.","Hausmeister, geschwind, empfan",38,"transfer(""Nebentext"", audience, identity(porporino, ""Arzt""))",false
+18095,18147,"e, Porporino sei in den Krieg,","weil ich ihn nicht mehr
+              so sehr liebte",", nahm er den Spiegel, brachte",39,"transfer(valeria, [ponce, audience], !in_love_with(valeria, porporino))",false
+108626,108645,"       
+            PORPORINO.",Er liebte dich nie.,"Nun sind wir beide übel daran ",40,"transfer(porporino, valeria, !in_love_with(ponce, valeria))",false
+154047,154103,hen können. Es ist Nachmittag.,"Valeria als Negerin
+            maskiert mit kurzem Haar",", ein Bündelchen auf dem Rücke",41,"transfer(valeria, audience, identity(valeria, ""Schwarzes Mädchen""))",false
+145836,145869,"   Zweiundzwanzigster Auftritt",Porporino als Schneider und Maler,"zugleich. Die Perücke muß ihn ",42,"transfer(""Nebentext"", audience, identity(porporino, ""Maler und Schneider""))",false
+350453,350504,"er, schlagen die Augen nieder,","Ponce kniet – Isidora
+                hebt ihn auf.","Melanie, liebst du Aquilar? Aq",43,"transfer(sarmiento, [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], lovers(isidora, ponce))",false
+199229,199280,"          Neunzehnter Auftritt",Valeria allein. Gleich darauf Ponce; es ist dunkel.,"VALERIA.
+            Er kömmt,",44,"transfer(""Nebentext"", audience, identity(""Frau im Dunkeln"", valeria))",false
+350591,350673,"
+                Beide ebenso.","Lucilla, liebst du Felix? Felix, liebst du Lucillen?
+                Beide ebenso.","Isabella, wir  lieben uns, so ",45,"transfer(sarmiento, [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], lovers(lucilla, felix))",false
+11516,11531,"cilla, ihre Tochter in Sevilla",bei ihrer Tante,", Felix' Geliebte
+          Pe",46,"transfer(""Figurentafel"", audience, aunt:uncle_of(AUNT:UNCLE[LUCILLA], lucilla))",false
+127526,127549,"
+          
+            PONCE.",Valeria liebt mich sehr,"; ich glaubte, Porporino könnt",47,"transfer(ponce, [aquilar, ""Mercado""], in_love_with(valeria, ponce))",false
+172676,172730,ehr – Die Tränen in den Augen.,"meines lieben Vaters
+              Schwester zu sehen.","ISABELLA
+            umarmt si",48,"transfer(isidora, audience, siblings(sarmiento, isabella))",false
+282611,282647,"r Auftritt
+          Felix und","Lucilla, die als Mann gekleidet ist.","FELIX.
+            Hier ist da",49,"transfer(""Lucilla verkleidet"", [audience, felix], identity(lucilla, ""Mann""))",false
+335709,335722,"         
+            VALERIA.",Sie liebt ihn,", aber weiß nicht, wer er ist.",50,"transfer(""Flametta"", lucilla, in_love_with(isidora, ponce))",false
+244977,245373,ter den Bäumen auf und nieder.,"Ich merkte aus ihren Worten, daß sie mich
+              für ihren Geliebten hielt, den sie erwartete; sie umarmte mich heftig, und küßte mich,
+              bis sie den Irrtum einsah und mich beschämt verließ.
+          
+          
+            AQUILAR.
+            Das dummste ist, daß es auch Melanie gewesen sein könnte.
+          
+          
+            PONCE.
+            Nein, es war Isidora",", ich nannte sie mit Namen, Fe",51,"transfer(ponce, [aquilar, audience] identity(""Frau im Dunkeln"", isidora), uncertain))",false
+206379,206417,"       
+            PORPORINO.",Ich bin der Arzt hier aus dem Schlosse,", und komme aus dem Walde, der",52,"transfer(""Arzt"", [aquilar, ponce], identity(""Fremder"", ""Arzt""))",false
+349174,349198,"ier, Lucilla, ist dein Bruder:",Porporino ist mein Sohn!,"VALERIA.
+            Euer Sohn",53,"transfer(sarmiento, [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], child_of(porporino, sarmiento))",false
+206645,206665,r besser weggekommen als wir –,wir sind arme Pilger,", man hat uns
+              ge",54,"transfer(aquilar, ""Arzt"", identity([ponce, aquilar], ""Pilger""))",false
+308107,308338,"chwiegen, wer die Pilger sind.","Was die Mädchen sagten, lautete wie Liebe, die sich
+              selbst nicht traut.
+          
+          
+            LUCILLA.
+            Und deine Freunde?
+          
+          
+            FELIX.
+            Brennen vor Liebe.","LUCILLA.
+            Bemerke, ",55,"transfer(felix, [lucilla, audience], in_love_with(aquilar, melanie))",false
+152048,152150,"         stark feiner gebaut –","Porporino könnte sich mit Euch messen. Ihr kennt ihn wohl, er
+              geht eben der Valeria nach",", und nach dem Bilde zu urteil",56,"Porporino könnte sich mit Euch messen. Ihr kennt ihn wohl, er
+              geht eben der Valeria nach",false
+179363,179408,"       
+            PORPORINO.","Ach, ich wollte, sie wäre hier, sie wäre mein",", ich bin des Scherzes so müde",57,"transfer(porporino, valerio, in_love_with(porporino, valeria))",false
+102192,102264,"Wagstücke, die nicht gelangen.","Ich habe sie
+              so emsig auf verschiedene Arten nicht geliebt",", als sie mich liebten. Der
+  ",58,"transfer(ponce, ""Mercado"", !in_love_with(ponce, valeria)) ",false
+153553,153617,"inge
+              anschlagen.","Wie! die Unterschrift – Porporino pinxit – ei, du feiner Schelm!","er rührt
+              sich in",59,"transfer(""Unterschrift"", ponce, identity(""Maler und Schneider"", porporino))",false
+13004,13052,"         
+            VALERIA.","Nimmer, meiner Liebe zu dir wird nimmer ein Ende",", ich könnte mein Leben damit
+",60,"transfer(valeria, [ponce, audience], in_love_with(valeria, ponce))",false
+11366,11388,"paceo, armer Bürger in Sevilla","Valeria, seine Tochter","Porporino, sein Findelsohn
+   ",61,"transfer(""Figurentafel"", audience, child_of(valeria, valerio))",false
+106018,106136,"             in ein Brustbild.","Ich kam, um dich zu trösten, und wenn er dich nicht liebt – dich um
+              einen Kuß zu bitten – Er umfaßt sie.","VALERIA.
+            Laß mich,",62,Papierkorb,false
+109616,109628,"
+            Aber halte Wort –",Er küßt sie.,"Höre auf, du kannst es sonst n",63,"transfer(""Kuss"", valeria, in_love_with(porporino, valeria))",false
+166206,166240,d biete Euch meine Dienste an;,"ich heiße
+              Flammetta.","VALERIO.
+            Nehmt das",64,"transfer(valeria, [melanie, isidora, audience], has_name(""Schwarzes Mädchen"", ""Flametta""))",false
+340455,340478,"len der Mutter nicht heiraten,",Lucilla will Euch nicht,"– Ihr holt
+              hier ",65,"transfer(ponce, [ritter, audience] !in_love_with(lucilla, ritter))",false
+350674,350699,"
+                Beide ebenso.","Isabella, wir  lieben uns",", so sage ich
+              da",66,"transfer(sarmiento, [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], lovers(sarmiento, isabella))",false
+236633,236678,"          Hilf! Mädchen, hilf!","Sieh, alles Liebesfeuer, was uns armen Jungen","im Herzen brennt,
+            ",67,Papierkorb,false
+310118,310143,"            So eile nur, eile!",ich bin ja gern dein Weib,", auch ist nichts zu fürchten.",68,"transfer(lucilla, [felix, audience], engaged(felix, lucilla))",false
+10939,10959," der Armee in den Niederlanden","Don Felix, sein Sohn","in Sevilla
+          
+        ",69,"transfer(""Figurentafel"", audience, child_of(felix, sarmiento))",false
+186947,187033,m die weite Welt nachzufolgen.,"Aber er
+              lachte über sie, er sagte kalt, es liebe niemand ihn in Sevilla.","ISIDORA.
+            Er lachte",70,"transfer(""Flametta"", isidora, !in_love_with(ponce, LOVER[PONCE]))",false
+41915,41996,"ALERIO
+            umarmt ihn.",Mein – mein Herr – mein alter gnädiger Herr – nicht mehr in Flandern – Sarmiento!,"SARMIENTO.
+            Du alte",71,"transfer(""Demsaskierung"", valerio, identity(""Maskierter"", sarmiento))",false
+248742,248774,"die Benennung »meiner« klingt,",so soll meiner doch Juan heißen.,"ISIDORA.
+            Und jener",72,"transfer(melanie, [isidora, audience], has_name(aqilar, ""Juan""))",false
+11533,11548,"er in Sevilla bei ihrer Tante,",Felix' Geliebte,"Perez, Hausmeister auf dem Gut",73,"transfer(""Figurentafel"", audience, lovers(lucilla, felix))",false
+350505,350590,"
+                hebt ihn auf.","Melanie, liebst du Aquilar? Aquilar, liebst du Melanie?
+                Beide ebenso.","Lucilla, liebst du Felix? Feli",74,"transfer(sarmiento, [audience, felix, porporino, valerio, zigeunerin, isabella, ponce, melanie, isidora, aquilar, juanna], lovers(aquilar, melanie))",false
+14607,14731,"uilar hat den Ball angestellt,","damit Felix Lucillen gleich bei seiner Ankunft
+              bequem sprechen kann, denn er ist  ein sehr bequemer Liebhaber.","Lucillen
+              wird er",75,"transfer(ponce, valeria, lovers(felix, lucilla))",false
+349982,350001,"        Isabellen an der Hand.",Und ich wußte alles,", stellte mich nur so, die Mut",76,Und ich wußte alles,false
+80279,80365,"LIX.
+            Aus Flandern?","So kennt Ihr vielleicht meinen Vater, Don Miguel Sarmiento de
+              Torbadillo","; sprecht, kennt Ihr ihn?
+    ",77,"transfer(felix, ""Mercado"", parent_of(sarmiento, felix))",false
+308033,308106,ar unbestimmt über die beiden;,"doch habe ich ihnen noch
+              verschwiegen, wer die Pilger sind.","Was die Mädchen sagten, lautet",78,"transfer(felix, [lucilla, audience], knowledge(felix, identiy(""Pilger"", [ponce, aquilar])))",false
+11436,11472,"    Porporino, sein Findelsohn","Isabella, in Saragossa adelige Witwe","Lucilla, ihre Tochter in Sevil",79,"transfer(""Figurentafel"", audience, widow:er of(isabella, WIDOW:ER[ISABELLA]))",false
+107843,107856," mehr. Aquilar war ungezogen –",ich hasse ihn,"– lasse mich nicht fühlen, wie",80,"transfer(valeria, porporino, !in_love_with(valeria, aquilar))",false
+11112,11135," Gut, drei Stunden von Sevilla","Juanna, seine Schwester",", ihre Aufseherin
+          
+ ",81,"transfer(""Figurentafel"", audience, siblings(sarmiento, juanna))",false
+188633,188849,"lebendig und sanfter geworden,","Euer Bild sei in seine Brust wie ein Funken in ein schönes Kunstfeuer gefallen, und
+              tausend schöne Flammen loderten aus ihm empor, die alle alle Euren Namen in ihren
+              hellen Zügen kreisten.","ISIDORA.
+            Die arme ",82,"transfer(""Flametta"", isidora, transfer(valeria, ""Flametta"", in_love_with(ponce, isidora)))",false
+119717,119766,sich vermutlich hinschleichen;,"Ponce ist in meine
+              Tochter verliebt",", Valerio geht heute schon hin",83,"transfer(sarmiento, [audience, porporino], in_love_with(ponce, isidora))",false
+10994,11049,"on Felix, sein Sohn in Sevilla","Isidora,
+            Melanie,
+            seine Töchter","auf seinem Gut, drei Stunden v",84,"transfer(""Figurentafel"", audience, child_of([melanie, isidora], sarmiento))",false
+260582,260625,"         
+            AQUILAR.",Sie sagte – sie verachte mich mit dem Golde,– und als ich fragte: Ohne das,85,"transfer(aquilar, [audience, ponce], !in_love_with(melanie, aquilar))",false
+201530,201563,"der, der ich deinen Armen bin!","Laßt mich, ich bin ein Fremdling!","VALERIA
+            zurücktret",86,"transfer(ponce, ""Frau im Dunkeln"", identity(ponce, ""Fremdling""))",false
+11483,11504,"la, in Saragossa adelige Witwe","Lucilla, ihre Tochter","in Sevilla bei ihrer Tante, Fe",87,"transfer(""Figurentafel"", audience, child_of(lucilla, isabella))",false
+308107,308338,"chwiegen, wer die Pilger sind.","Was die Mädchen sagten, lautete wie Liebe, die sich
+              selbst nicht traut.
+          
+          
+            LUCILLA.
+            Und deine Freunde?
+          
+          
+            FELIX.
+            Brennen vor Liebe.","LUCILLA.
+            Bemerke, ",88,"transfer(felix, [lucilla, audience], in_love_with(ponce, isidora))",false
+16023,16035,"höne Mädchen liebt, und also –",Er küßt sie.,"VALERIA
+            umfaßt ihn",89,"transfer(""Kuss"", [valeria, audience] in_love_with(ponce, valeria))",false
+70672,70711,r Euch nicht auch demaskieren?,"VALERIO
+            nimmt die Maske ab.","Guten Abend, meine Herren! Mei",90,"VALERIO
+            nimmt die Maske ab.",false

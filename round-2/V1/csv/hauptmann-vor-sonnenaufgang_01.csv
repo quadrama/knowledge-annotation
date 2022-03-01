@@ -1,0 +1,61 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+130965,130985,"     
+        
+          Loth.",Die ging auseinander,"– naturgemäß – als ich damals ",0,"transfer(loth, [audience, hoffmann, helene], !engaged(loth, ""Anna_Faber"")) ",false
+166088,166178,"     
+        
+          Loth.","Ganz wie Seide. Ein Zittern durchläuft ihn, er beugt sich und küßt das
+              Haar.","Helene
+          erschreckt.
+ ",1,"transfer(""küsst-die-Haare"", [audience, helene], in_love_with(loth, helene))",false
+74048,74099,"ückt.
+        
+          Kahl.",Do hot ’r an Thoaler .... oaber halt’t Eure Gusche!,"Er geht eiligst über den Hof
+ ",2,"transfer(kahl, [beibst, audience], lovers(kahl, frau_krause))",false
+105303,105317,"  Wilhelm, Du! Dein Vetter ...",mein Bräut’jam,"... Ich bring’s herum.
+       ",3,"transfer(helene, audience, engaged(helene, kahl))",false
+116008,116045,at uns zu einander gebracht. –,"Wir gehören
+            für einander!",Wir sind zu Freunden voraus be,4,"transfer(hoffmann, [helene, audience] in_love_with(hoffmann, helene))",false
+972,1002,"    Krause, Bauerngutsbesitzer","Frau Krause, seine zweite Frau","Helene,
+            Martha,
+  ",5,"transfer(""Figurentafel"", audience, spouses(frau_krause, bauer_krause))",false
+1115,1159,"   Krause’s Töchter erster Ehe","Hoffmann, Ingenieur, verheirathet mit Martha","Wilhelm Kahl, Neffe der Frau K",6,"transfer(""Figurentafel"", audience, spouses(hoffmann, ""Martha""))",false
+152950,153076," keinen Mann
+            ....,","daß ich Ihnen – vertraue, – daß ich be–reit bin, das ..... das zu beweisen – daß
+            ich – etwas für – Dich, Sie fühle","... Sinkt ohnmächtig in seine ",7,"transfer(helene, [loth, audience], in_love_with(helene, loth))",false
+209599,209666,"ck in seine
+            Augen.",Es ist also wirklich etwas im Gange zwischen Dir und Helene Krause?,"Loth.
+          Ich? – Wer hat",8,"transfer(dr_schimmelpfennig, loth, knowledge(dr_schimmelpfennig, lovers(helene, loth)))",false
+26151,26226," 
+        
+          Hoffmann.","Das war einer von meinen Gymnasialfreunden, der älteste sogar, Alfred Loth.","Helene
+          schnell.
+    ",9,"transfer(hoffmann, helene, identity(""Unbekannter"", loth))",false
+1170,1205,"nieur, verheirathet mit Martha","Wilhelm Kahl, Neffe der Frau Krause","Frau Spiller, Gesellschafterin",10,"transfer(""Figurentafel"", audience, niece:nephew_of(kahl, frau_krause))",false
+117513,117565,aar besser bist .... was denn!,"schlechter bist Du, der schlecht’ste von allen hier!","Hoffmann
+          steht auf, ",11,"transfer(helene, [hoffmann, audience], !in_love_with(helene, hoffmann))",false
+43082,43154,".
+          Ah! da ist Mama! –","Du gestattest, daß ich Dir meinen Freund Dr. Loth
+            vorstelle.","Frau Krause
+          macht ei",12,"transfer(hoffmann, frau_krause, identity(""Unbekannter"", loth))",false
+104877,104981,"   
+        
+          Helene.","Gut! dann will ich dem Vater erzählen, daß Du mit Kahl Wilhelm die Nächte ebenso
+            verbringst.","Frau Krause
+          schlägt ",13,"transfer(helene, frau_krause, knowledge(helene, lovers,(frau_krause, kahl)))",false
+130851,130920,"Du selbst darauf kommst, ja! –","Ich dachte in der That an Deine Verlobung mit Anna
+            Faber.","Loth.
+          Die ging ausei",14,"transfer(hoffmann, [audience, helene], engaged(Loth, ""Anna_Faber""))",false
+1026,1093,"Frau Krause, seine zweite Frau","Helene,
+            Martha,
+            Krause’s Töchter erster Ehe","Hoffmann, Ingenieur, verheirat",15,"transfer(""Figurentafel"", audience, parent_of(bauer_krause, [helene, ""Martha""]))",false
+229077,229431," auf dem Tisch zurückgelassen.","Sie
+              stürzt sich darauf, reißt ihn auf und durchfliegt ihn, einzelne Worte aus seinem
+              Inhalt laut hervorstoßend: „Unübersteiglich!“ ... „Niemals
+              wieder!“ Sie läßt den Brief fallen, wankt. Zu Ende! Rafft
+              sich auf, hält sich den Kopf mit beiden Händen, kurz und scharf schreiend.
+            Zu En–de!","Stürzt ab durch die Mitte.
+   ",16,"transfer(""Brief"", [helene, audience], !in_love_with(loth, helene))",false
+6634,6655," 
+        
+          Hoffmann.","Nein, ihre Schwester.","Hörtest Du nicht, wie sie mich",17,"transfer(hoffmann, loth, siblings(helene, SPOUSE[HOFFMANN]",false

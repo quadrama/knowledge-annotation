@@ -1,0 +1,16 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+21063,21182,wornach soll ich mich richten?,"Gilt hier der Liebe Recht? gilt hier die Schwestertreu?
+              Ich red, ich schweige still; so ists Verrätherey.","GUNILDE.
+            Das heili",0,"transfer(estrithe, audience, in_love_with(estrithe, canut))",false
+55455,55509," mir zu besserm Zwecke nützen,","Und kurz, ich liebte dich, drum mußt ich dich besitzen",".
+            
+          
+    ",1,"transfer(ulfo, [audience, estrithe], in_love_with(ulfo, estrithe))",false
+10118,10142,"      Gunilde, ihre Vertraute.","Ulfo, Estrithens Gemahl.","Haqvin,
+            Godewin,
+ ",2,"transfer(""Figurentafel"", audience, spouses(estrithe, ulfo))",false
+10045,10072,"eile von
+            Schweden.","Estrithe, dessen Schwester.","Gunilde, ihre Vertraute.
+     ",3,"transfer(""Figurentafel"", audience, siblings(canut, estrithe))",false
+26585,26696,"r, der seine Pflichten bricht.","Mein Herz verwahrte stets in ungeschwächtem Triebe,
+              Dem König meine Treu, so wie dir meine Liebe.","Die letzte hast du selbst dem ",4,"transfer(godewin, audience, in_love_with(godewin, estrithe))",false

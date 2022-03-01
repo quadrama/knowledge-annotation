@@ -1,0 +1,39 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+307,315,"Beaumarchais
+        Guilbert,",ihr Mann,"Buenco
+        Saint George
+  ",0,"transfer(""Figurentafel"", audience, spouses(guilbert, sophie))",false
+30792,30813,"Fluge von Paris zu Madrid, und",der Bruder – bin ich!,"der alles verlassen hat, Vater",1,"transfer(beaumarchais, clavigo, siblings(beaumarchais, [marie, sophie]))",false
+64658,64678,"   
+        
+          BUENCO.",Er ist euer Schwager,", und so adieu! Ihr seht mich ",2,"transfer(buenco, [baeumarchais, sophie, guilbert, clavigo, audience], siblings-in-law([beaumarchais, sophie], clavigo))",false
+78299,78373," der vorüber war – Mitleiden –","innige, tiefe Erbarmung
+            flößte sie mir ein; aber Liebe – sieh!","es war, als wenn mir in der Fü",3,"transfer(clavigo, [carlos, audience], !in_love_with(clavigo, marie))",false
+90891,90904,".
+          Das war natürlich.",Er liebt dich,", und wie konnte er den Anblic",4,"transfer(sophie, [marie, audience], !in_love_with(buenco, marie))",false
+8112,8124,"          MARIE.
+          Daß",unser Bruder,nicht kommt! Es sind zwei Tage,5,"transfer(marie, audience, siblings(BROTHER[MARIE], [marie, sophie]))",false
+37968,38004,"AIS.
+          Es ist zu spät!",Meine Schwester liebt Sie nicht mehr,", und ich verabscheue Sie.
+   ",6,"transfer(beaumarchais, [clavigo, audience, saint_george], !in_love_with(marie, clavigo)) ",false
+268,288,"chais
+        Sophie Guilbert,",geborne Beaumarchais,"Guilbert, ihr Mann
+        Bue",7,"transfer(""Figurentafel"", audience, relatives(sophie, [marie, beaumarchais]))",false
+49391,49433,"eirat nicht; sie sind dagegen,","sie will nichts von mir
+            hören.","CARLOS.
+          Das ist die ",8,"transfer(clavigo, carlos, !in_love_with(marie, clavigo))",false
+60029,60081,"e! Wie können Sie mich hassen,","da ich nie aufgehört
+            habe, Sie zu lieben","? Mitten in allem Taumel, durc",9,"transfer(clavigo, [marie, guilbert, buenco, sophie], in_love_with(clavigo, marie))",false
+13894,13913,"     mir ihn! Bringt mich hin!",Beaumarchais kommt.,"BEAUMARCHAIS.
+          Meine ",10,"transfer(""Nebentext"", audience, identity(BROTHER[MARIE], beaumarchais))",false
+4051,4075,"ie Erinnerung nicht loswerden,",daß ich Marien verlassen,"– hintergangen habe,
+         ",11,"transfer(clavigo, audience, !couple(clavigo,marie))",false
+63028,63288,"SOPHIE
+          kommt zurück.","Sie vergibt ihm. Ein Strom von Tränen brach aus ihren Augen. »Er soll sich entfernen«,
+            rief sie schluchzend, »daß ich mich erhole! Ich vergeb ihm. Ach Schwester!« rief sie und
+            fiel mir um den Hals, »woher weiß er, daß ich ihn so liebe?«","CLAVIGO
+          ihr die Hand",12,Papierkorb,false
+49753,49948,inen Humor auf meine Hochzeit!,"Ich bin
+            entschlossen, Marien zu heiraten. Freiwillig, aus innerm Trieb. Meine ganze Hoffnung,
+            meine ganze Glückseligkeit ruht auf dem Gedanken, ihre Vergebung zu erhalten.","Und dann
+            fahr hin,",13,"transfer(clavigo, [carlos, audience], in_love_with(clavigo, marie))",false

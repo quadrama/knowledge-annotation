@@ -1,0 +1,104 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+5175,5223,"nen alten Lieblingswunsch, daß","mein Neffe, der
+              junge Graf Leonard",", der soeben von Reisen zurück",0,"transfer(""Präsident"", [fleder, audience], niece:nephew_of(leonard, ""Präsident""))",false
+26786,26812,"ige unter dem Arme, tritt auf.",Was! sind Sie nicht Flitt?,"–
+          
+          
+      ",1,"transfer(leonard, schlender, !identity(leonard, fitt))",false
+432,456,"Gärtner, im Dienste der Gräfin","Marie, Friedmanns Nichte","Knoll, ein Weinschenk
+        ",2,"transfer(""Figurentafel"", audience, niece:nephew_of(marie, friedmann))",false
+144392,144397,"            zögernd und leise.",Ja! –,"LEONARD
+            rasch aufs",3,"transfer(adele, [flora, victor, leonard, friedmann, fleder], engaged(adele, leonard))",false
+144970,145296,"          
+            VICTOR.","Da mag der Teufel Junggeselle bleiben!
+            Er hebt Flora hoch auf seinen Arm.
+            
+              Wild warst du stets, und Wild gehört für Jäger!
+              Hier ist der Jäger in das Wild geschossen,
+              Ich bin just recht im Schuß – Hoch, lust'ge Braut!
+            
+            Er trägt sie fort.","FRIEDMANN
+            schreit.",4,"transfer(victor, [flora, fleder, leonard, friedmann, adele], engaged(victor, flora))",false
+47968,47986," 
+          
+            ADELE",auf Flora zeigend.,Sie steht eben im ersten April,5,"transfer(adele, [flitt, fleder, audience], identity(adele, ""Kammerzofe""))",false
+15514,15562,"f der Geige, wie du weißt, und","ich bin ein
+              reisender Schauspieler","; meiner Treu, wir wollen unse",6,"transfer(flitt, [knoll, audience], schlender, identity(flitt, ""Reisender Schauspieler""))",false
+111550,111580," Zimmer im Hause des Gärtners.","Flora, als Offizier verkleidet",", sitzt auf einem
+            ",7,"transfer(""Flora verkleidet sich"", [audience, marie], identity(flora, ""Offizier""))",false
+37749,37802," ein, um die Gräfin zu freien,","Graf Leonard, ein Neffe des
+              Präsidenten",", als reisender Schauspieler, ",8,"transfer(flora, victor, niece:nephew(leonard, ""Präsident""))",false
+38281,38348,"iegenheit der Gräfin Jolanthe,",und die versiegelte es noch einmal und schickte es an unsre Gräfin.,"VICTOR.
+            Und was sa",9,"transfer(flora, victor, transfer(""Gräfin Jolanthe"", adele, identity(leonard, ""Reisender Schauspieler""), lie))",false
+114731,114771,"uf Falschheit im Herzensgrund,",Ich möcht ihn nicht zum Liebhaber haben.,"FLORA.
+            
+          ",10,"transfer(marie, flora, !in_love_with(marie, victor))",false
+38181,38265,"
+          
+            FLORA.",Der Präsident vertraute es unter dem Siegel der Verschwiegenheit der Gräfin Jolanthe,",
+              und die versie",11,"transfer(flora, victor, transfer(""Präsident"", ""Gräfin Jolanthe"", identity(leonard, ""Reisender Schauspieler""), lie))",false
+136965,136995,"  VICTOR
+            für sich.","Sie denkt, ich kenn sie nicht.","– Die will ich ängst'gen!
+    ",12,"transfer(victor, audience, knowledge(victor, identity(flora, ""Offizier"")))",false
+141325,141329,"
+          
+            ADELE.",Ich!,Sie verbirgt ihr Gesicht an Fl,13,"transfer(adele, ""Florestin"", identity(""Kammerzofe"", adele))",false
+143435,143739,en nur mit jenem Herren dort –,"Graf Leonard! –
+            
+          
+          
+            ADELE
+            die sich bei diesen Worten aufgerichtet hat, Leonarden erstaunt ansehend.
+            Mein Gott! – Sie sind –?
+          
+          
+            LEONARD
+            sich vor ihr auf ein Knie senkend.
+            Der Graf. –","FLEDER.
+            
+         ",14,"transfer(fleder, [flora, victor, friedmann, adele], identity(""Sänger"", leonard))",false
+47968,47986," 
+          
+            ADELE",auf Flora zeigend.,Sie steht eben im ersten April,15,"transfer(adele, [flitt, fleder], identity(flora, adele))",false
+49461,49512,"
+          
+            FLITT.","Flitt, ein untertänigster reisender Bühnenkünstler.","FLORA.
+            Flitt? – Al",16,"transfer(""Reisender Schauspieler"", [flora, adele], identity(""Reisender Schauspieler"", flitt))",false
+32364,32440,"         
+            LEONARD.","Gut, so bin ich eigentlich bloß ein Violinspieler, der aber bloß singen kann",", und Sie
+              sollen",17,"transfer(leonard, schlender, identity(leonard, ""Sänger""))",false
+61480,61491,zlich an Floras Brust sinkend.,Das ist Er!,"– Fort, nur fort! –
+          ",18,Papierkorb,false
+127114,127135,"     zu Fleders Füßen sinkend.",Der selige Schlender!,"FLEDER.
+            Ha, absche",19,"transfer(schlender, ""Arthur"", identity(""Frauenzimmer"", schlender))",false
+119348,119382," Schlender an der Hand herein.","Letzterer ist als Dame verkleidet,",hat einen Schleier auf dem Hut,20,"transfer(""Schlender verkleidet sich"", [audience, victor], identity(schlender, ""Frauenzimmer""))",false
+77973,78000,"
+          
+            FLITT.",Ja – die Gräfin liebt mich.,"–
+          
+          
+      ",21,"transfer(flitt, [knoll, audience], in_love_with(adele, flitt))",false
+143137,143163,"
+            Fort, Mummerei! –",Ich bin der Hofrat Fleder!,"–
+          
+          
+      ",22,"transfer(""Arthur"", [flora, victor, leonard, friedmann, adele], identity(""Arthur"", fleder))",false
+32487,32513,"        sollen mich begleiten.",Mein Name ist – Florestin.,"SCHLENDER.
+            Also ei",23,"transfer(leonard, [schlender, knoll, flitt, audience] identity(""Sänger"", ""Florestin""))",false
+92261,92291,"     Herrn Florestins Mund an?",Sie wird ja über und über rot.,"–
+          
+          
+      ",24,"transfer(flitt, audience, in_love_with(adele, ""Florestin""), uncertain)) ",false
+48782,48807,"       mit Anstand vortretend.","Arthur, ein Flötenspieler",", Mit einem verächtlichen Blic",25,"transfer(fleder, [adele, flora, audience], identity(fleder, ""Arthur""))",false
+86168,86318,sch – sie merkten mich nicht –,"da
+              verabredete die Kammerjungfer auf heut abend zehn Uhr ein Stelldichein unter jenen
+              Linden mit dem Flötenspieler Arthur.","LEONARD
+            ihn an der",26,"transfer(flitt, [leonard, audience] lovers(""Kammerzofe"", ""Arthur""), lie)",false
+66400,66476," Sind's gerade, die ich meine.","Nur ein Weilchen
+              Will ich dicht vor dir stehen und hineinsehn.","–
+              Wahrhaftig, do",27,"transfer(""Sänger"", adele, in_love_with(""Sänger"", ""Kammerzofe""))",false
+37804,37830,"des
+              Präsidenten,",als reisender Schauspieler,", und der Hofrat Fleder als Fl",28,"transfer(flora, victor, identity(leonard, ""Reisender Schauspieler""), lie)",false
+6808,6845,"             denken Sie nur! –","unerkannt, als reisender Schauspieler","das Schloß der Gräfin
+        ",29,"transfer(""Präsident"", [fleder, audience], identity(leonard, ""Reisender Schauspieler""), lie)",false
+120028,120046,"    Wie ich Ihnen schon sagte,",sie kommt als Mann,", ganz wie Herr Arthur gekleid",30,"transfer(victor, [schlender, audience], identity(adele, ""Verkleidet als Arthur""), lie)",false

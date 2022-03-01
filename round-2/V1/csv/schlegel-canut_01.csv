@@ -1,0 +1,21 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+63258,63280,"  Den fällt kein Zorn von mir,",den deine Liebe stützt,".
+              Er soll, ist n",0,"transfer(canut, estrithe, knowledge(canut, in_love_with(estrithe, ulfo)))",false
+30117,30165,eu vielleicht von mir begehrt?,"Wer keinen Ruhm verdient, ist keiner Liebe werth",":
+              Hab ich dich n",1,"transfer(estrithe, [godewin, audience], !in_love_with(estrithe, godewin))",false
+91900,91915,"  Ist denn nicht dieser Zweck,",des Vaters Mord,"zu strafen?
+          
+       ",2,"transfer(godschalk, ulfo, parent_of(PARENT[GODSCHALK], godschalk))",false
+26673,26696,"         Dem König meine Treu,",so wie dir meine Liebe.,"Die letzte hast du selbst dem ",3,"transfer(godewin, [estrithe, audience], in_love_with(godewin, estrithe))",false
+55465,55480,"ützen,
+              Und kurz,",ich liebte dich,", drum mußt ich dich besitzen.",4,"transfer(ulfo, [estrithe, audeince], in_love_with(ulfo, estrithe))",false
+57934,57949,"Qvaal.
+              Hör doch.",Ich liebe dich.,Willst du mich denn noch kränk,5,"transfer(estrithe, [ulfo, audeince], in_love_with(estrithe, ulfo))",false
+73530,73547,"   Der muntre Gottschalk, will",des Vaters Mörder,"strafen,
+              Den Har",6,"transfer(canut, [ulfo, audience], parent_of(PARENT[GODSCHALK], godschalk))",false
+10118,10142,"      Gunilde, ihre Vertraute.","Ulfo, Estrithens Gemahl.","Haqvin,
+            Godewin,
+ ",7,"transfer(""Figurentafel"", audience, spouses(ulfo, estrithe))",false
+10045,10072,"eile von
+            Schweden.","Estrithe, dessen Schwester.","Gunilde, ihre Vertraute.
+     ",8,"transfer(""Figruentafel"", audience, siblings(canut, estrithe))",false
