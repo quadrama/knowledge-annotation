@@ -1,6 +1,7 @@
 begin,end,begin_segment,end_segment,begin_line,end_line,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
 0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",0,"transfer(Vorgeschichte, [sino, mangu], engaged(sultan, nerissa)) ",false
 0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",1,"transfer(Vorgeschichte, [sino, mangu] in_love_with(sultan, nerissa)) ",false
+0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",2,"transfer(Vorgeschichte, [sino, mangu], siblings(nerissa, sultan)) ",false
 2146,2182,,,-1,-1,"al war der Morgen angebrochen,",An dem Nerissa unserm Herrn vermählt,"Und Sultaninn sich zugesellen ",7,"transfer(sino, audience, engaged(sultan, nerissa)) ",false
 2405,2443,,,-1,-1,"r, wenn der schöne Tag nun da,",Der sie ihm geben sollte die er liebet,"Sprach finster er: »Heut darf ",8,"transfer(sino, audience, in_love_with(sultan, nerissa))",false
 3030,3051,,,-1,-1,"           Die Blutsverwandte,",seine eigne Schwester,"Sich zu vermählen, wider Pflic",9,"transfer(mangu, audience, siblings(nerissa, sultan))",false
