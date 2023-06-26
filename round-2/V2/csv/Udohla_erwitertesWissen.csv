@@ -1,29 +1,34 @@
 begin,end,begin_segment,end_segment,begin_line,end_line,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
-0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",0,"transfer(Vorgeschichte, sino, engaged(sultan, nerissa)) ",false
-0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",1,"transfer(Vorgeschichte, [sino, mangu], siblings(nerissa, sultan)) ",false
-2146,2182,,,-1,-1,"al war der Morgen angebrochen,",An dem Nerissa unserm Herrn vermählt,"Und Sultaninn sich zugesellen ",0,"transfer(sino, audience, engaged(sultan, nerissa)) ",false
-2405,2443,,,-1,-1,"r, wenn der schöne Tag nun da,",Der sie ihm geben sollte die er liebet,"Sprach finster er: »Heut darf ",1,"transfer(sino, audience, in_love_with(sultan, nerissa))",false
-3030,3051,,,-1,-1,"           Die Blutsverwandte,",seine eigne Schwester,"Sich zu vermählen, wider Pflic",2,"transfer(mangu, audience, siblings(nerissa, sultan))",false
-3850,3894,,,-1,-1,"die königlichen Freuen wohnen,",Des Sultans Schwester wird des Sultans Weib.,"DERWISCH.                  ",3,"transfer(mangu, derwisch, engaged(nerissa, sultan))",false
-8248,8293,,,-1,-1,"                    MANGU.",Soll man den Sohn auch noch verfolgen lassen?,Zwar ist er fast sechs Monde s,4,"transfer(mangu, audience, child_of(CHILD[BAHADAR], ""Bahadar""))",false
-10925,10965,,,-1,-1,"        Mangu und Derwisch ab.","Warum o Schicksal, muß ich diese lieben?",Die Einzige die du mir hast ve,5,"transfer(sultan, audience, in_love_with(sultan, nerissa))",false
-13800,13933,,,-1,-1,"sinken,            Ihm sagen:","Daß ich nicht Nerissa sey,            Nicht seine Schwester, daß ich eine Fremde            An der entflohnen Schwester Stelle sey.",Warum ließ ich zur Lüge mich b,6,"transfer(nerissa, audience, !siblings(nerissa, sultan))",false
-15803,15838,,,-1,-1,"mir süß;            Und doch,",ich kann und werd ihn nimmer lieben,Weil meine Seele mich ihn flie,7,"transfer(nerissa, [audience, elpa], !in_love_with(nerissa, sultan))",false
-20735,20751,,,-1,-1,"        aufstehend zum Sultan.",Ich heiße Achmed,", bin dein Knecht, gebohren  ",8,"transfer(udohla, [audience, elpa, sultan, nerissa, mangu, sino], has_name(udohla, ""Achmed""))",false
-23058,23094,,,-1,-1,"ommen, geh! mich zu verrathen.","Ich bin Bahadar, eures Feindes Sohn.",SINO.                     O,9,"transfer(udohla, [audience, sino], child_of(udohla, ""Bahadar""))",false
-23502,23515,,,-1,-1," nie gesehen,            Denn",meines Oheims,"Hoffnung warst du stets.     ",10,"transfer(udohla, [audience, sino], aunt:uncle_of(UNCLE[UDOHLA], udohla))",false
-23609,23618,,,-1,-1,"                     SINO.",O Usbeck!,Lebt er noch! Der Theure! Gute,11,"transfer(sino, audience, has_name(UNCLE[UDOHLA], ""Usbeck""))",false
-30606,30644,,,-1,-1,"                   UDOHLA.",Die einzge Schwester hat er nie gesehn,Dem Vater haben Räuber sie ent,12,"transfer(udohla, [audience, nerissa], siblings(udohla, SIBLING[UDOHLA]))",false
-32214,32251,,,-1,-1,", so wie er sich dir genennet,","Es ist Bahadars, des Verräthers Sohn.","SULTAN.                    ",13,"transfer(mangu, sultan, child_of(udohla, ""Bahadar""))",false
-32214,32251,,,-1,-1,", so wie er sich dir genennet,","Es ist Bahadars, des Verräthers Sohn.","SULTAN.                    ",14,"transfer(sino, mangu, child_of(udohla, ""Bahadar""), past)",false
-35699,35893,,,-1,-1," diesen Siegel-Ring und Brief,","Worin Nerissa mir die Königs-Tochter schreibet            Wie tief sie nun bereue ihre Flucht,            Wie sie zurück sich zu dem Bruder sehne,            Wenn er verzeihen könne ihre That",.            So spricht der B,15,"transfer(""real-Nerissa"", mangu, !siblings(nerissa, sultan), past)",false
-35699,35893,,,-1,-1," diesen Siegel-Ring und Brief,","Worin Nerissa mir die Königs-Tochter schreibet            Wie tief sie nun bereue ihre Flucht,            Wie sie zurück sich zu dem Bruder sehne,            Wenn er verzeihen könne ihre That",.            So spricht der B,16,"transfer(mangu, sino, !siblings(nerissa, sultan))",false
-40457,40496,,,-1,-1,ultan gänzlich bist verrathen?,"Daß er es weiß, du seyst Bahadars Sohn?","Was du zu fürchten hast, nagst",17,"transfer(sino, udohla, knowledge(sultan, child_of(udohla, ""Bahadar"")))",false
-43911,43953,,,-1,-1,"    SULTAN          zu Mangu.","Geh! Eile, denn ich will sie hier erwarten",",            Ich dulde dieses",18,"transfer(mangu, sultan, !siblings(sultan, nerissa), past)",false
-45172,45212,,,-1,-1,"ers Blut belastet deine Seele,","Bahadars Tochter ists, die vor dir steht",".                        ",19,"transfer(nerissa, [sultan, udohla, audience, mangu, sino], child_of(nerissa, ""Bahadar""))",false
-45530,45562,,,-1,-1,"ge, daß ich nie erwachen möge!","Ewana, meine Schwester wäre sie?",NERISSA.          Wie? Hör ic,20,"transfer(udohla, [sultan, audience, mangu, sino], has_name(nerissa, ""Ewana""))",false
-45726,45744,Zweiter Akt,Zweiter Akt,-1,-1,"                     SINO.",Er ist dein Bruder,", ist Bahadars Sohn.         ",21,"transfer(sino, nerissa, siblings(nerissa, udohla))",false
-45746,45763,Zweiter Akt,Zweiter Akt,-1,-1,"          Er ist dein Bruder,",ist Bahadars Sohn,.          Udohla eilt auf si,22,"transfer(sino, nerissa, child_of(udohla, ""Bahadar""))",false
+0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",0,"transfer(Vorgeschichte, [sino, mangu], engaged(sultan, nerissa)) ",false
+0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",1,"transfer(Vorgeschichte, [sino, mangu] in_love_with(sultan, nerissa)) ",false
+0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",2,"transfer(Vorgeschichte, [sino, mangu], siblings(nerissa, sultan)) ",false
+0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",3,"transfer(Vorgeschichte, [mangu, sino, sultan, derwisch], child_of(CHILD[BAHADAR], ""Bahadar""))",false
+0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",4,"transfer(Vorgeschichte, [elpa, nerissa, "real-Nerissa"] !siblings(nerissa, sultan))",false
+0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",5,"transfer(Vorgeschichte, udohla, child_of(udohla, "Bahadar"))",false
+0,0,,,-1,-1,"Vorgeschichte","Vorgeschichte","Vorgeschichte",6,"transfer(Vorgeschichte, udohla, aunt:uncle_of("Usbeck", udohla))",false
+2146,2182,,,-1,-1,"al war der Morgen angebrochen,",An dem Nerissa unserm Herrn vermählt,"Und Sultaninn sich zugesellen ",7,"transfer(sino, audience, engaged(sultan, nerissa)) ",false
+2405,2443,,,-1,-1,"r, wenn der schöne Tag nun da,",Der sie ihm geben sollte die er liebet,"Sprach finster er: »Heut darf ",8,"transfer(sino, audience, in_love_with(sultan, nerissa))",false
+3030,3051,,,-1,-1,"           Die Blutsverwandte,",seine eigne Schwester,"Sich zu vermählen, wider Pflic",9,"transfer(mangu, audience, siblings(nerissa, sultan))",false
+3850,3894,,,-1,-1,"die königlichen Freuen wohnen,",Des Sultans Schwester wird des Sultans Weib.,"DERWISCH.                  ",10,"transfer(mangu, derwisch, engaged(nerissa, sultan))",false
+8248,8293,,,-1,-1,"                    MANGU.",Soll man den Sohn auch noch verfolgen lassen?,Zwar ist er fast sechs Monde s,11,"transfer(mangu, audience, child_of(CHILD[BAHADAR], ""Bahadar""))",false
+10925,10965,,,-1,-1,"        Mangu und Derwisch ab.","Warum o Schicksal, muß ich diese lieben?",Die Einzige die du mir hast ve,12,"transfer(sultan, audience, in_love_with(sultan, nerissa))",false
+13800,13933,,,-1,-1,"sinken,            Ihm sagen:","Daß ich nicht Nerissa sey,            Nicht seine Schwester, daß ich eine Fremde            An der entflohnen Schwester Stelle sey.",Warum ließ ich zur Lüge mich b,13,"transfer(nerissa, audience, !siblings(nerissa, sultan))",false
+15803,15838,,,-1,-1,"mir süß;            Und doch,",ich kann und werd ihn nimmer lieben,Weil meine Seele mich ihn flie,14,"transfer(nerissa, [audience, elpa], !in_love_with(nerissa, sultan))",false
+20735,20751,,,-1,-1,"        aufstehend zum Sultan.",Ich heiße Achmed,", bin dein Knecht, gebohren  ",15,"transfer(udohla, [audience, elpa, sultan, nerissa, mangu, sino], has_name(udohla, ""Achmed""))",false
+23058,23094,,,-1,-1,"ommen, geh! mich zu verrathen.","Ich bin Bahadar, eures Feindes Sohn.",SINO.                     O,16,"transfer(udohla, [audience, sino], child_of(udohla, ""Bahadar""))",false
+23502,23515,,,-1,-1," nie gesehen,            Denn",meines Oheims,"Hoffnung warst du stets.     ",17,"transfer(udohla, [audience, sino], aunt:uncle_of(UNCLE[UDOHLA], udohla))",false
+23609,23618,,,-1,-1,"                     SINO.",O Usbeck!,Lebt er noch! Der Theure! Gute,18,"transfer(sino, audience, has_name(UNCLE[UDOHLA], ""Usbeck""))",false
+30606,30644,,,-1,-1,"                   UDOHLA.",Die einzge Schwester hat er nie gesehn,Dem Vater haben Räuber sie ent,19,"transfer(udohla, [audience, nerissa], siblings(udohla, SIBLING[UDOHLA]))",false
+32214,32251,,,-1,-1,", so wie er sich dir genennet,","Es ist Bahadars, des Verräthers Sohn.","SULTAN.                    ",20,"transfer(sino, mangu, child_of(udohla, ""Bahadar""), past)",false
+32214,32251,,,-1,-1,", so wie er sich dir genennet,","Es ist Bahadars, des Verräthers Sohn.","SULTAN.                    ",21,"transfer(mangu, sultan, child_of(udohla, ""Bahadar""))",false
+35699,35893,,,-1,-1," diesen Siegel-Ring und Brief,","Worin Nerissa mir die Königs-Tochter schreibet            Wie tief sie nun bereue ihre Flucht,            Wie sie zurück sich zu dem Bruder sehne,            Wenn er verzeihen könne ihre That",.            So spricht der B,22,"transfer(""real-Nerissa"", mangu, !siblings(nerissa, sultan), past)",false
+35699,35893,,,-1,-1," diesen Siegel-Ring und Brief,","Worin Nerissa mir die Königs-Tochter schreibet            Wie tief sie nun bereue ihre Flucht,            Wie sie zurück sich zu dem Bruder sehne,            Wenn er verzeihen könne ihre That",.            So spricht der B,23,"transfer(mangu, sino, !siblings(nerissa, sultan))",false
+40457,40496,,,-1,-1,ultan gänzlich bist verrathen?,"Daß er es weiß, du seyst Bahadars Sohn?","Was du zu fürchten hast, nagst",24,"transfer(sino, udohla, knowledge(sultan, child_of(udohla, ""Bahadar"")))",false
+43911,43953,,,-1,-1,"    SULTAN          zu Mangu.","Geh! Eile, denn ich will sie hier erwarten",",            Ich dulde dieses",25,"transfer(mangu, sultan, !siblings(sultan, nerissa), past)",false
+45172,45212,,,-1,-1,"ers Blut belastet deine Seele,","Bahadars Tochter ists, die vor dir steht",".                        ",26,"transfer(nerissa, [sultan, udohla, audience, mangu, sino], child_of(nerissa, ""Bahadar""))",false
+45530,45562,,,-1,-1,"ge, daß ich nie erwachen möge!","Ewana, meine Schwester wäre sie?",NERISSA.          Wie? Hör ic,27,"transfer(udohla, [sultan, audience, mangu, sino], has_name(nerissa, ""Ewana""))",false
+45726,45744,Zweiter Akt,Zweiter Akt,-1,-1,"                     SINO.",Er ist dein Bruder,", ist Bahadars Sohn.         ",28,"transfer(sino, nerissa, siblings(nerissa, udohla))",false
+45746,45763,Zweiter Akt,Zweiter Akt,-1,-1,"          Er ist dein Bruder,",ist Bahadars Sohn,.          Udohla eilt auf si,29,"transfer(sino, nerissa, child_of(udohla, ""Bahadar""))",false
 
 
 
