@@ -21,7 +21,7 @@ begin,end,begin_segment,end_segment,begin_line,end_line,leftContext,surface,righ
 45172,45212,,,-1,-1,"ers Blut belastet deine Seele,","Bahadars Tochter ists, die vor dir steht",".                        ",19,"transfer(nerissa, [sultan, udohla, audience, mangu, sino], child_of(nerissa, ""Bahadar""))",false
 45530,45562,,,-1,-1,"ge, daß ich nie erwachen möge!","Ewana, meine Schwester wäre sie?",NERISSA.          Wie? Hör ic,20,"transfer(udohla, [sultan, audience, mangu, sino], has_name(nerissa, ""Ewana""))",false
 45726,45744,Zweiter Akt,Zweiter Akt,-1,-1,"                     SINO.",Er ist dein Bruder,", ist Bahadars Sohn.         ",21,"transfer(sino, nerissa, siblings(nerissa, udohla))",false
-45746,45763,Zweiter Akt,Zweiter Akt,-1,-1,"          Er ist dein Bruder,",ist Bahadars Sohn,.          Udohla eilt auf si",22","transfer(sino, nerissa, child_of(udohla, ""Bahadar""))",false
+45746,45763,Zweiter Akt,Zweiter Akt,-1,-1,"          Er ist dein Bruder,",ist Bahadars Sohn,.          Udohla eilt auf si,22","transfer(sino, nerissa, child_of(udohla, ""Bahadar""))",false
 
 
 
