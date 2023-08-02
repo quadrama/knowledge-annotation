@@ -1,0 +1,84 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+6204,6393,"
+          
+            KÖNIG.","Die Fürstin? Die verehrte, nah verwandte,
+              Nur erst verstorbne?
+              
+            
+          
+          
+            HERZOG.
+            
+              War die Mutter!","Laß,
+              O laß mich ",0,"transfer(herzog, [koenig, audience], parent_of(""Fürstin"", CHILD[HERZOG]))",false
+15356,15375," Himmel, blickt verirrt umher.",Sie lebt! sie lebt!,"KÖNIG
+            ein wenig zu",1,"transfer(herzog, [audience, koenig, graf, wundarzt], !dead(eugenie))",false
+47817,48178," je mit freier Brust genießen?","Eugenie! du, deren holdes Wesen
+              In meiner Nähe sich von Jugend auf
+              Aus reicher Fülle rein entwickeln sollte,
+              Kann ich noch unterscheiden, was an dir
+              Dein eigen ist, und was du mir verdankst?
+              Dich, die ich als mein selbst gebildet Werk
+              Im Herzen trage, sollt' ich nun zerstören?",Von welchem Stoffe seid ihr de,2,"transfer(hofmeisterin, audience, fosterchild(eugenie, hofmeisterin))",false
+148918,148958,"     
+            GERICHTSRAT.",Entschieden bleibt auf ewig mein Gefühl.,"EUGENIE.
+            Der Augen",3,"transfer(gerichtsrat, [eugenie, audience], in_love_with(gerichtsrat, eugenie))",false
+3962,3980,gefühlt? Verkümmerte dir nicht,Dein einz'ger Sohn,"durch rohes, wildes Wesen,
+   ",4,"transfer(koenig, audience, child_of(CHILD-1[HERZOG], herzog))",false
+81690,82203,"        
+            SEKRETÄR.","Vor wenig Stunden kam die Nachricht an,
+              Eugenie sei tot! Vom Pferd gestürzt!
+              An eurem Orte sei sie beigesetzt,
+              Als an dem nächsten Platz, wohin man sie
+              Aus jenem Felsendickicht bringen können,
+              Wo sie verwegen sich den Tod erstürmt.
+            
+          
+          
+            WELTGEISTLICHER.
+            Und sie indessen ist schon weit entfernt?
+          
+          
+            SEKRETÄR.
+            Mit rascher Eile wird sie weggeführt.","WELTGEISTLICHER.
+            U",5,"transfer(sekretaer, [audience, weltgeistlicher], dead(eugenie), lie)",false
+205075,205112,"icht, ich eile, dir zu folgen!",Hier meine Hand: wir gehen zum Altar.,,6,"transfer(eugenie, [gerichtsrat, audience], engaged(eugenie, gerichtsrat))",false
+6204,6280,"
+          
+            KÖNIG.","Die Fürstin? Die verehrte, nah verwandte,
+              Nur erst verstorbne?","HERZOG.
+            
+         ",7,"transfer(koenig, audience, dead(""Fürstin""))",false
+61607,61631,"t! du Freundin meines Herzens,",An Mutter Statt Geliebte,", sei gegrüßt.
+            
+  ",8,"transfer(eugenie, audience, fosterparent(hofmeisterin, eugenie))",false
+39993,40000," wahres, unauslöschlichs Bild:",Eugenie,", das Leben meines Lebens,
+   ",9,"transfer(herzog, audience, has_name(CHILD-2[HERZOG], ""Eugenie""))",false
+5455,5472,"          
+            HERZOG.",Ist eine Tochter.,"KÖNIG.
+            
+          ",10,"transfer(herzog, [koenig, audience], child_of(CHILD-2[HERZOG], herzog))",false
+10841,10943,"          
+            HERZOG.","Was zaudr' ich? Ist sie tot, so bleibt mir nichts,
+              Was mich im Leben länger halten kann.","Dritter Auftritt
+          Kön",11,"transfer(herzog, audience, dead(eugenie), uncertain)",false
+153304,153404,hwesterlich entzückte Neigung!,"Ich fühle mich als dein Geschöpf und kann
+              Dir leider, wie du wünschest, nicht gehören.","GERICHTSRAT.
+            So sc",12,"transfer(eugenie, [gerichtsrat, audience], !in_love_with(eugenie, gerichtsrat))",false
+846,851,"de.
+              Wo sind wir,",Oheim,"? Herzog, sage mir,
+          ",13,"transfer(koenig, audience, uncle_of(herzog, koenig))",false
+49497,49729,"          Mir auch ein Rätsel,","daß ich noch an dir
+              Mit solcher Neigung hänge, da du mich
+              Zum jähen Abgrund hinzureißen strebst?
+              Warum, o! schuf dich die Natur von außen
+              Gefällig, liebenswert, unwiderstehlich",",
+              Wenn sie ein k",14,"transfer(hofmeisterin, [sekretaer, audience], in_love_with(hofmeisterin, sekretär))",false
+89308,89576,"          
+            HERZOG.","Unsel'ges Licht! du rufst mich auf zum Leben,
+              Mich zum Bewußtsein dieser Welt zurück
+              Und meiner selbst. Wie öde, hohl und leer
+              Liegt alles vor mir da, und ausgebrannt,
+              Ein großer Schutt, die Stätte meines Glücks.","SEKRETÄR.
+            
+       ",15,"transfer(""Stimmung des Herzogs"", audience, knowledge(herzog, dead(eugenie)))",false

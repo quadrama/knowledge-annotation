@@ -1,0 +1,129 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+52707,52724,"           Aus Kreta sind wir,",Söhne des Adrasts,":
+              Ich bin der jü",0,"transfer(pylades, [iphigenie, audience], child_of(orest, ""Adrast""), lie)",false
+25966,25979,"tling
+              Der Liebe,",dann Elektren,". Ruhig herrschte
+            ",1,"transfer(iphigenie, thoas, SIBLING-1(iphigenie, ""Elektra""))",false
+5370,5376," Seele
+              An Vater,",Mutter,"und Geschwister band,
+        ",2,"transfer(iphigenie, [arkas, audience], parent_of(PARENT-2[IPHIGENIE], iphigenie))",false
+5360,5368,"Jugend, da sich kaum die Seele",An Vater,", Mutter und Geschwister band,",3,"transfer(iphigenie, [arkas, audience], parent_of(PARENT-1[IPHIGENIE], iphigenie))",false
+52707,52724,"           Aus Kreta sind wir,",Söhne des Adrasts,":
+              Ich bin der jü",4,"transfer(pylades, [iphigenie, audience], child_of(pylades, ""Adrast""), lie)",false
+26232,26307,"aum war dieser Wunsch erfüllt,","Daß zwischen beiden Schwestern nun Orest,
+              Der Liebling, wuchs",", als neues Übel schon
+       ",5,"transfer(iphigenie, thoas, siblings(iphigenie, orest)) ",false
+123636,123675,"       Und nun verlassen hat –","es ist Orest,
+              Mein Bruder",", und der andre sein Vertraute",6,"transfer(iphigenie, thoas, siblings(iphigenie, orest))",false
+57338,57449,"rgebens zu entwickeln strebte,","schlug
+              Ägisth ihn, der Verräter, und verhüllt
+              Ging zu den Toten dieser große Fürst.","IPHIGENIE.
+            Und wel",7,"transfer(pylades, [iphigenie, audience], murderer_of(""Ägisth"", ""Agamemnon""), uncertain)",false
+5381,5392,"          An Vater, Mutter und",Geschwister,"band,
+              Die neuen ",8,"transfer(iphigenie, [arkas, audience], siblings(iphigenie, [SIBLINGS[IPHIGENIE]))",false
+16349,16475,"          Noch unerwartet ist:","ich hoffe, dich,
+              Zum Segen meines Volks und mir zum Segen,
+              Als Braut in meine Wohnung einzuführen.","IPHIGENIE.
+            
+      ",9,"transfer(thoas, [iphigenie, audience], in_love_with(thoas, iphigenie))",false
+65020,65172," Elektra rettend ihren Bruder:","Strophius,
+              Des Vaters Schwäher, nahm ihn willig auf,
+              Erzog ihn neben seinem eignen Sohne,
+              Der, Pylades genannt",", die schönsten Bande
+        ",10,"transfer(orest, [iphigenie, audience], child_of(""Strophius"", pylades))",false
+57620,57660,"         
+            PYLADES.","Ein Reich und Bette, das er schon besaß.","IPHIGENIE.
+            So trie",11,"transfer(pylades, [iphigenie, audience], lovers(""Klytämnestra"", ""Ägisth""))",false
+75134,75332,ich dir im tiefsten Herzen an:,"Orest, ich bin's! Sieh Iphigenien!
+              Ich lebe!
+            
+          
+          
+            OREST.
+            Du!
+          
+          
+            IPHIGENIE.
+            Mein Bruder!","OREST.
+            
+          ",12,"transfer(iphigenie, orest, identity(SIBLING[OREST], iphigenie))",false
+73384,73435,"          Die eine kannt' ich;","doch die ältste nahm
+              Ihr gut Geschick",", das uns so schrecklich schie",13,"transfer(orest, iphigenie, siblings(orest, SIBLING[OREST]))",false
+26232,26307,"aum war dieser Wunsch erfüllt,","Daß zwischen beiden Schwestern nun Orest,
+              Der Liebling, wuchs",", als neues Übel schon
+       ",14,"transfer(iphigenie, audience, identity(SIBLING-2[IPHIGENIE], orest))",false
+25730,25748,us ältster Sohn war Agamemnon:,Er ist mein Vater.,"Doch, ich darf es sagen,
+     ",15,"transfer(iphigenie, audience, identity(PARENT-1[IPHIGENIE], ""Agamemnon"")) ",false
+75320,75332,"       
+            IPHIGENIE.",Mein Bruder!,"OREST.
+            
+          ",16,"transfer(iphigenie, orest, siblings(orest, iphigenie))",false
+64061,64106,"
+          
+            OREST.",Auch schied sie aus dem Land der Hoffnung ab.,"IPHIGENIE.
+            Vergoß ",17,"transfer(orest, [iphigenie, audience], dead(""Klytämnestra""))",false
+56250,56372,"          Dir ein Geheimnis? –","Klytämnestra hat
+              Mit Hilf' Ägisthens den Gemahl berückt,
+              Am Tage seiner Rückkehr ihn ermordet!","–
+              Ja, du verehre",18,"transfer(pylades, [iphigenie, audience], murderer_of([""Ägisth"", ""Klytämnestra""], ""Agamemnon"")) ",false
+57412,57449,"hn, der Verräter, und verhüllt",Ging zu den Toten dieser große Fürst.,"IPHIGENIE.
+            Und wel",19,"transfer(pylades, [iphigenie, audience], dead(""Agamemnon""))",false
+69235,69249,"ns
+              Sei Wahrheit!",Ich bin Orest!,"und dieses schuld'ge Haupt
+   ",20,"transfer(orest, iphigenie, identity(""Laodamas"", orest))",false
+131868,132523,"t, zurück. Antworte mir! Womit","Bezeugst du, daß du Agamemnons Sohn
+              Und dieser Bruder bist?
+            
+          
+          
+            OREST.
+            
+              Hier ist das Schwert,
+              Mit dem er Trojas tapfre Männer schlug.
+              Dies nahm ich seinem Mörder ab und bat
+              Die Himmlischen, den Mut und Arm, das Glück
+              Des großen Königes mir zu verleihn
+              Und einen schönern Tod mir zu gewähren.
+              Wähl' einen aus den Edlen deines Heers
+              Und stelle mir den Besten gegenüber.
+              So weit die Erde Heldensöhne nährt,
+              Ist keinem Fremden dies Gesuch verweigert.","THOAS.
+            
+          ",21,"transfer(orest, thoas, child_of(orest, ""Agamemnon""))",false
+25897,25926," des vollkommnen Manns gesehn.",Ihm brachte Klytämnestra mich,", den Erstling
+              D",22,"transfer(iphigenie, thoas, parent_of(""Klytämnestra"", iphigenie))",false
+123636,123675,"       Und nun verlassen hat –","es ist Orest,
+              Mein Bruder",", und der andre sein Vertraute",23,"transfer(iphigenie, thoas, identity(""Laodamas"", orest))",false
+105600,105627,"arnt,
+              Den König,",der mein zweiter Vater ward,",
+              Nicht tückisch",24,"transfer(iphigenie, pylades, fosterparent_of(thoas, iphigenie))",false
+61778,61896," er fiel, sein Haus betretend,","Durch seiner Frauen und Ägisthens Tücke?
+            
+          
+          
+            OREST.
+            Du sagst's!","IPHIGENIE.
+            
+      ",25,"transfer(orest, [iphigenie, audience], murderer_of([""Ägisth"", ""Klytämnestra""], ""Agamemnon"")) ",false
+73257,73382,"       
+            IPHIGENIE.","Hast du Elektren, eine Schwester nur?
+          
+          
+            OREST.
+            
+              Die eine kannt' ich","; doch die ältste nahm
+       ",26,"transfer(orest, iphigenie, siblings(orest, ""Elektra""), already-known)",false
+52793,52808,"der jüngste, Cephalus genannt,",Und er Laodamas,", der älteste
+              De",27,"transfer(pylades, [iphigenie, audience], identity(orest, ""Laodamas""), lie)",false
+25966,25979,"tling
+              Der Liebe,",dann Elektren,". Ruhig herrschte
+            ",28,"transfer(iphigenie, audience, identity(SIBLING-1[IPHIGENIE], ""Elektra""))",false
+52740,52777,"a sind wir, Söhne des Adrasts:","Ich bin der jüngste, Cephalus genannt",",
+              Und er Laodama",29,"transfer(pylades, [iphigenie, audience], identity(pylades, ""Cephalus""), lie)",false
+25730,25748,us ältster Sohn war Agamemnon:,Er ist mein Vater.,"Doch, ich darf es sagen,
+     ",30,"transfer(iphigenie, thoas, parent_of(""Agamemnon"", iphigenie))",false
+25897,25926," des vollkommnen Manns gesehn.",Ihm brachte Klytämnestra mich,", den Erstling
+              D",31,"transfer(iphigenie, audience, identity(PARENT-2[IPHIGENIE], ""Klytämnestra""))",false
+66490,66530," Tantals Hause grimmig wütete,",Und Klytämnestra fiel durch Sohnes Hand.,"IPHIGENIE.
+            
+      ",32,"transfer(orest, [iphigenie, audience], murderer_of(orest, ""Klytämnestra""))",false

@@ -1,0 +1,81 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+7467,7519," und, noch
+              mehr,",ihm die reiche und schöne Gräfin Camilla verschaffte,", die er nie kriegt hätte.
+   ",0,"transfer(grimaldi, audience, engaged(camilla, ferdinando))",false
+50848,50907,"rimaldi
+              erbarmt.",O der Seligkeit der Stunden! o der Seligkeit des Grimaldis!,"o der Verdammung
+             ",1,"transfer(grimaldi, audience, in_love_with(LOVER[GRIMALDI], grimaldi))",false
+145663,145709,"    
+            ALTER GUELFO.","Mörder! Mörder, willst du auch uns erschlagen?","GUELFO.
+            Mörder ihr",2,"transfer(alter_guelfo, guelfo, murderer_of(guelfo, ferdinando), uncertain)",false
+75906,75945,"l willkommen, meine Schwester!","Meiner Liebe willkommen, meine Camilla!","O so
+              schwebe vor",3,"transfer(guelfo, camilla, in_love_with(guelfo, camilla))",false
+132734,132981,"mmendem
+              Schwert!","Hast du eingegraben auf meine Stirne den Mord? hast du 
+              ausgesprochen über mich, daß die Himmel zitterten: Unstet und flüchtig! – Hast du's?
+              den Fluch noch nicht? und er brüllt um mich! – Rächer! hi! hi! ich tat's wohl!","Kömmt
+              er noch ni",4,"transfer(guelfo, audience, murderer_of(guelfo, ferdinando))",false
+51646,52011,"        
+            GRIMALDI.","Sie starb, sie starb! und da sie starb, starb Grimaldi! Alle Hoffnung und Leben
+              entquoll meinem Herzen mit den blutigen Tränen. Bruder! Dir darf ich's sagen, daß mir
+              jede Nacht ihre blasse Totengestalt erscheint, daß ich sie so kalt in meine Arme
+              festdrücke, daß sie mir winkt, und daß sie mich nach sich zieht. O Juliette!","Juliette!
+          
+         ",5,"transfer(grimaldi, audience, dead(""Juliette""))",false
+22543,22580,"        
+            GRIMALDI.",Du bist des alten Guelfos Sohn nicht.,Du bist außer dem Bette gezeug,6,"transfer(grimaldi, guelfo, !child_of(guelfo, alter_guelfo))",false
+200,215,"onen.
+          Guelfo, Vater.","Amalia, Mutter.","Ferdinando,
+            Guelfo",7,"transfer(""Figurentafel"", audience, parent_of(amalia, [ferdinando, guelfo]))",false
+135710,135739,"              war nie so wohl.",Und ich hab ihn doch ermordet,", hab ihn erschlagen, als er m",8,"transfer(guelfo, grimaldi, murderer_of(guelfo, ferdinando))",false
+128792,128820,naus! Ich will ihn aufsuchen –,"er ist gestürzt, er ist tot!","ALTER GUELFO.
+            Blei",9,"transfer(camilla, [audience, alter_guelfo, amalia], dead(ferdinando), uncertain)",false
+61227,61243," hat Ihnen ihr Herz geschenkt,",da sie mir's gab,"; und ihr Blick
+              ",10,"transfer(ferdinando, alter_guelfo, amalia, in_love_with(camilla, ferdinando))",false
+52000,52011," daß sie mich nach sich zieht.",O Juliette!,"Juliette!
+          
+         ",11,"transfer(grimaldi, audience, identity(LOVER[GRIMALDI], ""Juliette""))",false
+146250,146294,"          
+            GUELFO.","Ich habe keinen erschlagen, weiß von keinem.","ALTER GUELFO.
+            Wo i",12,"transfer(guelfo, [audience, alter_guelfo, amalia, camilla], !murderer_of(guelfo, ferdinando))",false
+139480,139647,"          Ein düsteres Zimmer.","Ferdinandos Leichnam liegt auf einem Bette, Amalia und Camilla netzen ihn mit
+            Tränen, zu seinem Haupt stehend. Der Alte Guelfo steht in einiger Entfernung.","Stiller,
+            heftiger ",13,"transfer(""Ferdinandos Leichnam"", [alter_guelfo, camilla, amalia], dead(ferdinando))",false
+146152,146195,"         
+            CAMILLA.",Du hast der Braut den Bräutigam erschlagen.,"GUELFO.
+            Ich habe k",14,"transfer(camilla, [audience, alter_guelfo, amalia], murderer_of(guelfo, ferdinando), uncertain)",false
+93418,93433,e diese Sturmwolken peitschen!,sie liebt mich!,"– Sie schlung ihre
+           ",15,"transfer(guelfo, grimaldi, in_love_with(camilla, guelfo))",false
+71323,71345,"          dazwischen vor sich.",Er meint meine Tochter,", und hat recht. Wischt sich d",16,"transfer(alter_guelfo, audience, child_of(""Juliette"", alter_guelfo))",false
+142785,142816," diese aus naher Verzweiflung!",Vom Bruder erschlagen liegt er!,"AMALIA.
+            Vom Bruder",17,"transfer(alter_guelfo, [audience, amalia, camilla], murderer_of(guelfo, ferdinando), uncertain)",false
+19692,19725,"t mir's.
+              Guelfo!",Du bist Ferdinandos Bruder nicht.,Ha! Wie kamst du unter das Ges,18,"transfer(grimaldi, guelfo, !siblings(guelfo, ferdinando))",false
+175,189," 
+        
+          Personen.","Guelfo, Vater.","Amalia, Mutter.
+          
+   ",19,"transfer(""Figurentafel"", audience, parent_of(alter_guelfo, [ferdinando, guelfo]))",false
+123774,123802,"    AMALIA.
+            Still!",Camilla wird bleich und tot.,"ALTER GUELFO.
+            Toch",20,"transfer(""Camillas Aussehen"", [audience, alter_guelfo, amalia], dead(ferdinando), uncertain)",false
+134716,134727,"        
+            GRIMALDI.",Brudermord!,"GUELFO.
+            Ha! So wil",21,"transfer(grimaldi, [audience, guelfo], murderer_of(guelfo, ferdinando), uncertain)",false
+239,289,"ter.
+          Amalia, Mutter.","Ferdinando,
+            Guelfo,
+            Söhne.","Grimaldi.
+          Gräfin Cam",22,"transfer(""Figurentafel"", audience, siblings(ferdinando, guelfo))",false
+58533,58581,"h zu Tode! Sie sieht nach ihm,","und Liebe
+              zittert auf ihren Lippen",– sieht herauf – was denn? Cam,23,"transfer(guelfo, audience, in_love_with(camilla, ferdinando))",false
+142871,142899,"          
+            AMALIA.",Vom Bruder nicht erschlagen!,Gott! nein! – Ha! Du willst sa,24,"transfer(amalia, [audience, alter_guelfo, camilla], !murderer_of(guelfo, ferdinando))",false
+74090,74209," Grafen heiraten; so sagt' er.","Aber mein Herz sagte, Juliette
+              wird's nicht tun! Sie tat's auch nicht, und vermählte sich mit dem Tode. –","Ferdinando!
+              – We",25,"transfer(grimaldi, audience, murderer_of(""Juliette"", ""Juliette""))",false
+147813,147999," meine Hände nicht auf diesen.","Den erschlug ich, der auf mich blickt mit
+              starrem kalten Auge, der seine blutigen Locken schüttelt und Tod. Mit starker Faust
+              erschlug ich ihn an der Eiche. –","Blick auf mich, Blutiger! Blic",26,"transfer(guelfo, [alter_guelfo, amalia, camilla], murderer_of(guelfo, ferdinando))",false
+7595,7622,"fo! Guelfo! faß dich! Camilla,",die der rauhe Guelfo liebte,", die der süße,
+              ",27,"transfer(grimaldi, audience, in_love_with(guelfo, camilla))",false

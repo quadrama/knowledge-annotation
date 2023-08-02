@@ -1,0 +1,79 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+115887,115907,"    MUTTER.
+            Jesus!",Fällt um und stirbt.,"KLARA.
+            Mutter! Mut",0,"transfer(""Fällt um"", [adam, klara, meister_anton, leonhard, audience], dead(mutter))",false
+116205,116225,zte Gesicht! Sahs hundert Mal.,"Gute Nacht, Therese!","Du
+              starbst, als ",1,"transfer(meister_anton, audience, has_name(mutter, ""Therese""))",false
+149609,149960,"        
+            SEKRETÄR.","Du antwortest mir nicht. Freilich, das vergaß ich, du bist Braut! O Mädchen, warum
+              hast du mir das getan! Und doch – habe ich ein Recht, mich zu beklagen? Sie ist, wie
+              alles Liebe und Gute, alles Liebe und Gute hätte mich an sie erinnern sollen, dennoch
+              war sie jahrelang für mich, wie nicht mehr in der Welt.","Dafür hat sie – Wärs nur
+     ",2,"transfer(sekretaer, [klara, audience], in_love_with(sekretaer, klara))",false
+195750,195775,"        nicht hinein gestürzt,",sie ist hinein gesprungen,", eine Magd
+              hats",3,"transfer(karl, [meister_anton, audience, sekretaer], murderer_of(klara, klara))",false
+101119,101150,"allen zu
+              lassen,",wenn er mein Schwiegervater ist,"!
+          
+          
+      ",4,"transfer(leonhard, audience, parent_in_law_of(meister_anton, leonhard))",false
+81758,81794,"        
+            LEONHARD.",Bei deinem Vater um dich anzuhalten!,"KLARA.
+            Ach!
+      ",5,"transfer(leonhard, audience, in_love_with(leonhard, klara))",false
+193538,193570,"        
+            SEKRETÄR.",Sie ist gerächt – Der Bube liegt,– Aber auch ich bin – Warum da,6,"transfer(sekretaer, [meister_anton, karl, audience], murderer_of(sekretaer, leonhard))",false
+151290,151348,nd! Nenne das Wort nicht mehr!,"Dich! Dich lieb ich! Da! Da! Ich
+              rufs dir zu",", als ob ich schon jenseits de",7,"transfer(klara, [sekretaer, audience], in_love_with(klara, sekretaer))",false
+61408,61419,"  Meister Anton, ein Tischler.",Seine Frau.,"Klara, seine Tochter.
+        ",8,"transfer(""Figurentafel"", audience, spouses(meister_anton, mutter))",false
+193556,193570,"
+            Sie ist gerächt –",Der Bube liegt,– Aber auch ich bin – Warum da,9,"transfer(sekretaer, [meister_anton, karl, audience], dead(leonhard))",false
+118398,118667,und ein Mutter- Mörder? Lacht.,"EINE MAGD
+            tritt ein mit einem Brief zu Klara.
+            Von Herrn Kassierer Leonhard!
+          
+          
+            MEISTER ANTON.
+            Du brauchst ihn nicht zu lesen! Er sagt sich von dir los! Schlägt in die
+                Hände. Bravo, Lump!","KLARA
+            hat gelesen.",10,"transfer(""Brief"", [klara, audience], !couple(leonhard, klara))",false
+65984,65990,"auf.
+            Guten Morgen,",Mutter,"! Nun, Klara, mögtest du mich ",11,"transfer(karl, audience, parent_of(mutter, karl))",false
+100832,100858,en Tisch gestellt hat. Und nun,Er mein Schwiegersohn wird,",
+              will ich Ihm a",12,"transfer(meister_anton, [audience, leonhard], engaged(klara, leonhard))",false
+82098,82203,"           meinen Vater nicht!","Er weiß nicht, warum wir Eile haben, er kanns nicht wissen, und
+              wir könnens ihm nicht sagen",", und er hat hundert Mal erklä",13,"transfer(klara, audience, unborn_child_of(CHILD[KLARA], klara))",false
+77120,77215,"es zu
+              verlieren?","Meinst du, ich sah die stillen Blicke nicht, die du mit dem Sekretär
+              wechseltest?",Das war ein schöner Freudentag,14,"transfer(leonhard, [audience, klara], in_love_with(klara, sekretaer), uncertain)",false
+135748,135758,"         
+            WOLFRAM.",Meine Frau,"– Sag Sie mir aufrichtig, Jung",15,"transfer(wolfram, audience, spouses(wolfram, SPOUSES[WOLFRAM]))",false
+61462,61478,"         Klara, seine Tochter.","Karl, sein Sohn.","Leonhard.
+          Ein Sekret",16,"transfer(""Figurentafel"", audience, child_of(karl, meister_anton))",false
+195627,195638,"KARL
+            kommt zurück.",Klara! Tot!,Der Kopf gräßlich am Brunnenra,17,"transfer(karl, [meister_anton, audience, sekretaer], dead(klara))",false
+150954,151067,"       KLARA
+            wild.","Lieben? Er oder der Tod! Wunderts wen, daß ich ihn wähle? Ich täts nicht, dächt ich
+              an mich allein!","SEKRETÄR.
+            Er oder ",18,"transfer(klara, sekretaer, !in_love_with(klara, leonhard))",false
+61430,61451,"ischler.
+          Seine Frau.","Klara, seine Tochter.","Karl, sein Sohn.
+          Leo",19,"transfer(""Figurentafel"", audience, child_of(klara, meister_anton))",false
+69808,69871,"  MUTTER
+            lächelnd.","Ja, ja! Ich sehe den Leonhard ja gar nicht mehr. Wie kommt das?","KLARA.
+            Mag er weg ",20,"transfer(mutter, audience, couple(leonhard, klara))",false
+81984,82047,"
+          
+            KLARA.","Nicht recht? Mein Tod wärs, wenn ich nicht bald dein Weib würde",", aber du kennst
+             ",21,"transfer(klara, [leonhard, audience], in_love_with(klara, leonhard))",false
+155237,155265,"        
+            SEKRETÄR.","Mädchen, du liebst ihn nicht",", du hast dein Wort zurück –
+ ",22,"transfer(sekretaer, klara, !in_love_with(klara, sekretaer))",false
+150485,150513," Zum
+                Sekretär.","Nimms nicht übel, Friedrich!",– Warum werden mir die Beine a,23,"transfer(klara, audience, has_name(sekretaer, ""Friedrich""))",false
+62310,62322,"      Diesmal doch nicht ganz,",liebe Mutter,"! Die Ärmel sind zu weit. Es m",24,"transfer(klara, audience, parent_of(mutter, klara))",false
+69925,69944,"
+          
+            KLARA.",Mag er weg bleiben!,"MUTTER.
+            Ich will n",25,"transfer(klara, [mutter, audience], !couple(leonhard, klara))",false

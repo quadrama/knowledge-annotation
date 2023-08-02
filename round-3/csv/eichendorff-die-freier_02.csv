@@ -1,0 +1,100 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+432,456,"Gärtner, im Dienste der Gräfin","Marie, Friedmanns Nichte","Knoll, ein Weinschenk
+        ",0,"transfer(""Figurentafel"", audience, niece:nephew_of(marie, friedmann))",false
+77973,78002,"
+          
+            FLITT.",Ja – die Gräfin liebt mich. –,"KNOLL.
+            Der gute Gä",1,"transfer(flitt, [audience, knoll], in_love_with(""Adele"", flitt))",false
+139782,140053," vor der Gräfin niederknieend.","Ach! Einer, der gern Federhut, Schwert, Schnurrbart
+              Und alle Manneswürde jetzt dahingäb
+              Um einen einz'gen Weiberrock – ein Mutwill,
+              Der seinen Willen eben hart gebüßt,
+              Weil er den Mut dazu nicht konnt erschwingen. –","LEONARD
+            sich vor d",2,"transfer(flora, leonard, identity(""Ritter"", ""Dame im Wald""))",false
+32103,32308,"       
+            SCHLENDER.","Ich bin eigentlich ein Sänger, aber ich habe meine Gurgel viel strapaziert und
+              unterwegs die Stimme verloren, da akkompagniere ich jetzt meinen gewesenen Gesang auf
+              der Violine.","LEONARD.
+            Gut, so b",3,"transfer(schlender, leonard, identity(""Fremder aus dem Wald"", ""Violinist""))",false
+143380,143450,"          Leonarden bemerkend.","Ein Wörtchen nur mit jenem Herren dort –
+              Graf Leonard! –","ADELE
+            die sich bei",4,"transfer(fleder, [adele, flora], identity(""Schauspieler"", leonard))",false
+140903,140945,"         
+            LEONARD.",Was ist denn das? – Sind Sie denn nicht? –,"ADELE
+            Leonarden mi",5,"transfer(leonard, audience, transfer(""Dame im Wald"", identity(""Jungfer"", adele)), uncertain)",false
+5171,5223," meinen alten Lieblingswunsch,","daß mein Neffe, der
+              junge Graf Leonard",", der soeben von Reisen zurück",6,"transfer(fleder, audience, nephew:niece_of(leonard, ""Präsident""))",false
+38895,39032,r ihre besten Kleider anziehen,"und
+              mich, solange die Gäste hier sind, für die Gräfin ausgeben, sie selbst will unterdes
+              die Jungfer spielen.","VICTOR.
+            O vortreff",7,"transfer(flora, [audience, victor], identity(flora, ""Adele""))",false
+118296,118810," dann sich wieder aufrichtend.","Seit wann kenn ich die Angst? – Es ist vorüber! –
+              Nie sag die Welt: die Tochter hoher Helden
+              Sei so entartet aller Heldenhoheit,
+              Daß sie verlernt, sich selbst zu überwinden.
+               Jetzt gleich, eh blut'ges Unheil sich begibt,
+              Brech ich die Rätsel dieser Mummerei,
+              Die dem gemeinen Trieb der Welt mich gleichgestellt. –
+              Noch einmal, als die freie Herrin, tret ich
+              Vor Florestin – und seh ihn nie mehr wieder!","Ab.
+          
+          
+    ",8,"transfer(adele, audience, identity(""Jungfer"", adele))",false
+116068,116638,"
+          
+            FLORA.","Rettung, Entlarvung, List, Händel, Rumor. –
+              Erst stell ich mich heimlich hinter die Laube,
+               Bis sich die Bande versammelt zum Raube,
+              Dann brech ich als weitläuftiger Vetter vom Haus,
+              Der eben von Reisen kommt, plötzlich heraus,
+              Staun, frage, drück in die Augen den Hut,
+              Und wenn alles konfus recht, ruf ich voll Wut
+              Diener und Fackeln – und spieße verwegen
+              In der Luft so die Haube mit meinem Degen,
+              Die über dem Scheitel der Gräfin tut zücken.","Komm auch mit, lieb Mühmchen.
+",9,"transfer(flora, [audience, marie], identity(""Adele"", ""reisender Vetter""))",false
+127114,127135,"     zu Fleders Füßen sinkend.",Der selige Schlender!,"FLEDER.
+            Ha, absche",10,"transfer(schlender, fleder, identity(adele, schlender))",false
+144392,144397,"            zögernd und leise.",Ja! –,"LEONARD
+            rasch aufs",11,"transfer(adele, [audience, leonard, flora], engaged(adele, leonard))",false
+6758,6892,", wieder ganz auf seine Weise:","er will nämlich –
+              denken Sie nur! – unerkannt, als reisender Schauspieler das Schloß der Gräfin
+              besuchen!«",O irregeleiteter Jüngling! o a,12,"transfer(fleder, audience, transfer(""Präsident"", fleder, identity(leonard, ""Schauspieler"")))",false
+37749,37830," ein, um die Gräfin zu freien,","Graf Leonard, ein Neffe des
+              Präsidenten, als reisender Schauspieler",", und der Hofrat Fleder als Fl",13,"transfer(flora, victor, identity(leonard, ""Schauspieler""))",false
+38973,39031,"sind, für die Gräfin ausgeben,","sie selbst will unterdes
+              die Jungfer spielen",".
+          
+          
+      ",14,"transfer(flora, [audience, victor], identity(adele, ""Jungfer""))",false
+32364,32513,"         
+            LEONARD.","Gut, so bin ich eigentlich bloß ein Violinspieler, der aber bloß singen kann, und Sie
+              sollen mich begleiten. Mein Name ist – Florestin.","SCHLENDER.
+            Also ei",15,"transfer(leonard, schlender, identity(leonard, ""Schauspieler""))",false
+119301,119381,erbirgt sich hinter der Laube.,Victor führt den Schlender an der Hand herein. Letzterer ist als Dame verkleidet,",
+              hat einen Schl",16,"transfer(flora, audience, identity(schlender, ""Dame""))",false
+37749,37802," ein, um die Gräfin zu freien,","Graf Leonard, ein Neffe des
+              Präsidenten",", als reisender Schauspieler, ",17,"transfer(flora, victor, nephew:niece_of(leonard, ""Präsident""))",false
+38181,38348,"
+          
+            FLORA.","Der Präsident vertraute es unter dem Siegel der Verschwiegenheit der Gräfin Jolanthe,
+              und die versiegelte es noch einmal und schickte es an unsre Gräfin.","VICTOR.
+            Und was sa",18,"knowledge(adele, identity(leonard, ""Schauspieler""))",false
+38281,38347,"iegenheit der Gräfin Jolanthe,",und die versiegelte es noch einmal und schickte es an unsre Gräfin,".
+          
+          
+      ",19,"knowledge(adele, identity(fleder, ""Flötenspieler""))",false
+141192,141329,"         
+            LEONARD.","Nein – um Gott!
+              Wer von den beiden ist die Gräfin? –
+            
+          
+          
+            ADELE.
+            Ich!",Sie verbirgt ihr Gesicht an Fl,20,"transfer(adele, leonard, identity(""Jungfer"", adele))",false
+9017,9055,"ort ist die
+              Tat!",ich reise als Flötenspieler zur Gräfin,", noch in dieser Stunde. Heili",21,"transfer(fleder, audience, identity(fleder, ""Flötenspieler""))",false
+37832,37871,"n, als reisender Schauspieler,",und der Hofrat Fleder als Flötenspieler,".
+          
+          
+      ",22,"transfer(flora, victor, identity(fleder, ""Flötenspieler""))",false

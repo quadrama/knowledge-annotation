@@ -1,0 +1,89 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+131050,131328,h kann mir's leicht einbilden.,"Er hat sich in dich verliebt stellen sollen, um dich zu überführen, daß du vielleicht
+              schon liebtest. Er wird also die List gebraucht und dich beredt haben, daß Herr Damis
+              mich liebte. Vergib ihm diesen Scherz. Er hat seine Rolle gar zu gut gespielt.","JULCHEN.
+            Er tat se",0,"transfer(lottchen, [audience, julchen, damis], !in_love_with(damis, lottchen))",false
+333,352,"te Tochter
+          Siegmund,",Lottchens Liebhaber,"Damis, Julchens Liebhaber
+    ",1,"transfer(""Figurentafel"", audience, lovers(siegmund, lottchen))",false
+46559,46674,"Zugleich muß ich Ihnen melden,","daß heute oder morgen
+              das Testament Ihrer seligen Frau Muhme, der Frau Stephan, geöffnet werden soll.","Ich
+              glaube gewiß",2,"transfer(cleon, [audience, lottchen], dead(""Frau Stephan""))",false
+13430,13683,lchens Glücke etwas beitragen.,"Sie liebt den
+              Herrn Damis und weiß es nicht, daß sie ihn liebt. Ihr ganzes Bezeigen versichert mich,
+              daß der prächtige Gedanke, den sie von der Freiheit mit sich herumträgt, nichts als
+              eine Frucht der Liebe sei.",Sie liebt; aber die verdrüßlic,3,"transfer(lottchen, [audience, siegmund], transfer(""Verhalten Julchen"", lottchen, in_love_with(julchen, damis)))",false
+248,270,"ein Bruder
+          Lottchen,",Cleons älteste Tochter,"Julchen, dessen jüngste Tochte",4,"transfer(""Figurentafel"", audience, child_of(lottchen, cleon))",false
+121872,121904,"ht ach, du sollst ja sprechen.",Du gefällst ihm ganz ausnehmend.,"Er
+              wird dich wie",5,"transfer(cleon, julchen, in_love_with(damis, julchen))",false
+106141,106247,horche Ihnen als meinem Vater.,"Aber darf ich
+              Ihnen sagen, daß es scheint, daß mir Julchen gewogener ist als dem Herrn Damis","; und
+              daß Lottch",6,"transfer(siegmund, cleon, in_love_with(julchen, siegmund), lie)",false
+48020,48098,"nte Freiheit, ungeraubt ließe.","Ich habe die sichersten Merkmale, daß sie
+              den Herrn Damis liebt.","CLEON.
+            Sollte es m",7,"transfer(lottchen, cleon, in_love_with(julchen, damis))",false
+74021,74043,"et, und woher? Aber ... Ja ...",Ich will Sie verlassen,". Sie sind
+              tiefs",8,"transfer(julchen, [audience, damis, lottchen], !in_love_with(julchen, damis))",false
+179413,179493,n seine Stelle setzen  wollen.,"Er hat meinen Vater überreden
+              wollen, als ob ich ihn selbst liebte",", und als wenn du hingegen den",9,"transfer(julchen, lottchen, transfer(siegmund, cleon, in_love_with(julchen, siegmund)), lie)",false
+68400,68459,lcher Unschuld sagte sie dies!,"Sie liebt mich wohl, ohne es
+              recht zu wissen.","Bedenken Sie nur, mein liebes ",10,"transfer(damis, [audience, lottchen], !knowledge(julchen, in_love_wtih(julchen, damis)))",false
+18894,18981,ondern auf Ihre Verdienste an.,"Scheun Sie
+              sich nicht mehr vor mir. Ich bin gar nicht mehr Ihr Liebhaber.","Aber darf ich denn auch
+      ",11,"transfer(damis, julchen, !in_love_with(damis, julchen), lie)",false
+14967,15148,ine Halsstarrigkeit lieb sein.,"Es ist nichts als Liebe. Eben
+              weil sie fühlt, daß ihr Herz überwunden ist: so wendet sie noch die letzte Bemühung
+              an, der Liebe den Sieg sauer zu machen.","Wir brauchen nichts, als sie d",12,"transfer(lottchen, damis, in_love_with(julchen, damis))",false
+130570,130669,ergehn ist noch ein Verdienst.,"Er würde
+              dich nicht lieben, wenn er nicht die größten Vorzüge zu lieben gewohnt wäre.","Ich
+              entschuldige",13,"transfer(julchen, [audience, lottchen, damis], in_love_with(damis, lottchen))",false
+57228,57274,uhe könnte ich mich übereilen.,"Ich glaube in der Tat nicht, daß ich ihn liebe",",
+              sonst würde ic",14,"transfer(julchen, [audience, cleon], !in_love_with(julchen, damis))",false
+173632,173652,"
+          
+            DAMIS.",Er ist Ihnen untreu.,"LOTTCHEN.
+            Auch Sie",15,"transfer(damis, lottchen, !in_love_with(siegmund, lottchen))",false
+179495,179559," als ob ich ihn selbst liebte,","und als wenn du hingegen den Herrn Damis
+              liebtest.","Er hat ihm geraten, die Verlob",16,"transfer(julchen, lottchen, transfer(siegmund, cleon, in_love_with(lottchen, damis)), lie)",false
+147614,148042,"
+          
+            DAMIS.","Ja, es ist ein nichtswürdiger Freund, wie ich Ihnen gesagt habe. Er hat den größten
+              Betrug begangen. Ich bitte ihn heute Vormittage, wie man einen Bruder bitten kann, daß
+              er mir Ihre Liebe sollte gewinnen helfen. Und statt dessen bittet er Ihren Herrn
+              Vater, unsere Verlobung noch acht Tage aufzuschieben, und will ihn bereden, als ob
+              Sie, meine Braut, ihn selbst liebten.","Ist das mein Freund, dem ich m",17,"transfer(damis, audience, knowledge(damis, transfer(siegmund, cleon, in_love_with(julchen, siegmund))), lie)",false
+370,388,"ens Liebhaber
+          Damis,",Julchens Liebhaber,"Simon, Damis' Vormund
+        ",18,"transfer(""Figurentafel"", audience, lovers(damis, julchen))",false
+189846,189878," dem Betrüger nicht übelgehen.",Wie redlich habe ich ihn geliebt,", und
+              wie unglüc",19,"transfer(lottchen, [audience, cleon, julchen, damis, simon, der_magister], !in_love_with(lottchen, siegmund))",false
+125802,125828,"n Herz schenken ... doch nein,",ich habe ihn nicht geliebt,". Aber
+              hat er ni",20,"transfer(julchen, [audience, siegmund], !in_love_with(julchen, damis))",false
+8103,8153,"ne Vorzüge als meine Unschuld,","und er
+              liebt mich doch so vollkommen",", als wenn ich die liebenswürd",21,"transfer(lottchen, [audience, cleon], in_love_with(siegmund, lottchen))",false
+168299,168349,"erhole es
+              Ihnen,",Ihr Liebhaber meint es nicht aufrichtig mit Ihnen.,"LOTTCHEN.
+            Sie woll",22,"transfer(simon, lottchen, !in_love_with(siegmund, lottchen))",false
+290,312,"ste Tochter
+          Julchen,",dessen jüngste Tochter,"Siegmund, Lottchens Liebhaber
+",23,"transfer(""Figurentafel"", audience, child_of(julchen, cleon))",false
+14797,14855,"h
+              Unglücklicher!","Wie gut wäre es für mich, wenn ich Julchen weniger liebte!","LOTTCHEN.
+            Lassen S",24,"transfer(damis, [audience, lottchen, siegmund], in_love_with(damis, julchen))",false
+216,227," Cleon
+          Der Magister,",sein Bruder,"Lottchen, Cleons älteste Tocht",25,"transfer(""Figurentafel"", audience, siblings(cleon, der_magister))",false
+132887,132935,"         
+            JULCHEN.","Ja. Nunmehr weiß ich's gewiß, daß ich Sie liebe.","Und nunmehr bin ich bereit, di",26,"transfer(julchen, [audience, damis, lottchen], in_love_with(julchen, damis))",false
+7342,7554,"        
+            LOTTCHEN.","Ja, Papa, so lieb, daß, wenn ich die Wahl hätte, ob ich ihn mit einem geringen
+              Auskommen oder den Vornehmsten mit allem Überflusse zum Manne haben wollte, ich ihn
+              allemal wählen würde.","CLEON.
+            Ist's mögli",27,"transfer(lottchen, [audience, cleon, siegmund], in_love_with(lottchen, siegmund))",false
+102653,102840,"Magister, was spricht Julchen?","Ich denke, sie wird sich wohl ohne
+              deine Fabel zur Liebe entschlossen haben.
+            
+          
+          
+            DER MAGISTER.
+            Sie bleibt unbeweglich.","Ich weiß nicht, warum ich mir ",28,"transfer(der_magister, [audience, cleon], !in_love_with(julchen, damis))",false

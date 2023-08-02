@@ -1,0 +1,100 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+10135,10150,"nd wir,
+            dein Blut,",dein Sohn Orest,"und deine Töchter,
+           ",0,"transfer(elektra, audience, child_of(orest, PARENT[ELEKTRA]))",false
+8296,8325,nem königlichen Bette schläft.,Sie schlugen dich im Bade tot,", dein Blut
+            rann ü",1,"transfer(elektra, audience, dead(""Agamemnon""))",false
+72574,72721,"            hier aus dem Haus?","bist eine von den Mägden
+            des Hauses?
+          
+        
+        
+          ELEKTRA.
+          
+            Ja, ich diene hier im Haus.",Du aber hast hier nichts zu sc,2,"transfer(elektra, orest, identity(elektra, ""Magd""), lie)",false
+79443,79456,"      laut reden. Hör mich an:",Orestes lebt.,"ELEKTRA
+          wirft sich h",3,"transfer(orest, elektra, !dead(orest))",false
+221,276,"sonae.
+          Klytämnestra.","Elektra,
+            Chrysothemis,
+            Töchter.","Ägisth.
+          Orest.
+     ",4,"transfer(""Figurentafel"", audience, child_of(chrysothemis, klytaemnestra))",false
+76434,76561,"  
+        
+          ELEKTRA.","Verwandt? ich bin dies Blut! ich bin das hündisch
+            vergoßne Blut des Königs Agamemnon!
+            Elektra heiß ich.","OREST.
+          Nein!
+       ",5,"transfer(elektra, orest, identity(""Magd"", elektra))",false
+7847,7856,"     Allein! Weh, ganz allein.",Der Vater,"fort,
+            hinabgescheu",6,"transfer(elektra, audience, parent_of(PARENT[ELEKTRA], elektra))",false
+97818,97826,"H
+          wird fortgerissen.",Weh mir!,"Elektra steht, furchtbar atmen",7,"transfer(aegisth, [audience, elektra], dead(aegisth))",false
+53070,53103,"YSOTHEMIS
+          schreiend.","Orest!
+            Orest ist tot!","ELEKTRA
+          winkt ihr ab",8,"transfer(chrysothemis, [audience, elektra], dead(orest))",false
+8296,8325,nem königlichen Bette schläft.,Sie schlugen dich im Bade tot,", dein Blut
+            rann ü",9,"transfer(elektra, audience, murderer_of([aegisth, klytaemnestra], ""Agamemnon""))",false
+73510,73572,"     weil wir bezeugen können,","daß ihr Sohn
+            Orest gestorben ist vor unsren Augen.",Denn ihn erschlugen seine eign,10,"transfer(orest, elektra, dead(orest))",false
+60355,60374,"h
+            hingehen und das",Weib und ihren Mann,"erschlagen.
+          
+       ",11,"transfer(elektra, audience, spouses(klytaemnestra, aegisth))",false
+80700,81573,acht in diesem Haus verbringt.,"OREST.
+          
+            Bei meines Vaters Leichnam! dazu kam
+            das Kind ins Haus, damit noch diese Nacht
+            die sterben, welche sterben sollen –
+          
+        
+        
+          ELEKTRA
+          von seinem Ton getroffen.
+          
+            Wer
+            bist du?
+          
+          Der alte finstre Diener stürzt aus dem Hof lautlos herein, wirft sich vor Orest
+            nieder, küßt seine Füße, rafft sich auf, angstvoll um sich schauend, und stürzt lautlos
+            wieder ab.
+        
+        
+          ELEKTRA
+          kaum ihrer mächtig.
+          Wer bist du denn? Ich fürchte mich.
+        
+        
+          OREST
+          sanft.
+          
+            Die Hunde auf dem Hof erkennen mich,
+            und meine Schwester nicht?
+          
+        
+        
+          ELEKTRA
+          schreit auf.
+          Orest!","OREST
+          fieberhaft.
+  ",12,"transfer(orest, elektra, identity(""Fremder"", orest))",false
+76263,76351,"n nicht anders, als zu denken:","du
+            muß ein verwandtes Blut zu denen sein,
+            die starben, Agamemnon","und Orest.
+          
+        ",13,"transfer(orest, audience, has_name(PARENT[ELEKTRA], ""Agamemnon""))",false
+98245,98276,s ist der Bruder drin im Haus!,"es ist Orest, der es getan hat!","Stimmengewirr, Getümmel drauße",14,"transfer(chrysothemis, [audience, elektra], murderer_of(orest, klytaemnestra))",false
+29979,30000,"h kränkt
+            zu sehen,","daß Ägisth, dein Mann",", die alten Mäntel
+           ",15,"transfer(elektra, audience, spouses(klytaemnestra, aegisth))",false
+221,276,"sonae.
+          Klytämnestra.","Elektra,
+            Chrysothemis,
+            Töchter.","Ägisth.
+          Orest.
+     ",16,"transfer(elektra, audience, spouses(klytaemnestra, aegisth))",false
+97447,97463,"ft dem Herren! Mörder, Mörder!",Sie morden mich!,"Er wird weggezerrt.
+          ",17,"transfer(aegisth, audience, murderer_of(elektra, aegisth))",false
+70235,70260,", sieht sich um, gräbt wieder.",Orest steht in der Hoftür,", von der letzten Helle sich s",18,"transfer(""Nebentext"", audience, !dead(orest))",false

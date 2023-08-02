@@ -1,0 +1,123 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+130960,131137,eh da! unsere schöne Gräfin. –,"Wie sehr betaure ich, Madame, daß ich mir die Ehre
+              Ihres Besuchs für heute so wenig zu Nutze machen kann! Ich bin beschäftiget. Ich bin
+              nicht allein.","– Ein andermal, meine liebe Gr",0,"transfer(der_prinz, orsina, !in_love_with(der_prinz, orsina))",false
+107407,107428,". – Kommen Sie, gnädige Frau –",Ihre Tochter ist hier,";
+              in einem von d",1,"transfer(marinelli, claudia, !dead(emilia))",false
+161085,161102,"         
+            ODOARDO.",Der Graf ist tot.,"MARINELLI.
+            Um so v",2,"transfer(odoardo, marinelli, dead(appiani), already-known)",false
+117987,118094,"     Also, kurz und einfältig.","Da ich die Sache übernahm, nicht wahr, da wußte Emilia von
+              der Liebe des Prinzen noch nichts?","Emiliens Mutter noch weniger. ",3,"transfer(marinelli, [der_prinz, audience], knowledge(emilia, in_love_with(der_prinz, emilia)))",false
+112007,112090,"       
+            MARINELLI.",Wenn ich Ihnen vorher gesagt hätte? – Als ob sein Tod in meinem Plane gewesen wäre!,Ich hatte es dem Angelo auf di,4,"transfer(marinelli, der_prinz, dead(appiani))",false
+21515,21592,"     So gut, wie gar nichts. –","Denn daß die Verbindung des Grafen Appiani heute vollzogen
+              wird",", – ist nicht viel mehr, als g",5,"transfer(marinelli, [der_prinz, audience], engaged(appiani, BRIDE[APPIANI]))",false
+41977,42089,ll er: ein bloßer Spazierritt.,"Seine Tochter wird, heut' Abend, auf dem
+              Gute, von dem er herkömmt, dem Grafen Appiani angetrauet.","Er kann die Zeit nicht
+       ",6,"transfer(pirro, angelo, engaged(emilia, appiani))",false
+238,256,"do,
+          Claudia Galotti,",Eltern der Emilia.,"Hettore Gonzaga, Prinz von Gua",7,"transfer(""Figurentafel"", audience, parent_of(odoardo, emilia))",false
+23822,23857,"       
+            MARINELLI.",Es ist eine gewisse Emilia Galotti.,"DER PRINZ.
+            Wie, Ma",8,"transfer(marinelli, [der_prinz, audience], identity(BRIDE[APPIANI], emilia))",false
+70082,70160,"leich an den Herzog von Massa,","in Angelegenheit seiner
+              Vermählung mit dessen Prinzessin Tochter",", einen Bevollmächtigten sende",9,"transfer(marinelli, appiani, engaged(der_prinz, ""Prinzessin von Massa""))",false
+134700,134722,"       
+            MARINELLI.",Es ist Emilia Galotti.,"ORSINA.
+            Wer? – Emi",10,"transfer(marinelli, orsina, identity(BRIDE[APPIANI], emilia))",false
+94926,94948,ter uns ward sogar geschossen.,Sie ist vielleicht tot,"; – und ich lebe? –
+          ",11,"transfer(emilia, [marinelli, audience], dead(claudia), uncertain)",false
+153564,153589,"         
+            CLAUDIA.",Wissen kann sie es nicht.,"Aber ich fürchte, daß sie es a",12,"transfer(claudia, odoardo, !knowledge(emilia, dead(appiani)))",false
+112539,112604,"       
+            MARINELLI.","Daß Angelo sodann in Wut kam, und den Tod seines Gefährten rächte","–
+          
+          
+      ",13,"transfer(marinelli, der_prinz, murderer_of(angelo, appiani))",false
+3009,3049,"            wieder wegwirft. –",Nun ja; ich habe sie zu lieben geglaubt!,"Was glaubt man
+              n",14,"transfer(der_prinz, [der_kammerdiener, audience], !in_love_with(der_prinz, orsina))",false
+146613,146629,undet worden? Nur verwundet? –,Appiani ist tot!,"ODOARDO.
+            Tot? tot?",15,"transfer(orsina, odoardo, dead(appiani), uncertain)",false
+133864,133898,"ttet: seine Braut nämlich, und","die Mutter der
+              Braut",", mit welchen er nach Sabionet",16,"transfer(marinelli, orsina, parent_of(BRIDE[APPIANI], MOTHER[BRIDE[APPIANI]))",false
+105110,105129,"       
+            MARINELLI.",Marchese Marinelli.,"CLAUDIA.
+            So ist es",17,"transfer(marinelli, claudia, has_name(marinelli, ""Marchese Marinelli""))",false
+88276,88336,"          
+            ANGELO.","Ich könnte weinen, um den ehrlichen Jungen! Ob mir  sein Tod","schon das
+                Inde",18,"transfer(angelo, [marinelli, audience], dead(nicolo))",false
+79511,79522,"ott den Grafen bewegen konnte,",seine Liebe,"der Ehre nachzusetzen:
+       ",19,"transfer(marinelli, der_prinz, in_love_with(appiani, emilia))",false
+184586,184611,"    Doch, meine Tochter, doch!",Indem er sie durchsticht.,"Gott, was hab'
+              i",20,"transfer( ""Durchstechen"", [emilia, audience], murderer_of(odoardo, emilia), uncertain)",false
+274,289,",
+          Eltern der Emilia.",Hettore Gonzaga,", Prinz von Guastalla.
+       ",21,"transfer(""Figurentafel"", audience, has_name(der_prinz, ""Hettore Gonzaga""))",false
+18974,19024,"   Allerdings, sehr Unrecht! –",Meine nahe Vermählung mit der Prinzessin von Massa,", will
+              durchaus,",22,"transfer(der_prinz, audience, engaged(der_prinz, ""Prinzessin von Massa""))",false
+118095,118124,Liebe des Prinzen noch nichts?,Emiliens Mutter noch weniger.,"Wenn ich nun auf
+             ",23,"transfer(marinelli, [der_prinz, audience], knowledge(claudia, in_love_with(der_prinz, emilia)))",false
+133839,133858,er nach dem Schlosse gerettet:,seine Braut nämlich,", und die Mutter der
+         ",24,"transfer(marinelli, orsina, engaged(appiani, BRIDE[APPIANI]))",false
+175609,175651,"och
+              gern vorher.",Der Tod des Grafen ist ihr noch unbekannt.,"Sie wird nicht begreifen
+     ",25,"transfer(odoardo, der_prinz, !knowledge(emilia, dead(appiani)))",false
+238,256,"do,
+          Claudia Galotti,",Eltern der Emilia.,"Hettore Gonzaga, Prinz von Gua",26,"transfer(""Figurentafel"", audience, parent_of(claudia, emilia))",false
+147736,148806,"Wort!
+              geschwind.","ORSINA.
+            Nun da; buchstabieren Sie es zusammen! – Des Morgens, sprach der Prinz Ihre Tochter
+              in der Messe; des Nachmittags, hat er sie auf seinem Lust – Lustschlosse.
+          
+          
+            ODOARDO.
+            Sprach sie in der Messe? Der Prinz meine Tochter?
+          
+          
+            ORSINA.
+            Mit einer Vertraulichkeit! mit einer Inbrunst! – Sie hatten nichts Kleines abzureden.
+              Und recht gut, wenn es abgeredet worden; recht gut, wenn Ihre Tochter freiwillig sich
+              hierher gerettet! Sehen Sie: so ist es doch keine gewaltsame Entführung; sondern bloß
+              ein kleiner – kleiner Meuchelmord.
+            
+          
+          
+            ODOARDO.
+            Verleumdung! verdammte Verleumdung! Ich kenne meine Tochter. Ist es Meuchelmord: so
+              ist es auch Entführung. – Blickt wild um sich, und stampft, und
+                schäumet. Nun, Claudia? Nun, Mütterchen? – Haben wir nicht Freude erlebt! O
+              des gnädigen Prinzen! O der ganz besondern Ehre!","ORSINA.
+            Wirkt es, ",27,"transfer(orsina, odoardo, in_love_with(der_prinz, emilia))",false
+186566,186618,"ie Füße
+                wirft.","Hier liegt er, der blutige Zeuge meines Verbrechens!","Ich gehe und
+              lie",28,"transfer(odoardo, [marinelli, der_prinz, audience], murderer_of(odoardo, emilia))",false
+185997,186007,"
+            Ah – mein Vater –",Sie stirbt,", und er legt sie sanft auf de",29,"transfer(""Nebentext"", [marinelli, odoardo, der_prinz], dead(emilia))",false
+88921,89050,"n! – Er
+              stürzte;","und wenn er noch lebendig zurück in die Kutsche kam: so steh' ich dafür, daß
+              er nicht lebendig wieder heraus kömmt.","MARINELLI.
+            Wenn da",30,"transfer(angelo, [marinelli, audience], murderer_of(angelo, appiani))",false
+87858,87893,"          
+            ANGELO.",Es tut mir leid um den guten Herrn.,"MARINELLI.
+            Nun da,",31,"transfer(angelo, [marinelli, audience], dead(appiani))",false
+178559,178580," nennest du, alles verloren? –",daß der Graf tot ist?,"EMILIA.
+            Und warum ",32,"transfer(odoardo, emilia, dead(appiani))",false
+107198,107212,meine Tochter. – Wo ist sie? –,Wie? auch tot?,"– Was konnte meine
+           ",33,"transfer(claudia, [marinelli, audience], dead(emilia), uncertain)",false
+152400,152404,"         
+            CLAUDIA.",Tot.,"ODOARDO.
+            Ist es wa",34,"transfer(claudia, odoardo, dead(appiani))",false
+140441,140704,"         
+            ODOARDO.","Vergeben Sie, mein Herr, einem Vater, der in der  äußersten Bestürzung
+              ist, – daß er so unangemeldet hereintritt.
+          
+          
+            ORSINA.
+            Vater? Kehrt wieder um. Der Emilia, ohne Zweifel. – Ha,
+              willkommen!","ODOARDO.
+            Ein Bedie",35,"transfer(odoardo, orsina, parent_of(odoardo, emilia))",false
+26722,26742,"    Verräter! – was mir ist? –",Nun ja ich liebe sie,; ich bete sie an. Mögt ihr es,36,"transfer(der_prinz, [marinelli, audience], in_love_with(der_prinz, emilia))",false
+74966,75006,"gleich wissen lassen, mit wem?","APPIANI.
+            Mit Emilia Galotti.","MARINELLI.
+            Der Toc",37,"transfer(appiani, marinelli, engaged(appiani, emilia), already-known)",false

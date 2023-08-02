@@ -1,0 +1,96 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+34313,34333,"          Er kommt eben recht,",Herr Vetter Magister,; mein Mädel wird heut keine K,0,"transfer(frau_humbrecht, audience, cousins(humbrecht, magister), uncertain)",false
+114756,114889,"   
+        
+          EVCHEN.","Gröningseck! noch eins! Er kommt zurück, sie küßt ihn mit den Worten.
+            Den kann ich Ihnen morgen nicht auf die Reis geben!","Und riegelt die
+              ",1,"transfer(evchen, [audience, von_groeningseck], in_love_with(evchen, von_groeningseck))",false
+166928,166973,"   
+        
+          EVCHEN.","Ja, ja! Ich – Ich! ich bin die Muttermörderin",",
+            die  keinen gute",2,"transfer(evchen, frau_marthan, identity(evchen, ""Tochter von Humbrecht""))",false
+166928,166973,"   
+        
+          EVCHEN.","Ja, ja! Ich – Ich! ich bin die Muttermörderin",",
+            die  keinen gute",3,"transfer(evchen, frau_marthan, !dead(evchen))",false
+62590,62652,"     
+          VON HASENPOTH.","Eins von beiden! – ist's das nicht, so muß es das  erste sein.","– Und
+            dennoch – we",4,"transfer(von_hasenpoth, [audience, von_groeningseck], in_love_with(von_groeningseck, LOVER[VON_GROENINGSECK]))",false
+179911,179944,etzt mag's der – Henker tun! –,"Mein Kind ist tot, tot durch mich","–
+        
+        
+          ",5,"transfer(evchen, [humbrecht, magister], murderer_of(evchen, CHILD[EVCHEN]))",false
+130322,130450,"ilie, die diesen Namen führen.","Fragen Sie doch Evchen Humbrecht, Ihre Base, ob
+            sie dumm genug ist zu glauben, daß ich sie würklich heiraten wollte.","Wenn sie
+            zurückden",6,"transfer(magister, [audience, frau_humbrecht, humbrecht], transfer(von_groeningseck, magister, !in_love_with(von_groeningseck, evchen)))",false
+126378,126523,"
+        
+          HUMBRECHT.","Weiß ich's? – Wenn's mir recht ist, so hält er uns für Kalbsköpf, die keine Augen
+            haben, und unser Evchen – wenigstens für eine Hure.","MAGISTER
+          betroffen.
+",7,"transfer(humbrecht, frau_humbrecht, transfer(magister, humbrecht, lovers(evchen, LOVER[EVCHEN]), uncertain))",false
+158,214," 
+        
+          Personen.","Martin Humbrecht, ein Metzger.
+          Frau Humbrecht.","Evchen Humbrecht, ihre Tochter",8,"transfer(""Figurentafel"", audience, spouses(humbrecht, frau_humbrecht))",false
+159347,159451," blast er
+            ihr was,","und da hat sie sich ins Wasser gestürzt – gestern früh hat man sie in der
+            Wanzenau gefunden.","EVCHEN.
+          Ersäuft! ha!",9,"transfer(frau_marthan, [audience, evchen], murderer_of(evchen, evchen), lie)",false
+179911,179944,etzt mag's der – Henker tun! –,"Mein Kind ist tot, tot durch mich","–
+        
+        
+          ",10,"transfer(evchen, [humbrecht, magister], dead(CHILD[EVCHEN]))",false
+65197,65807,"     
+          VON HASENPOTH.","Doch mit mir nicht? deinem Landsmann? deinem compagnon de débauche? – – Hör mich an,
+            Herr Bruder! ich hoffe doch nicht, daß du die Narrheit so weit getrieben, und dich
+            würklich in das Mädchen verliebt hast; das  wär ja, soll mich der Teufel
+            zerreißen! wider allen esprit de corps. – Fast sollt ich's denken, das Getreibs, das du
+            die Zeit her mit dem Schwarzkittel, dem Vetter aus dem Haus, hast, bestärkt mich darin.
+            – Ist's aber? gut! so fehlt's dir ja nicht an Mitteln, ihrer bald satt zu werden – du
+            wohnst ja unter einem Dache mit ihr",– oder wenn's hier nicht angeh,11,"transfer(von_hasenpoth, [audience, von_groeningseck], knowledge(von_hasenpoth, in_love_with(von_groeningseck, evchen)))",false
+180843,180881,"enpulver
+            nehmen! –",Hier! Den Lieutenant zum Kind führend.,"hier! wenn Sie ein
+           ",12,"transfer(humbrecht, von_groeningseck, dead(CHILD[EVCHEN]))",false
+116448,116491,Guckt ihn noch einmal durch. –,"Mir den
+            Hasenpoth vorzuschlagen",", mich zur Allerweltshure mach",13,"transfer(evchen, [audience, lissel], transfer(von_groeningseck, evchen, !engaged(von_groeningseck, evchen)))",false
+178079,178141,"einer vorfinden. Kurz zu sein,","Gröningseck liebt Sie noch ebenso
+            zärtlich, als je",; eine tödliche Krankheit hiel,14,"transfer(magister, [evchen, humbrecht], in_love_with(von_groeningseck, evchen))",false
+175504,175592,"mpe, stellt sie auf den Tisch,","geht ans Bett, und deckt
+            das Kind auf, ebenso geschwind aber wieder halb zu.",Du lieber Herrgott! was seh ic,15,"transfer(""Anblick des Kindes"", frau_marthan, murderer_of(evchen, CHILD[EVCHEN]))",false
+225,256,"ger.
+          Frau Humbrecht.","Evchen Humbrecht, ihre Tochter.","Lissel, ihre Magd.
+          M",16,"transfer(""Figurentafel"", audience, child_of(evchen, [humbrecht, frau_humbrecht]))",false
+165294,165348,"           Ordnung aufgeführt,",so wär ihre Mutter nicht vor lauter Schagrin gestorben,"–
+        
+        
+          ",17,"transfer(frau_marthan, [audience, evchen], dead(frau_humbrecht))",false
+175504,175592,"mpe, stellt sie auf den Tisch,","geht ans Bett, und deckt
+            das Kind auf, ebenso geschwind aber wieder halb zu.",Du lieber Herrgott! was seh ic,18,"transfer(""Anblick des Kindes"", frau_marthan, dead(CHILD[EVCHEN]))",false
+180843,180881,"enpulver
+            nehmen! –",Hier! Den Lieutenant zum Kind führend.,"hier! wenn Sie ein
+           ",19,"transfer(humbrecht, von_groeningseck, murderer_of(evchen, CHILD[EVCHEN]))",false
+152191,152238,"einen Korb
+          zusammen.","Evchen sitzt am Bette, hat ihr Kind auf dem Arm",", es schreit.
+        
+       ",20,"transfer(""Nebentext"", audience, child_of(CHILD[EVCHEN], evchen))",false
+172175,172364,"sstehn, was ich ausstehn muß –","Nimmt eine Stecknadel, und
+              drückt sie dem Kind in Schlaf, das Kind schreit ärger; es gleichsam zu überschrein,
+              singt sie erst sehr laut, hernach immer schwächer.","Eia Pupeia!
+            Schlaf",21,"transfer(""Nebentext"", audience, murderer_of(evchen, CHILD[EVCHEN]))",false
+159347,159451," blast er
+            ihr was,","und da hat sie sich ins Wasser gestürzt – gestern früh hat man sie in der
+            Wanzenau gefunden.","EVCHEN.
+          Ersäuft! ha!",22,"transfer(frau_marthan, [audience, evchen], dead(evchen), lie)",false
+89214,89251,"   
+          VON GRÖNINGSECK.","Das hat sie, ja! – sie ist schwanger.",– Ich hab schon zu viel gestan,23,"transfer(von_groeningseck, [audience, von_hasenpoth], unborn_child_of(UNBORN_CHILD[EVCHEN], evchen))",false
+29014,29139,inen Knieen wiederhol ich's. –,"In fünf Monaten
+            bin ich majorenn, dann führ ich dich an Altar, erkenne dich öffentlich für die
+            Meine.","EVCHEN.
+          Darf ich dir",24,"transfer(von_groeningseck, [audience, evchen], engaged(von_groeningseck, evchen))",false
+89615,89637,"b; was ich tun werde, tun muß.",Ich werd sie heiraten.,"VON HASENPOTH.
+          Du?
+ ",25,"transfer(von_groeningseck, von_hasenpoth, engaged(von_groeningseck, evchen))",false
+130600,130745," kann sie mir's nicht zumuten.","Wenn ihr Vater die hundert Taler nicht hergeben will, um
+            ihr Kind ins Findlinghaus zu tun, so will ich allenfalls davor Rat schaffen.","Es liegt
+            Ihnen sel",26,"transfer(magister, [audience, frau_humbrecht, humbrecht], transfer(von_groeningseck, magister, unborn_child_of(CHILD[EVCHEN], evchen)))",false

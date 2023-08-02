@@ -1,0 +1,105 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+47075,47183,"          
+            FRICKA.","Ja, das Schwert – das zauberstark
+              zuckende Schwert,
+              das du Gott dem Sohne gabst!","WOTAN
+            heftig.
+    ",0,"transfer(fricka, audience, identity(""Wolfe"", wotan))",false
+30803,30849,"          mit Hingerissenheit.","O süßeste Wonne,
+              seligstes Weib!","SIEGLINDE
+            dicht vo",1,"transfer(siegmund, [audience, sieglinde], in_love_with(siegmund, sieglinde))",false
+38606,38625,inab und ruft zu Wotan zurück.,"Dir rat ich, Vater,","rüste dich selbst;
+           ",2,"transfer(bruennhilde, audience, parent_of(wotan, bruennhilde))",false
+12585,12656,"    Wolfe, der war mein Vater;","zu zwei kam ich zur Welt,
+              eine Zwillingsschwester und ich",".
+              Früh schwanden",3,"transfer(siegmund, [audience, sieglinde, hunding], siblings(siegmund, SIBLING[SIEGMUND]))",false
+4978,5036,"       
+            SIEGLINDE.","Dies Haus und dies Weib
+              sind Hundings Eigen;","gastlich gönn er dir Rast:
+   ",4,"transfer(sieglinde, [audience, siegmund], identity(SPOUSE[SIEGLINDE], hunding))",false
+56836,56964,"       der Welt weisestes Weib","gebar mir, Brünnhilde, dich.
+              Mit acht Schwestern
+              zog ich dich auf:
+              durch euch Walküren","wollt ich wenden,
+            ",5,"transfer(wotan, audience, parent_of(wotan, [bruennhilde, gerhilde, ortlinde, waltraute, schwertleite, helmwige, siegrune, grimgerde, rossweisse]))",false
+36627,36829,"h ihm
+              gegenüber.","Bist du Siegmund,
+              den ich hier sehe –
+              Sieglinde bin ich,
+              die dich ersehnt:
+              die eig'ne Schwester
+              gewannst du zu eins mit dem Schwert!",Sie wirft sich ihm an die Brus,6,"transfer(sieglinde, [audience, siegmund], identity(LOVER[SIEGMUND], SIBLING[SIEGMUND]))",false
+88159,88188,"er in
+              die Brust.",Siegmund stürzt tot zu Boden.,"– Sieglinde, die seinen Todess",7,"transfer(""Siegmund stirbt"", [audience, hunding, bruennhilde, wotan, sieglinde], murderer_of(hunding, siegmund))",false
+36693,36710,"           den ich hier sehe –",Sieglinde bin ich,",
+              die dich erseh",8,"transfer(sieglinde, [audience, siegmund], has_name(SIBLING[SIEGMUND], sieglinde))",false
+105702,105734,"           Stark und drängend.",ein Wälsung wächst dir im Schoß!,"SIEGLINDE
+            erschric",9,"transfer(bruennhilde, [sieglinde, helmwige, ortlinde, gerhilde, waltraute, siegrune, rossweisse, grimgerde, schwertleite], unborn_child_of(UNBORN_CHILD[SIEGLINDE], sieglinde))",false
+41977,42007,"      daß Blutschande entblüht",dem Bund eines Zwillingspaars!,"Mir schaudert das Herz,
+      ",10,"knowledge(fricka, engaged(siegmund, sieglinde))",false
+2919,2953,"    Türe des inneren Gemaches.",Sie glaubte ihren Mann heimgekehrt,"; ihre ernste Miene zeigt
+    ",11,"transfer(""Nebentext"", audience, spouses(sieglinde, SPOUSE[SIEGLINDE]))",false
+36960,37014,"        
+            SIEGMUND.","Braut und Schwester
+              bist du dem Bruder –","so blühe denn Wälsungen-Blut!
+",12,"transfer(siegmund, audience, engaged(siegmund, sieglinde))",false
+89397,89458,"f. –
+              Geh! – Geh!",Vor seinem verächtlichen Handwink sinkt Hunding tot zu Boden.,"– Wotan plötzlich
+            ",13,"transfer(""Nebentext"", audience, murderer_of(wotan, hunding))",false
+30970,31195,"       dicht vor seinen Augen.","O laß in Nähe
+              zu dir mich neigen,
+              daß hell ich schaue
+              den hehren Schein,
+              der dir aus Aug
+              und Antlitz bricht,
+              und so süß die Sinne mir zwingt.","SIEGMUND.
+            
+       ",14,"transfer(sieglinde, [audience, siegmund], in_love_with(sieglinde, siegmund))",false
+12494,12529," Frohwalt möcht ich wohl sein:",doch Wehwalt – muß ich mich nennen.,"Wolfe, der war mein Vater;
+   ",15,"transfer(siegmund, [audience, sieglinde, hunding], has_name(""Gast"", ""Wehwalt""))",false
+12544,12569,Wehwalt – muß ich mich nennen.,"Wolfe, der war mein Vater",";
+              zu zwei kam ic",16,"transfer(siegmund, [audience, sieglinde, hunding], parent_of(""Wolfe"", siegmund))",false
+32247,32612,"           sah ich dich schon!","SIEGLINDE.
+            
+              Im Bach erblickt ich
+              mein eigen Bild –
+              und jetzt gewahr ich es wieder:
+              wie einst dem Teich es enttaucht,
+              bietest mein Bild mir nun du!
+            
+          
+          
+            SIEGMUND.
+            
+              Du bist das Bild,
+              das ich in mir barg.","SIEGLINDE
+            den Blic",17,"transfer([sieglinde, siegmund], audience, lovers(siegmund, sieglinde))",false
+102228,102241,f ihn da selbst mit dem Speer:,Siegmund fiel,";
+              doch ich floh
+",18,"transfer(bruennhilde, [helmwige, ortlinde, gerhilde, waltraute, siegrune, rossweisse, grimgerde, schwertleite], dead(siegmund))",false
+109339,109412,"   das Schwert einst schwingt,","den Namen nehm er von mir:
+              Siegfried erfreu sich des Siegs!","SIEGLINDE
+            in größt",19,"transfer(bruennhilde, [audience, sieglinde, gerhilde, ortlinde, waltraute, schwertleite, helmwige, siegrune, grimgerde, rossweisse], has_name(CHILD[SIEGLINDE], ""Siegfried""))",false
+79661,79954,"HILDE
+            erschüttert.","So wenig achtest du
+              ewige Wonne?
+            
+            Zögernd und zurückhaltend.
+            
+              Alles wär dir
+              das arme Weib,
+              das müd und harmvoll
+              matt von dem Schoße dir hängt?
+              Nichts sonst hieltest du hehr?","SIEGMUND
+            bitter zu",20,"knowledge(bruennhilde, in_love_with(siegmund, sieglinde))",false
+38733,38757,"            sollst du bestehn.","Fricka naht, deine Frau,",im Wagen mit dem Widdergespann,21,"transfer(bruennhilde, audience, spouses(wotan, fricka))",false
+34837,34879,"           wie ich dich liebe:","Siegmund –
+              so nenn ich dich!","SIEGMUND
+            springt a",22,"transfer(sieglinde, [audience, siegmund], has_name(""Wehwalt"", siegmund))",false
+88159,88188,"er in
+              die Brust.",Siegmund stürzt tot zu Boden.,"– Sieglinde, die seinen Todess",23,"transfer(""Siegmund stirbt"", [audience, hunding, bruennhilde, wotan, sieglinde], dead(siegmund))",false
+41977,42007,"      daß Blutschande entblüht",dem Bund eines Zwillingspaars!,"Mir schaudert das Herz,
+      ",24,"knowledge(fricka, siblings(siegmund, sieglinde))",false
+89397,89458,"f. –
+              Geh! – Geh!",Vor seinem verächtlichen Handwink sinkt Hunding tot zu Boden.,"– Wotan plötzlich
+            ",25,"transfer(""Nebentext"", audience, dead(hunding))",false

@@ -1,0 +1,50 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+10118,10142,"      Gunilde, ihre Vertraute.","Ulfo, Estrithens Gemahl.","Haqvin,
+            Godewin,
+ ",0,"transfer(""Figurentafel"", audience, spouses(estrithe, ulfo))",false
+70222,70229,"
+          
+            CANUT.",Und er?,"ULFO.
+            
+           ",1,"transfer(canut, [audience, ulfo], murderer_of(ulfo, godewin), uncertain)",false
+30048,30166,u kämst mir etwas vorzurücken.,"Hast du noch Lieb und Treu vielleicht von mir begehrt?
+              Wer keinen Ruhm verdient, ist keiner Liebe werth:",Hab ich dich nicht mit Recht d,2,"transfer(estrithe, [audience, godewin], !in_love_with(estrithe, godewin))",false
+70222,70229,"
+          
+            CANUT.",Und er?,"ULFO.
+            
+           ",3,"transfer(canut, [audience, ulfo], dead(godewin), uncertain)",false
+57934,57949,"Qvaal.
+              Hör doch.",Ich liebe dich.,Willst du mich denn noch kränk,4,"transfer(estrithe, [audience, ulfo], in_love_with(estrithe, ulfo))",false
+73502,73555,". Ein junger Prinz der Slaven,","Der muntre Gottschalk, will des Vaters Mörder strafen",",
+              Den Harnisch, ",5,"transfer(canut, [audience, ulfo], murderer_of(MURDERER[PARENT[GODSCHALK]]], PARENT[GODSCHALK]))",false
+63229,63281,. Er ist durch dich beschützt.,"Den fällt kein Zorn von mir, den deine Liebe stützt.","Er soll, ist nicht sein Herz, ",6,"transfer(canut, [audience, estrithe], knowledge(canut, in_love_with(estrithe, ulfo)))",false
+12243,12267,"n, die sich mit dir verbunden?",Norwegens Haupt ist todt,"und Omud überwunden.
+         ",7,"transfer(estrithe, audience, dead(""König von Norwegen""))",false
+126628,126742,"       
+            GODSCHALK.","Ich riß nur durch sein Blut mich selbst aus der Gefahr,
+              Und gab ihm einen Tod, der mir gedrohet war.",Ich nahte mich hieher mit unbe,8,"transfer(godschalk, [audience, canut, estrithe, godewin], dead(ulfo))",false
+12393,12480,"       Doch ich bin ungebeugt.","Es schwimmen in der Fluth
+              Durch meine List ersäufft die Völker des Canut.",Trotzt ich nicht ungestraft di,9,"transfer(ulfo, audience, murderer_of(ulfo, ""Verbündete von Canut""))",false
+73502,73555,". Ein junger Prinz der Slaven,","Der muntre Gottschalk, will des Vaters Mörder strafen",",
+              Den Harnisch, ",10,"transfer(canut, [audience, ulfo], dead(PARENT[GODSCHALK]))",false
+55455,55509," mir zu besserm Zwecke nützen,","Und kurz, ich liebte dich, drum mußt ich dich besitzen",".
+            
+          
+    ",11,"transfer(ulfo, [audience, estrithe], in_love_with(ulfo, estrithe))",false
+21063,21182,wornach soll ich mich richten?,"Gilt hier der Liebe Recht? gilt hier die Schwestertreu?
+              Ich red, ich schweige still; so ists Verrätherey.","GUNILDE.
+            Das heili",12,"transfer(estrithe, audience, in_love_with(estrithe, canut))",false
+70297,70402," 
+          
+            ULFO.","Mir ist genug, daß ich ihm dieß genommen.
+              Entwafnet ist durch mich noch niemand umgekommen.","CANUT.
+            
+          ",13,"transfer(ulfo, [audience, canut], !dead(godewin))",false
+10045,10072,"eile von
+            Schweden.","Estrithe, dessen Schwester.","Gunilde, ihre Vertraute.
+     ",14,"transfer(""Figurentafel"", audience, siblings(canut, estrithe))",false
+12393,12480,"       Doch ich bin ungebeugt.","Es schwimmen in der Fluth
+              Durch meine List ersäufft die Völker des Canut.",Trotzt ich nicht ungestraft di,15,"transfer(ulfo, audience, dead(""Verbündete von Canut""))",false
+26585,26696,"r, der seine Pflichten bricht.","Mein Herz verwahrte stets in ungeschwächtem Triebe,
+              Dem König meine Treu, so wie dir meine Liebe.","Die letzte hast du selbst dem ",16,"transfer(godewin, audience, in_love_with(godewin, estrithe))",false

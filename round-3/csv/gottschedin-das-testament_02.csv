@@ -1,0 +1,29 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+263,280,"enborn, eine alte reiche Witwe",Fräulein Karoline,",
+          Fräulein Amalie,
+ ",0,"transfer(""Figurentafel"", audience, niece_of(fraeulein_karoline, frau_von_tiefenborn))",false
+164544,164635,", Fräulein! unter allen Damen,","die sich noch in mich verliebt haben, ist
+              auch keine so scheu gewesen als Sie",. Warum rücken Sie mit der Spr,1,"transfer(herr_von_wagehals, [audience, fraeulein_amalie], knowledge(herr_von_wagehals, in_love_with(fraeulein_amalie, herr_von_wagehals)))",false
+217604,217639,"          FRAU VON TIEFENBORN.","Ja, als meinem verlobten Bräutigam.",Herr von Kaltenbrunn und Fräul,2,"transfer(frau_von_tiefenborn, [audience, fraeulein_amalie, fraeulein_karoline, ""Dr Schlagbalsam"", dr_hippokras, herr_von_kaltenbrunn, herr_von_kreuzweg, herr_von_wagehals], engaged(frau_von_tiefenborn, herr_von_ziegendorf))",false
+4224,4251,".
+            Je nun! freilich",hat sie noch eine Schwester,: aber sie wird ihr Vermögen d,3,"transfer(fraeulein_amalie, audience, siblings(frau_von_tiefenborn, SIBLING2[FRAU_VON_TIEFENBORN]))",false
+319,339,"ne,
+          Fräulein Amalie,",Herr von Kaltenbrunn,"ihrer Schwester Kinder
+       ",4,"transfer(""Figurentafel"", audience, nephew_of(herr_von_kaltenbrunn, frau_von_tiefenborn))",false
+350,372,"          Herr von Kaltenbrunn",ihrer Schwester Kinder,"Herr Hauptmann von Wagehals
+  ",5,"transfer(""Figurentafel"", audience, siblings(fraeulein_karoline, [fraeulein_amalie, herr_von_kaltenbrunn]))",false
+223390,223664,"KAROLINE
+            lächelnd.","Ersparen Sie sich die Mühe, mein Herr von Kreuzweg. Ich habe nur gar zu deutlich
+              gemerkt, daß Ihr Entschluß, um eine von uns beiden zu werben, auf der Freigebigkeit
+              der Frau Muhme beruhet hat. Allein, ich will Ihnen nur meine Eigenliebe verraten.","Mich
+              dünkt, ich ",6,"transfer(fraeulein_karoline, [audience, fraeulein_amalie, frau_von_tiefenborn, ""Dr Schlagbalsam"", dr_hippokras, herr_von_kaltenbrunn, herr_von_wagehals, herr_von_kreuzweg], !in_love_with(fraeulein_karoline, herr_von_kreuzweg)) ",false
+176012,176041,n's nicht länger verschweigen.,Sie hat sich in mich verliebt,": sie will
+              mich ",7,"transfer(herr_von_wagehals, frau_von_tiefenborn, in_love_with(fraeulein_amalie, herr_von_wagehals))",false
+350,365,"          Herr von Kaltenbrunn",ihrer Schwester,"Kinder
+        
+        Herr H",8,"transfer(""Figurentafel"", audience, siblings(frau_von_tiefenborn, SIBLING1[FRAU_VON_TIEFENBORN]))",false
+292,307," 
+          Fräulein Karoline,",Fräulein Amalie,",
+          Herr von Kaltenbru",9,"transfer(""Figurentafel"", audience, niece_of(fraeulein_amalie, frau_von_tiefenborn))",false
+69035,69048,"           So? meinen Sie das,",Herr Schwager,. Ich bin doch aber schon vier,10,"transfer(frau_von_tiefenborn, audience, siblings_in_law(herr_von_ziegendorf, frau_von_tiefenborn))",false
+127019,127030,"be ich nunmehro Nachricht, daß",mein Bruder,in einer halben Stunde hier se,11,"transfer(herr_von_ziegendorf, audience, siblings(herr_von_ziegendorf, SIBLING[HERR_VON_ZIEGENDORF]))",false

@@ -1,0 +1,190 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+281,299,"     Eustache, seine Gemahlin.","Ottokar, ihr Sohn.","Johann, Ruperts natürlicher So",0,"transfer(""Figurentafel"", audience, child_of(ottokar, rupert))",false
+121201,121231,"         
+            OTTOKAR.","Nun, ich will's nicht leugnen.","–
+          
+          
+      ",1,"transfer( ottokar, [agnes, audience], knowledge(ottokar, identity(LOVER[OTTOKAR], agnes)))",false
+188287,188321,"       
+            SYLVESTER.","Er, er ist
+              Hinüber –","Er wendet sich.
+            Ic",2,"transfer(sylvester, gertrude, knowledge(sylvester, dead(jeronimus)))",false
+245,270,"nstein, aus dem Hause Rossitz.","Eustache, seine Gemahlin.","Ottokar, ihr Sohn.
+          J",3,"transfer(""Figurentafel"", audience, spouses(rupert, eustache))",false
+541,561,", Stiefschwester der Eustache.","Agnes, ihre Tochter.","Jeronimus von Schroffenstein, ",4,"transfer(""Figurentafel"", audience, child_of(agnes, gertrude))",false
+97596,97649,"hien's fast, wie im Wahnsinn –","sprach
+              Von Liebe, daß er mich vergöttre","– nannte
+              Bald ei",5,"transfer(agnes, [sylvester, jeronimus, gertrude], in_love_with(johann, agnes))",false
+95428,95462,"       Sie rührt sich – horch?","Sie atmet – ja sie lebt, sie lebt!","SYLVESTER.
+            
+      ",6,"transfer(jeronimus, [sylvester, gertrude, audience], !dead(agnes))",false
+240564,240574,"            Gelungen. – Flieh!",Er stirbt.,"BARNABE.
+            
+        ",7,"transfer(""Rupert ersticht COSTUME[AGNES]"", [audience, agnes], dead(ottokar))",false
+241911,241927,"  Die Hölle ruft dich, Mörder!",Er ersticht sie.,"AGNES.
+            Ach!
+      ",8,"transfer(""Sylvester ersticht COSTUME[OTTOKAR]"", sylvester, murderer_of(sylvester, ottokar))",false
+186794,186816,"e
+              Entsetzenstat?",Jerome ist erschlagen.,Gertrude gibt ihr ein bejahend,9,"transfer(agnes, gertrude, dead(jeronimus))",false
+121287,121330,"
+          
+            AGNES.","Wahrhaftig? Nun ich weiß auch, wer du bist!","OTTOKAR.
+            Nun?
+    ",10,"transfer(agnes, [ottokar, audience], knowledge(agnes, identity(LOVER[AGNES], ottokar)))",false
+183785,183847,Weg selbst zur Versöhnung dir.,"Die Kinder lieben sich, ich habe sichre
+              Beweise.","–
+            
+          
+    ",11,"transfer(eustache, rupert, lovers(ottokar, agnes))",false
+7579,7589,"o, meinst du, soll ich warten,",Peters Tod,"Nicht rächen, bis ich Ottokars",12,"transfer(rupert, audience, has_name(CHILD[EUSTACHE], ""Peter""))",false
+234447,234530,ie kommen! Ritter! Sie kommen!,"Ottokar wirft schnell Agnes' Oberkleid über, und setzt ihren Hut
+              auf.","AGNES.
+            Wer soll de",13,"transfer(""Verkleidung"", [audience, barnabe, agnes], identity(ottokar, COSTUME[AGNES]))",false
+245511,245583,"
+          
+            RUPERT","erblickt Agnes' Leiche.
+            
+              Mein Sohn! Mein Sohn!","Ermordet!
+              Zu mei",14,"transfer(""Leiche von COSTUME[OTTOKAR]"", rupert, dead(ottokar))",false
+217445,217483,"          Das ist nicht alles.","Rupert
+              Kennt deine Liebe",". –
+            
+          
+  ",15,"transfer(eustache, ottokar, knowledge(rupert, lovers(ottokar, agnes)))",false
+30919,31118,bereilt hast du die Auflösung.,"Nicht wahr, das Mädchen, dessen Schleier hier,
+              Ist Agnes nicht, nicht Agnes Schroffenstein?
+            
+          
+          
+            JOHANN.
+            Ich sag dir ja, sie ist es",".
+          
+          
+      ",16,"transfer(johann, [ottokar, audience], identity(LOVER[OTTOKAR], agnes), uncertain)",false
+241998,242009,"       AGNES.
+            Ach!",Sie stirbt.,Sylvester läßt sich auf ein Kn,17,"transfer(""COSTUME[OTTOKAR] stirbt"", audience, dead(agnes))",false
+47897,47919,"ter nun,
+              Als sie",den neugebornen Knaben,"tot
+              Erblickte, d",18,"transfer(sylvester, audience, child_of(CHILD[EUSTACHE], eustache)) ",false
+235818,235859,dein Gespenst zu deinem Vater!,"Er ersticht Ottokar, der fällt ohne Laut.","Pause.
+          
+          
+ ",19,"transfer(""Rupert ersticht COSTUME[AGNES]"", [rupert, santing], murderer_of(rupert, agnes))",false
+281,299,"     Eustache, seine Gemahlin.","Ottokar, ihr Sohn.","Johann, Ruperts natürlicher So",20,"transfer(""Figurentafel"", audience, child_of(ottokar, eustache))",false
+102024,102094,"             Weiß nur so viel,","daß sein Namen
+              Johann, und er ein unecht Kind des Rupert",",
+              – Daß er den R",21,"transfer(jeronimus, [sylvester, agnes], child_of(johann, rupert))",false
+502,530,"Gertrude, Sylvesters Gemahlin,",Stiefschwester der Eustache.,"Agnes, ihre Tochter.
+         ",22,"transfer(""Figurentafel"", audience, stepsiblings(gertrude, eustache))",false
+253184,253232,"       Ich selbst! Ich selbst!",Zweimal die Brust durchbohrt! Zweimal die Brust.,"URSULA
+            tritt auf.
+",23,"transfer(""Identifikation von COSTUME[AGNES]"", [rupert, eustache, sylvester, johann, sylvius, gertrude], murderer_of(rupert, ottokar)) ",false
+541,561,", Stiefschwester der Eustache.","Agnes, ihre Tochter.","Jeronimus von Schroffenstein, ",24,"transfer(""Figurentafel"", audience, child_of(agnes, sylvester))",false
+69576,69582,"         
+            OTTOKAR.",Maria!,"Willst du nicht besser von
+   ",25,"transfer(ottokar, [audience, agnes], has_name(agnes, ""Maria""))",false
+40797,40860,"          Wie du nur sprichst!","Sie haben dir den Enkel,
+              Den Bruder mir vergiftet",", und das sollen
+             ",26,"transfer(agnes, audience, siblings(agnes, ""Phillipp""))",false
+4453,4463,"T.
+            Und Mutter auch",des Toten.,"EUSTACHE.
+            O Gott! ",27,"transfer(rupert, audience, dead(CHILD[EUSTACHE]))",false
+156173,156216,"das Mädchen ihm nicht weigert,",Obschon von ihrer Lieb er noch nichts weiß.,"– Wenn Rupert nur –
+          ",28,"transfer(jeronimus, eustache, !knowledge(sylvester, lovers(ottokar, agnes)))",false
+235818,235859,dein Gespenst zu deinem Vater!,"Er ersticht Ottokar, der fällt ohne Laut.","Pause.
+          
+          
+ ",29,"transfer(""Rupert ersticht COSTUME[AGNES]"", audience, murderer_of(rupert, ottokar))",false
+249572,249737,"         
+            SYLVIUS.","Das ist nicht Agnes!
+              – Das wäre Agnes, Knabe? Agnes' Kleid,
+              Nicht Agnes! Nein bei meinem ew'gen Leben,
+              Das ist nicht Agnes!","JOHANN
+            die Leiche ",30,"transfer(sylvius, [johann, sylvester, gertrude, eustache, rupert], identity(COSTUME[AGNES], ottokar))",false
+310,343,".
+          Ottokar, ihr Sohn.","Johann, Ruperts natürlicher Sohn.","Sylvius, Graf von Schroffenste",31,"transfer(""Figurentafel"", audience, child_of(johann, rupert))",false
+241911,241927,"  Die Hölle ruft dich, Mörder!",Er ersticht sie.,"AGNES.
+            Ach!
+      ",32,"transfer(""Sylvester ersticht COSTUME[OTTOKAR]"", audience, murderer_of(sylvester, agnes))",false
+75041,75079,"te dein Gemüt so häßlich sein,","Da du doch Agnes, Agnes lieben kannst!","JOHANN.
+            
+         ",33,"transfer(agnes, [johann, audience], !in_love_with(agnes, johann))",false
+471,500,", sein Sohn, regierender Graf.","Gertrude, Sylvesters Gemahlin",", Stiefschwester der Eustache.",34,"transfer(""Figurentafel"", audience, spouses(gertrude, sylvester))",false
+67897,67922,"         
+            OTTOKAR.",Von Liebe sprach ich nur.,"AGNES.
+            
+          ",35,"transfer(ottokar, [agnes, audience], in_love_with(ottokar, agnes))",false
+51554,51572,"              Dir wegen des an",seinem Sohne Peter,Verübten Mords den Frieden auf,36,"transfer(aldoebern, audience, child_of(""Peter"", rupert))",false
+235818,235859,dein Gespenst zu deinem Vater!,"Er ersticht Ottokar, der fällt ohne Laut.","Pause.
+          
+          
+ ",37,"transfer(""Rupert ersticht COSTUME[AGNES]"", [rupert, santing], dead(agnes))",false
+421,460,"nstein, aus dem Hause Warwand.","Sylvester, sein Sohn, regierender Graf.","Gertrude, Sylvesters Gemahlin,",38,"transfer(""Figurentafel"", audience, child_of(sylvester, sylvius))",false
+154154,154192,"    JERONIMUS.
+            Ei,",daß sie sich so treu wie Engel lieben.,"EUSTACHE.
+            Wie? Du ",39,"transfer(jeronimus, eustache, transfer(johann, jeronimus, lovers(ottokar, agnes)))",false
+96759,96794,"        
+            GERTRUDE.",Jerome hat den Mörder hingestreckt.,"AGNES.
+            
+          ",40,"transfer(gertrude, agnes, murderer_of(jeronimus, johann))",false
+116506,116541,"         
+            OTTOKAR.","Ich weiß, daß er dich heftig liebt.","–
+          
+          
+      ",41,"transfer(ottokar, agnes, in_love_with(johann, agnes))",false
+241673,241707,"      Am Boden! Gott der Welt!",Ein Schwert im Busen meiner Agnes!,"AGNES
+            richtet sich",42,"transfer(""Leiche von COSTUME[AGNES]"", sylvester, dead(agnes))",false
+92169,92184,"
+          
+            AGNES.","Fort, Ungeheuer",", bist du nicht aus Rossitz?
+ ",43,"transfer(agnes, [johann, audience], !in_love_with(agnes, johann))",false
+833,855,"rsula, eine Totengräberswitwe.","Barnabe, ihre Tochter.",Eine Kammerjungfer der Eustach,44,"transfer(""Figurentafel"", audience, child_of(barnabe, ursula))",false
+47949,48156,"n tot
+              Erblickte,","dich beschuldigt hätte, du,
+              Du hättest – du verstehst mich – heimlich ihm,
+              Verstohlen, während du ihn herztest, küßtest,
+              Den Mund verstopft, das Hirn ihm eingedrückt","–
+            
+          
+    ",45,"transfer(sylvester, [gertrude, audience], !murderer_of(gertrude, CHILD[EUSTACHE]))",false
+246285,246384,"! Ist es wahr? Wo ist sie? Wo?","Sie stürzt über Ottokars Leichnam.
+            
+              O heil'ge Mutter Gottes! O mein Kind!","Du Leben meines Lebens!
+      ",46,"transfer(""Leiche von COSTUME[OTTOKAR]"", gertrude, dead(ottokar))",false
+114556,114630," Stirn, die Brust, und sprach:","Weil du ein Ebenbild der Mutter Gottes,
+              Maria tauf ich dich.","Agnes wendet sich bewegt.
+    ",47,"transfer(ottokar, audience, has_name(agnes, ""Maria""))",false
+4441,4463,"       RUPERT.
+            Und",Mutter auch des Toten.,"EUSTACHE.
+            O Gott! ",48,"transfer(rupert, audience, child_of(CHILD[EUSTACHE], eustache))",false
+32596,32914,"      Wie sagst du, Jeronimus?","JERONIMUS.
+            
+              Ich weiß, was dich so zäh macht in dem Argwohn.
+              's ist wahr, und niemals werd ich's leugnen, ja,
+              Ich hatt das Mädel mir zum Weib erkoren.
+              Doch eh ich je mit Mördern mich verschwägre,
+              Zerbreche mir die Henkershand das Wappen.","OTTOKAR
+            fällt Jero",49,"transfer(jeronimus, [ottokar, audience], !in_love_with(jeronimus, agnes))",false
+92025,92087,"   Es folgt dir ja kein Feind,","ich liebe dich,
+              Ach, lieben! Ich vergöttre dich!","AGNES.
+            Fort, Ungeh",50,"transfer(johann, [agnes, audience], in_love_with(johann, agnes))",false
+101304,101346," DIENER
+            tritt auf.","Gestrenger Herr, der Mörder ist nicht tot.","Der Wundarzt sagt, die Wunde s",51,"transfer(diener, [sylvester, gertrude, audience], !dead(johann))",false
+234093,234301,"            der vor ihr steht.","Wer würde glauben, daß der grobe Mantel
+              So Zartes deckte, als ein Mädchenleib!
+              Drück ich dir noch den Helm auf deine Locken,
+              Mach ich auch Weiber mir zu Nebenbuhlern.","BARNABE
+            kommt zurü",52,"transfer(""Verkleidung"", [audience, barnabe, ottokar], identity(agnes, COSTUME[OTTOKAR]))",false
+123641,123700,"
+          
+            AGNES.","Ganz deine, in der grenzenlosesten
+              Bedeutung.","OTTOKAR.
+            
+        ",53,"transfer(agnes, [ottokar, audience], in_love_with(agnes, ottokar))",false
+167257,167295,"Nun
+              Ist's aus. –",Nun fällt er um. – Nun ist er tot. – –,Pause; Eustache tritt vor Rupe,54,"transfer(eustache, audience, dead(jeronimus))",false
+251499,251523," 
+              Lustig, Alter!",Sie ist's! 's ist Agnes!,"SYLVESTER
+            bedeckt ",55,"transfer(""Identifikation von COSTUME[OTTOKAR]"", [rupert, eustache, sylvester, johann, sylvius, gertrude], murderer_of(sylvester, agnes))",false
+241998,242009,"       AGNES.
+            Ach!",Sie stirbt.,Sylvester läßt sich auf ein Kn,56,"transfer(""COSTUME[OTTOKAR] stirbt"", sylvester, dead(ottokar))",false
