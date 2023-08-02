@@ -1,5 +1,5 @@
 # Manual knowledge annotations of German plays in Q:TRACK
-(last modified: 15.02.2023)
+(last modified: 02.08.2023)
 
 In this repository we provide the annotations created 
 in the digital humanities project [Q:TRACK](https://quadrama.github.io/). 
