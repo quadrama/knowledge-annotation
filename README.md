@@ -26,12 +26,12 @@ Numbers in the columns round-1 to round-3 indicate the number of annotations ava
 | 5  | Klinger, Friedrich Maximilian       | Die Zwillinge                       | 2       |         | 2       |
 | 6  | Hofmannsthal, Hugo von              | Der Rosenkavalier                   | 2       |         | 1       |
 | 7  | Goethe, Johann Wolfgang             | Stella                              | 2       |         | 2       |
-| 8  | Kleist, Heinrich von                | Familie Schroffenstein              | 2       |         | 2       |
+| 8  | Kleist, Heinrich von                | Die Familie Schroffenstein          | 2       |         | 2       |
 | 9  | Hofmannsthal, Hugo von              | Elektra                             | 2       |         | 1       |
-| 10 | Hebbel, Friedrich                   | Maria Magdalena                     | 2       |         | 1       |
+| 10 | Hebbel, Friedrich                   | Maria Magdalene                     | 2       |         | 1       |
 | 11 | Lenz, Jakob Michael Reinhold        | Der Hofmeister                      | 2       |         | 1       |
 | 12 | Schiller, Friedrich                 | Die Braut von Messina               | 2       |         | 1       |
-| 13 | Pfeil, Johann Gottlob Benjamin      | Lucy Woodvil                        | 2       |         | 1       |
+| 13 | Pfeil, Johann Gottlob Benjamin      | Lucie Woodvil                       | 2       |         | 1       |
 | 14 | Grillparzer, Franz                  | Die Ahnfrau                         | 2       |         | 1       |
 | 15 | Schnitzler, Arthur                  | Komtesse Mizzi oder Der Familientag | 2       |         | 1       |
 | 16 | Schiller, Friedrich                 | Die Räuber                          | 2       |         | 1       |
@@ -47,7 +47,7 @@ Numbers in the columns round-1 to round-3 indicate the number of annotations ava
 | 26 | Wagner, Heinrich Leopold            | Die Kindermörderin                  |         | 2       | 1       |
 | 27 | Wagner, Richard                     | Die Walküre                         |         | 2       | 1       |
 | 28 | Schiller, Friedrich                 | Maria Stuart                        |         | 2       | 1       |
-| 29 | Lessing, Gotthold Ephraim           | Miss Sara Sampson                   |         | 2       | 1       |
+| 29 | Lessing, Gotthold Ephraim           | Miß Sara Sampson                    |         | 2       | 1       |
 | 30 | Gellert, Christian Fürchtegott      | Die zärtlichen Schwestern           |         | 2       | 1       |
 
 ## Publications
