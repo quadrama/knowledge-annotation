@@ -1,5 +1,4 @@
 # Manual knowledge annotations of German plays in Q:TRACK
-(last modified: 02.08.2023)
 
 In this repository we provide the annotations created 
 in the digital humanities project [Q:TRACK](https://quadrama.github.io/). 
@@ -35,8 +34,8 @@ Numbers in the columns round-1 to round-3 indicate the number of annotations ava
 | 14 | Grillparzer, Franz                  | Die Ahnfrau                         | 2       |         | 1       |
 | 15 | Schnitzler, Arthur                  | Komtesse Mizzi oder Der Familientag | 2       |         | 1       |
 | 16 | Schiller, Friedrich                 | Die Räuber                          | 2       |         | 1       |
-| 17 | Günderrode, Karoline von             | Magie und Schicksal                |         | 2       | 1       |
-| 18 | Günderrode, Karoline von             | Udohla                             |         | 2       | 1       |
+| 17 | Günderrode, Karoline von            | Magie und Schicksal                 |         | 2       | 1       |
+| 18 | Günderrode, Karoline von            | Udohla                              |         | 2       | 1       |
 | 19 | Weißenthurn, Johanna von            | Das Manuscript                      |         | 2       | 1       |
 | 20 | Gottsched, Luise Adelgunde Victorie | Das Testament                       |         | 2       | 1       |
 | 21 | Goethe, Johann Wolfgang             | Clavigo                             |         | 2       | 1       |
