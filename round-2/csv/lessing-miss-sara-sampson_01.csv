@@ -1,0 +1,85 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+200346,200372,"  Nicht näher, Unglückliche! –",Deine Arzeneien sind Gift!,"–
+          
+          
+      ",0,"transfer(mellefont, [sara, betty, norton, audience], transfer(marwood, mellefont, kills(marwood, sara), uncertain))",false
+166808,166833,"  Anbetern trat Mellefont auf.",Sein Antrag war ernstlich,", und der Überfluß, in welchen",1,"transfer(marwood, [sara, audience], engaged(marwood, mellefont))",false
+308,355,"ood, Mellefonts alte Geliebte.","Arabella, ein junges Kind, der Marwood Tochter.","Waitwell, ein alter Diener des",2,"transfer(""Figurentafel"", audience, child_of(arabella, marwood))",false
+129818,129916,"echen
+              zu können.","Mein Leben war ihr Tod. – Gott! ich ward eine Muttermörderin wider mein
+              Verschulden.",Und wie viel fehlte – wie weni,3,"transfer(sara, [mellefont, audience], dead(MOTHER[SARA]))",false
+173676,173836," könnte Ihnen eine Miß Oklaff,","eine Miß Dorkas, eine Miß Moor
+              und mehrere nennen, welche, eine nach der andern, der Marwood einen Mann abspenstig zu
+              machen drohten",", von welchem sie sich am Ende",4,"transfer(marwood, [sara, audience], ex-lovers(""Miß Dorkas"", mellefont))",false
+165741,165779,t aus einem guten Geschlechte.,"Sie
+              war eine junge Witwe",", als sie Mellefont bei einer ",5,"transfer(marwood, sara, widow:er_of(marwood, ""DEAD_HUSBAND""))",false
+38786,38849,e des Bluts vernehmlich  sein.,"Er riß das Kind vor einiger Zeit
+              aus meinen Armen",", unter dem Vorwande, ihm eine",6,"transfer(marwood, audience, child_of(arabella, marwood))",false
+211136,211331,"sehe, wie teuer du ihm bist. –","Ist es wahr, daß es Marwood selbst gewesen ist, die dir
+              dieses Schrecken verursacht hat? So viel habe ich aus den Klagen deiner Betty
+              verstehen können, und mehr nicht.",– Doch was forsche ich nach de,7,"transfer(betty, sir_williams, kills(marwood, sara), uncertain))",false
+181168,181297,nt darüber frohlocken sollte –,"Erkennen Sie, Miß, in mir die Marwood, mit der
+              Sie nicht verglichen zu werden, die Marwood selbst fußfällig bitten.","SARA
+            die voller Er",8,"transfer(marwood, sara, identity(""Lady Solmes"", marwood))",false
+172218,172240,"     Wie glücklich, wenn nicht",eine jammernde Tochter,dasjenige der ganzen Welt entd,9,"transfer(marwood, sara, child_of(arabella, [marwood, mellefont]))",false
+45176,45222,"FONT.
+            Zu behalten?","Sie haben es niemals besessen, sage ich Ihnen.","MARWOOD.
+            Und ich s",10,"transfer(mellefont, [audience, marwood, hannah], !in_love_with(mellefont, marwood))",false
+121158,121212,"  SARA.
+            Ja, Betty.",Es ist Lady Solmes; eine Anverwandte meines Mellefont.,"Es wandelte ihr
+              ",11,"transfer(sara, betty, relatives(""Lady Solmes"", mellefont))",false
+2790,2817,"             meine Rache gegen",ihren verfluchten Verführer,"; sage, daß Sara nie tugendhaf",12,"transfer(sir_william, [audience, waitwell], lovers(sara, LOVER[SARA]))",false
+161306,161315,"         
+            MARWOOD.",Und andre,"– –
+          
+          
+    ",13,"transfer(marwood, sara, in_love_with(mellefont, LOVER[MELLEFONT]))",false
+87623,87644,"       
+            MELLEFONT.",Es ist – Lady Solmes.,Sie werden den Namen von mir s,14,"transfer(mellefont, [audience, sara], relatives(mellefont, ""Lady Solmes""))",false
+194560,194698," 
+          
+            SARA.","Sie lieben sie also doch? –
+          
+          
+            MELLEFONT.
+            Zu sehr, Miß, zu sehr, als daß ich es leugnen sollte.","SARA.
+            Wohl! Mellef",15,"transfer(mellefont, [sara, audience, betty], in_love_with(mellefont, marwood))",false
+57700,57760,"en Mann, diesen liebsten Mann,","der mir erlaubte, mich seine Tochter
+              zu nennen","?
+          
+          
+      ",16,"transfer(arabella, audience, fosterchild_of(arabella, mellefont))",false
+25887,25922," 
+          
+            SARA.","Mit den Augen der Liebe, Mellefont.","MELLEFONT.
+            So bitt",17,"transfer(sara, [audience, mellefont], in_love_with(sara, mellefont))",false
+205,231,"          Sir William Sampson.","Miss Sara, dessen Tochter.","Mellefont.
+          Marwood, ",18,"transfer(""Figurentafel"", audience, child_of(sara, sir_william))",false
+16844,16876,"       
+            MELLEFONT.",So zweifeln Sie an meiner Liebe?,"SARA.
+            Ich, an Ihre",19,"transfer(mellefont, audience, in_love_with(mellefont, sara))",false
+168875,168932,"e, sie jemals wieder zu sehen.","Sie leugne es zwar
+              nicht, daß sie ihn liebe",; aber eben deswegen könne sie,20,"transfer(marwood, [sara, audience], in_love_with(marwood, mellefont))",false
+203323,203455,len. – Aber warum so bestürzt?,"Man hat es dir gewiß gesagt, daß ich krank
+              bin.
+          
+          
+            WAITWELL.
+            Und noch mehr!","SARA.
+            Gefährlich k",21,"transfer(mellefont, waitwell, transfer(marwood, mellefont, kills(marwood, sara), uncertain))",false
+173693,173836,"e Miß Oklaff, eine Miß Dorkas,","eine Miß Moor
+              und mehrere nennen, welche, eine nach der andern, der Marwood einen Mann abspenstig zu
+              machen drohten",", von welchem sie sich am Ende",22,"transfer(marwood, [sara, audience], ex-lovers(""Miß Moor"", mellefont))",false
+173154,173192,"         
+            MARWOOD.","Dieses, daß er die Marwood noch liebt.","SARA.
+            Sie töten mi",23,"transfer(marwood, [sara, audience], in_love_with(mellefont, marwood))",false
+218424,218435,"       
+            MELLEFONT.",Sie stirbt!,– Ach! diese kalte Hand noch e,24,"transfer(mellefont, [sir_william, audience], dead(sara))",false
+173659,173836,ervor bricht. Ich könnte Ihnen,"eine Miß Oklaff, eine Miß Dorkas, eine Miß Moor
+              und mehrere nennen, welche, eine nach der andern, der Marwood einen Mann abspenstig zu
+              machen drohten",", von welchem sie sich am Ende",25,"transfer(marwood, [sara, audience], ex-lovers(""Miß Oklaff"", mellefont))",false
+263,297," Tochter.
+          Mellefont.","Marwood, Mellefonts alte Geliebte.","Arabella, ein junges Kind, der",26,"transfer(""Figurentafel"", audience, ex-lovers(maarwood, mellefont))",false
+220898,220972,u strafen – das steht bei mir!,"Er
+                ersticht sich, und fällt an dem Stuhle der Sara nieder.","SIR WILLIAM.
+            Halt'",27,"transfer(MELLEFONT-SICH-ERSTECHEND, [sir_william, waitwelll, audience], kills(mellefont, mellefont))",false

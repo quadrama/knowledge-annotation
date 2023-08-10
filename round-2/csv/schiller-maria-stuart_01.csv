@@ -1,0 +1,102 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+229591,229666,"h auf Euch lastet, widerlegen,","Als wenn Ihr sie, die Ihr geliebt zu haben
+              Beschuldigt werdet",", selbst enthaupten lasset.
+  ",0,"transfer(burleigh, elisabeth, in_love_with(leicester, maria))",false
+189715,189736,"
+          
+            MARIA.",Laßt mich! Raset Ihr?,"MORTIMER.
+            Erzitter",1,"transfer(maria, [mortimer, audience], !in_love_with(maria, mortimer))",false
+244607,244659,ich im echten Ehebett geboren!,"Sie unterschreibt mit einem raschen, festen Federzug",", läßt dann die Feder fallen,
+",2,"transfer(""Unterschrift"", audience, murderer_of(elisabeth, maria))",false
+38723,38761,"     In ehebrecherischem Bett,","die Heinrich,
+              Ihr Vater,",selbst verwarf als Bastardtoch,3,"transfer(mortimer, audience, parent_of(""Heinrich"", elisabeth))",false
+212638,212713,d sollt ich ihm nicht glauben?,"In den Schwüren
+              Der treusten Liebe einen Fallstrick fürchten?","Wem darf ich traun, wenn er mi",4,"transfer(elisabeth, burleigh, in_love_with(leicester, elisabeth), uncertain))",false
+211292,211325,u dir in dein himmlisch Leben!,Er durchsticht sich mit dem Dolch,und fällt der Wache in die Arm,5,"transfer(""durchsticht-sich"", [audience, leicester, offizier], murderer_of(mortimer, mortimer))",false
+256951,257045,"          
+            MELVIL.","Nahm sie die Todespost mit Fassung auf?
+              Man sagt, daß sie nicht vorbereitet war.","KENNEDY.
+            
+        ",6,"transfer(melvil, audience,knowledge(maria, murderer_of(elisabeth, maria)))",false
+227035,227223,"en ihn hierauf in Wut geraten,","Den Dolch ziehn, unter heftiger Verwünschung
+              Der Königin, und eh wirs hindern konnten,
+              Ihn in die Brust sich stoßen, daß er tot
+              Zu Boden stürzte –","LEICESTER.
+            
+      ",7,"transfer(offizier, [burleigh, elisabeth], murderer_of(mortimer, mortimer))",false
+225378,225405,"eitelt, sich entlarvt zu sehn,",Gab er sich selbst den Tod!,"ELISABETH.
+            
+      ",8,"transfer(leicester, [burleigh, elisabeth], murderer_of(mortimer, mortimer))",false
+22720,22730,em leichtbedeckten Grab empor!,Des Gatten,"rachefoderndes Gespenst
+      ",9,"transfer(maria, audience, ex-spouse(""Lord Darnley"", maria))",false
+176312,176465," Glut verstohlner Lüste deckt.","Nicht Ehrbarkeit habt Ihr von Eurer Mutter
+              Geerbt, man weiß, um welcher Tugend willen
+              Anna von Boleyn das Schafott bestiegen.","SHREWSBURY
+            tritt z",10,"transfer(maria, audience, parent_of(""Anne"", elisabeth))",false
+149810,149939,Seis eine Grille nur von Euch.,"Dadurch
+               Gibt Neigung sich ja kund, daß sie bewilligt
+              Aus freier Gunst, was sie auch nicht gebilligt.",Leicester stürzt zu ihren Fuße,11,"transfer(elisabeth, [audience, leicester], in_love_with(elisabeth, leicester))",false
+521,542,"ulet, Ritter, Hüter der Maria.","Mortimer, sein Neffe.","Graf Aubespine, französischer ",12,"transfer(""Figurentafel"", audience, niece:nephew_of(mortimer, paulet))",false
+213642,213715,"len sehn, und nach ihr fallen.","Verstoßen hab ich ihn aus meinem Herzen,
+              Fort ist die Liebe",", Rache füllt es ganz.
+       ",13,"transfer(elisabeth, [burleigh, audience], !in_love_with(elisabeth, leicester))",false
+8824,8858,"          
+            PAULET.",Sie kam ins Land als eine Mörderin,",
+              Verjagt von ih",14,"transfer(paulet, [audience, kennedy], murderer_of(maria, HUSBAND[MARIA]))",false
+22933,22961,"         
+            KENNEDY.",Nicht Ihr habt ihn gemordet!,"Andre tatens!
+          
+     ",15,"transfer(kennedy, audience, maria, !murderer_of(maria, HUSBAND[MARIA]), uncertain)",false
+246333,246390,"       
+            ELISABETH.","– Unterschreiben sollt ich.
+              Ich habs getan.","Ein Blatt Papier entscheidet
+ ",16,"transfer(elisabeth, davison, murderer_of(elisabeth, maria), uncertain)",false
+142544,142559,m und Schimmer kann er lieben.,Ich liebe dich.,"Wärst du die ärmste Hirtin,
+  ",17,"transfer(leicester, [elisabeth, audience], in_love_with(leicester, elisabeth))",false
+140515,140557,"       
+            LEICESTER.",Bringt ihr die Schwüre meiner ewgen Liebe!,"MORTIMER.
+            
+       ",18,"transfer(leicester, [mortimer, audience], in_love_with(leicester, maria))",false
+191393,191434,"   
+              Von England!",Sie ist ermordet auf der Londner Straßen!,"Eilt ins Haus.
+          
+    ",19,"transfer(paulet, [mortimer, audience], dead(elisabeth))",false
+253668,254561,"    
+          Erster Auftritt","Hanna Kennedy in tiefe Trauer gekleidet, mit verweinten Augen und einem großen,
+            aber stillen Schmerz, ist beschäftigt, Pakete und Briefe zu versiegeln. Oft unterbricht
+            sie der Jammer in ihrem Geschäft, und man sieht sie dazwischen still beten. Paulet und
+            Drury, gleichfalls in schwarzen Kleidern, treten ein, ihnen folgen viele Bediente,
+            welche goldne und silberne Gefäße, Spiegel, Gemälde und andere Kostbarkeiten tragen, und
+            den Hintergrund des Zimmers damit anfüllen. Paulet überliefert der Amme ein
+            Schmuckkästchen nebst einem Papier, und bedeutet ihr durch Zeichen, daß es ein
+            Verzeichnis der gebrachten Dinge enthalte. Beim Anblick dieser Reichtümer erneuert sich
+            der Schmerz der Amme, sie versinkt in ein tiefes Trauern, indem jene sich still wieder
+            entfernen. Melvil tritt ein.","KENNEDY
+            schreit au",20,"knowledge([kennedy, paulet, melvil, drury], murderer_of(elisabeth, maria))",false
+51836,51849,"    Der Würde meines Volks und",meines Sohnes,Und aller Fürsten nicht so vie,21,"transfer(maria, audience, child_of(CHILD[MARIA], maria))",false
+293146,293242,"mir die Freiheit teuer machen,","An Eurer Hand, beglückt durch Eure Liebe,
+              Wollt ich des neuen Lebens mich erfreun.","Jetzt, da ich auf dem Weg bin,",22,"transfer(maria, [leicester, audience], in_love_with(maria, leicester))",false
+252201,252245,eser Höllenangst des Zweifels.,Hier ist das Urteil – Es ist unterschrieben.,"BURLEIGH
+            hastig.
+ ",23,"transfer(davison, burleigh, murderer_of(elisabeth, maria))",false
+296675,296756,"  Sie wird entkleidet – Horch!","Der Schemel wird
+              Gerückt – Sie kniet aufs Kissen – legt das Haupt –",Nachdem er die letzten Worte m,24,"transfer(leicester, audience, dead(maria))",false
+13857,13930," ich kein Herz mir fassen kann","Elisabeth ist meines Stammes, meines
+              Geschlechts und Ranges","– Ihr allein, der Schwester,
+ ",25,"transfer(maria, audience, relatives(maria, elisabeth))",false
+56601,56638," des Serails den Sultanslaunen","Heinrichs des Achten, meines Großohms",", schmeicheln –
+              ",26,"transfer(maria, audience, relatives(maria, ""Heinrich""))",false
+193055,193064,"          
+            OKELLY.",Sie lebt!,"Und ich und Ihr, wir alle sind",27,"transfer(okelly, [mortimer, audience], !dead(elisabeth))",false
+185773,185809,"eht, mit ausgebreiteten Armen.","Wenn ich dich, Heißgeliebte, umfange","–
+          
+          
+      ",28,"transfer(mortimer, [maria, audience], in_love_with(mortimer, maria))",false
+281492,281533,z mir vor des Himmels Pforten.,"Den König, meinen Gatten, ließ ich morden",",
+              Und dem Verfüh",29,"transfer(maria, [melvil, audience], murderer_of(maria, HUSBAND[MARIA]",false
+259065,259108,"hm, das unglückselige Geschick","Des werten Jünglings, der sich ihr geopfert",",
+              Des alten Ritt",30,"transfer(kennedy, melvil, knowledge(maria, dead(mortimer)))",false
+251005,251029,"       
+            ELISABETH.","Tut, was Eures Amts ist.","Sie geht ab.
+            
+    ",31,"transfer(elisabeth, davison, murderer_of(elisabeth, maria))",false

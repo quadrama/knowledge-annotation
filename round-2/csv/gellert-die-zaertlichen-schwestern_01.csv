@@ -1,0 +1,68 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+130784,131262,"EN.
+            Du gutes Kind!","Also bin ich deine Nebenbuhlerin! Du dauerst mich in Wahrheit. Ich
+              will dir das ganze Geheimnis eröffnen. Kommen nicht die Beschuldigungen wider deinen
+                 Liebhaber von Herrn Siegmunden her? Ich kann mir's leicht einbilden.
+              Er hat sich in dich verliebt stellen sollen, um dich zu überführen, daß du vielleicht
+              schon liebtest. Er wird also die List gebraucht und dich beredt haben, daß Herr Damis
+              mich liebte.",Vergib ihm diesen Scherz. Er h,0,"transfer(lottchen, julchen, transfer(siegmund, julchen, in_love_with(damis, lottchen), lie))",false
+81682,81706,"        
+            LOTTCHEN.",Das ist meine Schwester.,"Wie erfreue ich mich!
+        ",1,"transfer(lottchen, simon, identity(LOVER[DAMIS], julchen), already-known)",false
+363,388," Siegmund, Lottchens Liebhaber","Damis, Julchens Liebhaber","Simon, Damis' Vormund
+        ",2,"transfer(""Figurentafel"", audience, lovers(damis, julchen))",false
+202,227,"     Personen.
+          Cleon","Der Magister, sein Bruder","Lottchen, Cleons älteste Tocht",3,"transfer(""Figurentafel"", audience, siblings(der_magister, cleon))",false
+29207,29257,"            ich dir antworten,","daß ich ihn recht zärtlich, recht von Herzen liebe","und mich meiner
+              ",4,"transfer(lottchen, julchen, in_love_with(lottchen, siegmund))",false
+81157,81180," das empfindlichste Vergnügen.",Ich bin nicht die Braut,"Ihres Herrn Mündels. Aber die ",5,"transfer(lottchen, simon, !identity(lottchen, julchen), already-known)",false
+102817,102840,"    
+            DER MAGISTER.",Sie bleibt unbeweglich.,"Ich weiß nicht, warum ich mir ",6,"transfer(magister, cleon, !in_love_with(julchen, damis))",false
+187517,187577,"TCHEN.
+            Unwürdiger!",Mein Vermögen kann ich Ihnen schenken; aber nicht mein Herz.,"Bitten Sie
+              meine",7,"transfer(lottchen, [siegmund, julchen, damis, der_magister, cleon, simon], !in_love_with(lottchen, siegmund))",false
+14797,14855,"h
+              Unglücklicher!","Wie gut wäre es für mich, wenn ich Julchen weniger liebte!","LOTTCHEN.
+            Lassen S",8,"transfer(damis, [lottchen, siegmund], in_love_with(damis, julchen))",false
+281,312,"ttchen, Cleons älteste Tochter","Julchen, dessen jüngste Tochter","Siegmund, Lottchens Liebhaber
+",9,"transfer(""Figurentafel"", audience, child_of(julchen, cleon))",false
+106141,106247,horche Ihnen als meinem Vater.,"Aber darf ich
+              Ihnen sagen, daß es scheint, daß mir Julchen gewogener ist als dem Herrn Damis","; und
+              daß Lottch",10,"transfer(siegmund, [cleon, audience], in_love_with(julchen, siegmund), lie)",false
+2070,2081,"fast so
+              klug als",dein Bruder,"und hast doch nicht studiert.
+",11,"transfer(cleon, audience, siblings(lottchen, BROTHER[LOTTCHEN]))",false
+120082,120143,"         
+            JULCHEN.","Ich, Papa? Herrn Siegmunden? Wie kommen Sie auf die Gedanken?","Wenn ich lieben wollte:
+      ",12,"transfer(julchen, cleon, !in_love_with(julchen, siegmund))",false
+323,352,"ulchen, dessen jüngste Tochter","Siegmund, Lottchens Liebhaber","Damis, Julchens Liebhaber
+    ",13,"transfer(""Figurentafel"", audience, lovers(siegmund, lottchen))",false
+7342,7554,"        
+            LOTTCHEN.","Ja, Papa, so lieb, daß, wenn ich die Wahl hätte, ob ich ihn mit einem geringen
+              Auskommen oder den Vornehmsten mit allem Überflusse zum Manne haben wollte, ich ihn
+              allemal wählen würde.","CLEON.
+            Ist's mögli",14,"transfer(lottchen, [audience, cleon], in_love_with(lottchen, siegmund))",false
+46609,46651,"en
+              das Testament","Ihrer seligen Frau Muhme, der Frau Stephan",", geöffnet werden soll. Ich
+  ",15,"transfer(simon, audience, relatives(cleon, ""Frau Stephan""))",false
+104270,104375,"        
+            SIEGMUND.","Ich komme fast selbst auf die Gedanken, daß Julchen den Herrn Damis nicht wohl leiden
+              kann.","CLEON.
+            Aber was so",16,"transfer(siegmund, cleon, !in_love_with(julchen, damis))",false
+130454,130526," ihm Gelegenheit gegeben hast.","Und was kann er dafür, daß
+              du liebenswürdiger bist als ich",? Auch sein Vergehn ist noch e,17,"transfer(julchen, lottchen, in_love_with(damis, lottchen))",false
+13430,13469,lchens Glücke etwas beitragen.,"Sie liebt den
+              Herrn Damis","und weiß es nicht, daß sie ihn",18,"transfer(lottchen, siegmund, in_love_with(julchen, damis))",false
+106249,106332,gener ist als dem Herrn Damis;,"und
+              daß Lottchen hingegen mit diesem sehr zufrieden zu sein scheinet.","Darf ich Ihnen wohl
+          ",19,"transfer(siegmund, [cleon, audience], in_love_with(lottchen, damis), lie)",false
+26614,26636,Aber warum bin ich so unruhig?,Ich liebe ihn ja nicht,"... Nein, ich bin
+            ",20,"transfer(julchen, audience, !in_love_with(julchen, damis))",false
+238,270,"     Der Magister, sein Bruder","Lottchen, Cleons älteste Tochter","Julchen, dessen jüngste Tochte",21,"transfer(""Figurentafel"", audience, child_of(lottchen, cleon))",false
+132891,132935,"      JULCHEN.
+            Ja.","Nunmehr weiß ich's gewiß, daß ich Sie liebe.","Und nunmehr bin ich bereit, di",22,"transfer(julchen, [damis, lottchen], in_love_with(julchen, damis))",false
+399,420,"     Damis, Julchens Liebhaber","Simon, Damis' Vormund","Erster Aufzug
+        
+       ",23,"transfer(""Figurentafel"", audience, fosterparent_of(simon, damis))",false
+124612,124662,"ten gesagt: aber es ist gewiß,","daß er Ihnen
+              Lottchen weit vorzieht.",Ich wollte ihm diese Beleidigu,24,"transfer(siegmund, [julchen, audience], in_love_with(damis, lottchen), lie)",false

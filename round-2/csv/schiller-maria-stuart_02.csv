@@ -1,0 +1,73 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+8824,8858,"          
+            PAULET.",Sie kam ins Land als eine Mörderin,",
+              Verjagt von ih",0,"transfer(paulet, audience, murderer_of(maria, SPOUSE[MARIA]))",false
+125631,125712,"              Muß dem so sein,","denn Eure Augen sprechen
+              Zu deutlich aus, was Ihr für sie empfindet",".
+            
+          
+    ",1,"transfer(mortimer, [audience, leicester], transfer(""Augen Graf Leicester"", mortimer, in_love_with(leicester, maria)))",false
+153521,153582,"  Verkünderin. Ich irre nicht.","Es ist
+              Der Liebe tätge Hand, der ich sie danke.",Lord Leicesters mächtgen Arm e,2,"transfer(maria, audience, knowledge(maria, in_love_with(leicester, maria)))",false
+51832,51849,"        Der Würde meines Volks",und meines Sohnes,Und aller Fürsten nicht so vie,3,"transfer(maria, audience, child_of(SON[MARIA], maria))",false
+13857,13930," ich kein Herz mir fassen kann","Elisabeth ist meines Stammes, meines
+              Geschlechts und Ranges","– Ihr allein, der Schwester,
+ ",4,"transfer(maria, audienece, relatives(elisabeth, maria))",false
+184835,184900,"        
+            MORTIMER.","Was ist mir alles Leben gegen dich
+              Und meine Liebe!","Mag der Welten Band
+          ",5,"transfer(mortimer, [audience, maria], in_love_with(mortimer, maria))",false
+281492,281533,z mir vor des Himmels Pforten.,"Den König, meinen Gatten, ließ ich morden",",
+              Und dem Verfüh",6,"transfer(maria, [audience, melvil], murderer_of(maria, ""König Darnley""))",false
+211292,211358,u dir in dein himmlisch Leben!,Er durchsticht sich mit dem Dolch und fällt der Wache in die Arme.,"Zimmer der Königin.
+          ",7,"transfer(""Nebentext"", audience, murderer_of(mortimer, mortimer))",false
+225320,225405,"hmen, und in der Verzweiflung,","Sein Werk vereitelt, sich entlarvt zu sehn,
+              Gab er sich selbst den Tod!","ELISABETH.
+            
+      ",8,"transfer(leicester, [maria, burleigh], murderer_of(mortimer, mortimer))",false
+244607,244752,ich im echten Ehebett geboren!,"Sie unterschreibt mit einem raschen, festen Federzug, läßt dann die Feder fallen,
+            und tritt mit einem Ausdruck des Schreckens zurück.","Nach einer Pause klingelt
+    ",9,"transfer(""Nebentext"", audience, murderer_of(maria, elisabeth), uncertain)",false
+142544,142559,m und Schimmer kann er lieben.,Ich liebe dich.,"Wärst du die ärmste Hirtin,
+  ",10,"transfer(leicester, [audience, elisabeth], in_love_with(leicester, elisabeth))",false
+258932,259109,"      Entehrte meine Königin –","Dann erst,
+              Als sie Lord Leicesters schändlichen Verrat
+              Vernahm, das unglückselige Geschick
+              Des werten Jünglings, der sich ihr geopfert,",Des alten Ritters tiefen Jamme,11,"transfer(kennedy, melvil, knowledge(maria, dead(mortimer)))",false
+296716,296756,"l wird
+              Gerückt –",Sie kniet aufs Kissen – legt das Haupt –,Nachdem er die letzten Worte m,12,"transfer(leicester, audience, murderer_of(maria, elisabeth))",false
+531,541,"der Maria.
+          Mortimer,",sein Neffe,".
+          Graf Aubespine, fr",13,"transfer(""Figurentafel"", audience, nephew_of(mortimer, paulet))",false
+22720,22754,em leichtbedeckten Grab empor!,Des Gatten rachefoderndes Gespenst,Schickt keines Messedieners Gl,14,"transfer(maria, audience, ex-spouses(maria, ""König Darnley""))",false
+211292,211358,u dir in dein himmlisch Leben!,Er durchsticht sich mit dem Dolch und fällt der Wache in die Arme.,"Zimmer der Königin.
+          ",15,"transfer(""Nebentext"", audience, dead(mortimer))",false
+296716,296756,"l wird
+              Gerückt –",Sie kniet aufs Kissen – legt das Haupt –,Nachdem er die letzten Worte m,16,"transfer(leicester, audience, dead(maria))",false
+299118,299161,hend in der höchsten Bewegung.,"Geh! Rufe mir – nein, bleibe – Sie ist tot!",Jetzt endlich hab ich Raum auf,17,"transfer(elisabeth, audience, knowledge(elisabeth, dead(maria)))",false
+38494,38632,"r, er zeigte
+              Mir","Eure Abkunft von dem hohen Hause
+              Der Tudor, überzeugte mich, daß Euch
+              Allein gebührt in Engelland zu herrschen",",
+              Nicht dieser A",18,"transfer(mortimer, audience, relatives(maria, ""Familie Tudor""))",false
+38723,38760,"     In ehebrecherischem Bett,","die Heinrich,
+              Ihr Vater",", selbst verwarf als Bastardto",19,"transfer(mortimer, audience, parents_of(""Heinrich"", elisabeth))",false
+193055,193064,"          
+            OKELLY.",Sie lebt!,"Und ich und Ihr, wir alle sind",20,"transfer(okelly, [audience, mortimer], !murderer_of(elisabeth, ""Sauvage""))",false
+140515,140557,"       
+            LEICESTER.",Bringt ihr die Schwüre meiner ewgen Liebe!,"MORTIMER.
+            
+       ",21,"transfer(leicester, [audience, mortimer], in_love_with(leicester, maria))",false
+293146,293242,"mir die Freiheit teuer machen,","An Eurer Hand, beglückt durch Eure Liebe,
+              Wollt ich des neuen Lebens mich erfreun.","Jetzt, da ich auf dem Weg bin,",22,"transfer(maria, [audience, leicester], in_love_with(maria, leicester))",false
+193055,193064,"          
+            OKELLY.",Sie lebt!,"Und ich und Ihr, wir alle sind",23,"transfer(okelly, [audience, mortimer], !dead(elisabeth))",false
+191366,191434,"          
+            PAULET.","Von England!
+              Sie ist ermordet auf der Londner Straßen!","Eilt ins Haus.
+          
+    ",24,"transfer(paulet, [audience, mortimer], dead(elisabeth))",false
+192459,192513,"          
+            OKELLY.","Sauvage führte
+              Den Streich, der Rasende.","MORTIMER.
+            So ist e",25,"transfer(okelly, audience, mortimer], murderer_of(elisabeth, ""Sauvage""))",false

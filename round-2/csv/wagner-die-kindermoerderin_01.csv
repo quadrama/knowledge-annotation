@@ -1,0 +1,70 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+178370,178434," den Umschlag, da fand sich's,","daß es des
+            Lieutenant Hasenpoths Hand und Siegel ist",. Er zeigte mir andre Briefe v,0,"transfer(magister, [audience, humbrecht, evchen], !transfer(von_groeningseck, magister, !in_love_with(von_groeningseck, evchen))))",false
+25172,25276,"    Darum! – ich will nicht. –","Er will sie umarmen und küssen, sie sträubt sich,
+              reißt sich los, und lauft der Kammer zu.","Mutter! Mutter, ich bin verlor",1,"transfer(evchen, [audience, von_groeningseck], !in_love_with(evchen, von_groeningseck))",false
+158,214," 
+        
+          Personen.","Martin Humbrecht, ein Metzger.
+          Frau Humbrecht.","Evchen Humbrecht, ihre Tochter",2,"transfer(""Figurentafel"", audience, spouses(humbrecht, frau_humbrecht))",false
+116448,116534,Guckt ihn noch einmal durch. –,"Mir den
+            Hasenpoth vorzuschlagen, mich zur Allerweltshure machen zu wollen!","– Die Spöttereien
+            ",3,"transfer(evchen, [lissel, audience], transfer(von_groeningseck, evchen, !engaged(von_groeningseck, evchen)))",false
+152191,152251,"einen Korb
+          zusammen.","Evchen sitzt am Bette, hat ihr Kind auf dem Arm, es schreit.","EVCHEN.
+          Armes, armes",4,"transfer(""Nebentext"", [audience, frau_marthan], child_of(CHILD[EVCHEN], evchen))",false
+130600,130745," kann sie mir's nicht zumuten.","Wenn ihr Vater die hundert Taler nicht hergeben will, um
+            ihr Kind ins Findlinghaus zu tun, so will ich allenfalls davor Rat schaffen.","Es liegt
+            Ihnen sel",5,"transfer(magister, [audience, humbrecht, frau_humbrecht], transfer(von_groeningseck, magister, child_of(CHILD[EVCHEN], evchen))))",false
+30038,30116,"sie wieder geküßt, gleich los.","Hör weiter! so sei dieser Kuß der Trauring, den wir einander auf die Eh geben.","– Aber
+            von nun an,",6,"transfer(evchen, [audience, von_groeningseck], engaged(evchen, von_groeningseck), uncertain)",false
+164918,164969,"? von Ihrer gewesenen Jungfer,","von's Humbrecht
+            seiner Tochter red ich.","EVCHEN.
+          Nun, ist den",7,"transfer(frau_marthan, evchen, child_of(CHILD[HUMBRECHT], [humbrecht, frau_humbrecht))",false
+126392,126523,"RECHT.
+          Weiß ich's? –","Wenn's mir recht ist, so hält er uns für Kalbsköpf, die keine Augen
+            haben, und unser Evchen – wenigstens für eine Hure.","MAGISTER
+          betroffen.
+",8,"transfer(humbrecht, frau_humbrecht, transfer(magister, humbrecht, lovers(evchen, LOVER[EVCHEN]), uncertain))))",false
+175381,175395," dem Gesicht wieder aufs Bett.",Da! da ist er!,"FRAU MARTHAN
+          bringt ",9,"transfer(evchen, humbrecht, child_of(CHILD[EVCHEN], evchen))",false
+29014,29139,inen Knieen wiederhol ich's. –,"In fünf Monaten
+            bin ich majorenn, dann führ ich dich an Altar, erkenne dich öffentlich für die
+            Meine.","EVCHEN.
+          Darf ich dir",10,"transfer(von_groeningseck, [audience, evchen], engaged(evchen, von_groeningseck), uncertain)",false
+178079,178141,"einer vorfinden. Kurz zu sein,","Gröningseck liebt Sie noch ebenso
+            zärtlich, als je",; eine tödliche Krankheit hiel,11,"transfer(magister, [audience, evchen, humbrecht], in_love_with(von_groeningseck, evchen))",false
+73320,73376,hmen mir's aus dem Mund weg: –,"Gefühlvoll! ja!
+            das ist mein Herz – so voll!","–
+        
+        
+          ",12,"transfer(von_groeningseck,[magister, audience, von_hasenpoth], in_love_with(von_groeningseck, evchen))",false
+181474,181537,"NGSECK
+          hebt ihn auf.",Auch wieder die Hand von Hasenpoth! Sieht nach der Unterschrift,". in
+            meinem Namen!",13,"transfer(""Brief"", von_groeningseck, transfer(von_hasenpoth, magister, !in_love_with(von_groeningseck, evchen), lie)))",false
+130322,130450,"ilie, die diesen Namen führen.","Fragen Sie doch Evchen Humbrecht, Ihre Base, ob
+            sie dumm genug ist zu glauben, daß ich sie würklich heiraten wollte.","Wenn sie
+            zurückden",14,"transfer(magister, [audience, humbrecht, frau_humbrecht], transfer(von_groeningseck, magister, !in_love_with(von_groeningseck, evchen))))",false
+139497,139559," 
+        
+          MAGISTER.",Er spricht aber doch in seinem Brief von einer Zusammenkunft –,"FRAU HUMBRECHT.
+          Die ",15,"transfer(magister, [frau_humbrecht, humbrecht, audience], ex-couple(evchen, von_groeningseck))",false
+225,256,"ger.
+          Frau Humbrecht.","Evchen Humbrecht, ihre Tochter.","Lissel, ihre Magd.
+          M",16,"transfer(""Figurentafel"", audience, child_of(evchen, [humbrecht, frau_humbrecht]))",false
+34313,34333,"          Er kommt eben recht,",Herr Vetter Magister,; mein Mädel wird heut keine K,17,"transfer(frau_humbrecht, audience, cousins(humbrecht, magister))",false
+166928,166973,"   
+        
+          EVCHEN.","Ja, ja! Ich – Ich! ich bin die Muttermörderin",",
+            die  keinen gute",18,"transfer(evchen, frau_marthan, identity(CHILD[HUMBRECHT], evchen))",false
+106378,106392," Das war's nicht, Gröningseck!",ich liebte Sie,", so wie ich Sie kennenlernte,",19,"transfer(von_groeningseck, [evchen, audience], in_love_with(von_groeningseck, evchen))",false
+123252,123663," 
+        
+          MAGISTER.","Ja! – von ungefähr sah ich ihr in der Predigt, grade bei der Stelle, von der ich schon
+            vorhin sagte, etwas steif in die Augen. Da wurde sie feuerrot, gleich drauf wieder
+            bleich, wie ein Tuch, schlug die Augen nieder, blieb die ganze Predigt durch so
+            unbeweglich sitzen, und fiel endlich, da die Ordonnanz von den Kindermörderinnen
+            verlesen wurde, gar in Ohnmacht.","HUMBRECHT.
+          Nun, und ",20,"transfer(magister, humbrecht, lovers(evchen, LOVER[EVCHEN]",false
+178370,178435," den Umschlag, da fand sich's,","daß es des
+            Lieutenant Hasenpoths Hand und Siegel ist.",Er zeigte mir andre Briefe von,21,"transfer(magister, [audience, humbrecht, evchen], transfer(von_hasenpoth, magister, !in_love_with(von_groeningseck, evchen), lie)))",false

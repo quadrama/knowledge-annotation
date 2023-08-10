@@ -1,0 +1,58 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+36960,37058,"        
+            SIEGMUND.","Braut und Schwester
+              bist du dem Bruder –
+              so blühe denn Wälsungen-Blut!",Er zieht sie mit wütender Glut,0,"transfer(siegmund, [sieglinde, audience], siblings(siegmund, sieglinde))",false
+36960,37058,"        
+            SIEGMUND.","Braut und Schwester
+              bist du dem Bruder –
+              so blühe denn Wälsungen-Blut!",Er zieht sie mit wütender Glut,1,"transfer(siegmund, [audience, sieglinde], lovers(siegmund, sieglinde))",false
+42173,42246,"     die Schwester den Bruder!","Wann ward es erlebt,
+              daß leiblich Geschwister sich liebten?","WOTAN.
+            
+          ",2,"transfer(fricka, wotan, siblings(sieglinde, siegmund))",false
+38619,38624,"   
+              Dir rat ich,",Vater,",
+              rüste dich sel",3,"transfer(bruennhilde, audience, parent_of(wotan, bruennhilde))",false
+109339,109412,"   das Schwert einst schwingt,","den Namen nehm er von mir:
+              Siegfried erfreu sich des Siegs!","SIEGLINDE
+            in größt",4,"transfer(bruennhilde, [sieglinde, audience], has_name(CHILD[SIEGLINDE], ""Siegfried""))",false
+101823,101884,"            Hört mich in Eile:","Sieglinde ist es,
+              Siegmunds Schwester und Braut",": –
+              gegen die Wä",5,"transfer(bruennhilde, [siegrune, helmwige, schwertleite, grimgerde, rossweisse, gerhilde], lovers(sieglinde, siegmund))",false
+4978,5035,"       
+            SIEGLINDE.","Dies Haus und dies Weib
+              sind Hundings Eigen",";
+              gastlich gönn ",6,"transfer(sieglinde, [audience, siegmund], spouses(sieglinde, hunding))",false
+12544,12569,Wehwalt – muß ich mich nennen.,"Wolfe, der war mein Vater",";
+              zu zwei kam ic",7,"transfer(siegmund, [audience, sieglinde, hunding], parent_of(""Wolfe"", siegmund]))",false
+38733,38756,"            sollst du bestehn.","Fricka naht, deine Frau",",
+              im Wagen mit d",8,"transfer(breunnhilde, audience, spouses(fricka, wotan))",false
+10339,10499,"          
+            HUNDING","mißt scharf und verwundert Siegmunds Züge, die er mit denen seiner Frau
+              vergleicht; für sich.
+            
+              Wie gleicht er dem Weibe!","Der gleißende Wurm
+           ",9,"transfer(hunding, audience, relatives(siegmund, sieglinde), uncertain)",false
+2931,2941," inneren Gemaches. Sie glaubte",ihren Mann,heimgekehrt; ihre ernste Miene,10,"transfer(""Nebentext"", audience, spouses(sieglinde, SPOUSE[SIEGLINDE]))",false
+101823,101874,"            Hört mich in Eile:","Sieglinde ist es,
+              Siegmunds Schwester","und Braut: –
+              geg",11,"transfer(bruennhilde, [siegrune, helmwige, schwertleite, grimgerde, rossweisse, gerhilde], siblings(sieglinde, siegmund))",false
+30614,30699,"  zuerst ich den Freund ersah.","Sie hängt sich entzückt an seinen Hals und blickt ihm nahe ins
+              Gesicht.","SIEGMUND
+            mit Hinge",12,"transfer(sieglinde, [siegmund, audience], in_love_with(sieglinde, siegmund))",false
+98439,98454,"m Gruß
+              grüßt sie",die Schwestern!,"WALTRAUTE
+            hinabruf",13,"transfer(schwertleite, audience, siblings(bruennhilde,[siegrune, waltraute, ortlinde, helmwige, grimgerde, rossweisse, schwertleite, gerhilde]))",false
+12585,12657,"    Wolfe, der war mein Vater;","zu zwei kam ich zur Welt,
+              eine Zwillingsschwester und ich.","Früh schwanden mir
+           ",14,"transfer(siegmund, [audience, sieglinde, hunding], siblings(siegmund, SIBLING[SIEGMUND]))",false
+42173,42246,"     die Schwester den Bruder!","Wann ward es erlebt,
+              daß leiblich Geschwister sich liebten?","WOTAN.
+            
+          ",15,"transfer(fricka, wotan, lovers(sieglinde, siegmund))",false
+12499,12529," wohl sein:
+              doch",Wehwalt – muß ich mich nennen.,"Wolfe, der war mein Vater;
+   ",16,"transfer(siegmund, [audience, sieglinde, hunding], has_name(siegmund, ""Wehwalt""))",false
+105702,105734,"           Stark und drängend.",ein Wälsung wächst dir im Schoß!,"SIEGLINDE
+            erschric",17,"transfer(bruennhilde, [sieglinde, audience], child_of(CHILD[SIEGLINDE], [sieglinde, siegmund]))",false

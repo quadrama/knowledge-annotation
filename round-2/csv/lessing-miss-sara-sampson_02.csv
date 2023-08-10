@@ -1,0 +1,90 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+220898,220972,u strafen – das steht bei mir!,"Er
+                ersticht sich, und fällt an dem Stuhle der Sara nieder.","SIR WILLIAM.
+            Halt'",0,"transfer(""Mellefont ersticht sich"", [audience, sir_william, waitwell], murderer_of(mellefont, mellefont))",false
+263,297," Tochter.
+          Mellefont.","Marwood, Mellefonts alte Geliebte.","Arabella, ein junges Kind, der",1,"transfer(""Figurentafel"", audience, ex-lovers(marwood, melefont))",false
+25887,25922," 
+          
+            SARA.","Mit den Augen der Liebe, Mellefont.","MELLEFONT.
+            So bitt",2,"transfer(sara, mellefont, in_love_with(sara, mellefont))",false
+205,231,"          Sir William Sampson.","Miss Sara, dessen Tochter.","Mellefont.
+          Marwood, ",3,"transfer(""Figurentafel"", audience, child_of(sara, sir_william))",false
+221700,221741,Empfindungen ergreifen mich! –,"Gnade! o Schöpfer,
+              Gnade! –","SIR WILLIAM.
+            Wenn ",4,"transfer(""Mellefont stirbt"", [audience, sir_william, waitwell], dead(mellefont))",false
+34842,34965,"
+          
+            NORTON","liest weiter.
+            »Die Mühe Sie auszuforschen, hat mir die Liebe, welche mir forschen half,
+              versüßt.«","MELLEFONT.
+            Die Lie",5,"transfer(marwood, [audience, mellefont, norton], in_love_with(marwood, mellefont))",false
+87538,87644," 
+          
+            SARA.","Wie heißt Ihre Anverwandte?
+          
+          
+            MELLEFONT.
+            Es ist – Lady Solmes.",Sie werden den Namen von mir s,6,"transfer(mellefont, [audience, sara], relatives(mellefont, ""Lady Solmes""), lie)",false
+172491,172658,"         
+            MARWOOD.","Ja, Miß, eine unglückliche Tochter verlieret durch die Darzwischenkunft der Sara
+              Sampson alle Hoffnung, ihre Eltern jemals ohne Abscheu nennen zu können.","SARA.
+            Schreckliche",7,"transfer(marwood, sara, parent_of(mellefont, CHILD[MELLEFONT]))",false
+38714,38785,he einer alten Liebe taub ist;,"so wird ihm doch
+              die Sprache des Bluts vernehmlich  sein.",Er riß das Kind vor einiger Ze,8,"transfer(marwood, audience, parent_of(mellefont, arabella))",false
+1791,1905,"        
+            WAITWELL.","Das beste, schönste, unschuldigste Kind, das unter der Sonne gelebt hat, das muß so
+              verführt werden!",Ach Sarchen! Sarchen! Ich habe,9,"transfer(waitwell, audience, in_love_with(sara, LOVER[SARA]))",false
+34669,34788,"       
+            MELLEFONT.","Verflucht sei ihr Name! Daß ich ihn nie gehört hätte! Daß er aus dem Buche der
+              Lebendigen vertilgt würde!","NORTON
+            liest weite",10,"transfer(mellefont, [audience, norton], !in_love_with(mellefont, marwood))",false
+308,355,"ood, Mellefonts alte Geliebte.","Arabella, ein junges Kind, der Marwood Tochter.","Waitwell, ein alter Diener des",11,"transfer(""Figurentafel"", audience, child_of(arabella, marwood))",false
+218305,218366,"schheit, entschuldiget wird. –","Der Augenblick ist da! Mellefont – mein Vater
+              –","MELLEFONT.
+            Sie sti",12,"transfer(""Sara stirbt"", [audience, mellefont, sir_william, waitwell], dead(sara))",false
+11393,11586,nabsehliches Unglück gestürzt.,"Ich hatte noch keine Sara aus dem Hause eines
+              geliebten Vaters entwendet, und sie gezwungen, einem Nichtswürdigen zu folgen, der auf
+              keine Weise mehr sein eigen war.",Ich hatte – Wer kömmt schon so,13,"transfer(mellefont, audience, identity(LOVER[SARA], mellefont))",false
+117309,117405," 
+          
+            SARA.","Wie vollkommen rechtfertigen Sie, durch solche Gesinnungen, meine Liebe gegen
+              Sie.","MARWOOD
+            bei Seite.",14,"transfer(sara, marwood, in_love_with(sara, mellefont))",false
+6680,6766,"ädiger Herr, warum weinen Sie?","Das Frauenzimmer muß Ihnen
+              sehr nahe gehen. Sie sind doch wohl nicht – –","WAITWELL.
+            Halt ihn",15,"transfer(der_wirt, [audience, waitwell, sir_william], parent_of(""älterer Herr"", ""junge Dame""), uncertain)",false
+121147,121212," 
+          
+            SARA.","Ja, Betty. Es ist Lady Solmes; eine Anverwandte meines Mellefont.","Es wandelte ihr
+              ",16,"transfer(sara, betty, relatives(""Lady Solmes"", mellefont))",false
+45278,45328,"         
+            MARWOOD.",Und ich sage Ihnen; ich besitze es im Grunde noch.,"MELLEFONT.
+            Marwood",17,"transfer(marwood, [audience, mellefont, hannah], in_love_with(mellefont, marwood))",false
+173154,173192,"         
+            MARWOOD.","Dieses, daß er die Marwood noch liebt.","SARA.
+            Sie töten mi",18,"transfer(marwood, sara, in_love_with(mellefont, marwood), lie)",false
+213729,214427,"lsch
+              argwöhnten?","Dies schreibet Marwood. Er lieset. »Wenn Sie diesen Zettel
+              lesen werden, Mellefont, wird Ihre Untreue in dem Anlasse derselben schon bestraft
+              sein. Ich hatte mich ihr entdeckt, und vor Schrecken war sie in Ohnmacht gefallen.
+              Betty gab sich alle Mühe, sie wieder zu sich selbst zu bringen. Ich ward gewahr, daß
+              sie ein Kordialpulver bei Seite legte, und hatte den glücklichen Einfall, es mit einem
+              Giftpulver zu vertauschen. Ich stellte mich gerührt und dienstfertig, und machte es
+              selbst zurechte. Ich sah es ihr geben, und ging triumphierend fort. Rache und Wut
+              haben mich zu einer Mörderin gemacht;",ich will aber keine von den ge,19,"transfer(marwood, [audience, mellefont, sara, sir_william, waitwell], murderer_of(marwood, sara), uncertain)",false
+16844,16876,"       
+            MELLEFONT.",So zweifeln Sie an meiner Liebe?,"SARA.
+            Ich, an Ihre",20,"transfer(mellefont, audience, in_love_with(mellefont, sara))",false
+188620,188626,"          
+            NORTON.",Alles.,"SARA.
+            Aber mit ein",21,"transfer(norton, [audience, sara, betty], transfer(norton, mellefont, knowledge(sara, identity(""Lady Solmes"", marwood)))",false
+181168,181297,nt darüber frohlocken sollte –,"Erkennen Sie, Miß, in mir die Marwood, mit der
+              Sie nicht verglichen zu werden, die Marwood selbst fußfällig bitten.","SARA
+            die voller Er",22,"transfer(marwood, sara, identity(""Lady Solmes, marwood))",false
+193844,193968," sagen
+              sollte. –","Marwood erwähnte eines Pfandes, und der schwatzhafte Norton – Vergeben Sie
+              es ihm nur – nannte mir einen Namen","; einen Namen, Mellefont, welc",23,"transfer([marwood, norton], sara, parent_of(mellefont, arabella))",false
+45163,45222,"       
+            MELLEFONT.","Zu behalten? Sie haben es niemals besessen, sage ich Ihnen.","MARWOOD.
+            Und ich s",24,"transfer(mellefont, [audience, marwood, hannah], !in_love_with(mellefont, marwood))",false
