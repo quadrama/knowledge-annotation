@@ -8,8 +8,8 @@ For more details, see [the annotation guideline](https://zenodo.org/record/57297
 You can find the following data in this repository:
 
 - round 1: Annotations in round 1 were part of the process of guideline development. 
-- round 2: The guidelines were largely consolidated and inter-annotator agreement could be calculated. Texts of round 2 are provided in their initial version that was used for IAA calculation (V1) as well as a revised version that was created in the process of comparing and discussing the annotations (V2).
-- round 3: In round 3, every play was checked by at least one annotator and annotations for the categories ``murderer\_of(A, B)``, ``dead(A)`` and ``unborn\_child\_of(A, B)`` were added.
+- round 2: The guidelines were largely consolidated and inter-annotator agreement could be calculated. Texts of round 2 are provided in their initial version that was used for IAA calculation.
+- round 3: In round 3, every play was checked by at least one annotator based on a discussion of issues. Also, annotations for the categories ``murderer\_of(A, B)``, ``dead(A)`` and ``unborn\_child\_of(A, B)`` were added.
 
 All annotations are provided in their original annotation format used by the 
 [CorefAnnotator](https://github.com/nilsreiter/CorefAnnotator/) and as a csv-export.
