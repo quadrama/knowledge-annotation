@@ -3,7 +3,7 @@
 In this repository we provide the annotations created 
 in the digital humanities project [Q:TRACK](https://quadrama.github.io/). 
 The annotations target processes of knowledge distribution among characters in German plays. 
-For more details, see [the annotation guideline](https://zenodo.org/record/5729707). 
+For more details, see [the annotation guideline](https://zenodo.org/record/5729707) (in German). 
 You can find the following data in this repository:
 
 - round 1: Annotations in round 1 were part of the process of guideline development. 
@@ -11,7 +11,19 @@ You can find the following data in this repository:
 - round 3: In round 3, every play was checked by at least one annotator based on a discussion of issues. Also, annotations for the categories ``murderer\_of(A, B)``, ``dead(A)`` and ``unborn\_child\_of(A, B)`` were added.
 
 All annotations are provided in their original annotation format used by the 
-[CorefAnnotator](https://github.com/nilsreiter/CorefAnnotator/) and as a csv-export.
+[CorefAnnotator](https://github.com/nilsreiter/CorefAnnotator/) and as a csv-export. Columns in the csv files are:
+
+- begin: Character position of the beginning of the annotation span (character as in 'written symbol')
+- end: Character position of the end of the annotation span
+- leftContext: The left context of the annotation span
+- surface: The annotation span
+- rightContext: The right context of the annotation span
+- entityNum: Index of the annotation label
+- entityLabel: The annotation label
+- entityGroup: (not used in this annotation project)
+
+The original TEI-XML files used for the annotation can be found in the data of the [German Drama Corpus (GerDraCor)](https://dracor.org/ger).
+These can be used to resolve the character position of the annotations (columns "begin" and "end").
 
 The following table gives an overview of the annotated plays. 
 Numbers in the columns round-1 to round-3 indicate the number of annotations available for this version.
@@ -54,3 +66,7 @@ Numbers in the columns round-1 to round-3 indicate the number of annotations ava
 Melanie Andresen, Benjamin Krautter, Janis Pagel, Nils Reiter. Who Knows What in German Drama? A Composite Annotation Scheme for Knowledge Transfer. Annotation, Evaluation, and Analysis. Journal of Computational Literary Studies, 1, 2022. [http://dx.doi.org/10.48694/jcls.107](http://dx.doi.org/10.48694/jcls.107).
 
 Melanie Andresen, Benjamin Krautter, Janis Pagel, Nils Reiter. Nathan nicht ihr Vater? – Wissensvermittlungen im Drama annotieren. In DHd 2022 Kulturen des digitalen Gedächtnisses. 8. Tagung des Verbands "Digital Humanities im deutschsprachigen Raum" (DHd 2022), Potsdam, Germany, March 2022. [http://dx.doi.org/10.5281/zenodo.6327913](http://dx.doi.org/10.5281/zenodo.6327913).
+
+## Contact
+
+see [Q:TRACK website](https://quadrama.github.io/people.de)
