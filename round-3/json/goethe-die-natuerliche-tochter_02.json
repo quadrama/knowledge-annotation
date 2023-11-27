@@ -1,0 +1,240 @@
+{
+  "filename": "goethe-die-natuerliche-tochter_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 846,
+      "source": "koenig",
+      "target": "audience",
+      "relation": "uncle_of",
+      "argument1": "herzog",
+      "argument2": "koenig",
+      "attribute": null
+    },
+    {
+      "position": 3962,
+      "source": "koenig",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD-1[HERZOG]",
+      "argument2": "herzog",
+      "attribute": null
+    },
+    {
+      "position": 5455,
+      "source": "herzog",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD-2[HERZOG]",
+      "argument2": "herzog",
+      "attribute": null
+    },
+    {
+      "position": 5455,
+      "source": "herzog",
+      "target": "koenig",
+      "relation": "child_of",
+      "argument1": "CHILD-2[HERZOG]",
+      "argument2": "herzog",
+      "attribute": null
+    },
+    {
+      "position": 6204,
+      "source": "herzog",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "\"F\u00fcrstin\"",
+      "argument2": "CHILD[HERZOG]",
+      "attribute": null
+    },
+    {
+      "position": 6204,
+      "source": "koenig",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "\"F\u00fcrstin\"",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 6204,
+      "source": "herzog",
+      "target": "koenig",
+      "relation": "parent_of",
+      "argument1": "\"F\u00fcrstin\"",
+      "argument2": "CHILD[HERZOG]",
+      "attribute": null
+    },
+    {
+      "position": 10841,
+      "source": "herzog",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "eugenie",
+      "argument2": null,
+      "attribute": "uncertain"
+    },
+    {
+      "position": 15356,
+      "source": "herzog",
+      "target": "audience",
+      "relation": "!dead",
+      "argument1": "eugenie",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 15356,
+      "source": "herzog",
+      "target": "koenig",
+      "relation": "!dead",
+      "argument1": "eugenie",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 15356,
+      "source": "herzog",
+      "target": "graf",
+      "relation": "!dead",
+      "argument1": "eugenie",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 15356,
+      "source": "herzog",
+      "target": "wundarzt",
+      "relation": "!dead",
+      "argument1": "eugenie",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 39993,
+      "source": "herzog",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "CHILD-2[HERZOG]",
+      "argument2": "\"Eugenie\"",
+      "attribute": null
+    },
+    {
+      "position": 47817,
+      "source": "hofmeisterin",
+      "target": "audience",
+      "relation": "fosterchild",
+      "argument1": "eugenie",
+      "argument2": "hofmeisterin",
+      "attribute": null
+    },
+    {
+      "position": 49497,
+      "source": "hofmeisterin",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "hofmeisterin",
+      "argument2": "sekret\u00e4r",
+      "attribute": null
+    },
+    {
+      "position": 49497,
+      "source": "hofmeisterin",
+      "target": "sekretaer",
+      "relation": "in_love_with",
+      "argument1": "hofmeisterin",
+      "argument2": "sekret\u00e4r",
+      "attribute": null
+    },
+    {
+      "position": 61607,
+      "source": "eugenie",
+      "target": "audience",
+      "relation": "fosterparent",
+      "argument1": "hofmeisterin",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 81690,
+      "source": "sekretaer",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "eugenie",
+      "argument2": null,
+      "attribute": "lie"
+    },
+    {
+      "position": 81690,
+      "source": "sekretaer",
+      "target": "weltgeistlicher",
+      "relation": "dead",
+      "argument1": "eugenie",
+      "argument2": null,
+      "attribute": "lie"
+    },
+    {
+      "position": 89308,
+      "source": "\"Stimmung des Herzogs\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "eugenie",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 148918,
+      "source": "gerichtsrat",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "gerichtsrat",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 148918,
+      "source": "gerichtsrat",
+      "target": "eugenie",
+      "relation": "in_love_with",
+      "argument1": "gerichtsrat",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 153304,
+      "source": "eugenie",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    },
+    {
+      "position": 153304,
+      "source": "eugenie",
+      "target": "gerichtsrat",
+      "relation": "!in_love_with",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    },
+    {
+      "position": 205075,
+      "source": "eugenie",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    },
+    {
+      "position": 205075,
+      "source": "eugenie",
+      "target": "gerichtsrat",
+      "relation": "engaged",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    }
+  ]
+}

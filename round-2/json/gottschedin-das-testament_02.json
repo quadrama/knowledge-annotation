@@ -1,0 +1,105 @@
+{
+  "filename": "gottschedin-das-testament_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 263,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "niece_of",
+      "argument1": "fraeulein_karoline",
+      "argument2": "frau_von_tiefenborn",
+      "attribute": null
+    },
+    {
+      "position": 292,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "niece_of",
+      "argument1": "fraeulein_amalie",
+      "argument2": "frau_von_tiefenborn",
+      "attribute": null
+    },
+    {
+      "position": 319,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "nephew_of",
+      "argument1": "herr_von_kaltenbrunn",
+      "argument2": "frau_von_tiefenborn",
+      "attribute": null
+    },
+    {
+      "position": 350,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "frau_von_tiefenbronn",
+      "argument2": "SIBLING1[FRAU_VON_TIEFENBRONN]",
+      "attribute": null
+    },
+    {
+      "position": 350,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kaltenbrunn",
+      "attribute": null
+    },
+    {
+      "position": 350,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "fraeulein_amalie",
+      "argument2": "herr_von_kaltenbrunn",
+      "attribute": null
+    },
+    {
+      "position": 4224,
+      "source": "fraeulein_amalie",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "frau_von_tiefenbronn",
+      "argument2": "SIBLING2[FRAU_VON_TIEFENBRONN]",
+      "attribute": null
+    },
+    {
+      "position": 127019,
+      "source": "herr_von_ziegendorf",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "herr_von_ziegendorf",
+      "argument2": "SIBLING[HERR_VON_ZIEGENDORF]",
+      "attribute": null
+    },
+    {
+      "position": 164544,
+      "source": "herr_von_wagehals",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "fraeulein_amalie",
+      "argument2": "herr_von_wagehals",
+      "attribute": null
+    },
+    {
+      "position": 164544,
+      "source": "herr_von_wagehals",
+      "target": "fraeulein_amalie",
+      "relation": "in_love_with",
+      "argument1": "fraeulein_amalie",
+      "argument2": "herr_von_wagehals",
+      "attribute": null
+    },
+    {
+      "position": 176012,
+      "source": "herr_von_wagehals",
+      "target": "frau_von_tiefenborn",
+      "relation": "in_love_with",
+      "argument1": "fraeulein_amalie",
+      "argument2": "herr_von_wagehals",
+      "attribute": null
+    }
+  ]
+}

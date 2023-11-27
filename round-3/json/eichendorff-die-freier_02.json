@@ -1,0 +1,258 @@
+{
+  "filename": "eichendorff-die-freier_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 432,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "niece:nephew_of",
+      "argument1": "marie",
+      "argument2": "friedmann",
+      "attribute": null
+    },
+    {
+      "position": 5171,
+      "source": "fleder",
+      "target": "audience",
+      "relation": "nephew:niece_of",
+      "argument1": "leonard",
+      "argument2": "\"Pr\u00e4sident\"",
+      "attribute": null
+    },
+    {
+      "position": 6758,
+      "source": "fleder",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "leonard",
+      "argument2": "\"Schauspieler\"",
+      "attribute": null
+    },
+    {
+      "position": 6758,
+      "source": "\"Pr\u00e4sident\"",
+      "target": "fleder",
+      "relation": "identity",
+      "argument1": "leonard",
+      "argument2": "\"Schauspieler\"",
+      "attribute": null
+    },
+    {
+      "position": 9017,
+      "source": "fleder",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "fleder",
+      "argument2": "\"Fl\u00f6tenspieler\"",
+      "attribute": null
+    },
+    {
+      "position": 32103,
+      "source": "schlender",
+      "target": "leonard",
+      "relation": "identity",
+      "argument1": "\"Fremder aus dem Wald\"",
+      "argument2": "\"Violinist\"",
+      "attribute": null
+    },
+    {
+      "position": 32364,
+      "source": "leonard",
+      "target": "schlender",
+      "relation": "identity",
+      "argument1": "leonard",
+      "argument2": "\"Schauspieler\"",
+      "attribute": null
+    },
+    {
+      "position": 37749,
+      "source": "flora",
+      "target": "victor",
+      "relation": "nephew:niece_of",
+      "argument1": "leonard",
+      "argument2": "\"Pr\u00e4sident\"",
+      "attribute": null
+    },
+    {
+      "position": 37749,
+      "source": "flora",
+      "target": "victor",
+      "relation": "identity",
+      "argument1": "leonard",
+      "argument2": "\"Schauspieler\"",
+      "attribute": null
+    },
+    {
+      "position": 37832,
+      "source": "flora",
+      "target": "victor",
+      "relation": "identity",
+      "argument1": "fleder",
+      "argument2": "\"Fl\u00f6tenspieler\"",
+      "attribute": null
+    },
+    {
+      "position": 38895,
+      "source": "flora",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "flora",
+      "argument2": "\"Adele\"",
+      "attribute": null
+    },
+    {
+      "position": 38895,
+      "source": "flora",
+      "target": "victor",
+      "relation": "identity",
+      "argument1": "flora",
+      "argument2": "\"Adele\"",
+      "attribute": null
+    },
+    {
+      "position": 38973,
+      "source": "flora",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "adele",
+      "argument2": "\"Jungfer\"",
+      "attribute": null
+    },
+    {
+      "position": 38973,
+      "source": "flora",
+      "target": "victor",
+      "relation": "identity",
+      "argument1": "adele",
+      "argument2": "\"Jungfer\"",
+      "attribute": null
+    },
+    {
+      "position": 77973,
+      "source": "flitt",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "\"Adele\"",
+      "argument2": "flitt",
+      "attribute": null
+    },
+    {
+      "position": 77973,
+      "source": "flitt",
+      "target": "knoll",
+      "relation": "in_love_with",
+      "argument1": "\"Adele\"",
+      "argument2": "flitt",
+      "attribute": null
+    },
+    {
+      "position": 116068,
+      "source": "flora",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Adele\"",
+      "argument2": "\"reisender Vetter\"",
+      "attribute": null
+    },
+    {
+      "position": 116068,
+      "source": "flora",
+      "target": "marie",
+      "relation": "identity",
+      "argument1": "\"Adele\"",
+      "argument2": "\"reisender Vetter\"",
+      "attribute": null
+    },
+    {
+      "position": 118296,
+      "source": "adele",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Jungfer\"",
+      "argument2": "adele",
+      "attribute": null
+    },
+    {
+      "position": 119301,
+      "source": "flora",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "schlender",
+      "argument2": "\"Dame\"",
+      "attribute": null
+    },
+    {
+      "position": 127114,
+      "source": "schlender",
+      "target": "fleder",
+      "relation": "identity",
+      "argument1": "adele",
+      "argument2": "schlender",
+      "attribute": null
+    },
+    {
+      "position": 139782,
+      "source": "flora",
+      "target": "leonard",
+      "relation": "identity",
+      "argument1": "\"Ritter\"",
+      "argument2": "\"Dame im Wald\"",
+      "attribute": null
+    },
+    {
+      "position": 141192,
+      "source": "adele",
+      "target": "leonard",
+      "relation": "identity",
+      "argument1": "\"Jungfer\"",
+      "argument2": "adele",
+      "attribute": null
+    },
+    {
+      "position": 143380,
+      "source": "fleder",
+      "target": "flora",
+      "relation": "identity",
+      "argument1": "\"Schauspieler\"",
+      "argument2": "leonard",
+      "attribute": null
+    },
+    {
+      "position": 143380,
+      "source": "fleder",
+      "target": "adele",
+      "relation": "identity",
+      "argument1": "\"Schauspieler\"",
+      "argument2": "leonard",
+      "attribute": null
+    },
+    {
+      "position": 144392,
+      "source": "adele",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "adele",
+      "argument2": "leonard",
+      "attribute": null
+    },
+    {
+      "position": 144392,
+      "source": "adele",
+      "target": "leonard",
+      "relation": "engaged",
+      "argument1": "adele",
+      "argument2": "leonard",
+      "attribute": null
+    },
+    {
+      "position": 144392,
+      "source": "adele",
+      "target": "flora",
+      "relation": "engaged",
+      "argument1": "adele",
+      "argument2": "leonard",
+      "attribute": null
+    }
+  ]
+}

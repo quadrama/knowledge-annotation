@@ -1,0 +1,411 @@
+{
+  "filename": "hebbel-maria-magdalene_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 61408,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "meister_anton",
+      "argument2": "mutter",
+      "attribute": null
+    },
+    {
+      "position": 61430,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "klara",
+      "argument2": "meister_anton",
+      "attribute": null
+    },
+    {
+      "position": 61462,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "karl",
+      "argument2": "meister_anton",
+      "attribute": null
+    },
+    {
+      "position": 62310,
+      "source": "klara",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "mutter",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 65984,
+      "source": "karl",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "mutter",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 69808,
+      "source": "mutter",
+      "target": "audience",
+      "relation": "couple",
+      "argument1": "leonhard",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 69925,
+      "source": "klara",
+      "target": "audience",
+      "relation": "!couple",
+      "argument1": "leonhard",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 69925,
+      "source": "klara",
+      "target": "mutter",
+      "relation": "!couple",
+      "argument1": "leonhard",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 77120,
+      "source": "leonhard",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "klara",
+      "argument2": "sekretaer",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 77120,
+      "source": "leonhard",
+      "target": "klara",
+      "relation": "in_love_with",
+      "argument1": "klara",
+      "argument2": "sekretaer",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 81758,
+      "source": "leonhard",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "leonhard",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 81984,
+      "source": "klara",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "klara",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 81984,
+      "source": "klara",
+      "target": "leonhard",
+      "relation": "in_love_with",
+      "argument1": "klara",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 82098,
+      "source": "klara",
+      "target": "audience",
+      "relation": "unborn_child_of",
+      "argument1": "CHILD[KLARA]",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 100832,
+      "source": "meister_anton",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "klara",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 100832,
+      "source": "meister_anton",
+      "target": "leonhard",
+      "relation": "engaged",
+      "argument1": "klara",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 101119,
+      "source": "leonhard",
+      "target": "audience",
+      "relation": "parent_in_law_of",
+      "argument1": "meister_anton",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 115887,
+      "source": "\"F\u00e4llt um\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "mutter",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 115887,
+      "source": "\"F\u00e4llt um\"",
+      "target": "klara",
+      "relation": "dead",
+      "argument1": "mutter",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 115887,
+      "source": "\"F\u00e4llt um\"",
+      "target": "leonhard",
+      "relation": "dead",
+      "argument1": "mutter",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 115887,
+      "source": "\"F\u00e4llt um\"",
+      "target": "meister_anton",
+      "relation": "dead",
+      "argument1": "mutter",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 115887,
+      "source": "\"F\u00e4llt um\"",
+      "target": "adam",
+      "relation": "dead",
+      "argument1": "mutter",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 116205,
+      "source": "meister_anton",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "mutter",
+      "argument2": "\"Therese\"",
+      "attribute": null
+    },
+    {
+      "position": 118398,
+      "source": "\"Brief\"",
+      "target": "audience",
+      "relation": "!couple",
+      "argument1": "leonhard",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 118398,
+      "source": "\"Brief\"",
+      "target": "klara",
+      "relation": "!couple",
+      "argument1": "leonhard",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 135748,
+      "source": "wolfram",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "wolfram",
+      "argument2": "SPOUSES[WOLFRAM]",
+      "attribute": null
+    },
+    {
+      "position": 149609,
+      "source": "sekretaer",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "sekretaer",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 149609,
+      "source": "sekretaer",
+      "target": "klara",
+      "relation": "in_love_with",
+      "argument1": "sekretaer",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 150485,
+      "source": "klara",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "sekretaer",
+      "argument2": "\"Friedrich\"",
+      "attribute": null
+    },
+    {
+      "position": 150954,
+      "source": "klara",
+      "target": "sekretaer",
+      "relation": "!in_love_with",
+      "argument1": "klara",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 151290,
+      "source": "klara",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "klara",
+      "argument2": "sekretaer",
+      "attribute": null
+    },
+    {
+      "position": 151290,
+      "source": "klara",
+      "target": "sekretaer",
+      "relation": "in_love_with",
+      "argument1": "klara",
+      "argument2": "sekretaer",
+      "attribute": null
+    },
+    {
+      "position": 155237,
+      "source": "sekretaer",
+      "target": "klara",
+      "relation": "!in_love_with",
+      "argument1": "klara",
+      "argument2": "sekretaer",
+      "attribute": null
+    },
+    {
+      "position": 193538,
+      "source": "sekretaer",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "sekretaer",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 193538,
+      "source": "sekretaer",
+      "target": "karl",
+      "relation": "murderer_of",
+      "argument1": "sekretaer",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 193538,
+      "source": "sekretaer",
+      "target": "meister_anton",
+      "relation": "murderer_of",
+      "argument1": "sekretaer",
+      "argument2": "leonhard",
+      "attribute": null
+    },
+    {
+      "position": 193556,
+      "source": "sekretaer",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "leonhard",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 193556,
+      "source": "sekretaer",
+      "target": "karl",
+      "relation": "dead",
+      "argument1": "leonhard",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 193556,
+      "source": "sekretaer",
+      "target": "meister_anton",
+      "relation": "dead",
+      "argument1": "leonhard",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 195627,
+      "source": "karl",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "klara",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 195627,
+      "source": "karl",
+      "target": "meister_anton",
+      "relation": "dead",
+      "argument1": "klara",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 195627,
+      "source": "karl",
+      "target": "sekretaer",
+      "relation": "dead",
+      "argument1": "klara",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 195750,
+      "source": "karl",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "klara",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 195750,
+      "source": "karl",
+      "target": "meister_anton",
+      "relation": "murderer_of",
+      "argument1": "klara",
+      "argument2": "klara",
+      "attribute": null
+    },
+    {
+      "position": 195750,
+      "source": "karl",
+      "target": "sekretaer",
+      "relation": "murderer_of",
+      "argument1": "klara",
+      "argument2": "klara",
+      "attribute": null
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "filename": "hofmannsthal-elektra_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 221,
+      "source": "elektra",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "klytaemnestra",
+      "argument2": "aegisth",
+      "attribute": null
+    },
+    {
+      "position": 221,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "chrysothemis",
+      "argument2": "klytaemnestra",
+      "attribute": null
+    },
+    {
+      "position": 7847,
+      "source": "elektra",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT[ELEKTRA]",
+      "argument2": "elektra",
+      "attribute": null
+    },
+    {
+      "position": 8296,
+      "source": "elektra",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "aegisth",
+      "argument2": "\"Agamemnon\"",
+      "attribute": null
+    },
+    {
+      "position": 8296,
+      "source": "elektra",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "klytaemnestra",
+      "argument2": "\"Agamemnon\"",
+      "attribute": null
+    },
+    {
+      "position": 8296,
+      "source": "elektra",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "\"Agamemnon\"",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 10135,
+      "source": "elektra",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "orest",
+      "argument2": "PARENT[ELEKTRA]",
+      "attribute": null
+    },
+    {
+      "position": 29979,
+      "source": "elektra",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "klytaemnestra",
+      "argument2": "aegisth",
+      "attribute": null
+    },
+    {
+      "position": 53070,
+      "source": "chrysothemis",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "orest",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 53070,
+      "source": "chrysothemis",
+      "target": "elektra",
+      "relation": "dead",
+      "argument1": "orest",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 60355,
+      "source": "elektra",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "klytaemnestra",
+      "argument2": "aegisth",
+      "attribute": null
+    },
+    {
+      "position": 70235,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "!dead",
+      "argument1": "orest",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 72574,
+      "source": "elektra",
+      "target": "orest",
+      "relation": "identity",
+      "argument1": "elektra",
+      "argument2": "\"Magd\"",
+      "attribute": "lie"
+    },
+    {
+      "position": 73510,
+      "source": "orest",
+      "target": "elektra",
+      "relation": "dead",
+      "argument1": "orest",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 76263,
+      "source": "orest",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "PARENT[ELEKTRA]",
+      "argument2": "\"Agamemnon\"",
+      "attribute": null
+    },
+    {
+      "position": 76434,
+      "source": "elektra",
+      "target": "orest",
+      "relation": "identity",
+      "argument1": "\"Magd\"",
+      "argument2": "elektra",
+      "attribute": null
+    },
+    {
+      "position": 79443,
+      "source": "orest",
+      "target": "elektra",
+      "relation": "!dead",
+      "argument1": "orest",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 80700,
+      "source": "orest",
+      "target": "elektra",
+      "relation": "identity",
+      "argument1": "\"Fremder\"",
+      "argument2": "orest",
+      "attribute": null
+    },
+    {
+      "position": 97447,
+      "source": "aegisth",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "elektra",
+      "argument2": "aegisth",
+      "attribute": null
+    },
+    {
+      "position": 97818,
+      "source": "aegisth",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "aegisth",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 97818,
+      "source": "aegisth",
+      "target": "elektra",
+      "relation": "dead",
+      "argument1": "aegisth",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 98245,
+      "source": "chrysothemis",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "orest",
+      "argument2": "klytaemnestra",
+      "attribute": null
+    },
+    {
+      "position": 98245,
+      "source": "chrysothemis",
+      "target": "elektra",
+      "relation": "murderer_of",
+      "argument1": "orest",
+      "argument2": "klytaemnestra",
+      "attribute": null
+    }
+  ]
+}

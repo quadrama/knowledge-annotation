@@ -1,0 +1,132 @@
+{
+  "filename": "schlegel-canut_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 10045,
+      "source": "\"Figruentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "canut",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 10118,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "ulfo",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 26673,
+      "source": "godewin",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "godewin",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 26673,
+      "source": "godewin",
+      "target": "estrithe",
+      "relation": "in_love_with",
+      "argument1": "godewin",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 30117,
+      "source": "estrithe",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "estrithe",
+      "argument2": "godewin",
+      "attribute": null
+    },
+    {
+      "position": 30117,
+      "source": "estrithe",
+      "target": "godewin",
+      "relation": "!in_love_with",
+      "argument1": "estrithe",
+      "argument2": "godewin",
+      "attribute": null
+    },
+    {
+      "position": 55465,
+      "source": "ulfo",
+      "target": "estrithe",
+      "relation": "in_love_with",
+      "argument1": "ulfo",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 55465,
+      "source": "ulfo",
+      "target": "audeince",
+      "relation": "in_love_with",
+      "argument1": "ulfo",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 57934,
+      "source": "estrithe",
+      "target": "audeince",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 57934,
+      "source": "estrithe",
+      "target": "ulfo",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 63258,
+      "source": "canut",
+      "target": "estrithe",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 73530,
+      "source": "canut",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT[GODSCHALK]",
+      "argument2": "godschalk",
+      "attribute": null
+    },
+    {
+      "position": 73530,
+      "source": "canut",
+      "target": "ulfo",
+      "relation": "parent_of",
+      "argument1": "PARENT[GODSCHALK]",
+      "argument2": "godschalk",
+      "attribute": null
+    },
+    {
+      "position": 91900,
+      "source": "godschalk",
+      "target": "ulfo",
+      "relation": "parent_of",
+      "argument1": "PARENT[GODSCHALK]",
+      "argument2": "godschalk",
+      "attribute": null
+    }
+  ]
+}

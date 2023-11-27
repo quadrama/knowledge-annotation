@@ -1,0 +1,276 @@
+{
+  "filename": "wagner-die-kindermoerderin_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 158,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "humbrecht",
+      "argument2": "frau_humbrecht",
+      "attribute": null
+    },
+    {
+      "position": 225,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "evchen",
+      "argument2": "humbrecht",
+      "attribute": null
+    },
+    {
+      "position": 225,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "evchen",
+      "argument2": "frau_humbrecht",
+      "attribute": null
+    },
+    {
+      "position": 29014,
+      "source": "von_groeningseck",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 29014,
+      "source": "von_groeningseck",
+      "target": "evchen",
+      "relation": "engaged",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 34313,
+      "source": "frau_humbrecht",
+      "target": "audience",
+      "relation": "cousins_of",
+      "argument1": "humbrecht",
+      "argument2": "magister",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 62590,
+      "source": "von_hasenpoth",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "von_groeningseck",
+      "argument2": "LOVER[VON_GROENINGSECK]",
+      "attribute": null
+    },
+    {
+      "position": 62590,
+      "source": "von_hasenpoth",
+      "target": "von_groeningseck",
+      "relation": "in_love_with",
+      "argument1": "von_groeningseck",
+      "argument2": "LOVER[VON_GROENINGSECK]",
+      "attribute": null
+    },
+    {
+      "position": 65197,
+      "source": "von_hasenpoth",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "von_groenningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 65197,
+      "source": "von_hasenpoth",
+      "target": "von_groeningseck",
+      "relation": "in_love_with",
+      "argument1": "von_groenningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 89615,
+      "source": "von_groeningseck",
+      "target": "von_hasenpoth",
+      "relation": "engaged",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 114756,
+      "source": "evchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "evchen",
+      "argument2": "von_groeningseck",
+      "attribute": null
+    },
+    {
+      "position": 114756,
+      "source": "evchen",
+      "target": "von_groeningseck",
+      "relation": "in_love_with",
+      "argument1": "evchen",
+      "argument2": "von_groeningseck",
+      "attribute": null
+    },
+    {
+      "position": 116448,
+      "source": "evchen",
+      "target": "audience",
+      "relation": "!engaged",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 116448,
+      "source": "von_groeningseck",
+      "target": "evchen",
+      "relation": "!engaged",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 116448,
+      "source": "evchen",
+      "target": "lissel",
+      "relation": "!engaged",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 126378,
+      "source": "humbrecht",
+      "target": "frau_humbrecht",
+      "relation": "lovers",
+      "argument1": "evchen",
+      "argument2": "LOVERS[EVCHEN]",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 126378,
+      "source": "magister",
+      "target": "humbrecht",
+      "relation": "lovers",
+      "argument1": "evchen",
+      "argument2": "LOVERS[EVCHEN]",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 130322,
+      "source": "magister",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 130322,
+      "source": "magister",
+      "target": "frau_humbrecht",
+      "relation": "!in_love_with",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 130322,
+      "source": "von_groeningseck",
+      "target": "magister",
+      "relation": "!in_love_with",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 130322,
+      "source": "magister",
+      "target": "humbrecht",
+      "relation": "!in_love_with",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 130600,
+      "source": "magister",
+      "target": "audience",
+      "relation": "unborn_child_of",
+      "argument1": "CHILD[EVCHEN]",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 130600,
+      "source": "magister",
+      "target": "frau_humbrecht",
+      "relation": "unborn_child_of",
+      "argument1": "CHILD[EVCHEN]",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 130600,
+      "source": "von_groeningseck",
+      "target": "magister",
+      "relation": "unborn_child_of",
+      "argument1": "CHILD[EVCHEN]",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 130600,
+      "source": "magister",
+      "target": "humbrecht",
+      "relation": "unborn_child_of",
+      "argument1": "CHILD[EVCHEN]",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 152191,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[EVCHEN]",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 166928,
+      "source": "evchen",
+      "target": "frau_marthan",
+      "relation": "identity",
+      "argument1": "evchen",
+      "argument2": "\"Tochter von Humbrecht\"",
+      "attribute": null
+    },
+    {
+      "position": 178079,
+      "source": "magister",
+      "target": "evchen",
+      "relation": "in_love_with",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    },
+    {
+      "position": 178079,
+      "source": "magister",
+      "target": "humbrecht",
+      "relation": "in_love_with",
+      "argument1": "von_groeningseck",
+      "argument2": "evchen",
+      "attribute": null
+    }
+  ]
+}

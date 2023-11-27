@@ -1,0 +1,1878 @@
+{
+  "filename": "brentano-ponce-de-leon_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 10939,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 10939,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 10939,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 11112,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "sarmiento",
+      "argument2": "juanna",
+      "attribute": null
+    },
+    {
+      "position": 11366,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "valerio",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 11399,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "valerio",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 11483,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 11516,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "aunt:uncle_of",
+      "argument1": "AUNT:UNCLE[LUCILLA]",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 11533,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 13004,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 13004,
+      "source": "valeria",
+      "target": "ponce",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 18095,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 18095,
+      "source": "valeria",
+      "target": "ponce",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 31289,
+      "source": "valeria",
+      "target": "sarmiento",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "LOVER[VALERIA]",
+      "attribute": null
+    },
+    {
+      "position": 36291,
+      "source": "porporino",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "porporino",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 41775,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "identity",
+      "argument1": "\"Unbekannter\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 43718,
+      "source": "valerio",
+      "target": "sarmiento",
+      "relation": "lovers",
+      "argument1": "felix",
+      "argument2": "DAUGHTER[ISABELLA]]",
+      "attribute": null
+    },
+    {
+      "position": 46845,
+      "source": "valerio",
+      "target": "sarmiento",
+      "relation": "identity",
+      "argument1": "LOVER[VALERIA]",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 50046,
+      "source": "valerio",
+      "target": "valeria",
+      "relation": "identity",
+      "argument1": "\"Unbekannter\"",
+      "argument2": "\"alter Freund\"",
+      "attribute": null
+    },
+    {
+      "position": 56036,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "identity",
+      "argument1": "\"Unbekannter\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 68314,
+      "source": "ponce",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 68314,
+      "source": "ponce",
+      "target": "valeria",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 68314,
+      "source": "ponce",
+      "target": "sarmiento",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 68314,
+      "source": "ponce",
+      "target": "porporino",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 68314,
+      "source": "ponce",
+      "target": "valerio",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 68314,
+      "source": "ponce",
+      "target": "aquilar",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 70426,
+      "source": "aquilar",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Colombina\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 71210,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Unbekannter\"",
+      "argument2": "\"Kapit\u00e4n der Kavallerie\"",
+      "attribute": null
+    },
+    {
+      "position": 71210,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Unbekannter\"",
+      "argument2": "\"Kapit\u00e4n der Kavallerie\"",
+      "attribute": null
+    },
+    {
+      "position": 79286,
+      "source": "felix",
+      "target": "sarmiento",
+      "relation": "has_name",
+      "argument1": "DAUGHTER[ISABELLA]",
+      "argument2": "\"Lucilla de las Torres\"",
+      "attribute": null
+    },
+    {
+      "position": 80103,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "identity",
+      "argument1": "\"Unbekannter\"",
+      "argument2": "\"Kapit\u00e4n der Kavallerie\"",
+      "attribute": null
+    },
+    {
+      "position": 80894,
+      "source": "\"Diener\"",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "lucilla",
+      "argument2": "FIANCE[LUCILLA]",
+      "attribute": null
+    },
+    {
+      "position": 80894,
+      "source": "\"Diener\"",
+      "target": "ponce",
+      "relation": "engaged",
+      "argument1": "lucilla",
+      "argument2": "FIANCE[LUCILLA]",
+      "attribute": null
+    },
+    {
+      "position": 80894,
+      "source": "\"Diener\"",
+      "target": "sarmiento",
+      "relation": "engaged",
+      "argument1": "lucilla",
+      "argument2": "FIANCE[LUCILLA]",
+      "attribute": null
+    },
+    {
+      "position": 80894,
+      "source": "\"Diener\"",
+      "target": "aquilar",
+      "relation": "engaged",
+      "argument1": "lucilla",
+      "argument2": "FIANCE[LUCILLA]",
+      "attribute": null
+    },
+    {
+      "position": 80894,
+      "source": "\"Diener\"",
+      "target": "felix",
+      "relation": "engaged",
+      "argument1": "lucilla",
+      "argument2": "FIANCE[LUCILLA]",
+      "attribute": null
+    },
+    {
+      "position": 92237,
+      "source": "felix",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "AUNT:UNCLE[LUCILLA]",
+      "argument2": "\"Juanna\"",
+      "attribute": null
+    },
+    {
+      "position": 92526,
+      "source": "felix",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 92526,
+      "source": "felix",
+      "target": "sarmiento",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 105930,
+      "source": "aquilar",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "\"Person auf Brustbild\"",
+      "attribute": null
+    },
+    {
+      "position": 105930,
+      "source": "aquilar",
+      "target": "valeria",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 105930,
+      "source": "aquilar",
+      "target": "valeria",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "\"Person auf Brustbild\"",
+      "attribute": null
+    },
+    {
+      "position": 108357,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 108357,
+      "source": "valeria",
+      "target": "porporino",
+      "relation": "!in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 116962,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 117766,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "sarmiento",
+      "argument2": "SIBLING[SARMIENTO]",
+      "attribute": null
+    },
+    {
+      "position": 125048,
+      "source": "\"Billet\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Person auf Brustbild\"",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 125048,
+      "source": "\"Billet\"",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Person auf Brustbild\"",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 125048,
+      "source": "\"Billet\"",
+      "target": "sarmiento",
+      "relation": "identity",
+      "argument1": "\"Person auf Brustbild\"",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 125048,
+      "source": "\"Billet\"",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Person auf Brustbild\"",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 142262,
+      "source": "porporino",
+      "target": "valeria",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 142676,
+      "source": "porporino",
+      "target": "valeria",
+      "relation": "identity",
+      "argument1": "\"alter Freund\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 145836,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "porporino",
+      "argument2": "\"Maler und Schneider\"",
+      "attribute": null
+    },
+    {
+      "position": 153577,
+      "source": "\"Unterschrift\"",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Maler und Schneider\"",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 154047,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "\"Flammetta\"",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "\"schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flammetta\"",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "\"Flammetta\"",
+      "target": "valerio",
+      "relation": "has_name",
+      "argument1": "\"schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flammetta\"",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "\"Flammetta\"",
+      "target": "valerio",
+      "relation": "identity",
+      "argument1": "\"schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flammetta\"",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "has_name",
+      "argument1": "\"schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flammetta\"",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "identity",
+      "argument1": "\"schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flammetta\"",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "\"Flammetta\"",
+      "target": "melanie",
+      "relation": "has_name",
+      "argument1": "\"schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flammetta\"",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "\"Flammetta\"",
+      "target": "melanie",
+      "relation": "identity",
+      "argument1": "\"schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flammetta\"",
+      "attribute": null
+    },
+    {
+      "position": 168695,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "porporino",
+      "argument2": "\"Arzt\"",
+      "attribute": null
+    },
+    {
+      "position": 172676,
+      "source": "isidora",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "isabella",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 185550,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "in_love_with",
+      "argument1": "\"M\u00e4dchen auf dem Ball\"",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 185753,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "identity",
+      "argument1": "\"M\u00e4dchen auf dem Ball\"",
+      "argument2": "\"armes B\u00fcrgerm\u00e4dchen\"",
+      "attribute": null
+    },
+    {
+      "position": 187001,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "\"armes B\u00fcrgerm\u00e4dchen\"",
+      "attribute": null
+    },
+    {
+      "position": 188533,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "identity",
+      "argument1": "\"armes B\u00fcrgerm\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 188633,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 190586,
+      "source": "isidora",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 190586,
+      "source": "isidora",
+      "target": "valeria",
+      "relation": "!in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 196179,
+      "source": "valerio",
+      "target": "\"Flammetta\"",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": "already-known"
+    },
+    {
+      "position": 200811,
+      "source": "\"Ponces Vorstellungen\"",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 200811,
+      "source": "\"Ponces Vorstellungen\"",
+      "target": "ponce",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 206379,
+      "source": "porporino",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Fremder\"",
+      "argument2": "\"Arzt\"",
+      "attribute": null
+    },
+    {
+      "position": 206379,
+      "source": "porporino",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Fremder\"",
+      "argument2": "\"Arzt\"",
+      "attribute": null
+    },
+    {
+      "position": 206645,
+      "source": "aquilar",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"arme Pilger\"",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 206645,
+      "source": "aquilar",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"arme Pilger\"",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 206645,
+      "source": "aquilar",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Fremde\"",
+      "argument2": "\"arme Pilger\"",
+      "attribute": null
+    },
+    {
+      "position": 211433,
+      "source": "porporino",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"arme Pilger\"",
+      "argument2": "\"flandrische Musikanten\"",
+      "attribute": null
+    },
+    {
+      "position": 211433,
+      "source": "porporino",
+      "target": "\"Flammetta\"",
+      "relation": "identity",
+      "argument1": "\"arme Pilger\"",
+      "argument2": "\"flandrische Musikanten\"",
+      "attribute": null
+    },
+    {
+      "position": 212789,
+      "source": "porporino",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 212789,
+      "source": "porporino",
+      "target": "\"Flammetta\"",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 220801,
+      "source": "\"flandrischer Musikant\"",
+      "target": "isidora",
+      "relation": "in_love_with",
+      "argument1": "\"flandrischer Musikant\"",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 220801,
+      "source": "\"flandrischer Musikant\"",
+      "target": "melanie",
+      "relation": "in_love_with",
+      "argument1": "\"flandrischer Musikant\"",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 220801,
+      "source": "\"flandrischer Musikant\"",
+      "target": "isabella",
+      "relation": "in_love_with",
+      "argument1": "\"flandrischer Musikant\"",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 227405,
+      "source": "aquilar",
+      "target": "\"Arzt\"",
+      "relation": "identity",
+      "argument1": "\"flandrischer Musikant\"",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 229361,
+      "source": "aquilar",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "LOVER[AQUILAR]",
+      "attribute": null
+    },
+    {
+      "position": 229361,
+      "source": "aquilar",
+      "target": "ponce",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "LOVER[AQUILAR]",
+      "attribute": null
+    },
+    {
+      "position": 229643,
+      "source": "aquilar",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[AQUILAR]",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 229643,
+      "source": "aquilar",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "LOVER[AQUILAR]",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 236612,
+      "source": "aquilar",
+      "target": "\"Flammetta\"",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 242461,
+      "source": "ponce",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "LOVER[ISIDORA]",
+      "attribute": null
+    },
+    {
+      "position": 242461,
+      "source": "ponce",
+      "target": "aquilar",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "LOVER[ISIDORA]",
+      "attribute": null
+    },
+    {
+      "position": 248742,
+      "source": "melanie",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "\"Flandrischer Pilger 1\"",
+      "argument2": "\"Juan\"",
+      "attribute": null
+    },
+    {
+      "position": 248742,
+      "source": "melanie",
+      "target": "isidora",
+      "relation": "has_name",
+      "argument1": "\"Flandrischer Pilger 1\"",
+      "argument2": "\"Juan\"",
+      "attribute": null
+    },
+    {
+      "position": 248830,
+      "source": "isidora",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "\"Flandrischer Pilger 2\"",
+      "argument2": "\"Carlos\"",
+      "attribute": null
+    },
+    {
+      "position": 248830,
+      "source": "isidora",
+      "target": "melanie",
+      "relation": "has_name",
+      "argument1": "\"Flandrischer Pilger 2\"",
+      "argument2": "\"Carlos\"",
+      "attribute": null
+    },
+    {
+      "position": 250732,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "in_love_with",
+      "argument1": "\"Carlos\"",
+      "argument2": "LOVER[CARLOS]",
+      "attribute": null
+    },
+    {
+      "position": 250732,
+      "source": "\"Flammetta\"",
+      "target": "melanie",
+      "relation": "in_love_with",
+      "argument1": "\"Carlos\"",
+      "argument2": "LOVER[CARLOS]",
+      "attribute": null
+    },
+    {
+      "position": 250849,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 250849,
+      "source": "\"Flammetta\"",
+      "target": "isidora",
+      "relation": "!in_love_with",
+      "argument1": "LOVER[CARLOS]",
+      "argument2": "\"Carlos\"",
+      "attribute": null
+    },
+    {
+      "position": 250849,
+      "source": "\"Flammetta\"",
+      "target": "melanie",
+      "relation": "!in_love_with",
+      "argument1": "LOVER[CARLOS]",
+      "argument2": "\"Carlos\"",
+      "attribute": null
+    },
+    {
+      "position": 255067,
+      "source": "isidora",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "\"Carlos\"",
+      "attribute": null
+    },
+    {
+      "position": 302214,
+      "source": "felix",
+      "target": "isabella",
+      "relation": "identity",
+      "argument1": "\"flandrische Pilger\"",
+      "argument2": "\"Freunde von Felix\"",
+      "attribute": null
+    },
+    {
+      "position": 302386,
+      "source": "isabella",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "\"Freunde von Felix\"",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 302386,
+      "source": "isabella",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "melanie",
+      "argument2": "\"Freunde von Felix\"",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 302386,
+      "source": "isabella",
+      "target": "felix",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "\"Freunde von Felix\"",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 302386,
+      "source": "isabella",
+      "target": "felix",
+      "relation": "in_love_with",
+      "argument1": "melanie",
+      "argument2": "\"Freunde von Felix\"",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 305325,
+      "source": "\"Brief\"",
+      "target": "felix",
+      "relation": "!in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 305325,
+      "source": "\"Brief\"",
+      "target": "lucilla",
+      "relation": "!in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "aquilar",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "melanie",
+      "argument2": "ponce",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "aquilar",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "melanie",
+      "argument2": "ponce",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 308320,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 308320,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 308320,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 308320,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 341495,
+      "source": "\"Ritter\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Ritter\"",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 341495,
+      "source": "\"Ritter\"",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Ritter\"",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 341495,
+      "source": "\"Ritter\"",
+      "target": "valeria",
+      "relation": "identity",
+      "argument1": "\"Ritter\"",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "porporino",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "valerio",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "felix",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "isidora",
+      "relation": "identity",
+      "argument1": "\"Carlos\"",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "isidora",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "melanie",
+      "relation": "identity",
+      "argument1": "\"Juan\"",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "melanie",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "valeria",
+      "target": "isabella",
+      "relation": "identity",
+      "argument1": "\"Flammetta\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "ponce",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "porporino",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "valerio",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "aquilar",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "felix",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "isidora",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "melanie",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 347486,
+      "source": "valeria",
+      "target": "isabella",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 348509,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Kapit\u00e4n der Kavallerie\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348509,
+      "source": "sarmiento",
+      "target": "valeria",
+      "relation": "identity",
+      "argument1": "\"Kapit\u00e4n der Kavallerie\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348509,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Kapit\u00e4n der Kavallerie\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348509,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "identity",
+      "argument1": "\"Kapit\u00e4n der Kavallerie\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348509,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "identity",
+      "argument1": "\"Mann im Pelz\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348509,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "identity",
+      "argument1": "\"Mann im Pelz\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348509,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "identity",
+      "argument1": "\"Mann im Pelz\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348509,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "identity",
+      "argument1": "\"Mann im Pelz\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "valeria",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "lucilla",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "valeria",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "valeria",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "sarmiento",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "porporino",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "valerio",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "aquilar",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "felix",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "melanie",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "isabella",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "lucilla",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350335,
+      "source": "\"Nebentext\"",
+      "target": "juanna",
+      "relation": "engaged",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "ponce",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "valeria",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "sarmiento",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "porporino",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "valerio",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "felix",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "isidora",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "isabella",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "lucilla",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "\"Nebentext\"",
+      "target": "juanna",
+      "relation": "engaged",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "ponce",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "valeria",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "sarmiento",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "porporino",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "valerio",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "aquilar",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "isidora",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "melanie",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "isabella",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "\"Nebentext\"",
+      "target": "juanna",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    }
+  ]
+}

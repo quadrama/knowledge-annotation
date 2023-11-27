@@ -1,0 +1,267 @@
+{
+  "filename": "schiller-die-raeuber_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 10020,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "karl_von_moor",
+      "argument2": "der_alte_moor",
+      "attribute": null
+    },
+    {
+      "position": 10036,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "franz_von_moor",
+      "argument2": "der_alte_moor",
+      "attribute": null
+    },
+    {
+      "position": 51469,
+      "source": "karl_von_moor",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "karl_von_moor",
+      "argument2": "amalia",
+      "attribute": null
+    },
+    {
+      "position": 51469,
+      "source": "karl_von_moor",
+      "target": "spiegelberg",
+      "relation": "in_love_with",
+      "argument1": "karl_von_moor",
+      "argument2": "amalia",
+      "attribute": null
+    },
+    {
+      "position": 76451,
+      "source": "franz_von_moor",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "franz_von_moor",
+      "argument2": "amalia",
+      "attribute": null
+    },
+    {
+      "position": 76451,
+      "source": "franz_von_moor",
+      "target": "amalia",
+      "relation": "in_love_with",
+      "argument1": "franz_von_moor",
+      "argument2": "amalia",
+      "attribute": null
+    },
+    {
+      "position": 77736,
+      "source": "amalia",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "amalia",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 77736,
+      "source": "amalia",
+      "target": "franz_von_moor",
+      "relation": "in_love_with",
+      "argument1": "amalia",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 84005,
+      "source": "amalia",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "amalia",
+      "argument2": "franz_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 84005,
+      "source": "amalia",
+      "target": "franz_von_moor",
+      "relation": "!in_love_with",
+      "argument1": "amalia",
+      "argument2": "franz_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 183456,
+      "source": "franz_von_moor",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "der_alte_moor",
+      "argument2": "amalia",
+      "attribute": null
+    },
+    {
+      "position": 209998,
+      "source": "kosinsky",
+      "target": "karl_von_moor",
+      "relation": "engaged",
+      "argument1": "kosinsky",
+      "argument2": "\"Amalia\"",
+      "attribute": null
+    },
+    {
+      "position": 209998,
+      "source": "kosinsky",
+      "target": "schweizer",
+      "relation": "engaged",
+      "argument1": "kosinsky",
+      "argument2": "\"Amalia\"",
+      "attribute": null
+    },
+    {
+      "position": 215011,
+      "source": "kosinsky",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "karl_von_moor",
+      "argument2": "\"Graf von Brand\"",
+      "attribute": null
+    },
+    {
+      "position": 221584,
+      "source": "karl_von_moor",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "amalia",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 228865,
+      "source": "franz_von_moor",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Graf von Brand\"",
+      "argument2": "karl_von_moor",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 228865,
+      "source": "franz_von_moor",
+      "target": "daniel",
+      "relation": "identity",
+      "argument1": "\"Graf von Brand\"",
+      "argument2": "karl_von_moor",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 238733,
+      "source": "daniel",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Graf von Brand\"",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 238936,
+      "source": "karl_von_moor",
+      "target": "audience",
+      "relation": "!identity",
+      "argument1": "\"Graf von Brand\"",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 238936,
+      "source": "karl_von_moor",
+      "target": "daniel",
+      "relation": "!identity",
+      "argument1": "\"Graf von Brand\"",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 243302,
+      "source": "karl_von_moor",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Graf von Brand\"",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 243302,
+      "source": "karl_von_moor",
+      "target": "daniel",
+      "relation": "identity",
+      "argument1": "\"Graf von Brand\"",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 252682,
+      "source": "amalia",
+      "target": "\"Graf von Brand\"",
+      "relation": "in_love_with",
+      "argument1": "amalia",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 277559,
+      "source": "\"Stimme\"",
+      "target": "karl_von_moor",
+      "relation": "identity",
+      "argument1": "STIMME-AUS-SCHLOSS",
+      "argument2": "der_alte_moor",
+      "attribute": null
+    },
+    {
+      "position": 277599,
+      "source": "karl_von_moor",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "STIMME-AUS-SCHLOSS",
+      "argument2": "der_alte_moor",
+      "attribute": null
+    },
+    {
+      "position": 284734,
+      "source": "karl_von_moor",
+      "target": "schweizer",
+      "relation": "parent_of",
+      "argument1": "der_alte_moor",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 284734,
+      "source": "karl_von_moor",
+      "target": "die_raeuber",
+      "relation": "parent_of",
+      "argument1": "der_alte_moor",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 331531,
+      "source": "karl_von_moor",
+      "target": "der_alte_moor",
+      "relation": "identity",
+      "argument1": "FREMDER-RETTER",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    },
+    {
+      "position": 333849,
+      "source": "karl_von_moor",
+      "target": "die_raeuber",
+      "relation": "in_love_with",
+      "argument1": "amalia",
+      "argument2": "karl_von_moor",
+      "attribute": null
+    }
+  ]
+}

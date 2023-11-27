@@ -1,0 +1,492 @@
+{
+  "filename": "lessing-emilia-galotti_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 238,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "claudia",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 238,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "odoardo",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 274,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "der_prinz",
+      "argument2": "\"Hettore Gonzaga\"",
+      "attribute": null
+    },
+    {
+      "position": 3009,
+      "source": "der_prinz",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "orsina",
+      "attribute": null
+    },
+    {
+      "position": 3009,
+      "source": "der_prinz",
+      "target": "der_kammerdiener",
+      "relation": "!in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "orsina",
+      "attribute": null
+    },
+    {
+      "position": 18974,
+      "source": "der_prinz",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "der_prinz",
+      "argument2": "\"Prinzessin von Massa\"",
+      "attribute": null
+    },
+    {
+      "position": 21515,
+      "source": "marinelli",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "appiani",
+      "argument2": "BRIDE[APPIANI]",
+      "attribute": null
+    },
+    {
+      "position": 21515,
+      "source": "marinelli",
+      "target": "der_prinz",
+      "relation": "engaged",
+      "argument1": "appiani",
+      "argument2": "BRIDE[APPIANI]",
+      "attribute": null
+    },
+    {
+      "position": 23822,
+      "source": "marinelli",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "BRIDE[APPIANI]",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 23822,
+      "source": "marinelli",
+      "target": "der_prinz",
+      "relation": "identity",
+      "argument1": "BRIDE[APPIANI]",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 26722,
+      "source": "der_prinz",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 26722,
+      "source": "der_prinz",
+      "target": "marinelli",
+      "relation": "in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 41977,
+      "source": "pirro",
+      "target": "angelo",
+      "relation": "engaged",
+      "argument1": "emilia",
+      "argument2": "appiani",
+      "attribute": null
+    },
+    {
+      "position": 70082,
+      "source": "marinelli",
+      "target": "appiani",
+      "relation": "engaged",
+      "argument1": "der_prinz",
+      "argument2": "\"Prinzessin von Massa\"",
+      "attribute": null
+    },
+    {
+      "position": 74966,
+      "source": "appiani",
+      "target": "marinelli",
+      "relation": "engaged",
+      "argument1": "appiani",
+      "argument2": "emilia",
+      "attribute": "already-known"
+    },
+    {
+      "position": 79511,
+      "source": "marinelli",
+      "target": "der_prinz",
+      "relation": "in_love_with",
+      "argument1": "appiani",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 87858,
+      "source": "angelo",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 87858,
+      "source": "angelo",
+      "target": "marinelli",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 88276,
+      "source": "angelo",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "nicolo",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 88276,
+      "source": "angelo",
+      "target": "marinelli",
+      "relation": "dead",
+      "argument1": "nicolo",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 88921,
+      "source": "angelo",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "angelo",
+      "argument2": "appiani",
+      "attribute": null
+    },
+    {
+      "position": 88921,
+      "source": "angelo",
+      "target": "marinelli",
+      "relation": "murderer_of",
+      "argument1": "angelo",
+      "argument2": "appiani",
+      "attribute": null
+    },
+    {
+      "position": 94926,
+      "source": "emilia",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "claudia",
+      "argument2": null,
+      "attribute": "uncertain"
+    },
+    {
+      "position": 94926,
+      "source": "emilia",
+      "target": "marinelli",
+      "relation": "dead",
+      "argument1": "claudia",
+      "argument2": null,
+      "attribute": "uncertain"
+    },
+    {
+      "position": 105110,
+      "source": "marinelli",
+      "target": "claudia",
+      "relation": "has_name",
+      "argument1": "marinelli",
+      "argument2": "\"Marchese Marinelli\"",
+      "attribute": null
+    },
+    {
+      "position": 107198,
+      "source": "claudia",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "emilia",
+      "argument2": null,
+      "attribute": "uncertain"
+    },
+    {
+      "position": 107198,
+      "source": "claudia",
+      "target": "marinelli",
+      "relation": "dead",
+      "argument1": "emilia",
+      "argument2": null,
+      "attribute": "uncertain"
+    },
+    {
+      "position": 107407,
+      "source": "marinelli",
+      "target": "claudia",
+      "relation": "!dead",
+      "argument1": "emilia",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 112007,
+      "source": "marinelli",
+      "target": "der_prinz",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 112539,
+      "source": "marinelli",
+      "target": "der_prinz",
+      "relation": "murderer_of",
+      "argument1": "angelo",
+      "argument2": "appiani",
+      "attribute": null
+    },
+    {
+      "position": 117987,
+      "source": "marinelli",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 117987,
+      "source": "marinelli",
+      "target": "der_prinz",
+      "relation": "in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 118095,
+      "source": "marinelli",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 118095,
+      "source": "marinelli",
+      "target": "der_prinz",
+      "relation": "in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 130960,
+      "source": "der_prinz",
+      "target": "orsina",
+      "relation": "!in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "orsina",
+      "attribute": null
+    },
+    {
+      "position": 133839,
+      "source": "marinelli",
+      "target": "orsina",
+      "relation": "engaged",
+      "argument1": "appiani",
+      "argument2": "BRIDE[APPIANI]",
+      "attribute": null
+    },
+    {
+      "position": 133864,
+      "source": "marinelli",
+      "target": "orsina",
+      "relation": "parent_of",
+      "argument1": "BRIDE[APPIANI]",
+      "argument2": "MOTHER[BRIDE[APPIANI]",
+      "attribute": null
+    },
+    {
+      "position": 134700,
+      "source": "marinelli",
+      "target": "orsina",
+      "relation": "identity",
+      "argument1": "BRIDE[APPIANI]",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 140441,
+      "source": "odoardo",
+      "target": "orsina",
+      "relation": "parent_of",
+      "argument1": "odoardo",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 146613,
+      "source": "orsina",
+      "target": "odoardo",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": "uncertain"
+    },
+    {
+      "position": 147736,
+      "source": "orsina",
+      "target": "odoardo",
+      "relation": "in_love_with",
+      "argument1": "der_prinz",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 152400,
+      "source": "claudia",
+      "target": "odoardo",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 153564,
+      "source": "claudia",
+      "target": "odoardo",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 161085,
+      "source": "odoardo",
+      "target": "marinelli",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": "already-known"
+    },
+    {
+      "position": 175609,
+      "source": "odoardo",
+      "target": "der_prinz",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 178559,
+      "source": "odoardo",
+      "target": "emilia",
+      "relation": "dead",
+      "argument1": "appiani",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 184586,
+      "source": "\"Durchstechen\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "odoardo",
+      "argument2": "emilia",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 184586,
+      "source": "\"Durchstechen\"",
+      "target": "emilia",
+      "relation": "murderer_of",
+      "argument1": "odoardo",
+      "argument2": "emilia",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 185997,
+      "source": "\"Nebentext\"",
+      "target": "der_prinz",
+      "relation": "dead",
+      "argument1": "emilia",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 185997,
+      "source": "\"Nebentext\"",
+      "target": "marinelli",
+      "relation": "dead",
+      "argument1": "emilia",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 185997,
+      "source": "\"Nebentext\"",
+      "target": "odoardo",
+      "relation": "dead",
+      "argument1": "emilia",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 186566,
+      "source": "odoardo",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "odoardo",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 186566,
+      "source": "odoardo",
+      "target": "der_prinz",
+      "relation": "murderer_of",
+      "argument1": "odoardo",
+      "argument2": "emilia",
+      "attribute": null
+    },
+    {
+      "position": 186566,
+      "source": "odoardo",
+      "target": "marinelli",
+      "relation": "murderer_of",
+      "argument1": "odoardo",
+      "argument2": "emilia",
+      "attribute": null
+    }
+  ]
+}

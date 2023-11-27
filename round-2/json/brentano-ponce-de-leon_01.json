@@ -1,0 +1,2031 @@
+{
+  "filename": "brentano-ponce-de-leon_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 10939,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "felix",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 10994,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "melanie",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 10994,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "isidora",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 11112,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "sarmiento",
+      "argument2": "juanna",
+      "attribute": null
+    },
+    {
+      "position": 11366,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "valeria",
+      "argument2": "valerio",
+      "attribute": null
+    },
+    {
+      "position": 11399,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "fosterchild_of",
+      "argument1": "porporino",
+      "argument2": "valerio",
+      "attribute": null
+    },
+    {
+      "position": 11436,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "widow:er of",
+      "argument1": "isabella",
+      "argument2": "WIDOW:ER[ISABELLA]",
+      "attribute": null
+    },
+    {
+      "position": 11483,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "lucilla",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 11516,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "aunt:uncle_of",
+      "argument1": "AUNT:UNCLE[LUCILLA]",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 11533,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 13004,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 13004,
+      "source": "valeria",
+      "target": "ponce",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 14607,
+      "source": "ponce",
+      "target": "valeria",
+      "relation": "lovers",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 18095,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 18095,
+      "source": "valeria",
+      "target": "ponce",
+      "relation": "!in_love_with",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 21551,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 21551,
+      "source": "valeria",
+      "target": "valerio",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 22011,
+      "source": "valeria",
+      "target": "valerio",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 41915,
+      "source": "\"Demsaskierung\"",
+      "target": "valerio",
+      "relation": "identity",
+      "argument1": "\"Maskierter\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 43696,
+      "source": "valerio",
+      "target": "sarmiento",
+      "relation": "lovers",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 55936,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "identity",
+      "argument1": "\"Maskierter\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 71210,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "sarmiento",
+      "argument2": "\"Mercado\"",
+      "attribute": null
+    },
+    {
+      "position": 71210,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "has_name",
+      "argument1": "sarmiento",
+      "argument2": "\"Mercado\"",
+      "attribute": null
+    },
+    {
+      "position": 71210,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "has_name",
+      "argument1": "sarmiento",
+      "argument2": "\"Mercado\"",
+      "attribute": null
+    },
+    {
+      "position": 80016,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "has_name",
+      "argument1": "sarmiento",
+      "argument2": "\"Mercado\"",
+      "attribute": null
+    },
+    {
+      "position": 80279,
+      "source": "felix",
+      "target": "\"Mercado\"",
+      "relation": "parent_of",
+      "argument1": "sarmiento",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 102192,
+      "source": "ponce",
+      "target": "\"Mercado\"",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 105919,
+      "source": "aquilar",
+      "target": "valeria",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 107843,
+      "source": "valeria",
+      "target": "porporino",
+      "relation": "!in_love_with",
+      "argument1": "valeria",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 108626,
+      "source": "porporino",
+      "target": "valeria",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 109616,
+      "source": "\"Kuss\"",
+      "target": "valeria",
+      "relation": "in_love_with",
+      "argument1": "porporino",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 119717,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 119717,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 127526,
+      "source": "ponce",
+      "target": "aquilar",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 127526,
+      "source": "ponce",
+      "target": "\"Mercado\"",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 141895,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porprino",
+      "attribute": null
+    },
+    {
+      "position": 141895,
+      "source": "valeria",
+      "target": "porporino",
+      "relation": "in_love_with",
+      "argument1": "valeria",
+      "argument2": "porprino",
+      "attribute": null
+    },
+    {
+      "position": 142676,
+      "source": "porporino",
+      "target": "valeria",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 145836,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "porporino",
+      "argument2": "\"Maler und Schneider\"",
+      "attribute": null
+    },
+    {
+      "position": 153553,
+      "source": "\"Unterschrift\"",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Maler und Schneider\"",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 154047,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "valeria",
+      "argument2": "\"Schwarzes M\u00e4dchen\"",
+      "attribute": null
+    },
+    {
+      "position": 163284,
+      "source": "valeria",
+      "target": "valerio",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flametta\"",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "valeria",
+      "target": "melanie",
+      "relation": "has_name",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flametta\"",
+      "attribute": null
+    },
+    {
+      "position": 166206,
+      "source": "valeria",
+      "target": "isidora",
+      "relation": "has_name",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "\"Flametta\"",
+      "attribute": null
+    },
+    {
+      "position": 168695,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "porporino",
+      "argument2": "\"Arzt\"",
+      "attribute": null
+    },
+    {
+      "position": 172676,
+      "source": "isidora",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 179363,
+      "source": "porporino",
+      "target": "valerio",
+      "relation": "in_love_with",
+      "argument1": "porporino",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 185550,
+      "source": "\"Flametta\"",
+      "target": "isidora",
+      "relation": "in_love_with",
+      "argument1": "LOVER[PONCE]",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 186947,
+      "source": "\"Flametta\"",
+      "target": "isidora",
+      "relation": "!in_love_with",
+      "argument1": "ponce",
+      "argument2": "LOVER[PONCE]",
+      "attribute": null
+    },
+    {
+      "position": 188633,
+      "source": "\"Flametta\"",
+      "target": "isidora",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 188633,
+      "source": "valeria",
+      "target": "\"Flametta\"",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 191397,
+      "source": "isidora",
+      "target": "\"Flametta\"",
+      "relation": "!in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 199229,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Frau im Dunkeln\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 200789,
+      "source": "ponce",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Frau im Dunkeln\"",
+      "argument2": "isidora",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 201530,
+      "source": "ponce",
+      "target": "\"Frau im Dunkeln\"",
+      "relation": "identity",
+      "argument1": "ponce",
+      "argument2": "\"Fremdling\"",
+      "attribute": null
+    },
+    {
+      "position": 206379,
+      "source": "\"Arzt\"",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Fremder\"",
+      "argument2": "\"Arzt\"",
+      "attribute": null
+    },
+    {
+      "position": 206379,
+      "source": "\"Arzt\"",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Fremder\"",
+      "argument2": "\"Arzt\"",
+      "attribute": null
+    },
+    {
+      "position": 206645,
+      "source": "aquilar",
+      "target": "\"Arzt\"",
+      "relation": "identity",
+      "argument1": "ponce",
+      "argument2": "\"Pilger\"",
+      "attribute": null
+    },
+    {
+      "position": 206645,
+      "source": "aquilar",
+      "target": "\"Arzt\"",
+      "relation": "identity",
+      "argument1": "aquilar",
+      "argument2": "\"Pilger\"",
+      "attribute": null
+    },
+    {
+      "position": 213999,
+      "source": "porporini",
+      "target": "\"Flametta\"",
+      "relation": "in_love_with",
+      "argument1": "porporino",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 223120,
+      "source": "aquilar",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 223120,
+      "source": "aquilar",
+      "target": "melanie",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 223120,
+      "source": "aquilar",
+      "target": "isabella",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 236633,
+      "source": "aquilar",
+      "target": "\"Flametta\"",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 236633,
+      "source": "aquilar",
+      "target": "\"Flametta\"",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 244977,
+      "source": "ponce",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Frau im Dunkeln\"",
+      "argument2": "isidora",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 244977,
+      "source": "ponce",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Frau im Dunkeln\"",
+      "argument2": "isidora",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 248742,
+      "source": "melanie",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "aqilar",
+      "argument2": "\"Juan\"",
+      "attribute": null
+    },
+    {
+      "position": 248742,
+      "source": "melanie",
+      "target": "isidora",
+      "relation": "has_name",
+      "argument1": "aqilar",
+      "argument2": "\"Juan\"",
+      "attribute": null
+    },
+    {
+      "position": 248830,
+      "source": "isidora",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "ponce",
+      "argument2": "\"Carlos\"",
+      "attribute": null
+    },
+    {
+      "position": 248830,
+      "source": "isidora",
+      "target": "melanie",
+      "relation": "has_name",
+      "argument1": "ponce",
+      "argument2": "\"Carlos\"",
+      "attribute": null
+    },
+    {
+      "position": 260582,
+      "source": "aquilar",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 260582,
+      "source": "aquilar",
+      "target": "ponce",
+      "relation": "!in_love_with",
+      "argument1": "melanie",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 282611,
+      "source": "\"Lucilla verkleidet\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "lucilla",
+      "argument2": "\"Mann\"",
+      "attribute": null
+    },
+    {
+      "position": 282611,
+      "source": "\"Lucilla verkleidet\"",
+      "target": "felix",
+      "relation": "identity",
+      "argument1": "lucilla",
+      "argument2": "\"Mann\"",
+      "attribute": null
+    },
+    {
+      "position": 287468,
+      "source": "felix",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 287468,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 308033,
+      "source": "felix",
+      "target": "audience",
+      "relation": "identiy",
+      "argument1": "\"Pilger\"",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 308033,
+      "source": "felix",
+      "target": "audience",
+      "relation": "identiy",
+      "argument1": "\"Pilger\"",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 308033,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "identiy",
+      "argument1": "\"Pilger\"",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 308033,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "identiy",
+      "argument1": "\"Pilger\"",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "ponce",
+      "argument2": "isidora",
+      "attribute": null
+    },
+    {
+      "position": 308107,
+      "source": "felix",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 310118,
+      "source": "lucilla",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 310118,
+      "source": "lucilla",
+      "target": "felix",
+      "relation": "engaged",
+      "argument1": "felix",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 335709,
+      "source": "\"Flametta\"",
+      "target": "lucilla",
+      "relation": "in_love_with",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 335724,
+      "source": "\"Flametta\"",
+      "target": "lucilla",
+      "relation": "identity",
+      "argument1": "\"Pilger\"",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 335724,
+      "source": "\"Flametta\"",
+      "target": "lucilla",
+      "relation": "identity",
+      "argument1": "\"Pilger\"",
+      "argument2": "aquilar",
+      "attribute": null
+    },
+    {
+      "position": 340188,
+      "source": "ritter",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "ritter",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 340188,
+      "source": "ritter",
+      "target": "ponce",
+      "relation": "engaged",
+      "argument1": "ritter",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 340188,
+      "source": "ritter",
+      "target": "valerio",
+      "relation": "engaged",
+      "argument1": "ritter",
+      "argument2": "lucilla",
+      "attribute": null
+    },
+    {
+      "position": 340455,
+      "source": "ponce",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "lucilla",
+      "argument2": "ritter",
+      "attribute": null
+    },
+    {
+      "position": 340455,
+      "source": "ponce",
+      "target": "ritter",
+      "relation": "!in_love_with",
+      "argument1": "lucilla",
+      "argument2": "ritter",
+      "attribute": null
+    },
+    {
+      "position": 341495,
+      "source": "ritter",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "ritter",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 341495,
+      "source": "ritter",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "ritter",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 341495,
+      "source": "ritter",
+      "target": "valeria",
+      "relation": "identity",
+      "argument1": "ritter",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 341495,
+      "source": "ritter",
+      "target": "valerio",
+      "relation": "identity",
+      "argument1": "ritter",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 344892,
+      "source": "isabella",
+      "target": "felix",
+      "relation": "identity",
+      "argument1": "ritter",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "valerio",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "porporino",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "felix",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "melanie",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "isidora",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "isabella",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "zigeunerin",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 346168,
+      "source": "\"Helm ab\"",
+      "target": "juanna",
+      "relation": "identity",
+      "argument1": "\"Schwarzes M\u00e4dchen\"",
+      "argument2": "valeria",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "valerio",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "porporino",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "felix",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "melanie",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "isidora",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "isabella",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "zigeunerin",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 348486,
+      "source": "\"Nimmt Pelz ab\"",
+      "target": "juanna",
+      "relation": "identity",
+      "argument1": "\"Mercado\"",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "zigeunerin",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349174,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "child_of",
+      "argument1": "porporino",
+      "argument2": "sarmiento",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "zigeunerin",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349440,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "zigeunerin",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349466,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "spouses",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "zigeunerin",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 349485,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "!siblings",
+      "argument1": "sariento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "ponce",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "valerio",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "sarmiento",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "porporino",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "aquilar",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "felix",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "melanie",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "isidora",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "isabella",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "zigeunerin",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350186,
+      "source": "valeria",
+      "target": "juanna",
+      "relation": "lovers",
+      "argument1": "valeria",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "zigeunerin",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350453,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "lovers",
+      "argument1": "isidora",
+      "argument2": "ponce",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "zigeunerin",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350505,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "lovers",
+      "argument1": "aquilar",
+      "argument2": "melanie",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "zigeunerin",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350591,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "lovers",
+      "argument1": "lucilla",
+      "argument2": "felix",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "ponce",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "valerio",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "porporino",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "aquilar",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "felix",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "melanie",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "isidora",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "isabella",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "zigeunerin",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 350674,
+      "source": "sarmiento",
+      "target": "juanna",
+      "relation": "lovers",
+      "argument1": "sarmiento",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 351087,
+      "source": "porporino",
+      "target": "ponce",
+      "relation": "identity",
+      "argument1": "\"Maler und Schneider\"",
+      "argument2": "porporino",
+      "attribute": null
+    },
+    {
+      "position": 351131,
+      "source": "porporino",
+      "target": "aquilar",
+      "relation": "identity",
+      "argument1": "\"Arzt\"",
+      "argument2": "porporino",
+      "attribute": null
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "filename": "wagner-die-walkuere_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 2919,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "sieglinde",
+      "argument2": "SPOUSE[SIEGLINDE]",
+      "attribute": null
+    },
+    {
+      "position": 4978,
+      "source": "sieglinde",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "SPOUSE[SIEGLINDE]",
+      "argument2": "hunding",
+      "attribute": null
+    },
+    {
+      "position": 4978,
+      "source": "sieglinde",
+      "target": "siegmund",
+      "relation": "identity",
+      "argument1": "SPOUSE[SIEGLINDE]",
+      "argument2": "hunding",
+      "attribute": null
+    },
+    {
+      "position": 12494,
+      "source": "siegmund",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "\"Gast\"",
+      "argument2": "\"Wehwalt\"",
+      "attribute": null
+    },
+    {
+      "position": 12494,
+      "source": "siegmund",
+      "target": "sieglinde",
+      "relation": "has_name",
+      "argument1": "\"Gast\"",
+      "argument2": "\"Wehwalt\"",
+      "attribute": null
+    },
+    {
+      "position": 12494,
+      "source": "siegmund",
+      "target": "hunding",
+      "relation": "has_name",
+      "argument1": "\"Gast\"",
+      "argument2": "\"Wehwalt\"",
+      "attribute": null
+    },
+    {
+      "position": 12544,
+      "source": "siegmund",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "\"Wolfe\"",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 12544,
+      "source": "siegmund",
+      "target": "sieglinde",
+      "relation": "parent_of",
+      "argument1": "\"Wolfe\"",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 12544,
+      "source": "siegmund",
+      "target": "hunding",
+      "relation": "parent_of",
+      "argument1": "\"Wolfe\"",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 12585,
+      "source": "siegmund",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "siegmund",
+      "argument2": "SIBLING[SIEGMUND]",
+      "attribute": null
+    },
+    {
+      "position": 12585,
+      "source": "siegmund",
+      "target": "sieglinde",
+      "relation": "siblings",
+      "argument1": "siegmund",
+      "argument2": "SIBLING[SIEGMUND]",
+      "attribute": null
+    },
+    {
+      "position": 12585,
+      "source": "siegmund",
+      "target": "hunding",
+      "relation": "siblings",
+      "argument1": "siegmund",
+      "argument2": "SIBLING[SIEGMUND]",
+      "attribute": null
+    },
+    {
+      "position": 30803,
+      "source": "siegmund",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "siegmund",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 30803,
+      "source": "siegmund",
+      "target": "sieglinde",
+      "relation": "in_love_with",
+      "argument1": "siegmund",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 30970,
+      "source": "sieglinde",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "sieglinde",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 30970,
+      "source": "sieglinde",
+      "target": "siegmund",
+      "relation": "in_love_with",
+      "argument1": "sieglinde",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 32247,
+      "source": "sieglinde",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "siegmund",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 32247,
+      "source": "siegmund",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "siegmund",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 34837,
+      "source": "sieglinde",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "\"Wehwalt\"",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 34837,
+      "source": "sieglinde",
+      "target": "siegmund",
+      "relation": "has_name",
+      "argument1": "\"Wehwalt\"",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 36627,
+      "source": "sieglinde",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[SIEGMUND]",
+      "argument2": "SIBLING[SIEGMUND]",
+      "attribute": null
+    },
+    {
+      "position": 36627,
+      "source": "sieglinde",
+      "target": "siegmund",
+      "relation": "identity",
+      "argument1": "LOVER[SIEGMUND]",
+      "argument2": "SIBLING[SIEGMUND]",
+      "attribute": null
+    },
+    {
+      "position": 36693,
+      "source": "sieglinde",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "SIBLING[SIEGMUND]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 36693,
+      "source": "sieglinde",
+      "target": "siegmund",
+      "relation": "has_name",
+      "argument1": "SIBLING[SIEGMUND]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 36960,
+      "source": "siegmund",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "siegmund",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 38606,
+      "source": "bruennhilde",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "bruennhilde",
+      "attribute": null
+    },
+    {
+      "position": 38733,
+      "source": "bruennhilde",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "wotan",
+      "argument2": "fricka",
+      "attribute": null
+    },
+    {
+      "position": 47075,
+      "source": "fricka",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Wolfe\"",
+      "argument2": "wotan",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "bruennhilde",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "gerhilde",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "ortlinde",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "waltraute",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "schwertleite",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "helmwige",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "siegrune",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "grimgerde",
+      "attribute": null
+    },
+    {
+      "position": 56836,
+      "source": "wotan",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "wotan",
+      "argument2": "rossweisse",
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "hunding",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "sieglinde",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "sieglinde",
+      "relation": "murderer_of",
+      "argument1": "hunding",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "hunding",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "hunding",
+      "relation": "murderer_of",
+      "argument1": "hunding",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "bruennhilde",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "bruennhilde",
+      "relation": "murderer_of",
+      "argument1": "hunding",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "wotan",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 88159,
+      "source": "\"Siegmund stirbt\"",
+      "target": "wotan",
+      "relation": "murderer_of",
+      "argument1": "hunding",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 89397,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "wotan",
+      "argument2": "hunding",
+      "attribute": null
+    },
+    {
+      "position": 89397,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "hunding",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102228,
+      "source": "bruennhilde",
+      "target": "helmwige",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102228,
+      "source": "bruennhilde",
+      "target": "ortlinde",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102228,
+      "source": "bruennhilde",
+      "target": "gerhilde",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102228,
+      "source": "bruennhilde",
+      "target": "waltraute",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102228,
+      "source": "bruennhilde",
+      "target": "siegrune",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102228,
+      "source": "bruennhilde",
+      "target": "rossweisse",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102228,
+      "source": "bruennhilde",
+      "target": "grimgerde",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102228,
+      "source": "bruennhilde",
+      "target": "schwertleite",
+      "relation": "dead",
+      "argument1": "siegmund",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "sieglinde",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "helmwige",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "ortlinde",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "gerhilde",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "waltraute",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "siegrune",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "rossweisse",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "grimgerde",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 105702,
+      "source": "bruennhilde",
+      "target": "schwertleite",
+      "relation": "unborn_child_of",
+      "argument1": "UNBORN_CHILD[SIEGLINDE]",
+      "argument2": "sieglinde",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "sieglinde",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "helmwige",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "ortlinde",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "gerhilde",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "waltraute",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "siegrune",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "rossweisse",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "grimgerde",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    },
+    {
+      "position": 109339,
+      "source": "bruennhilde",
+      "target": "schwertleite",
+      "relation": "has_name",
+      "argument1": "CHILD[SIEGLINDE]",
+      "argument2": "\"Siegfried\"",
+      "attribute": null
+    }
+  ]
+}

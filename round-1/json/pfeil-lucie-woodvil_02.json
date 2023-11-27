@@ -1,0 +1,762 @@
+{
+  "filename": "pfeil-lucie-woodvil_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 194,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "willhelm",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 258,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 376,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "robert",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 6593,
+      "source": "willhelm",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 6593,
+      "source": "willhelm",
+      "target": "robert",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 7682,
+      "source": "willhelm",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "karl",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 11024,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT-2[LUCIE]",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 11024,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT-1[LUCIE]",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 11280,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "\"Frau Norris\"",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 13636,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "willhelm",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 17511,
+      "source": "willhelm",
+      "target": "lucie",
+      "relation": "engaged",
+      "argument1": "karl",
+      "argument2": "FIANC\u00c9E[KARL]",
+      "attribute": null
+    },
+    {
+      "position": 21870,
+      "source": "lucie",
+      "target": "betty",
+      "relation": "engaged",
+      "argument1": "karl",
+      "argument2": "FIANC\u00c9E[KARL]",
+      "attribute": null
+    },
+    {
+      "position": 35238,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 35238,
+      "source": "lucie",
+      "target": "betty",
+      "relation": "!in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 35238,
+      "source": "lucie",
+      "target": "karl",
+      "relation": "!in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 37891,
+      "source": "lucie",
+      "target": "amalie",
+      "relation": "!in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 38076,
+      "source": "lucie",
+      "target": "amalie",
+      "relation": "engaged",
+      "argument1": "karl",
+      "argument2": "FIANC\u00c9E[KARL]",
+      "attribute": null
+    },
+    {
+      "position": 39061,
+      "source": "amalie",
+      "target": "lucie",
+      "relation": "identity",
+      "argument1": "FIANC\u00c9E[KARL]",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 44902,
+      "source": "amalie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 45928,
+      "source": "amalie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 56920,
+      "source": "karl",
+      "target": "amalie",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 65282,
+      "source": "amalie",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "karl",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 65282,
+      "source": "amalie",
+      "target": "robert",
+      "relation": "!in_love_with",
+      "argument1": "karl",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 65971,
+      "source": "amalie",
+      "target": "robert",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 66928,
+      "source": "robert",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 69929,
+      "source": "robert",
+      "target": "willhelm",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 72065,
+      "source": "willhelm",
+      "target": "karl",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 72379,
+      "source": "karl",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 74919,
+      "source": "robert",
+      "target": "karl",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 74946,
+      "source": "robert",
+      "target": "karl",
+      "relation": "!in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 74982,
+      "source": "robert",
+      "target": "karl",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 78654,
+      "source": "karl",
+      "target": "jakob",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 78708,
+      "source": "karl",
+      "target": "jakob",
+      "relation": "engaged",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 79500,
+      "source": "karl",
+      "target": "jakob",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 92015,
+      "source": "amalie",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 92015,
+      "source": "amalie",
+      "target": "karl",
+      "relation": "!in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 96913,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": "already-known"
+    },
+    {
+      "position": 96913,
+      "source": "lucie",
+      "target": "betty",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": "already-known"
+    },
+    {
+      "position": 96913,
+      "source": "lucie",
+      "target": "karl",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": "already-known"
+    },
+    {
+      "position": 96913,
+      "source": "lucie",
+      "target": "amalie",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": "already-known"
+    },
+    {
+      "position": 98465,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 98465,
+      "source": "robert",
+      "target": "lucie",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 98465,
+      "source": "lucie",
+      "target": "betty",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 98812,
+      "source": "betty",
+      "target": "lucy",
+      "relation": "in_love_with",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 104086,
+      "source": "karl",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 104086,
+      "source": "karl",
+      "target": "lucie",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 106496,
+      "source": "robert",
+      "target": "lucie",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 106496,
+      "source": "lucie",
+      "target": "betty",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 106496,
+      "source": "lucie",
+      "target": "karl",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 106496,
+      "source": "lucie",
+      "target": "amalie",
+      "relation": "in_love_with",
+      "argument1": "amalie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 107337,
+      "source": "karl",
+      "target": "betty",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 107337,
+      "source": "karl",
+      "target": "amalie",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 116544,
+      "source": "karl",
+      "target": "robert",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 116544,
+      "source": "karl",
+      "target": "willhelm",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 120001,
+      "source": "karl",
+      "target": "robert",
+      "relation": "!in_love_with",
+      "argument1": "karl",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 120001,
+      "source": "karl",
+      "target": "willhelm",
+      "relation": "!in_love_with",
+      "argument1": "karl",
+      "argument2": "amalie",
+      "attribute": null
+    },
+    {
+      "position": 134458,
+      "source": "\"Brief von Karl\"",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 134458,
+      "source": "\"Brief von Karl\"",
+      "target": "lucie",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 134458,
+      "source": "\"Brief von Karl\"",
+      "target": "betty",
+      "relation": "in_love_with",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 155217,
+      "source": "karl",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 155217,
+      "source": "karl",
+      "target": "robert",
+      "relation": "spouses",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 155217,
+      "source": "karl",
+      "target": "willhelm",
+      "relation": "spouses",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 189960,
+      "source": "willhelm",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "PARENT-1[LUCIE]",
+      "argument2": "lucie",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 189960,
+      "source": "willhelm",
+      "target": "lucy",
+      "relation": "identity",
+      "argument1": "PARENT-1[LUCIE]",
+      "argument2": "lucie",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 190757,
+      "source": "betty",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "willhelm",
+      "argument2": "lucie",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 209460,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 209460,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "PARENT-1[LUCIE]",
+      "argument2": "willhelm",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 211610,
+      "source": "karl",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "karl",
+      "argument2": "lucie",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 215400,
+      "source": "robert",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "PARENT-1[LUCIE]",
+      "argument2": "willhelm",
+      "attribute": null
+    },
+    {
+      "position": 215400,
+      "source": "robert",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 215400,
+      "source": "robert",
+      "target": "lucie",
+      "relation": "identity",
+      "argument1": "PARENT-1[LUCIE]",
+      "argument2": "willhelm",
+      "attribute": null
+    },
+    {
+      "position": 215400,
+      "source": "robert",
+      "target": "lucie",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 215400,
+      "source": "robert",
+      "target": "amalie",
+      "relation": "identity",
+      "argument1": "PARENT-1[LUCIE]",
+      "argument2": "willhelm",
+      "attribute": null
+    },
+    {
+      "position": 215400,
+      "source": "robert",
+      "target": "amalie",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "PARENT-2[LUCIE]",
+      "argument2": "\"Jungfer Wills\"",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "lucie",
+      "relation": "identity",
+      "argument1": "PARENT-2[LUCIE]",
+      "argument2": "\"Jungfer Wills\"",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "lucie",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "betty",
+      "relation": "identity",
+      "argument1": "PARENT-2[LUCIE]",
+      "argument2": "\"Jungfer Wills\"",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "betty",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "karl",
+      "relation": "identity",
+      "argument1": "PARENT-2[LUCIE]",
+      "argument2": "\"Jungfer Wills\"",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "karl",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "amalie",
+      "relation": "identity",
+      "argument1": "PARENT-2[LUCIE]",
+      "argument2": "\"Jungfer Wills\"",
+      "attribute": null
+    },
+    {
+      "position": 217081,
+      "source": "robert",
+      "target": "amalie",
+      "relation": "siblings",
+      "argument1": "lucie",
+      "argument2": "karl",
+      "attribute": null
+    }
+  ]
+}

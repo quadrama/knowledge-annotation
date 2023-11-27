@@ -1,0 +1,195 @@
+{
+  "filename": "goethe-die-natuerliche-tochter_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 3962,
+      "source": "koenig",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "herzog",
+      "argument2": "SON_OF[HERZOG]",
+      "attribute": null
+    },
+    {
+      "position": 5455,
+      "source": "herzog",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "herzog",
+      "argument2": "DAUGHTER_OF[HERZOG]",
+      "attribute": null
+    },
+    {
+      "position": 5455,
+      "source": "herzog",
+      "target": "koenig",
+      "relation": "child_of",
+      "argument1": "herzog",
+      "argument2": "DAUGHTER_OF[HERZOG]",
+      "attribute": null
+    },
+    {
+      "position": 6204,
+      "source": "herzog",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "MOTHER_OF[DAUGHTER_OF[HERZOG]]",
+      "argument2": "DAUGHTER_OF[HERZOG]",
+      "attribute": null
+    },
+    {
+      "position": 6204,
+      "source": "herzog",
+      "target": "koenig",
+      "relation": "parent_of",
+      "argument1": "MOTHER_OF[DAUGHTER_OF[HERZOG]]",
+      "argument2": "DAUGHTER_OF[HERZOG]",
+      "attribute": null
+    },
+    {
+      "position": 7130,
+      "source": "koenig",
+      "target": "audience",
+      "relation": "niece_of",
+      "argument1": "CHILD_OF[HERZOG]",
+      "argument2": "koenig",
+      "attribute": null
+    },
+    {
+      "position": 16406,
+      "source": "eugenie",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "CHILD_OF[HERZOG]",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 18892,
+      "source": "herzog",
+      "target": "koenig",
+      "relation": "identity",
+      "argument1": "CHILD_OF[HERZOG]",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 49497,
+      "source": "hofmeisterin",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "hofmeisterin",
+      "argument2": "sekretaer",
+      "attribute": null
+    },
+    {
+      "position": 49497,
+      "source": "hofmeisterin",
+      "target": "sekretaer",
+      "relation": "in_love_with",
+      "argument1": "hofmeisterin",
+      "argument2": "sekretaer",
+      "attribute": null
+    },
+    {
+      "position": 51786,
+      "source": "sekretaer",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "sekretaer",
+      "argument2": "hofmeisterin",
+      "attribute": null
+    },
+    {
+      "position": 51786,
+      "source": "sekretaer",
+      "target": "hofmeisterin",
+      "relation": "in_love_with",
+      "argument1": "sekretaer",
+      "argument2": "hofmeisterin",
+      "attribute": null
+    },
+    {
+      "position": 61607,
+      "source": "eugenie",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "hofmeisterin",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 145241,
+      "source": "gerichtsrat",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "gerichtsrat",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 145241,
+      "source": "gerichtsrat",
+      "target": "eugenie",
+      "relation": "in_love_with",
+      "argument1": "gerichtsrat",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 153247,
+      "source": "eugenie",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    },
+    {
+      "position": 153247,
+      "source": "eugenie",
+      "target": "gerichtsrat",
+      "relation": "!in_love_with",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    },
+    {
+      "position": 154944,
+      "source": "gerichtsrat",
+      "target": "hofmeisterin",
+      "relation": "in_love_with",
+      "argument1": "gerichtsrat",
+      "argument2": "eugenie",
+      "attribute": null
+    },
+    {
+      "position": 156672,
+      "source": "eugenie",
+      "target": "hofmeisterin",
+      "relation": "!in_love_with",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    },
+    {
+      "position": 205075,
+      "source": "eugenie",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    },
+    {
+      "position": 205075,
+      "source": "eugenie",
+      "target": "gerichtsrat",
+      "relation": "engaged",
+      "argument1": "eugenie",
+      "argument2": "gerichtsrat",
+      "attribute": null
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "filename": "schlegel-canut_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 10045,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "canut",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 10118,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 12243,
+      "source": "estrithe",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "\"K\u00f6nig von Norwegen\"",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 12393,
+      "source": "ulfo",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "ulfo",
+      "argument2": "\"Verb\u00fcndete von Canut\"",
+      "attribute": null
+    },
+    {
+      "position": 12393,
+      "source": "ulfo",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "\"Verb\u00fcndete von Canut\"",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 21063,
+      "source": "estrithe",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "canut",
+      "attribute": null
+    },
+    {
+      "position": 26585,
+      "source": "godewin",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "godewin",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 30048,
+      "source": "estrithe",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "estrithe",
+      "argument2": "godewin",
+      "attribute": null
+    },
+    {
+      "position": 30048,
+      "source": "estrithe",
+      "target": "godewin",
+      "relation": "!in_love_with",
+      "argument1": "estrithe",
+      "argument2": "godewin",
+      "attribute": null
+    },
+    {
+      "position": 55455,
+      "source": "ulfo",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ulfo",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 55455,
+      "source": "ulfo",
+      "target": "estrithe",
+      "relation": "in_love_with",
+      "argument1": "ulfo",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 57934,
+      "source": "estrithe",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 57934,
+      "source": "estrithe",
+      "target": "ulfo",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 63229,
+      "source": "canut",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 63229,
+      "source": "canut",
+      "target": "estrithe",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 70222,
+      "source": "canut",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "godewin",
+      "argument2": null,
+      "attribute": "uncertain"
+    },
+    {
+      "position": 70222,
+      "source": "canut",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "ulfo",
+      "argument2": "godewin",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 70222,
+      "source": "canut",
+      "target": "ulfo",
+      "relation": "dead",
+      "argument1": "godewin",
+      "argument2": null,
+      "attribute": "uncertain"
+    },
+    {
+      "position": 70222,
+      "source": "canut",
+      "target": "ulfo",
+      "relation": "murderer_of",
+      "argument1": "ulfo",
+      "argument2": "godewin",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 70297,
+      "source": "ulfo",
+      "target": "audience",
+      "relation": "!dead",
+      "argument1": "godewin",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 70297,
+      "source": "ulfo",
+      "target": "canut",
+      "relation": "!dead",
+      "argument1": "godewin",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 73502,
+      "source": "canut",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "MURDERER[PARENT[GODSCHALK]]]",
+      "argument2": "PARENT[GODSCHALK]",
+      "attribute": null
+    },
+    {
+      "position": 73502,
+      "source": "canut",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "PARENT[GODSCHALK]",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 73502,
+      "source": "canut",
+      "target": "ulfo",
+      "relation": "murderer_of",
+      "argument1": "MURDERER[PARENT[GODSCHALK]]]",
+      "argument2": "PARENT[GODSCHALK]",
+      "attribute": null
+    },
+    {
+      "position": 73502,
+      "source": "canut",
+      "target": "ulfo",
+      "relation": "dead",
+      "argument1": "PARENT[GODSCHALK]",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 126628,
+      "source": "godschalk",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "ulfo",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 126628,
+      "source": "godschalk",
+      "target": "estrithe",
+      "relation": "dead",
+      "argument1": "ulfo",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 126628,
+      "source": "godschalk",
+      "target": "godewin",
+      "relation": "dead",
+      "argument1": "ulfo",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 126628,
+      "source": "godschalk",
+      "target": "canut",
+      "relation": "dead",
+      "argument1": "ulfo",
+      "argument2": null,
+      "attribute": null
+    }
+  ]
+}

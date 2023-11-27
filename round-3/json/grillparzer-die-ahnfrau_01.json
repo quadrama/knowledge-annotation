@@ -1,0 +1,465 @@
+{
+  "filename": "grillparzer-die-ahnfrau_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 192,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "bertha",
+      "argument2": "der_graf",
+      "attribute": null
+    },
+    {
+      "position": 6134,
+      "source": "der_graf",
+      "target": "audience",
+      "relation": "relatives",
+      "argument1": "bertha",
+      "argument2": "RELATIVE",
+      "attribute": null
+    },
+    {
+      "position": 6134,
+      "source": "der_graf",
+      "target": "audience",
+      "relation": "relatives",
+      "argument1": "der_graf",
+      "argument2": "RELATIVE",
+      "attribute": null
+    },
+    {
+      "position": 6134,
+      "source": "der_graf",
+      "target": "bertha",
+      "relation": "relatives",
+      "argument1": "bertha",
+      "argument2": "RELATIVE",
+      "attribute": null
+    },
+    {
+      "position": 6134,
+      "source": "der_graf",
+      "target": "bertha",
+      "relation": "relatives",
+      "argument1": "der_graf",
+      "argument2": "RELATIVE",
+      "attribute": null
+    },
+    {
+      "position": 6859,
+      "source": "der_graf",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "der_graf",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 13140,
+      "source": "bertha",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "bertha",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 13140,
+      "source": "bertha",
+      "target": "der_graf",
+      "relation": "in_love_with",
+      "argument1": "bertha",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 24853,
+      "source": "guenther",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "RELATIVE",
+      "argument2": "ahnfrau_gestalt",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 24853,
+      "source": "guenther",
+      "target": "bertha",
+      "relation": "identity",
+      "argument1": "RELATIVE",
+      "argument2": "ahnfrau_gestalt",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 35777,
+      "source": "bertha",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[BERTHA]",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 35777,
+      "source": "bertha",
+      "target": "der_graf",
+      "relation": "identity",
+      "argument1": "LOVER[BERTHA]",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 42833,
+      "source": "jaromir",
+      "target": "BERTHA-\u00c4HNLICHE",
+      "relation": "in_love_with",
+      "argument1": "jaromir",
+      "argument2": "BERTHA-\u00c4HNLICHE",
+      "attribute": null
+    },
+    {
+      "position": 43167,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "BERTHA-\u00c4HNLICHE",
+      "argument2": "ahnfrau_gestalt",
+      "attribute": null
+    },
+    {
+      "position": 47317,
+      "source": "jaromir",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "jaromir",
+      "argument2": "bertha",
+      "attribute": null
+    },
+    {
+      "position": 47317,
+      "source": "jaromir",
+      "target": "bertha",
+      "relation": "in_love_with",
+      "argument1": "jaromir",
+      "argument2": "bertha",
+      "attribute": null
+    },
+    {
+      "position": 64802,
+      "source": "der_graf",
+      "target": "hauptmann",
+      "relation": "child_of",
+      "argument1": "bertha",
+      "argument2": "der_graf",
+      "attribute": null
+    },
+    {
+      "position": 65349,
+      "source": "der_graf",
+      "target": "hauptmann",
+      "relation": "engaged",
+      "argument1": "bertha",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 97216,
+      "source": "\"Sch\u00e4rpe\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"R\u00e4uber\"",
+      "argument2": "jaromir",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 97216,
+      "source": "\"Sch\u00e4rpe\"",
+      "target": "bertha",
+      "relation": "identity",
+      "argument1": "\"R\u00e4uber\"",
+      "argument2": "jaromir",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 101398,
+      "source": "jaromir",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"R\u00e4uber\"",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 101398,
+      "source": "jaromir",
+      "target": "bertha",
+      "relation": "identity",
+      "argument1": "\"R\u00e4uber\"",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 118405,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "jaromir",
+      "argument2": "der_graf",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 137146,
+      "source": "der_graf",
+      "target": "hauptmann",
+      "relation": "identity",
+      "argument1": "KIND-IM-WALD",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 137146,
+      "source": "der_graf",
+      "target": "boleslav",
+      "relation": "identity",
+      "argument1": "KIND-IM-WALD",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 137146,
+      "source": "der_graf",
+      "target": "soldat",
+      "relation": "identity",
+      "argument1": "KIND-IM-WALD",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 138152,
+      "source": "boleslav",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "boleslav",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 138152,
+      "source": "boleslav",
+      "target": "bertha",
+      "relation": "fosterparent_of",
+      "argument1": "boleslav",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 138152,
+      "source": "boleslav",
+      "target": "der_graf",
+      "relation": "fosterparent_of",
+      "argument1": "boleslav",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 138152,
+      "source": "boleslav",
+      "target": "guenther",
+      "relation": "fosterparent_of",
+      "argument1": "boleslav",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 138152,
+      "source": "boleslav",
+      "target": "hauptmann",
+      "relation": "fosterparent_of",
+      "argument1": "boleslav",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 138152,
+      "source": "boleslav",
+      "target": "soldat",
+      "relation": "fosterparent_of",
+      "argument1": "boleslav",
+      "argument2": "CHILD[DER_GRAF]",
+      "attribute": null
+    },
+    {
+      "position": 139528,
+      "source": "boleslav",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "CHILD[DER_GRAF]",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 139528,
+      "source": "boleslav",
+      "target": "bertha",
+      "relation": "identity",
+      "argument1": "CHILD[DER_GRAF]",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 139528,
+      "source": "boleslav",
+      "target": "der_graf",
+      "relation": "identity",
+      "argument1": "CHILD[DER_GRAF]",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 139528,
+      "source": "boleslav",
+      "target": "guenther",
+      "relation": "identity",
+      "argument1": "CHILD[DER_GRAF]",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 139528,
+      "source": "boleslav",
+      "target": "hauptmann",
+      "relation": "identity",
+      "argument1": "CHILD[DER_GRAF]",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 139528,
+      "source": "boleslav",
+      "target": "soldat",
+      "relation": "identity",
+      "argument1": "CHILD[DER_GRAF]",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 143426,
+      "source": "der_graf",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "der_graf",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 143426,
+      "source": "der_graf",
+      "target": "bertha",
+      "relation": "dead",
+      "argument1": "der_graf",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 143426,
+      "source": "der_graf",
+      "target": "guenther",
+      "relation": "dead",
+      "argument1": "der_graf",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 143469,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "jaromir",
+      "argument2": "der_graf",
+      "attribute": null
+    },
+    {
+      "position": 147802,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "bertha",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 147802,
+      "source": "bertha",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "jaromir",
+      "argument2": "bertha",
+      "attribute": null
+    },
+    {
+      "position": 154615,
+      "source": "boleslav",
+      "target": "jaromir",
+      "relation": "!parent_of",
+      "argument1": "boleslav",
+      "argument2": "jaromir",
+      "attribute": null
+    },
+    {
+      "position": 159481,
+      "source": "boleslav",
+      "target": "jaromir",
+      "relation": "child_of",
+      "argument1": "jaromir",
+      "argument2": "der_graf",
+      "attribute": null
+    },
+    {
+      "position": 176478,
+      "source": "FRAU-AUF-FRIEDHOF",
+      "target": "jaromir",
+      "relation": "!identity",
+      "argument1": "FRAU-AUF-FRIEDHOF",
+      "argument2": "bertha",
+      "attribute": null
+    },
+    {
+      "position": 180136,
+      "source": "FRAU-AUF-FRIEDHOF",
+      "target": "jaromir",
+      "relation": "!identity",
+      "argument1": "FRAU-AUF-FRIEDHOF",
+      "argument2": "bertha",
+      "attribute": null
+    },
+    {
+      "position": 180176,
+      "source": "\"Bertha\"",
+      "target": "jaromir",
+      "relation": "identity",
+      "argument1": "\"FRAU-AUF-FRIEDHOF\"",
+      "argument2": "ahnfrau_gestalt",
+      "attribute": null
+    },
+    {
+      "position": 181164,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "jaromir",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 181164,
+      "source": "\"Nebentext\"",
+      "target": "ahnfrau_gestalt",
+      "relation": "dead",
+      "argument1": "jaromir",
+      "argument2": null,
+      "attribute": null
+    }
+  ]
+}

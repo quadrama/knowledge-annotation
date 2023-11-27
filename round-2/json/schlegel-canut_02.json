@@ -1,0 +1,60 @@
+{
+  "filename": "schlegel-canut_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 10045,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "canut",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 10118,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "estrithe",
+      "argument2": "ulfo",
+      "attribute": null
+    },
+    {
+      "position": 21063,
+      "source": "estrithe",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "estrithe",
+      "argument2": "canut",
+      "attribute": null
+    },
+    {
+      "position": 26585,
+      "source": "godewin",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "godewin",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 55455,
+      "source": "ulfo",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ulfo",
+      "argument2": "estrithe",
+      "attribute": null
+    },
+    {
+      "position": 55455,
+      "source": "ulfo",
+      "target": "estrithe",
+      "relation": "in_love_with",
+      "argument1": "ulfo",
+      "argument2": "estrithe",
+      "attribute": null
+    }
+  ]
+}

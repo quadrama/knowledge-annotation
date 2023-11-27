@@ -1,0 +1,546 @@
+{
+  "filename": "kleist-die-familie-schroffenstein_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 255,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "eustache",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 290,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "ottokar",
+      "argument2": "eustache",
+      "attribute": null
+    },
+    {
+      "position": 290,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "ottokar",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 318,
+      "source": "\"Figurentafel\"",
+      "target": "auidence",
+      "relation": "child_of",
+      "argument1": "johann",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 432,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "sylvester",
+      "argument2": "sylvius",
+      "attribute": null
+    },
+    {
+      "position": 481,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "sylvester",
+      "argument2": "gertrude",
+      "attribute": null
+    },
+    {
+      "position": 502,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "stepsiblings",
+      "argument1": "gertrude",
+      "argument2": "eustache",
+      "attribute": null
+    },
+    {
+      "position": 548,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "agnes",
+      "argument2": "sylvester",
+      "attribute": null
+    },
+    {
+      "position": 548,
+      "source": "\"Figurentafel\"",
+      "target": "auidence",
+      "relation": "child_of",
+      "argument1": "agnes",
+      "argument2": "gertrude",
+      "attribute": null
+    },
+    {
+      "position": 842,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "barnabe",
+      "argument2": "ursula",
+      "attribute": null
+    },
+    {
+      "position": 4437,
+      "source": "rupert",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[EUSTACHE]",
+      "argument2": "eustache",
+      "attribute": null
+    },
+    {
+      "position": 7579,
+      "source": "rupert",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "CHILD[EUSTACHE]",
+      "argument2": "\"Peter\"",
+      "attribute": null
+    },
+    {
+      "position": 30919,
+      "source": "johann",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 30919,
+      "source": "johann",
+      "target": "ottokar",
+      "relation": "identity",
+      "argument1": "LOVER[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 32634,
+      "source": "jeronimus",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "jeronimus",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 32634,
+      "source": "jeronimus",
+      "target": "ottokar",
+      "relation": "!in_love_with",
+      "argument1": "jeronimus",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 40797,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "agnes",
+      "argument2": "\"Phillipp\"",
+      "attribute": null
+    },
+    {
+      "position": 51551,
+      "source": "aldoebern",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "\"Peter\"",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 67205,
+      "source": "ottokar",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 67205,
+      "source": "ottokar",
+      "target": "agnes",
+      "relation": "in_love_with",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 69576,
+      "source": "ottokar",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "agnes",
+      "argument2": "\"Maria\"",
+      "attribute": null
+    },
+    {
+      "position": 75041,
+      "source": "ottokar",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 92025,
+      "source": "johann",
+      "target": "agnes",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 93286,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "agnes",
+      "argument2": "johann",
+      "attribute": null
+    },
+    {
+      "position": 93286,
+      "source": "agnes",
+      "target": "johann",
+      "relation": "!in_love_with",
+      "argument1": "agnes",
+      "argument2": "johann",
+      "attribute": null
+    },
+    {
+      "position": 97596,
+      "source": "agnes",
+      "target": "jeronimus",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 97596,
+      "source": "johann",
+      "target": "agnes",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 97596,
+      "source": "agnes",
+      "target": "sylvester",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 97596,
+      "source": "agnes",
+      "target": "gertrud",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 102024,
+      "source": "jeronimus",
+      "target": "agnes",
+      "relation": "child_of",
+      "argument1": "johann",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 102024,
+      "source": "jeronimus",
+      "target": "sylvester",
+      "relation": "child_of",
+      "argument1": "johann",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 102024,
+      "source": "jeronimus",
+      "target": "gertrud",
+      "relation": "child_of",
+      "argument1": "johann",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 116506,
+      "source": "ottokar",
+      "target": "agnes",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 121201,
+      "source": "ottokar",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[OTTOKAR",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 121201,
+      "source": "ottokar",
+      "target": "agnes",
+      "relation": "identity",
+      "argument1": "LOVER[OTTOKAR",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 121457,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[AGNES]",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 121457,
+      "source": "agnes",
+      "target": "ottokar",
+      "relation": "identity",
+      "argument1": "LOVER[AGNES]",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 123641,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "agnes",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 123641,
+      "source": "agnes",
+      "target": "ottokar",
+      "relation": "in_love_with",
+      "argument1": "agnes",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 154150,
+      "source": "johann",
+      "target": "jeronimus",
+      "relation": "lovers",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 154150,
+      "source": "jeronimus",
+      "target": "eustache",
+      "relation": "lovers",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 156173,
+      "source": "jeronimus",
+      "target": "eustache",
+      "relation": "lover",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 183785,
+      "source": "eustache",
+      "target": "rupert",
+      "relation": "lovers",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 197835,
+      "source": "barnabe",
+      "target": "ottokar",
+      "relation": "has_name",
+      "argument1": "HEXE",
+      "argument2": "barnabe",
+      "attribute": null
+    },
+    {
+      "position": 217445,
+      "source": "eustache",
+      "target": "ottokar",
+      "relation": "in_love_with",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 234093,
+      "source": "\"Verkleidung\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "agnes",
+      "argument2": "COSTUME[OTTOKAR]",
+      "attribute": null
+    },
+    {
+      "position": 234093,
+      "source": "\"Verkleidung\"",
+      "target": "ottokar",
+      "relation": "identity",
+      "argument1": "agnes",
+      "argument2": "COSTUME[OTTOKAR]",
+      "attribute": null
+    },
+    {
+      "position": 234093,
+      "source": "\"Verkleidung\"",
+      "target": "barnabe",
+      "relation": "identity",
+      "argument1": "agnes",
+      "argument2": "COSTUME[OTTOKAR]",
+      "attribute": null
+    },
+    {
+      "position": 234447,
+      "source": "\"Verkleidung\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "ottokar",
+      "argument2": "COSTUME[AGNES]",
+      "attribute": null
+    },
+    {
+      "position": 234447,
+      "source": "\"Verkleidung\"",
+      "target": "agnes",
+      "relation": "identity",
+      "argument1": "ottokar",
+      "argument2": "COSTUME[AGNES]",
+      "attribute": null
+    },
+    {
+      "position": 234447,
+      "source": "\"Verkleidung\"",
+      "target": "barnabe",
+      "relation": "identity",
+      "argument1": "ottokar",
+      "argument2": "COSTUME[AGNES]",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "rupert",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "johann",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "sylvester",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "eustache",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "gertrude",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "johann",
+      "target": "sylvester",
+      "relation": "identity",
+      "argument1": "COSTUME[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "johann",
+      "target": "eustache",
+      "relation": "identity",
+      "argument1": "COSTUME[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "johann",
+      "target": "gertrude",
+      "relation": "identity",
+      "argument1": "COSTUME[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "johann",
+      "target": "sylvius",
+      "relation": "identity",
+      "argument1": "COSTUME[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": null
+    }
+  ]
+}
