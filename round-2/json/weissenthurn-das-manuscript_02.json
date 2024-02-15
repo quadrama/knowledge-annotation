@@ -1,0 +1,438 @@
+{
+  "filename": "weissenthurn-das-manuscript_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 206,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "nephew_of",
+      "argument1": "august",
+      "argument2": "gehrmann",
+      "attribute": null
+    },
+    {
+      "position": 302,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "fosterchild_of",
+      "argument1": "emerike",
+      "argument2": "gehrmann",
+      "attribute": null
+    },
+    {
+      "position": 348,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "kunigunde",
+      "argument2": "emerike",
+      "attribute": null
+    },
+    {
+      "position": 470,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "albertine",
+      "argument2": "madame_woelbing",
+      "attribute": null
+    },
+    {
+      "position": 1759,
+      "source": "gehrmann",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "august",
+      "argument2": "FIANC\u00c9E[AUGUST]",
+      "attribute": null
+    },
+    {
+      "position": 2270,
+      "source": "august",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT[FIANC\u00c9E[AUGUST]]",
+      "argument2": "FIANC\u00c9E[AUGUST]",
+      "attribute": null
+    },
+    {
+      "position": 4620,
+      "source": "august",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "august",
+      "argument2": "FIANC\u00c9E[AUGUST]",
+      "attribute": null
+    },
+    {
+      "position": 4620,
+      "source": "august",
+      "target": "gehrmann",
+      "relation": "!in_love_with",
+      "argument1": "august",
+      "argument2": "FIANC\u00c9E[AUGUST]",
+      "attribute": null
+    },
+    {
+      "position": 5212,
+      "source": "gehrmann",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "FIANC\u00c9E[AUGUST]",
+      "argument2": "emerike",
+      "attribute": null
+    },
+    {
+      "position": 15772,
+      "source": "gehrmann",
+      "target": "audience",
+      "relation": "niece_of",
+      "argument1": "emerike",
+      "argument2": "\"Rosalia Meyer\"",
+      "attribute": null
+    },
+    {
+      "position": 38469,
+      "source": "flint",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "flint",
+      "argument2": "\"Konrad Flint\"",
+      "attribute": null
+    },
+    {
+      "position": 38469,
+      "source": "flint",
+      "target": "emerike",
+      "relation": "has_name",
+      "argument1": "flint",
+      "argument2": "\"Konrad Flint\"",
+      "attribute": null
+    },
+    {
+      "position": 87020,
+      "source": "emerike",
+      "target": "flint",
+      "relation": "has_name",
+      "argument1": "FIANC\u00c9E[AUGUST]",
+      "argument2": "\"Emerike\"",
+      "attribute": null
+    },
+    {
+      "position": 91978,
+      "source": "emerike",
+      "target": "flint",
+      "relation": "!in_love_with",
+      "argument1": "emerike",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 94949,
+      "source": "emerike",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "LOVER[EMERIKE]",
+      "attribute": null
+    },
+    {
+      "position": 94949,
+      "source": "emerike",
+      "target": "gehrmann",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "LOVER[EMERIKE]",
+      "attribute": null
+    },
+    {
+      "position": 94949,
+      "source": "emerike",
+      "target": "flint",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "LOVER[EMERIKE]",
+      "attribute": null
+    },
+    {
+      "position": 95097,
+      "source": "gehrmann",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 95097,
+      "source": "emerike",
+      "target": "gehrmann",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 95097,
+      "source": "emerike",
+      "target": "flint",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 95097,
+      "source": "gehrmann",
+      "target": "flint",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 95558,
+      "source": "emerike",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "flint",
+      "attribute": null
+    },
+    {
+      "position": 95558,
+      "source": "emerike",
+      "target": "flint",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "flint",
+      "attribute": null
+    },
+    {
+      "position": 99549,
+      "source": "flint",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "flint",
+      "argument2": "emerike",
+      "attribute": null
+    },
+    {
+      "position": 99714,
+      "source": "flint",
+      "target": "gehrmann",
+      "relation": "in_love_with",
+      "argument1": "flint",
+      "argument2": "emerike",
+      "attribute": null
+    },
+    {
+      "position": 104541,
+      "source": "madame_woelbing",
+      "target": "august",
+      "relation": "child_of",
+      "argument1": "CHILD[MADAME_WOELBING]",
+      "argument2": "madame_woelbing",
+      "attribute": null
+    },
+    {
+      "position": 135217,
+      "source": "madame_woelbing",
+      "target": "august",
+      "relation": "has_name",
+      "argument1": "CHILD[MADAME_WOELBING]",
+      "argument2": "\"Albertine\"",
+      "attribute": null
+    },
+    {
+      "position": 147361,
+      "source": "madame_woelbing",
+      "target": "albertine",
+      "relation": "nephew_of",
+      "argument1": "NEPHEW[GEHRMANN]",
+      "argument2": "gehrmann",
+      "attribute": null
+    },
+    {
+      "position": 153508,
+      "source": "emerike",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "flint",
+      "argument2": "emerike",
+      "attribute": null
+    },
+    {
+      "position": 153508,
+      "source": "emerike",
+      "target": "kunigunde",
+      "relation": "!in_love_with",
+      "argument1": "flint",
+      "argument2": "emerike",
+      "attribute": null
+    },
+    {
+      "position": 153711,
+      "source": "emerike",
+      "target": "kunigunde",
+      "relation": "in_love_with",
+      "argument1": "emerike",
+      "argument2": "flint",
+      "attribute": null
+    },
+    {
+      "position": 154337,
+      "source": "emerike",
+      "target": "kunigunde",
+      "relation": "!in_love_with",
+      "argument1": "emerike",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 168996,
+      "source": "august",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "august",
+      "argument2": "LOVER[AUGUST]",
+      "attribute": null
+    },
+    {
+      "position": 168996,
+      "source": "august",
+      "target": "gehrmann",
+      "relation": "in_love_with",
+      "argument1": "august",
+      "argument2": "LOVER[AUGUST]",
+      "attribute": null
+    },
+    {
+      "position": 173032,
+      "source": "august",
+      "target": "gehrmann",
+      "relation": "identity",
+      "argument1": "LOVER[AUGUST]",
+      "argument2": "\"Schriftstellerin\"",
+      "attribute": null
+    },
+    {
+      "position": 180095,
+      "source": "emerike",
+      "target": "gehrmann",
+      "relation": "!in_love_with",
+      "argument1": "emerike",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 184164,
+      "source": "flint",
+      "target": "emerike",
+      "relation": "in_love_with",
+      "argument1": "flint",
+      "argument2": "emerike",
+      "attribute": null
+    },
+    {
+      "position": 199341,
+      "source": "august",
+      "target": "madame_woelbing",
+      "relation": "in_love_with",
+      "argument1": "august",
+      "argument2": "albertine",
+      "attribute": null
+    },
+    {
+      "position": 199341,
+      "source": "august",
+      "target": "albertine",
+      "relation": "in_love_with",
+      "argument1": "august",
+      "argument2": "albertine",
+      "attribute": null
+    },
+    {
+      "position": 207438,
+      "source": "albertine",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 207438,
+      "source": "albertine",
+      "target": "gehrmann",
+      "relation": "in_love_with",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 207438,
+      "source": "albertine",
+      "target": "august",
+      "relation": "in_love_with",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 207438,
+      "source": "albertine",
+      "target": "madame_woelbing",
+      "relation": "in_love_with",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 210247,
+      "source": "albertine",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 210247,
+      "source": "albertine",
+      "target": "gehrmann",
+      "relation": "engaged",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 210247,
+      "source": "albertine",
+      "target": "august",
+      "relation": "engaged",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 210247,
+      "source": "albertine",
+      "target": "madame_woelbing",
+      "relation": "engaged",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    },
+    {
+      "position": 210247,
+      "source": "albertine",
+      "target": "annchen",
+      "relation": "engaged",
+      "argument1": "albertine",
+      "argument2": "august",
+      "attribute": null
+    }
+  ]
+}

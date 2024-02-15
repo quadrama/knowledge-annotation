@@ -1,0 +1,249 @@
+{
+  "filename": "goethe-iphigenie-auf-tauris_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 2683,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT-1[IPHIGENIE]",
+      "argument2": "iphigenie",
+      "attribute": null
+    },
+    {
+      "position": 2796,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "diana",
+      "argument2": "zeus",
+      "attribute": null
+    },
+    {
+      "position": 2933,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "PARENT-1[IPHIGENIE]",
+      "argument2": "\"Agamemnon\"",
+      "attribute": null
+    },
+    {
+      "position": 3120,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "\"Agamemnon\"",
+      "argument2": "SPOUSE[AGAMEMNON]",
+      "attribute": null
+    },
+    {
+      "position": 3145,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[AGAMEMNON]",
+      "argument2": "\"Agamemnon\"",
+      "attribute": null
+    },
+    {
+      "position": 5370,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT-2[IPHIGENIE]",
+      "argument2": "iphigenie",
+      "attribute": null
+    },
+    {
+      "position": 5370,
+      "source": "iphigenie",
+      "target": "arkas",
+      "relation": "parent_of",
+      "argument1": "PARENT-2[IPHIGENIE]",
+      "argument2": "iphigenie",
+      "attribute": null
+    },
+    {
+      "position": 5381,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "SIBLINGS[IPHIGENIE]",
+      "argument2": "iphigenie",
+      "attribute": null
+    },
+    {
+      "position": 5381,
+      "source": "iphigenie",
+      "target": "arkas",
+      "relation": "siblings",
+      "argument1": "SIBLINGS[IPHIGENIE]",
+      "argument2": "iphigenie",
+      "attribute": null
+    },
+    {
+      "position": 19998,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "relatives",
+      "argument1": "iphigenie",
+      "argument2": "\"Tantalus\"",
+      "attribute": null
+    },
+    {
+      "position": 19998,
+      "source": "iphigenie",
+      "target": "thoas",
+      "relation": "relatives",
+      "argument1": "iphigenie",
+      "argument2": "\"Tantalus\"",
+      "attribute": null
+    },
+    {
+      "position": 25909,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "PARENT-2[IPHIGENIE]",
+      "argument2": "\"Klyt\u00e4mnestra\"",
+      "attribute": null
+    },
+    {
+      "position": 25909,
+      "source": "iphigenie",
+      "target": "thoas",
+      "relation": "identity",
+      "argument1": "PARENT-2[IPHIGENIE]",
+      "argument2": "\"Klyt\u00e4mnestra\"",
+      "attribute": null
+    },
+    {
+      "position": 25966,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "\"Klyt\u00e4mnestra\"",
+      "argument2": "\"Elektra\"",
+      "attribute": null
+    },
+    {
+      "position": 25966,
+      "source": "iphigenie",
+      "target": "thoas",
+      "relation": "parent_of",
+      "argument1": "\"Klyt\u00e4mnestra\"",
+      "argument2": "\"Elektra\"",
+      "attribute": null
+    },
+    {
+      "position": 26267,
+      "source": "iphigenie",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "iphigenie",
+      "argument2": "orest",
+      "attribute": null
+    },
+    {
+      "position": 26267,
+      "source": "iphigenie",
+      "target": "thoas",
+      "relation": "siblings",
+      "argument1": "iphigenie",
+      "argument2": "orest",
+      "attribute": null
+    },
+    {
+      "position": 36216,
+      "source": "orest",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "diana",
+      "argument2": "apollo",
+      "attribute": null
+    },
+    {
+      "position": 52761,
+      "source": "pylades",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "pylades",
+      "argument2": "\"Cephalus\"",
+      "attribute": "lie"
+    },
+    {
+      "position": 52761,
+      "source": "pylades",
+      "target": "iphigenie",
+      "relation": "identity",
+      "argument1": "pylades",
+      "argument2": "\"Cephalus\"",
+      "attribute": "lie"
+    },
+    {
+      "position": 52800,
+      "source": "pylades",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "orest",
+      "argument2": "\"Laodamas\"",
+      "attribute": "lie"
+    },
+    {
+      "position": 52800,
+      "source": "pylades",
+      "target": "iphigenie",
+      "relation": "identity",
+      "argument1": "orest",
+      "argument2": "\"Laodamas\"",
+      "attribute": "lie"
+    },
+    {
+      "position": 75259,
+      "source": "iphigenie",
+      "target": "orest",
+      "relation": "identity",
+      "argument1": "SIBLING[OREST]",
+      "argument2": "iphigenie",
+      "attribute": null
+    },
+    {
+      "position": 83778,
+      "source": "orest",
+      "target": "pylades",
+      "relation": "identity",
+      "argument1": "\"Priesterin\"",
+      "argument2": "iphigenie",
+      "attribute": null
+    },
+    {
+      "position": 115221,
+      "source": "thoas",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "thoas",
+      "argument2": "iphigenie",
+      "attribute": null
+    },
+    {
+      "position": 123636,
+      "source": "iphigenie",
+      "target": "thoas",
+      "relation": "identity",
+      "argument1": "\"Laodamas\"",
+      "argument2": "orest",
+      "attribute": null
+    },
+    {
+      "position": 123664,
+      "source": "iphigenie",
+      "target": "thoas",
+      "relation": "siblings",
+      "argument1": "iphigenie",
+      "argument2": "orest",
+      "attribute": null
+    }
+  ]
+}

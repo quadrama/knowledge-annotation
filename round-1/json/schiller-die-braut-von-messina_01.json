@@ -1,0 +1,366 @@
+{
+  "filename": "schiller-die-braut-von-messina_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 23472,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "don_manuel",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 23498,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "don_cesar",
+      "argument2": "isabella",
+      "attribute": null
+    },
+    {
+      "position": 65427,
+      "source": "don_manuel",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "don_manuel",
+      "argument2": "LOVER[DON_MANUEL]",
+      "attribute": null
+    },
+    {
+      "position": 65427,
+      "source": "don_manuel",
+      "target": "chor",
+      "relation": "in_love_with",
+      "argument1": "don_manuel",
+      "argument2": "LOVER[DON_MANUEL]",
+      "attribute": null
+    },
+    {
+      "position": 65594,
+      "source": "don_manuel",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "don_manuel",
+      "argument2": "don_manuel",
+      "attribute": null
+    },
+    {
+      "position": 65594,
+      "source": "don_manuel",
+      "target": "chor",
+      "relation": "identity",
+      "argument1": "don_manuel",
+      "argument2": "don_manuel",
+      "attribute": null
+    },
+    {
+      "position": 77945,
+      "source": "don_manuel",
+      "target": "chor",
+      "relation": "engaged",
+      "argument1": "don_manuel",
+      "argument2": "LOVER[DON_MANUEL]",
+      "attribute": null
+    },
+    {
+      "position": 90048,
+      "source": "beatrice",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "beatrice",
+      "argument2": "LOVER[BEATRICE]",
+      "attribute": null
+    },
+    {
+      "position": 90861,
+      "source": "beatrice",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[DON_MANUEL]",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 95000,
+      "source": "beatrice",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "beatrice",
+      "argument2": "don_cesar",
+      "attribute": null
+    },
+    {
+      "position": 95000,
+      "source": "beatrice",
+      "target": "chor",
+      "relation": "!in_love_with",
+      "argument1": "beatrice",
+      "argument2": "don_cesar",
+      "attribute": null
+    },
+    {
+      "position": 95000,
+      "source": "beatrice",
+      "target": "don_cesar",
+      "relation": "!in_love_with",
+      "argument1": "beatrice",
+      "argument2": "don_cesar",
+      "attribute": null
+    },
+    {
+      "position": 98138,
+      "source": "TYP-AUS-KIRCHE",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "TYP-AUS-KIRCHE",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 98138,
+      "source": "TYP-AUS-KIRCHE",
+      "target": "beatrice",
+      "relation": "in_love_with",
+      "argument1": "TYP-AUS-KIRCHE",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 98517,
+      "source": "TYP-AUS-KIRCHE",
+      "target": "beatrice",
+      "relation": "identity",
+      "argument1": "TYP-AUS-KIRCHE",
+      "argument2": "don_cesar",
+      "attribute": null
+    },
+    {
+      "position": 99206,
+      "source": "don_cesar",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 99206,
+      "source": "don_cesar",
+      "target": "chor",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 99206,
+      "source": "don_cesar",
+      "target": "beatrice",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 105412,
+      "source": "isabella",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "don_manuel",
+      "argument2": "SIBLING-1",
+      "attribute": null
+    },
+    {
+      "position": 105412,
+      "source": "isabella",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "don_cesar",
+      "argument2": "SIBLING-1",
+      "attribute": null
+    },
+    {
+      "position": 105412,
+      "source": "isabella",
+      "target": "don_manuel",
+      "relation": "siblings",
+      "argument1": "don_manuel",
+      "argument2": "SIBLING-1",
+      "attribute": null
+    },
+    {
+      "position": 105412,
+      "source": "isabella",
+      "target": "don_manuel",
+      "relation": "siblings",
+      "argument1": "don_cesar",
+      "argument2": "SIBLING-1",
+      "attribute": null
+    },
+    {
+      "position": 105412,
+      "source": "isabella",
+      "target": "don_cesar",
+      "relation": "siblings",
+      "argument1": "don_manuel",
+      "argument2": "SIBLING-1",
+      "attribute": null
+    },
+    {
+      "position": 105412,
+      "source": "isabella",
+      "target": "don_cesar",
+      "relation": "siblings",
+      "argument1": "don_cesar",
+      "argument2": "SIBLING-1",
+      "attribute": null
+    },
+    {
+      "position": 113699,
+      "source": "don_cesar",
+      "target": "don_manuel",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "LOVER[DON_CESAR]",
+      "attribute": null
+    },
+    {
+      "position": 113699,
+      "source": "don_cesar",
+      "target": "isabella",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "LOVER[DON_CESAR]",
+      "attribute": null
+    },
+    {
+      "position": 115779,
+      "source": "don_manuel",
+      "target": "don_cesar",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "LOVER[DON_MANUEL]",
+      "attribute": null
+    },
+    {
+      "position": 115779,
+      "source": "don_manuel",
+      "target": "don_cesar",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "LOVER[DON_MANUEL]",
+      "attribute": null
+    },
+    {
+      "position": 115779,
+      "source": "don_manuel",
+      "target": "isabella",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "LOVER[DON_MANUEL]",
+      "attribute": null
+    },
+    {
+      "position": 115779,
+      "source": "don_manuel",
+      "target": "isabella",
+      "relation": "engaged",
+      "argument1": "don_cesar",
+      "argument2": "LOVER[DON_MANUEL]",
+      "attribute": null
+    },
+    {
+      "position": 123466,
+      "source": "isabella",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "CHILD[ISABELLA]",
+      "argument2": "\"Beatrice\"",
+      "attribute": null
+    },
+    {
+      "position": 123466,
+      "source": "isabella",
+      "target": "don_manuel",
+      "relation": "has_name",
+      "argument1": "CHILD[ISABELLA]",
+      "argument2": "\"Beatrice\"",
+      "attribute": null
+    },
+    {
+      "position": 123466,
+      "source": "isabella",
+      "target": "don_cesar",
+      "relation": "has_name",
+      "argument1": "CHILD[ISABELLA]",
+      "argument2": "\"Beatrice\"",
+      "attribute": null
+    },
+    {
+      "position": 123578,
+      "source": "don_manuel",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "SIBLING-1",
+      "argument2": "beatrice",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 131181,
+      "source": "don_manuel",
+      "target": "audience",
+      "relation": "!identity",
+      "argument1": "SIBLING-1",
+      "argument2": "beatrice",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 146273,
+      "source": "don_manuel",
+      "target": "beatrice",
+      "relation": "siblings",
+      "argument1": "don_manuel",
+      "argument2": "don_cesar",
+      "attribute": null
+    },
+    {
+      "position": 152723,
+      "source": "zweiter_chor",
+      "target": "don_cesar",
+      "relation": "lovers",
+      "argument1": "don_manuel",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 178064,
+      "source": "isabella",
+      "target": "beatrice",
+      "relation": "parent_of",
+      "argument1": "isabella",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 193579,
+      "source": "isabella",
+      "target": "don_cesar",
+      "relation": "identity",
+      "argument1": "SIBLING-1",
+      "argument2": "beatrice",
+      "attribute": null
+    },
+    {
+      "position": 194287,
+      "source": "don_cesar",
+      "target": "isabella",
+      "relation": "identity",
+      "argument1": "FIANCEE[DON_CESAR]",
+      "argument2": "beatrice",
+      "attribute": null
+    }
+  ]
+}

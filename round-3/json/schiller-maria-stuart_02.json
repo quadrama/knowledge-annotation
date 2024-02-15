@@ -1,0 +1,402 @@
+{
+  "filename": "schiller-maria-stuart_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 531,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "niece:nephew_of",
+      "argument1": "mortimer",
+      "argument2": "paulet",
+      "attribute": null
+    },
+    {
+      "position": 8824,
+      "source": "paulet",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "maria",
+      "argument2": "SPOUSE[MARIA]",
+      "attribute": null
+    },
+    {
+      "position": 13857,
+      "source": "maria",
+      "target": "audience",
+      "relation": "relatives",
+      "argument1": "elisabeth",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 22720,
+      "source": "maria",
+      "target": "audience",
+      "relation": "ex-spouses",
+      "argument1": "maria",
+      "argument2": "\"K\u00f6nig Darnley\"",
+      "attribute": null
+    },
+    {
+      "position": 22933,
+      "source": "kennedy",
+      "target": "audience",
+      "relation": "!murderer_of",
+      "argument1": "maria",
+      "argument2": "\"K\u00f6nig Darnley\"",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 38494,
+      "source": "mortimer",
+      "target": "audience",
+      "relation": "relatives",
+      "argument1": "maria",
+      "argument2": "\"Familie Tudor\"",
+      "attribute": null
+    },
+    {
+      "position": 38723,
+      "source": "mortimer",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "\"Heinrich\"",
+      "argument2": "elisabeth",
+      "attribute": null
+    },
+    {
+      "position": 51832,
+      "source": "maria",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[MARIA]",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 125631,
+      "source": "mortimer",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "leicester",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 125631,
+      "source": "\"Blick Graf Leicester\"",
+      "target": "mortimer",
+      "relation": "in_love_with",
+      "argument1": "leicester",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 125631,
+      "source": "mortimer",
+      "target": "leicester",
+      "relation": "in_love_with",
+      "argument1": "leicester",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 140515,
+      "source": "leicester",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "leicester",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 140515,
+      "source": "leicester",
+      "target": "mortimer",
+      "relation": "in_love_with",
+      "argument1": "leicester",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 142544,
+      "source": "leicester",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "leicester",
+      "argument2": "elisabeth",
+      "attribute": null
+    },
+    {
+      "position": 142544,
+      "source": "leicester",
+      "target": "elisabeth",
+      "relation": "in_love_with",
+      "argument1": "leicester",
+      "argument2": "elisabeth",
+      "attribute": null
+    },
+    {
+      "position": 153521,
+      "source": "maria",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "leicester",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 184835,
+      "source": "mortimer",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "mortimer",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 184835,
+      "source": "mortimer",
+      "target": "maria",
+      "relation": "in_love_with",
+      "argument1": "mortimer",
+      "argument2": "maria",
+      "attribute": null
+    },
+    {
+      "position": 189715,
+      "source": "maria",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "maria",
+      "argument2": "mortimer",
+      "attribute": null
+    },
+    {
+      "position": 189715,
+      "source": "maria",
+      "target": "mortimer",
+      "relation": "!in_love_with",
+      "argument1": "maria",
+      "argument2": "mortimer",
+      "attribute": null
+    },
+    {
+      "position": 191366,
+      "source": "paulet",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "elisabeth",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 191366,
+      "source": "paulet",
+      "target": "mortimer",
+      "relation": "dead",
+      "argument1": "elisabeth",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 192459,
+      "source": "okelly",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "\"Sauvage\"",
+      "argument2": "elisabeth",
+      "attribute": null
+    },
+    {
+      "position": 192459,
+      "source": "okelly",
+      "target": "mortimer",
+      "relation": "murderer_of",
+      "argument1": "\"Sauvage\"",
+      "argument2": "elisabeth",
+      "attribute": null
+    },
+    {
+      "position": 193055,
+      "source": "okelly",
+      "target": "audience",
+      "relation": "!dead",
+      "argument1": "elisabeth",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 193055,
+      "source": "okelly",
+      "target": "audience",
+      "relation": "!murderer_of",
+      "argument1": "\"Sauvage\"",
+      "argument2": "elisabeth",
+      "attribute": null
+    },
+    {
+      "position": 193055,
+      "source": "okelly",
+      "target": "mortimer",
+      "relation": "!dead",
+      "argument1": "elisabeth",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 193055,
+      "source": "okelly",
+      "target": "mortimer",
+      "relation": "!murderer_of",
+      "argument1": "\"Sauvage\"",
+      "argument2": "elisabeth",
+      "attribute": null
+    },
+    {
+      "position": 211292,
+      "source": "\"Mortimer ersticht sich\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "mortimer",
+      "argument2": "mortimer",
+      "attribute": null
+    },
+    {
+      "position": 211292,
+      "source": "\"Mortimer ersticht sich\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "mortimer",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 211292,
+      "source": "\"Mortimer ersticht sich\"",
+      "target": "offizier",
+      "relation": "murderer_of",
+      "argument1": "mortimer",
+      "argument2": "mortimer",
+      "attribute": null
+    },
+    {
+      "position": 211292,
+      "source": "\"Mortimer ersticht sich\"",
+      "target": "offizier",
+      "relation": "dead",
+      "argument1": "mortimer",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 213642,
+      "source": "elisabeth",
+      "target": "burleigh",
+      "relation": "!in_love_with",
+      "argument1": "elisabeth",
+      "argument2": "leicester",
+      "attribute": null
+    },
+    {
+      "position": 225320,
+      "source": "leicester",
+      "target": "elisabeth",
+      "relation": "murderer_of",
+      "argument1": "mortimer",
+      "argument2": "mortimer",
+      "attribute": null
+    },
+    {
+      "position": 225320,
+      "source": "leicester",
+      "target": "burleigh",
+      "relation": "murderer_of",
+      "argument1": "mortimer",
+      "argument2": "mortimer",
+      "attribute": null
+    },
+    {
+      "position": 244607,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "elisabeth",
+      "argument2": "maria",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 258932,
+      "source": "kennedy",
+      "target": "melvil",
+      "relation": "dead",
+      "argument1": "mortimer",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 281492,
+      "source": "maria",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "maria",
+      "argument2": "\"K\u00f6nig Darnley\"",
+      "attribute": null
+    },
+    {
+      "position": 281492,
+      "source": "maria",
+      "target": "melvil",
+      "relation": "murderer_of",
+      "argument1": "maria",
+      "argument2": "\"K\u00f6nig Darnley\"",
+      "attribute": null
+    },
+    {
+      "position": 293146,
+      "source": "maria",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "maria",
+      "argument2": "leicester",
+      "attribute": null
+    },
+    {
+      "position": 293146,
+      "source": "maria",
+      "target": "leicester",
+      "relation": "in_love_with",
+      "argument1": "maria",
+      "argument2": "leicester",
+      "attribute": null
+    },
+    {
+      "position": 296716,
+      "source": "leicester",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "maria",
+      "argument2": "elisabeth",
+      "attribute": null
+    },
+    {
+      "position": 296716,
+      "source": "leicester",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "maria",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 299118,
+      "source": "elisabeth",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "maria",
+      "argument2": null,
+      "attribute": null
+    }
+  ]
+}

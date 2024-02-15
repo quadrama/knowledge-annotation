@@ -1,0 +1,879 @@
+{
+  "filename": "kleist-die-familie-schroffenstein_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 245,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "rupert",
+      "argument2": "eustache",
+      "attribute": null
+    },
+    {
+      "position": 281,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "ottokar",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 281,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "ottokar",
+      "argument2": "eustache",
+      "attribute": null
+    },
+    {
+      "position": 310,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "johann",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 421,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "sylvester",
+      "argument2": "sylvius",
+      "attribute": null
+    },
+    {
+      "position": 471,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "gertrude",
+      "argument2": "sylvester",
+      "attribute": null
+    },
+    {
+      "position": 502,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "stepsiblings",
+      "argument1": "gertrude",
+      "argument2": "eustache",
+      "attribute": null
+    },
+    {
+      "position": 541,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "agnes",
+      "argument2": "sylvester",
+      "attribute": null
+    },
+    {
+      "position": 541,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "agnes",
+      "argument2": "gertrude",
+      "attribute": null
+    },
+    {
+      "position": 833,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "barnabe",
+      "argument2": "ursula",
+      "attribute": null
+    },
+    {
+      "position": 4441,
+      "source": "rupert",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[EUSTACHE]",
+      "argument2": "eustache",
+      "attribute": null
+    },
+    {
+      "position": 4453,
+      "source": "rupert",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "CHILD[EUSTACHE]",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 7579,
+      "source": "rupert",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "CHILD[EUSTACHE]",
+      "argument2": "\"Peter\"",
+      "attribute": null
+    },
+    {
+      "position": 30919,
+      "source": "johann",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 30919,
+      "source": "johann",
+      "target": "ottokar",
+      "relation": "identity",
+      "argument1": "LOVER[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 32596,
+      "source": "jeronimus",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "jeronimus",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 32596,
+      "source": "jeronimus",
+      "target": "ottokar",
+      "relation": "!in_love_with",
+      "argument1": "jeronimus",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 40797,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "agnes",
+      "argument2": "\"Phillipp\"",
+      "attribute": null
+    },
+    {
+      "position": 47897,
+      "source": "sylvester",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[EUSTACHE]",
+      "argument2": "eustache",
+      "attribute": null
+    },
+    {
+      "position": 47949,
+      "source": "sylvester",
+      "target": "audience",
+      "relation": "!murderer_of",
+      "argument1": "gertrude",
+      "argument2": "CHILD[EUSTACHE]",
+      "attribute": null
+    },
+    {
+      "position": 47949,
+      "source": "sylvester",
+      "target": "gertrude",
+      "relation": "!murderer_of",
+      "argument1": "gertrude",
+      "argument2": "CHILD[EUSTACHE]",
+      "attribute": null
+    },
+    {
+      "position": 51554,
+      "source": "aldoebern",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "\"Peter\"",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 67897,
+      "source": "ottokar",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 67897,
+      "source": "ottokar",
+      "target": "agnes",
+      "relation": "in_love_with",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 69576,
+      "source": "ottokar",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "agnes",
+      "argument2": "\"Maria\"",
+      "attribute": null
+    },
+    {
+      "position": 69576,
+      "source": "ottokar",
+      "target": "agnes",
+      "relation": "has_name",
+      "argument1": "agnes",
+      "argument2": "\"Maria\"",
+      "attribute": null
+    },
+    {
+      "position": 75041,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "agnes",
+      "argument2": "johann",
+      "attribute": null
+    },
+    {
+      "position": 75041,
+      "source": "agnes",
+      "target": "johann",
+      "relation": "!in_love_with",
+      "argument1": "agnes",
+      "argument2": "johann",
+      "attribute": null
+    },
+    {
+      "position": 92025,
+      "source": "johann",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 92025,
+      "source": "johann",
+      "target": "agnes",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 92169,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "agnes",
+      "argument2": "johann",
+      "attribute": null
+    },
+    {
+      "position": 92169,
+      "source": "agnes",
+      "target": "johann",
+      "relation": "!in_love_with",
+      "argument1": "agnes",
+      "argument2": "johann",
+      "attribute": null
+    },
+    {
+      "position": 95428,
+      "source": "jeronimus",
+      "target": "audience",
+      "relation": "!dead",
+      "argument1": "agnes",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 95428,
+      "source": "jeronimus",
+      "target": "sylvester",
+      "relation": "!dead",
+      "argument1": "agnes",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 95428,
+      "source": "jeronimus",
+      "target": "gertrude",
+      "relation": "!dead",
+      "argument1": "agnes",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 96759,
+      "source": "gertrude",
+      "target": "agnes",
+      "relation": "murderer_of",
+      "argument1": "jeronimus",
+      "argument2": "johann",
+      "attribute": null
+    },
+    {
+      "position": 97596,
+      "source": "agnes",
+      "target": "jeronimus",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 97596,
+      "source": "agnes",
+      "target": "sylvester",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 97596,
+      "source": "agnes",
+      "target": "gertrude",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 101304,
+      "source": "diener",
+      "target": "audience",
+      "relation": "!dead",
+      "argument1": "johann",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 101304,
+      "source": "diener",
+      "target": "sylvester",
+      "relation": "!dead",
+      "argument1": "johann",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 101304,
+      "source": "diener",
+      "target": "gertrude",
+      "relation": "!dead",
+      "argument1": "johann",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 102024,
+      "source": "jeronimus",
+      "target": "agnes",
+      "relation": "child_of",
+      "argument1": "johann",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 102024,
+      "source": "jeronimus",
+      "target": "sylvester",
+      "relation": "child_of",
+      "argument1": "johann",
+      "argument2": "rupert",
+      "attribute": null
+    },
+    {
+      "position": 114556,
+      "source": "ottokar",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "agnes",
+      "argument2": "\"Maria\"",
+      "attribute": null
+    },
+    {
+      "position": 116506,
+      "source": "ottokar",
+      "target": "agnes",
+      "relation": "in_love_with",
+      "argument1": "johann",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 121201,
+      "source": "ottokar",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 121201,
+      "source": "ottokar",
+      "target": "agnes",
+      "relation": "identity",
+      "argument1": "LOVER[OTTOKAR]",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 121287,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "LOVER[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 121287,
+      "source": "agnes",
+      "target": "ottokar",
+      "relation": "identity",
+      "argument1": "LOVER[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 123641,
+      "source": "agnes",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "agnes",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 123641,
+      "source": "agnes",
+      "target": "ottokar",
+      "relation": "in_love_with",
+      "argument1": "agnes",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 154154,
+      "source": "johann",
+      "target": "jeronimus",
+      "relation": "lovers",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 154154,
+      "source": "jeronimus",
+      "target": "eustache",
+      "relation": "lovers",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 156173,
+      "source": "jeronimus",
+      "target": "eustache",
+      "relation": "lovers",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 167257,
+      "source": "eustache",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "jeronimus",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 183785,
+      "source": "eustache",
+      "target": "rupert",
+      "relation": "lovers",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 186794,
+      "source": "agnes",
+      "target": "gertrude",
+      "relation": "dead",
+      "argument1": "jeronimus",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 188287,
+      "source": "sylvester",
+      "target": "gertrude",
+      "relation": "dead",
+      "argument1": "jeronimus",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 217445,
+      "source": "eustache",
+      "target": "ottokar",
+      "relation": "lovers",
+      "argument1": "ottokar",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 234093,
+      "source": "\"Verkleidung\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "agnes",
+      "argument2": "COSTUME[OTTOKAR]",
+      "attribute": null
+    },
+    {
+      "position": 234093,
+      "source": "\"Verkleidung\"",
+      "target": "ottokar",
+      "relation": "identity",
+      "argument1": "agnes",
+      "argument2": "COSTUME[OTTOKAR]",
+      "attribute": null
+    },
+    {
+      "position": 234093,
+      "source": "\"Verkleidung\"",
+      "target": "barnabe",
+      "relation": "identity",
+      "argument1": "agnes",
+      "argument2": "COSTUME[OTTOKAR]",
+      "attribute": null
+    },
+    {
+      "position": 234447,
+      "source": "\"Verkleidung\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "ottokar",
+      "argument2": "COSTUME[AGNES]",
+      "attribute": null
+    },
+    {
+      "position": 234447,
+      "source": "\"Verkleidung\"",
+      "target": "agnes",
+      "relation": "identity",
+      "argument1": "ottokar",
+      "argument2": "COSTUME[AGNES]",
+      "attribute": null
+    },
+    {
+      "position": 234447,
+      "source": "\"Verkleidung\"",
+      "target": "barnabe",
+      "relation": "identity",
+      "argument1": "ottokar",
+      "argument2": "COSTUME[AGNES]",
+      "attribute": null
+    },
+    {
+      "position": 235818,
+      "source": "\"Rupert ersticht COSTUME[AGNES]\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 235818,
+      "source": "\"Rupert ersticht COSTUME[AGNES]\"",
+      "target": "rupert",
+      "relation": "dead",
+      "argument1": "agnes",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 235818,
+      "source": "\"Rupert ersticht COSTUME[AGNES]\"",
+      "target": "rupert",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 235818,
+      "source": "\"Rupert ersticht COSTUME[AGNES]\"",
+      "target": "santing",
+      "relation": "dead",
+      "argument1": "agnes",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 235818,
+      "source": "\"Rupert ersticht COSTUME[AGNES]\"",
+      "target": "santing",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 240564,
+      "source": "\"Rupert ersticht COSTUME[AGNES]\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "ottokar",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 240564,
+      "source": "\"Rupert ersticht COSTUME[AGNES]\"",
+      "target": "agnes",
+      "relation": "dead",
+      "argument1": "ottokar",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 241673,
+      "source": "\"Leiche von COSTUME[AGNES]\"",
+      "target": "sylvester",
+      "relation": "dead",
+      "argument1": "agnes",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 241911,
+      "source": "\"Sylvester ersticht COSTUME[OTTOKAR]\"",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "sylvester",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 241911,
+      "source": "\"Sylvester ersticht COSTUME[OTTOKAR]\"",
+      "target": "sylvester",
+      "relation": "murderer_of",
+      "argument1": "sylvester",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 241998,
+      "source": "\"COSTUME[OTTOKAR] stirbt\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "agnes",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 241998,
+      "source": "\"COSTUME[OTTOKAR] stirbt\"",
+      "target": "sylvester",
+      "relation": "dead",
+      "argument1": "ottokar",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 245511,
+      "source": "\"Leiche von COSTUME[OTTOKAR]\"",
+      "target": "rupert",
+      "relation": "dead",
+      "argument1": "ottokar",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 246285,
+      "source": "\"Leiche von COSTUME[OTTOKAR]\"",
+      "target": "gertrude",
+      "relation": "dead",
+      "argument1": "ottokar",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "rupert",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "johann",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "sylvester",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "gertrude",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 249572,
+      "source": "sylvius",
+      "target": "eustache",
+      "relation": "identity",
+      "argument1": "COSTUME[AGNES]",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "\"Identifikation von COSTUME[OTTOKAR]\"",
+      "target": "rupert",
+      "relation": "murderer_of",
+      "argument1": "sylvester",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "\"Identifikation von COSTUME[OTTOKAR]\"",
+      "target": "johann",
+      "relation": "murderer_of",
+      "argument1": "sylvester",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "\"Identifikation von COSTUME[OTTOKAR]\"",
+      "target": "sylvester",
+      "relation": "murderer_of",
+      "argument1": "sylvester",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "\"Identifikation von COSTUME[OTTOKAR]\"",
+      "target": "gertrude",
+      "relation": "murderer_of",
+      "argument1": "sylvester",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "\"Identifikation von COSTUME[OTTOKAR]\"",
+      "target": "eustache",
+      "relation": "murderer_of",
+      "argument1": "sylvester",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 251499,
+      "source": "\"Identifikation von COSTUME[OTTOKAR]\"",
+      "target": "sylvius",
+      "relation": "murderer_of",
+      "argument1": "sylvester",
+      "argument2": "agnes",
+      "attribute": null
+    },
+    {
+      "position": 253184,
+      "source": "\"Identifikation von COSTUME[AGNES]\"",
+      "target": "rupert",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 253184,
+      "source": "\"Identifikation von COSTUME[AGNES]\"",
+      "target": "johann",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 253184,
+      "source": "\"Identifikation von COSTUME[AGNES]\"",
+      "target": "sylvester",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 253184,
+      "source": "\"Identifikation von COSTUME[AGNES]\"",
+      "target": "gertrude",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 253184,
+      "source": "\"Identifikation von COSTUME[AGNES]\"",
+      "target": "eustache",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "ottokar",
+      "attribute": null
+    },
+    {
+      "position": 253184,
+      "source": "\"Identifikation von COSTUME[AGNES]\"",
+      "target": "sylvius",
+      "relation": "murderer_of",
+      "argument1": "rupert",
+      "argument2": "ottokar",
+      "attribute": null
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "filename": "hofmannsthal-der-rosenkavalier_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 239,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "octavian",
+      "argument2": "\"Quin-quin\"",
+      "attribute": null
+    },
+    {
+      "position": 373,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "sophie",
+      "argument2": "faninal",
+      "attribute": null
+    },
+    {
+      "position": 6761,
+      "source": "octavian",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "marschallin",
+      "argument2": "\"Marie Theres\"",
+      "attribute": null
+    },
+    {
+      "position": 6884,
+      "source": "octavian",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "marschallin",
+      "argument2": "\"Bichette\"",
+      "attribute": null
+    },
+    {
+      "position": 6945,
+      "source": "marschallin",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "octavian",
+      "argument2": "\"Quin-quin\"",
+      "attribute": null
+    },
+    {
+      "position": 7831,
+      "source": "octavian",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "feldmarschall",
+      "argument2": "marschallin",
+      "attribute": null
+    },
+    {
+      "position": 12166,
+      "source": "marschallin",
+      "target": "audience",
+      "relation": "cousins",
+      "argument1": "der_baron",
+      "argument2": "marschallin",
+      "attribute": null
+    },
+    {
+      "position": 13238,
+      "source": "\"Octavian verkleidet sich\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "kammerzofe",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 13238,
+      "source": "\"Octavian verkleidet sich\"",
+      "target": "marschallin",
+      "relation": "identity",
+      "argument1": "kammerzofe",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 18323,
+      "source": "der_baron",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "der_baron",
+      "argument2": "BRIDE[DER_BARON]",
+      "attribute": null
+    },
+    {
+      "position": 18323,
+      "source": "der_baron",
+      "target": "octavian",
+      "relation": "engaged",
+      "argument1": "der_baron",
+      "argument2": "BRIDE[DER_BARON]",
+      "attribute": null
+    },
+    {
+      "position": 18323,
+      "source": "der_baron",
+      "target": "marschallin",
+      "relation": "engaged",
+      "argument1": "der_baron",
+      "argument2": "BRIDE[DER_BARON]",
+      "attribute": null
+    },
+    {
+      "position": 36981,
+      "source": "marschallin",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "octavian",
+      "argument2": "\"Octavian Rofrano\"",
+      "attribute": null
+    },
+    {
+      "position": 37052,
+      "source": "marschallin",
+      "target": "der_baron",
+      "relation": "brother_of",
+      "argument1": "octavian",
+      "argument2": "BROTHER[OCTAVIAN]",
+      "attribute": null
+    },
+    {
+      "position": 39816,
+      "source": "\"Nebentext\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT[DREI_ADELIGE_WAISEN]",
+      "argument2": "drei_adelige_waisen",
+      "attribute": null
+    },
+    {
+      "position": 50729,
+      "source": "valzacchi",
+      "target": "audience",
+      "relation": "uncle_of",
+      "argument1": "valzacchi",
+      "argument2": "annina",
+      "attribute": null
+    },
+    {
+      "position": 50729,
+      "source": "valzacchi",
+      "target": "der_baron",
+      "relation": "uncle_of",
+      "argument1": "valzacchi",
+      "argument2": "annina",
+      "attribute": null
+    },
+    {
+      "position": 75127,
+      "source": "octavian",
+      "target": "audience",
+      "relation": "cousin_of",
+      "argument1": "octavian",
+      "argument2": "sophie",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 75685,
+      "source": "sophie",
+      "target": "octavian",
+      "relation": "has_name",
+      "argument1": "octavian",
+      "argument2": "\"Octavian Maria Ehrenreich Bonaventura Fernand Hyazinth\"",
+      "attribute": null
+    },
+    {
+      "position": 93607,
+      "source": "sophhie",
+      "target": "octavian",
+      "relation": "!in_love_with",
+      "argument1": "sophie",
+      "argument2": "der_baron",
+      "attribute": null
+    },
+    {
+      "position": 96687,
+      "source": "sophie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "sophie",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 96687,
+      "source": "sophie",
+      "target": "octavian",
+      "relation": "in_love_with",
+      "argument1": "sophie",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 96687,
+      "source": "sophie",
+      "target": "valzacchi",
+      "relation": "in_love_with",
+      "argument1": "sophie",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 96687,
+      "source": "sophie",
+      "target": "annina",
+      "relation": "in_love_with",
+      "argument1": "sophie",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 96753,
+      "source": "octavian",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "octavian",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 96753,
+      "source": "octavian",
+      "target": "valzacchi",
+      "relation": "in_love_with",
+      "argument1": "octavian",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 96753,
+      "source": "octavian",
+      "target": "sophie",
+      "relation": "in_love_with",
+      "argument1": "octavian",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 96753,
+      "source": "octavian",
+      "target": "annina",
+      "relation": "in_love_with",
+      "argument1": "octavian",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 100838,
+      "source": "octavian",
+      "target": "der_baron",
+      "relation": "!in_love_with",
+      "argument1": "sophie",
+      "argument2": "der_baron",
+      "attribute": null
+    },
+    {
+      "position": 103529,
+      "source": "der_baron",
+      "target": "audience",
+      "relation": "relatives",
+      "argument1": "der_baron",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 108486,
+      "source": "annina",
+      "target": "die_lerchenauischen",
+      "relation": "in_love_with",
+      "argument1": "octavian",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 111775,
+      "source": "annina",
+      "target": "faninal",
+      "relation": "in_love_with",
+      "argument1": "octavian",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 116505,
+      "source": "sophie",
+      "target": "faninal",
+      "relation": "!in_love_with",
+      "argument1": "sophie",
+      "argument2": "der_baron",
+      "attribute": null
+    },
+    {
+      "position": 124225,
+      "source": "\"Brief\"",
+      "target": "kammerzofe",
+      "relation": "in_love_with",
+      "argument1": "kammerzofe",
+      "argument2": "der_baron",
+      "attribute": null
+    },
+    {
+      "position": 126562,
+      "source": "\"Annina verkleidet sich\"",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"dame in trauer\"",
+      "argument2": "annina",
+      "attribute": null
+    },
+    {
+      "position": 126562,
+      "source": "\"Annina verkleidet sich\"",
+      "target": "valzacchi",
+      "relation": "identity",
+      "argument1": "\"dame in trauer\"",
+      "argument2": "annina",
+      "attribute": null
+    },
+    {
+      "position": 135759,
+      "source": "octavian",
+      "target": "der_baron",
+      "relation": "identity",
+      "argument1": "kammerzofe",
+      "argument2": "octavian",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 140165,
+      "source": "octavian",
+      "target": "der_baron",
+      "relation": "identity",
+      "argument1": "kammerzofe",
+      "argument2": "octavian",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 144822,
+      "source": "die_kinder",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "die_kinder",
+      "argument2": "der_baron",
+      "attribute": "lie"
+    },
+    {
+      "position": 144822,
+      "source": "die_kinder",
+      "target": "octavian",
+      "relation": "child_of",
+      "argument1": "die_kinder",
+      "argument2": "der_baron",
+      "attribute": "lie"
+    },
+    {
+      "position": 144822,
+      "source": "die_kinder",
+      "target": "der_baron",
+      "relation": "child_of",
+      "argument1": "die_kinder",
+      "argument2": "der_baron",
+      "attribute": "lie"
+    },
+    {
+      "position": 144822,
+      "source": "die_kinder",
+      "target": "wirt",
+      "relation": "child_of",
+      "argument1": "die_kinder",
+      "argument2": "der_baron",
+      "attribute": "lie"
+    },
+    {
+      "position": 153167,
+      "source": "der_baron",
+      "target": "komissarius",
+      "relation": "engaged",
+      "argument1": "der_baron",
+      "argument2": "kammerzofe",
+      "attribute": "lie"
+    },
+    {
+      "position": 153872,
+      "source": "der_baron",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "sophie",
+      "argument2": "\"Sophie Anna Barbara Faninal\"",
+      "attribute": null
+    },
+    {
+      "position": 153872,
+      "source": "der_baron",
+      "target": "kommissarius",
+      "relation": "identity",
+      "argument1": "sophie",
+      "argument2": "kammerzofe",
+      "attribute": "lie"
+    },
+    {
+      "position": 153930,
+      "source": "der_baron",
+      "target": "komissarius",
+      "relation": "child_of",
+      "argument1": "sophie",
+      "argument2": "faninal",
+      "attribute": null
+    },
+    {
+      "position": 157350,
+      "source": "der_baron",
+      "target": "kommissarius",
+      "relation": "parent_in_law",
+      "argument1": "faninal",
+      "argument2": "der_baron",
+      "attribute": null
+    },
+    {
+      "position": 157921,
+      "source": "faninal",
+      "target": "kommissarius",
+      "relation": "!child_of",
+      "argument1": "kammerzofe",
+      "argument2": "faninal",
+      "attribute": null
+    },
+    {
+      "position": 159874,
+      "source": "der_baron",
+      "target": "faninal",
+      "relation": "!spouses",
+      "argument1": "dame_in_trauer",
+      "argument2": "der_baron",
+      "attribute": null
+    },
+    {
+      "position": 159874,
+      "source": "der_baron",
+      "target": "faninal",
+      "relation": "!parent_of",
+      "argument1": "der_baron",
+      "argument2": "die_drei_waisen",
+      "attribute": null
+    },
+    {
+      "position": 170295,
+      "source": "sophie",
+      "target": "der_baron",
+      "relation": "!engaged",
+      "argument1": "der_baron",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 170295,
+      "source": "faninal",
+      "target": "sophie",
+      "relation": "!engaged",
+      "argument1": "der_baron",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 173326,
+      "source": "octavian",
+      "target": "der_baron",
+      "relation": "identity",
+      "argument1": "kammerzofe",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 176057,
+      "source": "marschallin",
+      "target": "der_baron",
+      "relation": "!engaged",
+      "argument1": "der_baron",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 176264,
+      "source": "sophie",
+      "target": "der_baron",
+      "relation": "!engaged",
+      "argument1": "sophie",
+      "argument2": "der_baron",
+      "attribute": null
+    },
+    {
+      "position": 180778,
+      "source": "octavian",
+      "target": "sophie",
+      "relation": "in_love_with",
+      "argument1": "octavian",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 183494,
+      "source": "marschallin",
+      "target": "sophie",
+      "relation": "in_love_with",
+      "argument1": "marschallin",
+      "argument2": "octavian",
+      "attribute": null
+    },
+    {
+      "position": 189686,
+      "source": "sophie",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "sophie",
+      "argument2": "octavian",
+      "attribute": null
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "filename": "lessing-nathan-der-weise_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 380,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "sittah",
+      "argument2": "saladin",
+      "attribute": null
+    },
+    {
+      "position": 465,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "fosterchild_of",
+      "argument1": "recha",
+      "argument2": "nathan",
+      "attribute": null
+    },
+    {
+      "position": 20402,
+      "source": "daja",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "SIBLING[SALADIN]",
+      "argument2": "saladin",
+      "attribute": null
+    },
+    {
+      "position": 29969,
+      "source": "nathan",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "derwisch",
+      "argument2": "\"Al-Hafi\"",
+      "attribute": null
+    },
+    {
+      "position": 117839,
+      "source": "tempelherr",
+      "target": "nathan",
+      "relation": "has_name",
+      "argument1": "tempelherr",
+      "argument2": "\"Curd von Stauffen\"",
+      "attribute": null
+    },
+    {
+      "position": 118176,
+      "source": "tempelherr",
+      "target": "nathan",
+      "relation": "relatives",
+      "argument1": "tempelherr",
+      "argument2": "\"Nathan bekannter von Stauffen\"",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 196651,
+      "source": "daja",
+      "target": "tempelherr",
+      "relation": "!parent_of",
+      "argument1": "nathan",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 197644,
+      "source": "daja",
+      "target": "audience",
+      "relation": "!parent_of",
+      "argument1": "nathan",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 197644,
+      "source": "daja",
+      "target": "tempelherr",
+      "relation": "!parent_of",
+      "argument1": "nathan",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 231151,
+      "source": "tempelherr",
+      "target": "saladin",
+      "relation": "!parent_of",
+      "argument1": "nathan",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 252578,
+      "source": "nathan",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "SPOUSE[NATHAN]",
+      "argument2": "nathan",
+      "attribute": null
+    },
+    {
+      "position": 252603,
+      "source": "nathan",
+      "target": "audience",
+      "relation": "children_of",
+      "argument1": "CHILDREN[NATHAN]",
+      "argument2": "nathan",
+      "attribute": null
+    },
+    {
+      "position": 252673,
+      "source": "nathan",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "SIBLING[NATHAN]",
+      "argument2": "nathan",
+      "attribute": null
+    },
+    {
+      "position": 281344,
+      "source": "tempelherr",
+      "target": "nathan",
+      "relation": "!parent_of",
+      "argument1": "nathan",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 281344,
+      "source": "daja",
+      "target": "tempelherr",
+      "relation": "!parent_of",
+      "argument1": "nathan",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 286257,
+      "source": "nathan",
+      "target": "tempelherr",
+      "relation": "identity",
+      "argument1": "recha",
+      "argument2": "IDENTITY[RECHA]",
+      "attribute": null
+    },
+    {
+      "position": 287170,
+      "source": "nathan",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "SIBLING[RECHA]",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 287170,
+      "source": "nathan",
+      "target": "tempelherr",
+      "relation": "siblings",
+      "argument1": "SIBLING[RECHA]",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 302658,
+      "source": "daja",
+      "target": "recha",
+      "relation": "!child_of",
+      "argument1": "recha",
+      "argument2": "nathan",
+      "attribute": null
+    },
+    {
+      "position": 302658,
+      "source": "recha",
+      "target": "sittah",
+      "relation": "!child_of",
+      "argument1": "recha",
+      "argument2": "nathan",
+      "attribute": null
+    },
+    {
+      "position": 312920,
+      "source": "nathan",
+      "target": "tempelherr",
+      "relation": "siblings",
+      "argument1": "SIBLING[RECHA]",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 312920,
+      "source": "nathan",
+      "target": "recha",
+      "relation": "siblings",
+      "argument1": "SIBLING[RECHA]",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 312920,
+      "source": "nathan",
+      "target": "saladin",
+      "relation": "siblings",
+      "argument1": "SIBLING[RECHA]",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 312920,
+      "source": "nathan",
+      "target": "sittah",
+      "relation": "siblings",
+      "argument1": "SIBLING[RECHA]",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 314847,
+      "source": "nathan",
+      "target": "tempelherr",
+      "relation": "has_name",
+      "argument1": "tempelherr",
+      "argument2": "\"Leu von Filneck\"",
+      "attribute": null
+    },
+    {
+      "position": 317562,
+      "source": "nathan",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "tempelherr",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 317562,
+      "source": "nathan",
+      "target": "tempelherr",
+      "relation": "siblings",
+      "argument1": "tempelherr",
+      "argument2": "recha",
+      "attribute": null
+    },
+    {
+      "position": 319307,
+      "source": "nathan",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "recha",
+      "argument2": "\"Blanda von Filneck\"",
+      "attribute": null
+    },
+    {
+      "position": 319307,
+      "source": "nathan",
+      "target": "tempelherr",
+      "relation": "has_name",
+      "argument1": "recha",
+      "argument2": "\"Blanda von Filneck\"",
+      "attribute": null
+    },
+    {
+      "position": 319307,
+      "source": "nathan",
+      "target": "recha",
+      "relation": "has_name",
+      "argument1": "recha",
+      "argument2": "\"Blanda von Filneck\"",
+      "attribute": null
+    },
+    {
+      "position": 319307,
+      "source": "nathan",
+      "target": "saladin",
+      "relation": "has_name",
+      "argument1": "recha",
+      "argument2": "\"Blanda von Filneck\"",
+      "attribute": null
+    },
+    {
+      "position": 319307,
+      "source": "nathan",
+      "target": "sittah",
+      "relation": "has_name",
+      "argument1": "recha",
+      "argument2": "\"Blanda von Filneck\"",
+      "attribute": null
+    },
+    {
+      "position": 322249,
+      "source": "\"Handschrift in Buch\"",
+      "target": "saladin",
+      "relation": "parent_of",
+      "argument1": "\"Assad\"",
+      "argument2": "tempelherr",
+      "attribute": null
+    }
+  ]
+}

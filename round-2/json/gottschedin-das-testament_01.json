@@ -1,0 +1,384 @@
+{
+  "filename": "gottschedin-das-testament_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 263,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kaltenbrunn",
+      "attribute": null
+    },
+    {
+      "position": 263,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "fraeulein_amalie",
+      "argument2": "herr_von_kaltenbrunn",
+      "attribute": null
+    },
+    {
+      "position": 263,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "fraeulein_amalie",
+      "argument2": "SIBLING-1[FRAU_VON_TIEFENBORN]",
+      "attribute": null
+    },
+    {
+      "position": 263,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "fraeulein_karoline",
+      "argument2": "SIBLING-1[FRAU_VON_TIEFENBORN]",
+      "attribute": null
+    },
+    {
+      "position": 263,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "herr_von_kaltenbrunn",
+      "argument2": "SIBLING-1[FRAU_VON_TIEFENBORN]",
+      "attribute": null
+    },
+    {
+      "position": 33629,
+      "source": "fraeulein_karoline",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "fraeulein_karoline",
+      "attribute": null
+    },
+    {
+      "position": 33629,
+      "source": "fraeulein_karoline",
+      "target": "fraeulein_amalie",
+      "relation": "fosterparent_of",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "fraeulein_karoline",
+      "attribute": null
+    },
+    {
+      "position": 33629,
+      "source": "fraeulein_karoline",
+      "target": "frau_von_tiefenborn",
+      "relation": "fosterparent_of",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "fraeulein_karoline",
+      "attribute": null
+    },
+    {
+      "position": 69035,
+      "source": "frau_von_tiefenborn",
+      "target": "audience",
+      "relation": "siblings-in-law",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 71233,
+      "source": "frau_von_tiefenborn",
+      "target": "audience",
+      "relation": "widow:er_of",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "HUSBAND[FRAU_VON_TIEFENBORN]",
+      "attribute": null
+    },
+    {
+      "position": 169839,
+      "source": "fraeulein_amalie",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "SIBLING-1[FRAU_VON_TIEFENBORN]",
+      "argument2": "SIBLING-2[FRAU_VON_TIEFENBORN]",
+      "attribute": null
+    },
+    {
+      "position": 169839,
+      "source": "fraeulein_amalie",
+      "target": "herr_von_wagehals",
+      "relation": "siblings",
+      "argument1": "SIBLING-1[FRAU_VON_TIEFENBORN]",
+      "argument2": "SIBLING-2[FRAU_VON_TIEFENBORN]",
+      "attribute": null
+    },
+    {
+      "position": 169985,
+      "source": "herr_von_wagehals",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "SIBLING-2[FRAU_VON_TIEFENBORN]",
+      "argument2": "CHILD[SIBLING-2[FRAU_VON_TIEFENBORN]]",
+      "attribute": null
+    },
+    {
+      "position": 176012,
+      "source": "herr_von_wagenhals",
+      "target": "frau_von_tiefenborn",
+      "relation": "in_love_with",
+      "argument1": "fraeulein_amalie",
+      "argument2": "herr_von_wagehals",
+      "attribute": null
+    },
+    {
+      "position": 176805,
+      "source": "herr_von_wagenhals",
+      "target": "frau_von_tiefenborn",
+      "relation": "in_love_with",
+      "argument1": "fraeulein_amalie",
+      "argument2": "herr_von_wagehals",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "fraeulein_amalie",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "fraeulein_karoline",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "herr_von_wagehals",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "\"Dr. Schlagbalsam\"",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "dr_hippokras",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "herr_von_kaltenbrunn",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "herr_von_kreuzweg",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "herr_von_ziegendorf",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217604,
+      "source": "frau_von_tiefenborn",
+      "target": "notarius",
+      "relation": "engaged",
+      "argument1": "frau_von_tiefenborn",
+      "argument2": "herr_von_ziegendorf",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "fraeulein_amalie",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "fraeulein_karoline",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "herr_von_wagehals",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "\"Dr. Schlagbalsam\"",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "dr_hippokras",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "herr_von_kaltenbrunn",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "herr_von_kreuzweg",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "herr_von_ziegendorf",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 217974,
+      "source": "herr_von_wagehals",
+      "target": "notarius",
+      "relation": "!in_love_with",
+      "argument1": "herr_von_wagehals",
+      "argument2": "fraeulein_amalie",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "fraeulein_amalie",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "fraeulein_karoline",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "herr_von_wagehals",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "\"Dr. Schlagbalsam\"",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "dr_hippokras",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "herr_von_kaltenbrunn",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "herr_von_kreuzweg",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "herr_von_ziegendorf",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    },
+    {
+      "position": 223390,
+      "source": "fraeulein_karoline",
+      "target": "notarius",
+      "relation": "!in_love_with",
+      "argument1": "fraeulein_karoline",
+      "argument2": "herr_von_kreuzweg",
+      "attribute": null
+    }
+  ]
+}

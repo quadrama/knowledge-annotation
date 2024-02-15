@@ -11,7 +11,9 @@ You can find the following data in this repository:
 - round 3: In round 3, every play was checked by at least one annotator based on a discussion of issues. Also, annotations for the categories ``murderer\_of(A, B)``, ``dead(A)`` and ``unborn\_child\_of(A, B)`` were added.
 
 All annotations are provided in their original annotation format used by the 
-[CorefAnnotator](https://github.com/nilsreiter/CorefAnnotator/) and as a csv-export. Columns in the csv files are:
+[CorefAnnotator](https://github.com/nilsreiter/CorefAnnotator/), as a csv-export and as a JSON-export.
+
+Columns in the csv files are:
 
 - begin: Character position of the beginning of the annotation span (character as in 'written symbol')
 - end: Character position of the end of the annotation span
@@ -21,6 +23,19 @@ All annotations are provided in their original annotation format used by the
 - entityNum: Index of the annotation label
 - entityLabel: The annotation label
 - entityGroup: (not used in this annotation project)
+
+The keys in the JSON files are:
+
+- filename: Basename of the annotation file
+- annotator: ID of the annotator
+- transfers: A list of the transfers in the annotation, with the keys:
+	- position: Character position of the beginning of the annotation span
+	- source: The source of the transfer
+	- target: The target of the transfer
+	- relation: Name of the family relation
+	- argument1: The first argument of the relation predicate
+	- argument2: The second argument of the relation predicate
+	- attribute: An optional attribute, such as "lie" or "uncertain"
 
 The original TEI-XML files used for the annotation can be found in the data of the [German Drama Corpus (GerDraCor)](https://dracor.org/ger).
 These can be used to resolve the character position of the annotations (columns "begin" and "end").

@@ -1,0 +1,339 @@
+{
+  "filename": "schnitzler-komtesse-mizzi_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 229,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "komtesse",
+      "argument2": "graf",
+      "attribute": null
+    },
+    {
+      "position": 8617,
+      "source": "graf",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "lolo",
+      "argument2": "FIANC\u00c9E[LOLO]",
+      "attribute": null
+    },
+    {
+      "position": 8617,
+      "source": "graf",
+      "target": "fuerst",
+      "relation": "engaged",
+      "argument1": "lolo",
+      "argument2": "FIANC\u00c9E[LOLO]",
+      "attribute": null
+    },
+    {
+      "position": 15769,
+      "source": "graf",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "graf",
+      "argument2": "lolo",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 17802,
+      "source": "fuerst",
+      "target": "audience",
+      "relation": "relatives",
+      "argument1": "fuerst",
+      "argument2": "\"Fanny Hohenstein\"",
+      "attribute": null
+    },
+    {
+      "position": 17802,
+      "source": "fuerst",
+      "target": "graf",
+      "relation": "relatives",
+      "argument1": "fuerst",
+      "argument2": "\"Fanny Hohenstein\"",
+      "attribute": null
+    },
+    {
+      "position": 21203,
+      "source": "fuerst",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[FUERST]",
+      "argument2": "fuerst",
+      "attribute": null
+    },
+    {
+      "position": 21203,
+      "source": "fuerst",
+      "target": "graf",
+      "relation": "child_of",
+      "argument1": "CHILD[FUERST]",
+      "argument2": "fuerst",
+      "attribute": null
+    },
+    {
+      "position": 36559,
+      "source": "komtesse",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "komtesse",
+      "argument2": "CHILD[FUERST]",
+      "attribute": null
+    },
+    {
+      "position": 47065,
+      "source": "fuerst",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "CHILD[FUERST]",
+      "argument2": "philipp",
+      "attribute": null
+    },
+    {
+      "position": 47065,
+      "source": "fuerst",
+      "target": "komtesse",
+      "relation": "identity",
+      "argument1": "CHILD[FUERST]",
+      "argument2": "philipp",
+      "attribute": null
+    },
+    {
+      "position": 58907,
+      "source": "fuerst",
+      "target": "lolo",
+      "relation": "child_of",
+      "argument1": "philipp",
+      "argument2": "fuerst",
+      "attribute": null
+    },
+    {
+      "position": 61778,
+      "source": "lolo",
+      "target": "audience",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 61778,
+      "source": "lolo",
+      "target": "fuerst",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 61778,
+      "source": "lolo",
+      "target": "graf",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 61778,
+      "source": "lolo",
+      "target": "komtesse",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 61778,
+      "source": "lolo",
+      "target": "philipp",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 62129,
+      "source": "lolo",
+      "target": "audience",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 62129,
+      "source": "lolo",
+      "target": "fuerst",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 62129,
+      "source": "lolo",
+      "target": "komtesse",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 62129,
+      "source": "lolo",
+      "target": "philipp",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 62266,
+      "source": "lolo",
+      "target": "audience",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 62266,
+      "source": "lolo",
+      "target": "fuerst",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 62266,
+      "source": "lolo",
+      "target": "komtesse",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 62266,
+      "source": "lolo",
+      "target": "philipp",
+      "relation": "identity, ",
+      "argument1": "FIANC\u00c9E[LOLO]",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 70426,
+      "source": "lolo",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "lolo",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 70426,
+      "source": "lolo",
+      "target": "komtesse",
+      "relation": "in_love_with",
+      "argument1": "lolo",
+      "argument2": "wasner",
+      "attribute": null
+    },
+    {
+      "position": 72876,
+      "source": "fuerst",
+      "target": "wasner",
+      "relation": "child_of",
+      "argument1": "philipp",
+      "argument2": "fuerst",
+      "attribute": null
+    },
+    {
+      "position": 74674,
+      "source": "philipp",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "lolo",
+      "argument2": "graf",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 74674,
+      "source": "philipp",
+      "target": "fuerst",
+      "relation": "child_of",
+      "argument1": "lolo",
+      "argument2": "graf",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 74950,
+      "source": "philipp",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "lolo",
+      "argument2": "fuerst",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 74950,
+      "source": "philipp",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "komtesse",
+      "argument2": "fuerst",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 74950,
+      "source": "philipp",
+      "target": "fuerst",
+      "relation": "in_love_with",
+      "argument1": "lolo",
+      "argument2": "fuerst",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 74950,
+      "source": "philipp",
+      "target": "fuerst",
+      "relation": "in_love_with",
+      "argument1": "komtesse",
+      "argument2": "fuerst",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 75877,
+      "source": "philipp",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "lolo",
+      "argument2": "philipp",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 75877,
+      "source": "philipp",
+      "target": "fuerst",
+      "relation": "parent_of",
+      "argument1": "lolo",
+      "argument2": "philipp",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 87962,
+      "source": "komtesse",
+      "target": "audience",
+      "relation": "couples",
+      "argument1": "komtesse",
+      "argument2": "professor_windhofer",
+      "attribute": null
+    }
+  ]
+}

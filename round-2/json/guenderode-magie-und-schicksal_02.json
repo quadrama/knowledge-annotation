@@ -1,0 +1,195 @@
+{
+  "filename": "guenderode-magie-und-schicksal_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 203,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "ligares",
+      "argument2": "magier",
+      "attribute": null
+    },
+    {
+      "position": 274,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "timandras",
+      "argument2": "cassandra",
+      "attribute": null
+    },
+    {
+      "position": 302,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "timandras",
+      "argument2": "ladikae",
+      "attribute": null
+    },
+    {
+      "position": 9493,
+      "source": "zeno",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ligares",
+      "argument2": "ladikae",
+      "attribute": null
+    },
+    {
+      "position": 9652,
+      "source": "zeno",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "ladikae",
+      "argument2": "ligares",
+      "attribute": null
+    },
+    {
+      "position": 11645,
+      "source": "bote",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "ladikae",
+      "argument2": "timandras",
+      "attribute": null
+    },
+    {
+      "position": 11645,
+      "source": "bote",
+      "target": "zeno",
+      "relation": "engaged",
+      "argument1": "ladikae",
+      "argument2": "timandras",
+      "attribute": null
+    },
+    {
+      "position": 11645,
+      "source": "bote",
+      "target": "liagres",
+      "relation": "engaged",
+      "argument1": "ladikae",
+      "argument2": "timandras",
+      "attribute": null
+    },
+    {
+      "position": 22478,
+      "source": "cassandra",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "cassandra",
+      "argument2": "ligares",
+      "attribute": null
+    },
+    {
+      "position": 39933,
+      "source": "timandras",
+      "target": "zeno",
+      "relation": "identity",
+      "argument1": "\"J\u00e4ger\"",
+      "argument2": "timandras",
+      "attribute": null
+    },
+    {
+      "position": 39933,
+      "source": "timandras",
+      "target": "ligares",
+      "relation": "identity",
+      "argument1": "\"J\u00e4ger\"",
+      "argument2": "timandras",
+      "attribute": null
+    },
+    {
+      "position": 42460,
+      "source": "ligares",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "ladikae",
+      "argument2": "timandras",
+      "attribute": null
+    },
+    {
+      "position": 42460,
+      "source": "ligares",
+      "target": "zeno",
+      "relation": "in_love_with",
+      "argument1": "ladikae",
+      "argument2": "timandras",
+      "attribute": null
+    },
+    {
+      "position": 61975,
+      "source": "ladikae",
+      "target": "ligares",
+      "relation": "!in_love_with",
+      "argument1": "ladikae",
+      "argument2": "ligares",
+      "attribute": null
+    },
+    {
+      "position": 69385,
+      "source": "cassandra",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "\"Fremdling\"",
+      "argument2": "LOVER[FREMDLING]",
+      "attribute": null
+    },
+    {
+      "position": 69385,
+      "source": "\"Ligares Monolog\"",
+      "target": "cassandra",
+      "relation": "in_love_with",
+      "argument1": "\"Fremdling\"",
+      "argument2": "LOVER[FREMDLING]",
+      "attribute": null
+    },
+    {
+      "position": 69385,
+      "source": "cassandra",
+      "target": "ligares",
+      "relation": "in_love_with",
+      "argument1": "\"Fremdling\"",
+      "argument2": "LOVER[FREMDLING]",
+      "attribute": null
+    },
+    {
+      "position": 73096,
+      "source": "ligares",
+      "target": "cassandra",
+      "relation": "identity",
+      "argument1": "\"Fremdling\"",
+      "argument2": "ligares",
+      "attribute": null
+    },
+    {
+      "position": 73371,
+      "source": "cassandra",
+      "target": "ligares",
+      "relation": "has_name",
+      "argument1": "PARENT[LIGARES]",
+      "argument2": "\"Cassandra\"",
+      "attribute": null
+    },
+    {
+      "position": 73371,
+      "source": "cassandra",
+      "target": "ligares",
+      "relation": "identity",
+      "argument1": "\"fremde Frau\"",
+      "argument2": "PARENT[LIGARES]",
+      "attribute": null
+    },
+    {
+      "position": 75367,
+      "source": "cassandra",
+      "target": "ligares",
+      "relation": "siblings",
+      "argument1": "timandras",
+      "argument2": "ligares",
+      "attribute": null
+    }
+  ]
+}

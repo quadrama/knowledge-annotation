@@ -1,0 +1,501 @@
+{
+  "filename": "gellert-die-zaertlichen-schwestern_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 216,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "cleon",
+      "argument2": "der_magister",
+      "attribute": null
+    },
+    {
+      "position": 248,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "lottchen",
+      "argument2": "cleon",
+      "attribute": null
+    },
+    {
+      "position": 290,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "julchen",
+      "argument2": "cleon",
+      "attribute": null
+    },
+    {
+      "position": 333,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "siegmund",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 370,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "damis",
+      "argument2": "julchen",
+      "attribute": null
+    },
+    {
+      "position": 7342,
+      "source": "lottchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 7342,
+      "source": "lottchen",
+      "target": "cleon",
+      "relation": "in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 7342,
+      "source": "lottchen",
+      "target": "siegmund",
+      "relation": "in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 8103,
+      "source": "lottchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "siegmund",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 8103,
+      "source": "lottchen",
+      "target": "cleon",
+      "relation": "in_love_with",
+      "argument1": "siegmund",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 13430,
+      "source": "lottchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 13430,
+      "source": "lottchen",
+      "target": "siegmund",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 13430,
+      "source": "\"Verhalten Julchen\"",
+      "target": "lottchen",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 14797,
+      "source": "damis",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "damis",
+      "argument2": "julchen",
+      "attribute": null
+    },
+    {
+      "position": 14797,
+      "source": "damis",
+      "target": "siegmund",
+      "relation": "in_love_with",
+      "argument1": "damis",
+      "argument2": "julchen",
+      "attribute": null
+    },
+    {
+      "position": 14797,
+      "source": "damis",
+      "target": "lottchen",
+      "relation": "in_love_with",
+      "argument1": "damis",
+      "argument2": "julchen",
+      "attribute": null
+    },
+    {
+      "position": 14967,
+      "source": "lottchen",
+      "target": "damis",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 18894,
+      "source": "damis",
+      "target": "julchen",
+      "relation": "!in_love_with",
+      "argument1": "damis",
+      "argument2": "julchen",
+      "attribute": "lie"
+    },
+    {
+      "position": 46559,
+      "source": "cleon",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "\"Frau Stephan\"",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 46559,
+      "source": "cleon",
+      "target": "lottchen",
+      "relation": "dead",
+      "argument1": "\"Frau Stephan\"",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 48020,
+      "source": "lottchen",
+      "target": "cleon",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 57228,
+      "source": "julchen",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 57228,
+      "source": "julchen",
+      "target": "cleon",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 68400,
+      "source": "damis",
+      "target": "audience",
+      "relation": "in_love_wtih",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 68400,
+      "source": "damis",
+      "target": "lottchen",
+      "relation": "in_love_wtih",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 74021,
+      "source": "julchen",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 74021,
+      "source": "julchen",
+      "target": "lottchen",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 74021,
+      "source": "julchen",
+      "target": "damis",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 102653,
+      "source": "der_magister",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 102653,
+      "source": "der_magister",
+      "target": "cleon",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 106141,
+      "source": "siegmund",
+      "target": "cleon",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "siegmund",
+      "attribute": "lie"
+    },
+    {
+      "position": 121872,
+      "source": "cleon",
+      "target": "julchen",
+      "relation": "in_love_with",
+      "argument1": "damis",
+      "argument2": "julchen",
+      "attribute": null
+    },
+    {
+      "position": 125802,
+      "source": "julchen",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 125802,
+      "source": "julchen",
+      "target": "siegmund",
+      "relation": "!in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 130570,
+      "source": "julchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "damis",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 130570,
+      "source": "julchen",
+      "target": "lottchen",
+      "relation": "in_love_with",
+      "argument1": "damis",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 130570,
+      "source": "julchen",
+      "target": "damis",
+      "relation": "in_love_with",
+      "argument1": "damis",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 131050,
+      "source": "lottchen",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "damis",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 131050,
+      "source": "lottchen",
+      "target": "damis",
+      "relation": "!in_love_with",
+      "argument1": "damis",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 131050,
+      "source": "lottchen",
+      "target": "julchen",
+      "relation": "!in_love_with",
+      "argument1": "damis",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 132887,
+      "source": "julchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 132887,
+      "source": "julchen",
+      "target": "lottchen",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 132887,
+      "source": "julchen",
+      "target": "damis",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 168299,
+      "source": "simon",
+      "target": "lottchen",
+      "relation": "!in_love_with",
+      "argument1": "siegmund",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 173632,
+      "source": "damis",
+      "target": "lottchen",
+      "relation": "!in_love_with",
+      "argument1": "siegmund",
+      "argument2": "lottchen",
+      "attribute": null
+    },
+    {
+      "position": 179413,
+      "source": "siegmund",
+      "target": "cleon",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 179413,
+      "source": "julchen",
+      "target": "lottchen",
+      "relation": "in_love_with",
+      "argument1": "julchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 179495,
+      "source": "siegmund",
+      "target": "cleon",
+      "relation": "in_love_with",
+      "argument1": "lottchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 179495,
+      "source": "julchen",
+      "target": "lottchen",
+      "relation": "in_love_with",
+      "argument1": "lottchen",
+      "argument2": "damis",
+      "attribute": null
+    },
+    {
+      "position": 189846,
+      "source": "lottchen",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 189846,
+      "source": "lottchen",
+      "target": "cleon",
+      "relation": "!in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 189846,
+      "source": "lottchen",
+      "target": "damis",
+      "relation": "!in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 189846,
+      "source": "lottchen",
+      "target": "julchen",
+      "relation": "!in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 189846,
+      "source": "lottchen",
+      "target": "der_magister",
+      "relation": "!in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    },
+    {
+      "position": 189846,
+      "source": "lottchen",
+      "target": "simon",
+      "relation": "!in_love_with",
+      "argument1": "lottchen",
+      "argument2": "siegmund",
+      "attribute": null
+    }
+  ]
+}

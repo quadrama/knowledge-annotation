@@ -1,0 +1,591 @@
+{
+  "filename": "lenz-der-hofmeister_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 247,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "geheimer_rat",
+      "argument2": "major",
+      "attribute": null
+    },
+    {
+      "position": 270,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "major",
+      "argument2": "majorin",
+      "attribute": null
+    },
+    {
+      "position": 303,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "gustchen",
+      "argument2": "majorin",
+      "attribute": null
+    },
+    {
+      "position": 751,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "der_alte_paetus",
+      "argument2": "paetus",
+      "attribute": null
+    },
+    {
+      "position": 777,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "pastor",
+      "argument2": "laeuffer",
+      "attribute": null
+    },
+    {
+      "position": 918,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "jungfer_rehaar",
+      "argument2": "rehaar",
+      "attribute": null
+    },
+    {
+      "position": 2700,
+      "source": "geheimer_rat",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[MAJOR]",
+      "argument2": "major",
+      "attribute": null
+    },
+    {
+      "position": 7044,
+      "source": "majorin",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[MAJORIN]",
+      "argument2": "majorin",
+      "attribute": null
+    },
+    {
+      "position": 11832,
+      "source": "graf_wermuth",
+      "target": "majorin",
+      "relation": "parent_of",
+      "argument1": "pastor",
+      "argument2": "laeuffer",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 13401,
+      "source": "major",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "CHILD[MAJOR]",
+      "argument2": "leopold",
+      "attribute": null
+    },
+    {
+      "position": 17333,
+      "source": "major",
+      "target": "laeuffer",
+      "relation": "child_of",
+      "argument1": "CHILD[MAJOR]",
+      "argument2": "major",
+      "attribute": null
+    },
+    {
+      "position": 21914,
+      "source": "fritz",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "fritz",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 21914,
+      "source": "fritz",
+      "target": "gustchen",
+      "relation": "in_love_with",
+      "argument1": "fritz",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 22298,
+      "source": "gustchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "gustchen",
+      "argument2": "fritz",
+      "attribute": null
+    },
+    {
+      "position": 22298,
+      "source": "gustchen",
+      "target": "gustchen",
+      "relation": "in_love_with",
+      "argument1": "gustchen",
+      "argument2": "fritz",
+      "attribute": null
+    },
+    {
+      "position": 25759,
+      "source": "fritz",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "fritz",
+      "argument2": "geheimer_rat",
+      "attribute": null
+    },
+    {
+      "position": 66789,
+      "source": "gustchen",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "laeuffer",
+      "argument2": "\"Herrmannchen\"",
+      "attribute": null
+    },
+    {
+      "position": 66942,
+      "source": "laeuffer",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "leopold",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 67339,
+      "source": "gustchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "laeuffer",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 68803,
+      "source": "gustchen",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "gustchen",
+      "argument2": "laeuffer",
+      "attribute": null
+    },
+    {
+      "position": 88051,
+      "source": "majorin",
+      "target": "geheimer_rat",
+      "relation": "in_love_with",
+      "argument1": "laeuffer",
+      "argument2": "gustchen",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 88051,
+      "source": "majorin",
+      "target": "major",
+      "relation": "in_love_with",
+      "argument1": "laeuffer",
+      "argument2": "gustchen",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 92092,
+      "source": "laeuffer",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "laeuffer",
+      "argument2": "\"Mandel\"",
+      "attribute": null
+    },
+    {
+      "position": 92092,
+      "source": "laeuffer",
+      "target": "wenzeslaus",
+      "relation": "has_name",
+      "argument1": "laeuffer",
+      "argument2": "\"Mandel\"",
+      "attribute": null
+    },
+    {
+      "position": 96077,
+      "source": "laeuffer",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "graf_wermuth",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 96077,
+      "source": "laeuffer",
+      "target": "wenzeslaus",
+      "relation": "engaged",
+      "argument1": "graf_wermuth",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 117885,
+      "source": "marthe",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "gustchen",
+      "argument2": "\"Gretel\"",
+      "attribute": null
+    },
+    {
+      "position": 119210,
+      "source": "gustchen",
+      "target": "marthe",
+      "relation": "parent_of",
+      "argument1": "PARENT[GUSTCHEN]",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 130125,
+      "source": "major",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "gustchen",
+      "argument2": "\"Gustel\"",
+      "attribute": null
+    },
+    {
+      "position": 130125,
+      "source": "major",
+      "target": "geheimer_rat",
+      "relation": "has_name",
+      "argument1": "gustchen",
+      "argument2": "\"Gustel\"",
+      "attribute": null
+    },
+    {
+      "position": 130125,
+      "source": "major",
+      "target": "graf_wermuth",
+      "relation": "has_name",
+      "argument1": "gustchen",
+      "argument2": "\"Gustel\"",
+      "attribute": null
+    },
+    {
+      "position": 132648,
+      "source": "fritz",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "paetus",
+      "argument2": "jungfer_hamster",
+      "attribute": null
+    },
+    {
+      "position": 132915,
+      "source": "fritz",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "jungfer_rehaar",
+      "argument2": "paetus",
+      "attribute": null
+    },
+    {
+      "position": 139528,
+      "source": "rehaar",
+      "target": "fritz",
+      "relation": "lovers",
+      "argument1": "paetus",
+      "argument2": "jungfer_rehaar",
+      "attribute": null
+    },
+    {
+      "position": 139528,
+      "source": "rehaar",
+      "target": "paetus",
+      "relation": "lovers",
+      "argument1": "paetus",
+      "argument2": "jungfer_rehaar",
+      "attribute": null
+    },
+    {
+      "position": 145055,
+      "source": "marthe",
+      "target": "laeuffer",
+      "relation": "parent_of",
+      "argument1": "PARENT[CHILD]",
+      "argument2": "CHILD[PARENT]",
+      "attribute": null
+    },
+    {
+      "position": 145769,
+      "source": "marthe",
+      "target": "laeuffer",
+      "relation": "parent_of",
+      "argument1": "PARENT[PARENT_CHILD]",
+      "argument2": "PARENT_CHILD",
+      "attribute": null
+    },
+    {
+      "position": 146529,
+      "source": "laeuffer",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "laeuffer",
+      "argument2": "CHILD[PARENT]",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 146529,
+      "source": "laeuffer",
+      "target": "marthe",
+      "relation": "parent_of",
+      "argument1": "laeuffer",
+      "argument2": "CHILD[PARENT]",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 146722,
+      "source": "marthe",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "CHILD[PARENT]",
+      "argument2": "\"Suschen\"",
+      "attribute": null
+    },
+    {
+      "position": 158162,
+      "source": "rehaar",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "jungfer_rehaar",
+      "argument2": "\"Kathrinchen\"",
+      "attribute": null
+    },
+    {
+      "position": 162106,
+      "source": "\"Brief\"",
+      "target": "fritz",
+      "relation": "paetus, lovers",
+      "argument1": "laeuffer",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 165023,
+      "source": "paetus",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "fritz",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 165023,
+      "source": "fritz",
+      "target": "seiffenblase",
+      "relation": "in_love_with",
+      "argument1": "fritz",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 182933,
+      "source": "laeuffer",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "laeuffer",
+      "argument2": "lise",
+      "attribute": null
+    },
+    {
+      "position": 182933,
+      "source": "laeuffer",
+      "target": "lise",
+      "relation": "in_love_with",
+      "argument1": "laeuffer",
+      "argument2": "lise",
+      "attribute": null
+    },
+    {
+      "position": 183262,
+      "source": "laeuffer",
+      "target": "wenzelsaus",
+      "relation": "in_love_with",
+      "argument1": "laeuffer",
+      "argument2": "lise",
+      "attribute": null
+    },
+    {
+      "position": 186697,
+      "source": "lise",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "lise",
+      "argument2": "laeuffer",
+      "attribute": null
+    },
+    {
+      "position": 186697,
+      "source": "lise",
+      "target": "laeuffer",
+      "relation": "in_love_with",
+      "argument1": "lise",
+      "argument2": "laeuffer",
+      "attribute": null
+    },
+    {
+      "position": 186697,
+      "source": "lise",
+      "target": "wenzelsaus",
+      "relation": "in_love_with",
+      "argument1": "lise",
+      "argument2": "laeuffer",
+      "attribute": null
+    },
+    {
+      "position": 198749,
+      "source": "major",
+      "target": "audience",
+      "relation": "grandchild",
+      "argument1": "CHILD[PARENT]",
+      "argument2": "major",
+      "attribute": null
+    },
+    {
+      "position": 198749,
+      "source": "major",
+      "target": "geheimer_rat",
+      "relation": "grandchild",
+      "argument1": "CHILD[PARENT]",
+      "argument2": "major",
+      "attribute": null
+    },
+    {
+      "position": 199081,
+      "source": "major",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "marthe",
+      "argument2": "der_alte_paetus",
+      "attribute": null
+    },
+    {
+      "position": 199081,
+      "source": "major",
+      "target": "geheimer_rat",
+      "relation": "parent_of",
+      "argument1": "marthe",
+      "argument2": "der_alte_paetus",
+      "attribute": null
+    },
+    {
+      "position": 200545,
+      "source": "fritz",
+      "target": "major",
+      "relation": "lovers",
+      "argument1": "fritz",
+      "argument2": "gustchen",
+      "attribute": null
+    },
+    {
+      "position": 203911,
+      "source": "der_alte_paetus",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "paetus",
+      "argument2": "\"Gustav\"",
+      "attribute": null
+    },
+    {
+      "position": 204296,
+      "source": "paetus",
+      "target": "geheimer_rat",
+      "relation": "in_love_with",
+      "argument1": "paetus",
+      "argument2": "LOVER[PAETUS]",
+      "attribute": null
+    },
+    {
+      "position": 204296,
+      "source": "paetus",
+      "target": "major",
+      "relation": "in_love_with",
+      "argument1": "paetus",
+      "argument2": "LOVER[PAETUS]",
+      "attribute": null
+    },
+    {
+      "position": 204296,
+      "source": "paetus",
+      "target": "der_alte_paetus",
+      "relation": "in_love_with",
+      "argument1": "paetus",
+      "argument2": "LOVER[PAETUS]",
+      "attribute": null
+    },
+    {
+      "position": 204652,
+      "source": "fritz",
+      "target": "audience",
+      "relation": "fosterparent_of",
+      "argument1": "fritz",
+      "argument2": "CHILD[GUSTCHEN]",
+      "attribute": null
+    },
+    {
+      "position": 204652,
+      "source": "fritz",
+      "target": "geheimer_rat",
+      "relation": "fosterparent_of",
+      "argument1": "fritz",
+      "argument2": "CHILD[GUSTCHEN]",
+      "attribute": null
+    },
+    {
+      "position": 204652,
+      "source": "fritz",
+      "target": "major",
+      "relation": "fosterparent_of",
+      "argument1": "fritz",
+      "argument2": "CHILD[GUSTCHEN]",
+      "attribute": null
+    },
+    {
+      "position": 204652,
+      "source": "fritz",
+      "target": "gustchen",
+      "relation": "fosterparent_of",
+      "argument1": "fritz",
+      "argument2": "CHILD[GUSTCHEN]",
+      "attribute": null
+    },
+    {
+      "position": 204652,
+      "source": "fritz",
+      "target": "paetus",
+      "relation": "fosterparent_of",
+      "argument1": "fritz",
+      "argument2": "CHILD[GUSTCHEN]",
+      "attribute": null
+    },
+    {
+      "position": 204652,
+      "source": "fritz",
+      "target": "der_alte_paetus",
+      "relation": "fosterparent_of",
+      "argument1": "fritz",
+      "argument2": "CHILD[GUSTCHEN]",
+      "attribute": null
+    }
+  ]
+}

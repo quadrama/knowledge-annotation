@@ -1,0 +1,339 @@
+{
+  "filename": "klinger-die-zwillinge_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 175,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "alter_guelfo",
+      "argument2": "guelfo",
+      "attribute": null
+    },
+    {
+      "position": 175,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "alter_guelfo",
+      "argument2": "ferdinando",
+      "attribute": null
+    },
+    {
+      "position": 200,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "amalia",
+      "argument2": "guelfo",
+      "attribute": null
+    },
+    {
+      "position": 200,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "amalia",
+      "argument2": "ferdinando",
+      "attribute": null
+    },
+    {
+      "position": 7586,
+      "source": "grimaldi",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "guelfo",
+      "argument2": "camilla",
+      "attribute": null
+    },
+    {
+      "position": 7624,
+      "source": "grimaldi",
+      "target": "audience",
+      "relation": "couple",
+      "argument1": "ferdinando",
+      "argument2": "camilla",
+      "attribute": null
+    },
+    {
+      "position": 19692,
+      "source": "grimaldi",
+      "target": "guelfo",
+      "relation": "!siblings",
+      "argument1": "guelfo",
+      "argument2": "ferdinando",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 22543,
+      "source": "grimaldi",
+      "target": "guelfo",
+      "relation": "!child_of",
+      "argument1": "guelfo",
+      "argument2": "alter_guelfo",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 39380,
+      "source": "guelfo",
+      "target": "audience",
+      "relation": "!parent_of",
+      "argument1": "alter_guelfo",
+      "argument2": "guelfo",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 39380,
+      "source": "guelfo",
+      "target": "alter_guelfo",
+      "relation": "!parent_of",
+      "argument1": "alter_guelfo",
+      "argument2": "guelfo",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 39380,
+      "source": "guelfo",
+      "target": "amalia",
+      "relation": "!parent_of",
+      "argument1": "alter_guelfo",
+      "argument2": "guelfo",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 39420,
+      "source": "guelfo",
+      "target": "audience",
+      "relation": "!parent_of",
+      "argument1": "amalia",
+      "argument2": "guelfo",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 39420,
+      "source": "guelfo",
+      "target": "alter_guelfo",
+      "relation": "!parent_of",
+      "argument1": "amalia",
+      "argument2": "guelfo",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 39420,
+      "source": "guelfo",
+      "target": "amalia",
+      "relation": "!parent_of",
+      "argument1": "amalia",
+      "argument2": "guelfo",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 43920,
+      "source": "alter_guelfo",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "ferdinando",
+      "argument2": "camilla",
+      "attribute": null
+    },
+    {
+      "position": 43920,
+      "source": "alter_guelfo",
+      "target": "guelfo",
+      "relation": "engaged",
+      "argument1": "ferdinando",
+      "argument2": "camilla",
+      "attribute": null
+    },
+    {
+      "position": 71323,
+      "source": "alter_guelfo",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "alter_guelfo",
+      "argument2": "DAUGHTER_OF[ALTER_GUELFO]",
+      "attribute": null
+    },
+    {
+      "position": 71323,
+      "source": "alter_guelfo",
+      "target": "camilla",
+      "relation": "child_of",
+      "argument1": "alter_guelfo",
+      "argument2": "DAUGHTER_OF[ALTER_GUELFO]",
+      "attribute": null
+    },
+    {
+      "position": 73747,
+      "source": "grimaldi",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "\"Juliette\"",
+      "argument2": "grimaldi",
+      "attribute": null
+    },
+    {
+      "position": 73803,
+      "source": "grimaldi",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "grimaldi",
+      "argument2": "\"Juliette\"",
+      "attribute": null
+    },
+    {
+      "position": 82906,
+      "source": "\"Kuss\"",
+      "target": "camilla",
+      "relation": "in_love_with",
+      "argument1": "guelfo",
+      "argument2": "camilla",
+      "attribute": null
+    },
+    {
+      "position": 82994,
+      "source": "camilla",
+      "target": "guelfo",
+      "relation": "!in_love_with",
+      "argument1": "camilla",
+      "argument2": "guelfo",
+      "attribute": null
+    },
+    {
+      "position": 83934,
+      "source": "guelfo",
+      "target": "ferdinando",
+      "relation": "in_love_with",
+      "argument1": "guelfo",
+      "argument2": "camilla",
+      "attribute": null
+    },
+    {
+      "position": 135710,
+      "source": "guelfo",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "guelfo",
+      "argument2": "ferdinando",
+      "attribute": null
+    },
+    {
+      "position": 135710,
+      "source": "guelfo",
+      "target": "grimaldi",
+      "relation": "murderer_of",
+      "argument1": "guelfo",
+      "argument2": "ferdinando",
+      "attribute": null
+    },
+    {
+      "position": 139480,
+      "source": "\"Ferdinandos Leichnam\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "ferdinando",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 139480,
+      "source": "\"Ferdinandos Leichnam\"",
+      "target": "alter_guelfo",
+      "relation": "dead",
+      "argument1": "ferdinando",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 139480,
+      "source": "\"Ferdinandos Leichnam\"",
+      "target": "amalia",
+      "relation": "dead",
+      "argument1": "ferdinando",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 139480,
+      "source": "\"Ferdinandos Leichnam\"",
+      "target": "camilla",
+      "relation": "dead",
+      "argument1": "ferdinando",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 148134,
+      "source": "guelfo",
+      "target": "alter_guelfo",
+      "relation": "murderer_of",
+      "argument1": "guelfo",
+      "argument2": "ferdinando",
+      "attribute": null
+    },
+    {
+      "position": 148134,
+      "source": "guelfo",
+      "target": "amalia",
+      "relation": "murderer_of",
+      "argument1": "guelfo",
+      "argument2": "ferdinando",
+      "attribute": null
+    },
+    {
+      "position": 148134,
+      "source": "guelfo",
+      "target": "camilla",
+      "relation": "murderer_of",
+      "argument1": "guelfo",
+      "argument2": "ferdinando",
+      "attribute": null
+    },
+    {
+      "position": 151330,
+      "source": "\"Stich\"",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "guelfo",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 151330,
+      "source": "alter_guelfo",
+      "target": "audience",
+      "relation": "murderer_of",
+      "argument1": "alter_guelfo",
+      "argument2": "guelfo",
+      "attribute": null
+    },
+    {
+      "position": 151330,
+      "source": "\"Stich\"",
+      "target": "alter_guelfo",
+      "relation": "dead",
+      "argument1": "guelfo",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 151330,
+      "source": "\"Stich\"",
+      "target": "amalia",
+      "relation": "dead",
+      "argument1": "guelfo",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 151330,
+      "source": "alter_guelfo",
+      "target": "amalia",
+      "relation": "murderer_of",
+      "argument1": "alter_guelfo",
+      "argument2": "guelfo",
+      "attribute": null
+    }
+  ]
+}

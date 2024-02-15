@@ -1,0 +1,510 @@
+{
+  "filename": "goethe-stella_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 174,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "madame_sommer_bzw_caecilie",
+      "argument2": "\"C\u00e4cilie\"",
+      "attribute": null
+    },
+    {
+      "position": 183,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "madame_sommer_bzw_caecilie",
+      "argument2": "\"Madame Sommer\"",
+      "attribute": null
+    },
+    {
+      "position": 1425,
+      "source": "lucie",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "madame_sommer_bzw_caecilie",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 1425,
+      "source": "lucie",
+      "target": "postmeisterin",
+      "relation": "parent_of",
+      "argument1": "madame_sommer_bzw_caecilie",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 5218,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "PARENT_OF[LUCIE]",
+      "argument2": "lucie",
+      "attribute": null
+    },
+    {
+      "position": 5355,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "madame_sommer_bzw_caecilie",
+      "argument2": "PARENT_OF[LUCIE]",
+      "attribute": null
+    },
+    {
+      "position": 5572,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "PARENT[LUCIE]",
+      "argument2": "madame_sommer_bzw_caecilie",
+      "attribute": null
+    },
+    {
+      "position": 7365,
+      "source": "postmeisterin",
+      "target": "audience",
+      "relation": "step-chil_of",
+      "argument1": "annchen",
+      "argument2": "postmeisterin",
+      "attribute": null
+    },
+    {
+      "position": 7365,
+      "source": "postmeisterin",
+      "target": "madame_sommer_bzw_caecilie",
+      "relation": "step-chil_of",
+      "argument1": "annchen",
+      "argument2": "postmeisterin",
+      "attribute": null
+    },
+    {
+      "position": 10860,
+      "source": "postmeisterin",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "\"Baronesse\"",
+      "argument2": "SPOUSE[BARONESSE]",
+      "attribute": null
+    },
+    {
+      "position": 10860,
+      "source": "postmeisterin",
+      "target": "lucie",
+      "relation": "spouses",
+      "argument1": "\"Baronesse\"",
+      "argument2": "SPOUSE[BARONESSE]",
+      "attribute": null
+    },
+    {
+      "position": 10860,
+      "source": "postmeisterin",
+      "target": "madame_sommer_bzw_caecilie",
+      "relation": "spouses",
+      "argument1": "\"Baronesse\"",
+      "argument2": "SPOUSE[BARONESSE]",
+      "attribute": null
+    },
+    {
+      "position": 10949,
+      "source": "postmeisterin",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "\"Baronesse\"",
+      "argument2": "SPOUSE[BARONESSE]",
+      "attribute": null
+    },
+    {
+      "position": 10949,
+      "source": "postmeisterin",
+      "target": "lucie",
+      "relation": "in_love_with",
+      "argument1": "\"Baronesse\"",
+      "argument2": "SPOUSE[BARONESSE]",
+      "attribute": null
+    },
+    {
+      "position": 10949,
+      "source": "postmeisterin",
+      "target": "madame_sommer_bzw_caecilie",
+      "relation": "in_love_with",
+      "argument1": "\"Baronesse\"",
+      "argument2": "SPOUSE[BARONESSE]",
+      "attribute": null
+    },
+    {
+      "position": 12451,
+      "source": "postmeisterin",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD_OF[BARONESSE]",
+      "argument2": "\"Baronesse\"",
+      "attribute": null
+    },
+    {
+      "position": 12451,
+      "source": "postmeisterin",
+      "target": "lucie",
+      "relation": "child_of",
+      "argument1": "CHILD_OF[BARONESSE]",
+      "argument2": "\"Baronesse\"",
+      "attribute": null
+    },
+    {
+      "position": 12451,
+      "source": "postmeisterin",
+      "target": "madame_sommer_bzw_caecilie",
+      "relation": "child_of",
+      "argument1": "CHILD_OF[BARONESSE]",
+      "argument2": "\"Baronesse\"",
+      "attribute": null
+    },
+    {
+      "position": 16491,
+      "source": "fernando",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "feridnando",
+      "argument2": "stella",
+      "attribute": null
+    },
+    {
+      "position": 24951,
+      "source": "lucie",
+      "target": "fernando",
+      "relation": "parent_of",
+      "argument1": "PARENT_OF[LUCIE]",
+      "argument2": "madame_sommer_bzw_caecilie",
+      "attribute": null
+    },
+    {
+      "position": 27000,
+      "source": "stella",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Baronesse\"",
+      "argument2": "stella",
+      "attribute": null
+    },
+    {
+      "position": 27819,
+      "source": "stella",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "SPOUSES[STELLA]",
+      "argument2": "fernando",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 31634,
+      "source": "stella",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "fernando",
+      "argument2": "stella",
+      "attribute": null
+    },
+    {
+      "position": 31634,
+      "source": "stella",
+      "target": "lucie",
+      "relation": "in_love_with",
+      "argument1": "fernando",
+      "argument2": "stella",
+      "attribute": null
+    },
+    {
+      "position": 31634,
+      "source": "stella",
+      "target": "madame_sommer_bzw_caecilie",
+      "relation": "in_love_with",
+      "argument1": "fernando",
+      "argument2": "stella",
+      "attribute": null
+    },
+    {
+      "position": 36833,
+      "source": "stella",
+      "target": "madame_sommer_bzw_caecilie",
+      "relation": "child_of",
+      "argument1": "CHILD_OF[STELLA]",
+      "argument2": "stella",
+      "attribute": "already-known"
+    },
+    {
+      "position": 37294,
+      "source": "stella",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "CHILD[STELLA]",
+      "argument2": "\"Mina\"",
+      "attribute": null
+    },
+    {
+      "position": 37294,
+      "source": "stella",
+      "target": "lucie",
+      "relation": "has_name",
+      "argument1": "CHILD[STELLA]",
+      "argument2": "\"Mina\"",
+      "attribute": null
+    },
+    {
+      "position": 37294,
+      "source": "stella",
+      "target": "madame_sommer_bzw_caecilie",
+      "relation": "has_name",
+      "argument1": "CHILD[STELLA]",
+      "argument2": "\"Mina\"",
+      "attribute": null
+    },
+    {
+      "position": 39605,
+      "source": "lucie",
+      "target": "stella",
+      "relation": "identity",
+      "argument1": "\"Offizier\"",
+      "argument2": "SPOUSES[STELLA]",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 41445,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "lucie",
+      "relation": "identity",
+      "argument1": "SPOUSES[STELLA]",
+      "argument2": "PARENT_OF[LUCIE]",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 41541,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "PARENT[LUCIE]",
+      "argument2": "fernando",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 41541,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "lucie",
+      "relation": "identity",
+      "argument1": "PARENT[LUCIE]",
+      "argument2": "fernando",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 42645,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "PARENT_OF[LUCIE]",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 42848,
+      "source": "stella",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"Offizier\"",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 43637,
+      "source": "stella",
+      "target": "fernando",
+      "relation": "in_love_with",
+      "argument1": "stella",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 44224,
+      "source": "fernando",
+      "target": "stella",
+      "relation": "in_love_with",
+      "argument1": "fernando",
+      "argument2": "stella",
+      "attribute": null
+    },
+    {
+      "position": 51742,
+      "source": "fernando",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "SPOUSES[FERNANDO]",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 51742,
+      "source": "verwalter",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "SPOUSE[FERNANDO]",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 51742,
+      "source": "fernando",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD_OF[FERNANDO]",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 51757,
+      "source": "verwalter",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "CHILD[FERNANDO]",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 53318,
+      "source": "verwalter",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "fernando",
+      "argument2": "madame_sommer_bzw_caecilie",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 53326,
+      "source": "verwalter",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "SPOUSE[FERNANDO]",
+      "argument2": "\"C\u00e4cilien\"",
+      "attribute": null
+    },
+    {
+      "position": 55647,
+      "source": "fernando",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "SPOUSES[FERNANDO]",
+      "argument2": "madame_sommer_bzw_caecilie",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 56845,
+      "source": "fernando",
+      "target": "audience",
+      "relation": "identity",
+      "argument1": "\"C\u00e4cilien\"",
+      "argument2": "madame_sommer_bzw_caecilien",
+      "attribute": null
+    },
+    {
+      "position": 60349,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "LOVER[MADAME_SOMMER_BZW_CAECILIE]",
+      "argument2": "madame_sommer_bzw_caecilie",
+      "attribute": null
+    },
+    {
+      "position": 60349,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "fernando",
+      "relation": "in_love_with",
+      "argument1": "LOVER[MADAME_SOMMER_BZW_CAECILIE]",
+      "argument2": "madame_sommer_bzw_caecilie",
+      "attribute": null
+    },
+    {
+      "position": 60365,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "madame_sommer_bzw_caecilie",
+      "argument2": "LOVER[MADAME_SOMMER_BZW_CAECILIE]",
+      "attribute": null
+    },
+    {
+      "position": 60365,
+      "source": "madame_sommer_bzw_caecilie",
+      "target": "fernando",
+      "relation": "in_love_with",
+      "argument1": "madame_sommer_bzw_caecilie",
+      "argument2": "LOVER[MADAME_SOMMER_BZW_CAECILIE]",
+      "attribute": null
+    },
+    {
+      "position": 63687,
+      "source": "fernando",
+      "target": "madame_sommer_bzw_caecilie",
+      "relation": "identity",
+      "argument1": "PARENT_OF[LUCIE]",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 65716,
+      "source": "fernando",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "fernando",
+      "argument2": "lucie",
+      "attribute": "suspicion"
+    },
+    {
+      "position": 66522,
+      "source": "fernando",
+      "target": "lucie",
+      "relation": "identity",
+      "argument1": "PARENT_OF[LUCIE]",
+      "argument2": "fernando",
+      "attribute": null
+    },
+    {
+      "position": 79776,
+      "source": "fernando",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "fernando",
+      "argument2": "stella",
+      "attribute": null
+    },
+    {
+      "position": 79776,
+      "source": "fernando",
+      "target": "stella",
+      "relation": "!in_love_with",
+      "argument1": "fernando",
+      "argument2": "stella",
+      "attribute": null
+    },
+    {
+      "position": 80125,
+      "source": "fernando",
+      "target": "stella",
+      "relation": "spouses",
+      "argument1": "fernando",
+      "argument2": "madame_sommer_bzw_caecilie",
+      "attribute": null
+    },
+    {
+      "position": 80297,
+      "source": "fernando",
+      "target": "stella",
+      "relation": "child_of",
+      "argument1": "fernando",
+      "argument2": "madame_sommer_bzw_caecilie",
+      "attribute": null
+    }
+  ]
+}

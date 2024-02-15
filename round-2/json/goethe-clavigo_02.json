@@ -1,0 +1,294 @@
+{
+  "filename": "goethe-clavigo_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 203,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "marie",
+      "argument2": "sophie",
+      "attribute": null
+    },
+    {
+      "position": 203,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "marie",
+      "argument2": "beaumarchais",
+      "attribute": null
+    },
+    {
+      "position": 251,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "sophie",
+      "argument2": "guilbert",
+      "attribute": null
+    },
+    {
+      "position": 4051,
+      "source": "beaumarchais",
+      "target": "audience",
+      "relation": "ex-couple",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 9778,
+      "source": "marie",
+      "target": "audience",
+      "relation": "ex-lovers",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 17438,
+      "source": "clavigo",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 30788,
+      "source": "beaumarchais",
+      "target": "clavigo",
+      "relation": "siblings",
+      "argument1": "marie",
+      "argument2": "beaumarchais",
+      "attribute": null
+    },
+    {
+      "position": 37968,
+      "source": "beaumarchais",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 37968,
+      "source": "beaumarchais",
+      "target": "clavigo",
+      "relation": "!in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 42805,
+      "source": "beaumarchais",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "clavigo",
+      "argument2": "\"Joseph Clavigo\"",
+      "attribute": null
+    },
+    {
+      "position": 51805,
+      "source": "sophie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 51805,
+      "source": "sophie",
+      "target": "marie",
+      "relation": "in_love_with",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 51805,
+      "source": "clavigo",
+      "target": "sophie",
+      "relation": "in_love_with",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 55866,
+      "source": "guilbert",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 55866,
+      "source": "guilbert",
+      "target": "sophie",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 55866,
+      "source": "guilbert",
+      "target": "buenco",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 59987,
+      "source": "clavigo",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 59987,
+      "source": "clavigo",
+      "target": "marie",
+      "relation": "in_love_with",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 59987,
+      "source": "clavigo",
+      "target": "sophie",
+      "relation": "in_love_with",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 59987,
+      "source": "clavigo",
+      "target": "buenco",
+      "relation": "in_love_with",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 59987,
+      "source": "clavigo",
+      "target": "guilbert",
+      "relation": "in_love_with",
+      "argument1": "clavigo",
+      "argument2": "marie",
+      "attribute": null
+    },
+    {
+      "position": 61723,
+      "source": "clavigo",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 61723,
+      "source": "clavigo",
+      "target": "sophie",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 61723,
+      "source": "clavigo",
+      "target": "buenco",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 61723,
+      "source": "clavigo",
+      "target": "guilbert",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 63028,
+      "source": "sophie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 63028,
+      "source": "sophie",
+      "target": "beaumarchais",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 63028,
+      "source": "sophie",
+      "target": "clavigo",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 63028,
+      "source": "marie",
+      "target": "sophie",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 63028,
+      "source": "sophie",
+      "target": "buenco",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 63028,
+      "source": "sophie",
+      "target": "guilbert",
+      "relation": "in_love_with",
+      "argument1": "marie",
+      "argument2": "clavigo",
+      "attribute": null
+    },
+    {
+      "position": 90891,
+      "source": "sophie",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "buenco",
+      "argument2": "marie",
+      "attribute": null
+    }
+  ]
+}

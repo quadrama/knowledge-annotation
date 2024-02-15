@@ -1,0 +1,195 @@
+{
+  "filename": "guenderode-udohla_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 3030,
+      "source": "mangu",
+      "target": "sino",
+      "relation": "siblings",
+      "argument1": "nerissa",
+      "argument2": "sultan",
+      "attribute": null
+    },
+    {
+      "position": 3030,
+      "source": "mangu",
+      "target": "audience",
+      "relation": "siblings",
+      "argument1": "nerissa",
+      "argument2": "sultan",
+      "attribute": null
+    },
+    {
+      "position": 3850,
+      "source": "mangu",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "nerissa",
+      "argument2": "sultan",
+      "attribute": null
+    },
+    {
+      "position": 3850,
+      "source": "mangu",
+      "target": "derwisch",
+      "relation": "engaged",
+      "argument1": "nerissa",
+      "argument2": "sultan",
+      "attribute": null
+    },
+    {
+      "position": 10925,
+      "source": "sultan",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "sultan",
+      "argument2": "nerissa",
+      "attribute": null
+    },
+    {
+      "position": 12425,
+      "source": "sultan",
+      "target": "sino",
+      "relation": "in_love_with",
+      "argument1": "sultan",
+      "argument2": "nerissa",
+      "attribute": null
+    },
+    {
+      "position": 13800,
+      "source": "nerissa",
+      "target": "audience",
+      "relation": "!identity",
+      "argument1": "nerissa",
+      "argument2": "\"Nerissa-Schwester\"",
+      "attribute": null
+    },
+    {
+      "position": 13800,
+      "source": "nerissa",
+      "target": "elpa",
+      "relation": "!identity",
+      "argument1": "nerissa",
+      "argument2": "\"Nerissa-Schwester\"",
+      "attribute": "already-known"
+    },
+    {
+      "position": 23058,
+      "source": "udohla",
+      "target": "sino",
+      "relation": "identity",
+      "argument1": "udohla",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    },
+    {
+      "position": 23075,
+      "source": "udohla",
+      "target": "sino",
+      "relation": "child_of",
+      "argument1": "udohla",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    },
+    {
+      "position": 32214,
+      "source": "mangu",
+      "target": "sultan",
+      "relation": "identity",
+      "argument1": "udohla",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    },
+    {
+      "position": 36238,
+      "source": "mangu",
+      "target": "sino",
+      "relation": "identity",
+      "argument1": "nerissa",
+      "argument2": "\"Geraubtes-M\u00e4dchen\"",
+      "attribute": null
+    },
+    {
+      "position": 36238,
+      "source": "\"Aga\"",
+      "target": "mangu",
+      "relation": "identity",
+      "argument1": "nerissa",
+      "argument2": "\"Geraubtes-M\u00e4dchen\"",
+      "attribute": null
+    },
+    {
+      "position": 40457,
+      "source": "sino",
+      "target": "udohla",
+      "relation": "identity",
+      "argument1": "udohla",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    },
+    {
+      "position": 45122,
+      "source": "nerissa",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "nerissa",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    },
+    {
+      "position": 45122,
+      "source": "nerissa",
+      "target": "sultan",
+      "relation": "child_of",
+      "argument1": "nerissa",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    },
+    {
+      "position": 45122,
+      "source": "nerissa",
+      "target": "udohla",
+      "relation": "child_of",
+      "argument1": "nerissa",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    },
+    {
+      "position": 45530,
+      "source": "udohla",
+      "target": "audience",
+      "relation": "has_name",
+      "argument1": "nerissa",
+      "argument2": "\"Ewana\"",
+      "attribute": null
+    },
+    {
+      "position": 45530,
+      "source": "udohla",
+      "target": "sultan",
+      "relation": "has_name",
+      "argument1": "nerissa",
+      "argument2": "\"Ewana\"",
+      "attribute": null
+    },
+    {
+      "position": 45726,
+      "source": "sino",
+      "target": "sultan",
+      "relation": "child_of",
+      "argument1": "udohla",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    },
+    {
+      "position": 45726,
+      "source": "sino",
+      "target": "nerissa",
+      "relation": "child_of",
+      "argument1": "udohla",
+      "argument2": "\"Bahadar\"",
+      "attribute": null
+    }
+  ]
+}

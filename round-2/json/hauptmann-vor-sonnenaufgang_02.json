@@ -1,0 +1,204 @@
+{
+  "filename": "hauptmann-vor-sonnenaufgang_02",
+  "annotator": "02",
+  "transfers": [
+    {
+      "position": 972,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "bauer_krause",
+      "argument2": "frau_krause",
+      "attribute": null
+    },
+    {
+      "position": 1026,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "bauer_krause",
+      "argument2": "helene",
+      "attribute": null
+    },
+    {
+      "position": 1046,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "bauer_krause",
+      "argument2": "\"Martha\"",
+      "attribute": null
+    },
+    {
+      "position": 1066,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "stepparent_of",
+      "argument1": "frau_krause",
+      "argument2": "helene",
+      "attribute": null
+    },
+    {
+      "position": 1115,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "spouses",
+      "argument1": "hoffmann",
+      "argument2": "\"Martha\"",
+      "attribute": null
+    },
+    {
+      "position": 1170,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "nephew_of",
+      "argument1": "kahl",
+      "argument2": "frau_krause",
+      "attribute": null
+    },
+    {
+      "position": 32248,
+      "source": "hoffmann",
+      "target": "loth",
+      "relation": "sister_in_law",
+      "argument1": "helene",
+      "argument2": "hoffmann",
+      "attribute": null
+    },
+    {
+      "position": 42379,
+      "source": "hoffmann",
+      "target": "loth",
+      "relation": "mother_in_law",
+      "argument1": "frau_krause",
+      "argument2": "hoffmann",
+      "attribute": null
+    },
+    {
+      "position": 79901,
+      "source": "guste",
+      "target": "audience",
+      "relation": "parent_of",
+      "argument1": "beibst",
+      "argument2": "guste",
+      "attribute": null
+    },
+    {
+      "position": 104916,
+      "source": "helene",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "kahl",
+      "argument2": "frau_krause",
+      "attribute": null
+    },
+    {
+      "position": 104916,
+      "source": "helene",
+      "target": "loth",
+      "relation": "lovers",
+      "argument1": "kahl",
+      "argument2": "frau_krause",
+      "attribute": null
+    },
+    {
+      "position": 104916,
+      "source": "helene",
+      "target": "frau_spiller",
+      "relation": "lovers",
+      "argument1": "kahl",
+      "argument2": "frau_krause",
+      "attribute": null
+    },
+    {
+      "position": 105191,
+      "source": "helene",
+      "target": "loth",
+      "relation": "nephew_of",
+      "argument1": "kahl",
+      "argument2": "frau_krause",
+      "attribute": null
+    },
+    {
+      "position": 112858,
+      "source": "helene",
+      "target": "hoffmann",
+      "relation": "lovers",
+      "argument1": "kahl",
+      "argument2": "frau_krause",
+      "attribute": null
+    },
+    {
+      "position": 130815,
+      "source": "hoffmann",
+      "target": "audience",
+      "relation": "ex-fiance_of",
+      "argument1": "\"Anna Faber\"",
+      "argument2": "loth",
+      "attribute": null
+    },
+    {
+      "position": 130815,
+      "source": "hoffmann",
+      "target": "helene",
+      "relation": "ex-fiance_of",
+      "argument1": "\"Anna Faber\"",
+      "argument2": "loth",
+      "attribute": null
+    },
+    {
+      "position": 152750,
+      "source": "helene",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "helene",
+      "argument2": "loth",
+      "attribute": null
+    },
+    {
+      "position": 152750,
+      "source": "helene",
+      "target": "loth",
+      "relation": "in_love_with",
+      "argument1": "helene",
+      "argument2": "loth",
+      "attribute": null
+    },
+    {
+      "position": 176214,
+      "source": "loth",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "loth",
+      "argument2": "helene",
+      "attribute": null
+    },
+    {
+      "position": 176214,
+      "source": "loth",
+      "target": "helene",
+      "relation": "in_love_with",
+      "argument1": "loth",
+      "argument2": "helene",
+      "attribute": null
+    },
+    {
+      "position": 209599,
+      "source": "dr_schimmelpfennig",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "loth",
+      "argument2": "helene",
+      "attribute": null
+    },
+    {
+      "position": 209599,
+      "source": "dr_schimmelpfennig",
+      "target": "loth",
+      "relation": "lovers",
+      "argument1": "loth",
+      "argument2": "helene",
+      "attribute": null
+    }
+  ]
+}

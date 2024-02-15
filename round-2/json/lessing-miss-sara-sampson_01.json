@@ -1,0 +1,465 @@
+{
+  "filename": "lessing-miss-sara-sampson_01",
+  "annotator": "01",
+  "transfers": [
+    {
+      "position": 205,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "sara",
+      "argument2": "sir_william",
+      "attribute": null
+    },
+    {
+      "position": 263,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "ex-lovers",
+      "argument1": "maarwood",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 308,
+      "source": "\"Figurentafel\"",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "arabella",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 2790,
+      "source": "sir_william",
+      "target": "audience",
+      "relation": "lovers",
+      "argument1": "sara",
+      "argument2": "LOVER[SARA]",
+      "attribute": null
+    },
+    {
+      "position": 2790,
+      "source": "sir_william",
+      "target": "waitwell",
+      "relation": "lovers",
+      "argument1": "sara",
+      "argument2": "LOVER[SARA]",
+      "attribute": null
+    },
+    {
+      "position": 16844,
+      "source": "mellefont",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "mellefont",
+      "argument2": "sara",
+      "attribute": null
+    },
+    {
+      "position": 25887,
+      "source": "sara",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "sara",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 25887,
+      "source": "sara",
+      "target": "mellefont",
+      "relation": "in_love_with",
+      "argument1": "sara",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 38786,
+      "source": "marwood",
+      "target": "audience",
+      "relation": "child_of",
+      "argument1": "arabella",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 45176,
+      "source": "mellefont",
+      "target": "audience",
+      "relation": "!in_love_with",
+      "argument1": "mellefont",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 45176,
+      "source": "mellefont",
+      "target": "marwood",
+      "relation": "!in_love_with",
+      "argument1": "mellefont",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 45176,
+      "source": "mellefont",
+      "target": "hannah",
+      "relation": "!in_love_with",
+      "argument1": "mellefont",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 57700,
+      "source": "arabella",
+      "target": "audience",
+      "relation": "fosterchild_of",
+      "argument1": "arabella",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 87623,
+      "source": "mellefont",
+      "target": "audience",
+      "relation": "relatives",
+      "argument1": "mellefont",
+      "argument2": "\"Lady Solmes\"",
+      "attribute": null
+    },
+    {
+      "position": 87623,
+      "source": "mellefont",
+      "target": "sara",
+      "relation": "relatives",
+      "argument1": "mellefont",
+      "argument2": "\"Lady Solmes\"",
+      "attribute": null
+    },
+    {
+      "position": 121158,
+      "source": "sara",
+      "target": "betty",
+      "relation": "relatives",
+      "argument1": "\"Lady Solmes\"",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 129818,
+      "source": "sara",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "MOTHER[SARA]",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 129818,
+      "source": "sara",
+      "target": "mellefont",
+      "relation": "dead",
+      "argument1": "MOTHER[SARA]",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 161306,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "in_love_with",
+      "argument1": "mellefont",
+      "argument2": "LOVER[MELLEFONT]",
+      "attribute": null
+    },
+    {
+      "position": 165741,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "widow:er_of",
+      "argument1": "marwood",
+      "argument2": "\"DEAD_HUSBAND\"",
+      "attribute": null
+    },
+    {
+      "position": 166808,
+      "source": "marwood",
+      "target": "audience",
+      "relation": "engaged",
+      "argument1": "marwood",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 166808,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "engaged",
+      "argument1": "marwood",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 168875,
+      "source": "marwood",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "marwood",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 168875,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "in_love_with",
+      "argument1": "marwood",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 172218,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "child_of",
+      "argument1": "arabella",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 172218,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "child_of",
+      "argument1": "arabella",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 173154,
+      "source": "marwood",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "mellefont",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 173154,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "in_love_with",
+      "argument1": "mellefont",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 173659,
+      "source": "marwood",
+      "target": "audience",
+      "relation": "ex-lovers",
+      "argument1": "\"Mi\u00df Oklaff\"",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 173659,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "ex-lovers",
+      "argument1": "\"Mi\u00df Oklaff\"",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 173676,
+      "source": "marwood",
+      "target": "audience",
+      "relation": "ex-lovers",
+      "argument1": "\"Mi\u00df Dorkas\"",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 173676,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "ex-lovers",
+      "argument1": "\"Mi\u00df Dorkas\"",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 173693,
+      "source": "marwood",
+      "target": "audience",
+      "relation": "ex-lovers",
+      "argument1": "\"Mi\u00df Moor\"",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 173693,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "ex-lovers",
+      "argument1": "\"Mi\u00df Moor\"",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 181168,
+      "source": "marwood",
+      "target": "sara",
+      "relation": "identity",
+      "argument1": "\"Lady Solmes\"",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 194560,
+      "source": "mellefont",
+      "target": "audience",
+      "relation": "in_love_with",
+      "argument1": "mellefont",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 194560,
+      "source": "mellefont",
+      "target": "sara",
+      "relation": "in_love_with",
+      "argument1": "mellefont",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 194560,
+      "source": "mellefont",
+      "target": "betty",
+      "relation": "in_love_with",
+      "argument1": "mellefont",
+      "argument2": "marwood",
+      "attribute": null
+    },
+    {
+      "position": 200346,
+      "source": "mellefont",
+      "target": "audience",
+      "relation": "kills",
+      "argument1": "marwood",
+      "argument2": "sara",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 200346,
+      "source": "marwood",
+      "target": "mellefont",
+      "relation": "kills",
+      "argument1": "marwood",
+      "argument2": "sara",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 200346,
+      "source": "mellefont",
+      "target": "sara",
+      "relation": "kills",
+      "argument1": "marwood",
+      "argument2": "sara",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 200346,
+      "source": "mellefont",
+      "target": "betty",
+      "relation": "kills",
+      "argument1": "marwood",
+      "argument2": "sara",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 200346,
+      "source": "mellefont",
+      "target": "norton",
+      "relation": "kills",
+      "argument1": "marwood",
+      "argument2": "sara",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 203323,
+      "source": "mellefont",
+      "target": "waitwell",
+      "relation": "kills",
+      "argument1": "marwood",
+      "argument2": "sara",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 203323,
+      "source": "marwood",
+      "target": "mellefont",
+      "relation": "kills",
+      "argument1": "marwood",
+      "argument2": "sara",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 211136,
+      "source": "betty",
+      "target": "sir_williams",
+      "relation": "kills",
+      "argument1": "marwood",
+      "argument2": "sara",
+      "attribute": "uncertain"
+    },
+    {
+      "position": 218424,
+      "source": "mellefont",
+      "target": "audience",
+      "relation": "dead",
+      "argument1": "sara",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 218424,
+      "source": "mellefont",
+      "target": "sir_william",
+      "relation": "dead",
+      "argument1": "sara",
+      "argument2": null,
+      "attribute": null
+    },
+    {
+      "position": 220898,
+      "source": "MELLEFONT-SICH-ERSTECHEND",
+      "target": "audience",
+      "relation": "kills",
+      "argument1": "mellefont",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 220898,
+      "source": "MELLEFONT-SICH-ERSTECHEND",
+      "target": "sir_william",
+      "relation": "kills",
+      "argument1": "mellefont",
+      "argument2": "mellefont",
+      "attribute": null
+    },
+    {
+      "position": 220898,
+      "source": "MELLEFONT-SICH-ERSTECHEND",
+      "target": "waitwelll",
+      "relation": "kills",
+      "argument1": "mellefont",
+      "argument2": "mellefont",
+      "attribute": null
+    }
+  ]
+}
