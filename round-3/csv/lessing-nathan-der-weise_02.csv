@@ -1,100 +1,29 @@
 begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+219206,219323,"     Ihn reiten, und allein! –","Ah, Lilla starb
+              Vor Gram, und hat mirs nie vergeben, daß
+              Ich so allein ihn reiten lassen.","– Er
+              Blieb weg!
+",0,"transfer(saladin, audience, dead(""Lilla""))",false
+117839,117877,"      
+            TEMPELHERR.",Mein Name war – ist Curd von Stauffen.,"– Curd!
+          
+          
+",1,"transfer(tempelherr, nathan, has_name(tempelherr, ""Curd von Stauffen""))",false
 314847,314869,"          
             NATHAN.",Heißt Leu von Filneck.,"TEMPELHERR.
             Wie?
- ",0,"transfer(nathan, tempelherr, has_name(tempelherr, ""Leu von Filneck""))",false
+ ",2,"transfer(nathan, tempelherr, has_name(tempelherr, ""Leu von Filneck""))",false
+302658,302683,stlichem Geblüte; sei getauft;,Sei Nathans Tochter nicht,"; er nicht mein Vater! –
+     ",3,"transfer(recha, sittah, transfer(daja, recha, !child_of(recha, nathan)))",false
+465,499,ein reicher Jude in Jerusalem.,"Recha, dessen angenommene Tochter.","Daja, eine Christin, aber in d",4,"transfer(""Figurentafel"", audience, fosterchild_of(recha, nathan))",false
+252603,252636,"t, daß unter diesen meine Frau",Mit sieben hoffnungsvollen Söhnen,"sich
+              Befunden, d",5,"transfer(nathan, [audience, klosterbruder], child_of(CHILDREN[NATHAN], nathan))",false
 3105,3165," 
           
             DAJA.","Wenn sie
               Es wäre, würdet Ihr von mir es hören?","NATHAN.
             
-         ",1,"transfer(daja, [audience, nathan], !dead(recha))",false
-252578,252588,"  Wohl nicht, daß unter diesen",meine Frau,Mit sieben hoffnungsvollen Söh,2,"transfer(nathan, [auidence, klosterbruder], dead(SPOUSE[NATHAN]))",false
-252673,252687,"              Befunden, die in",meines Bruders,"Hause,
-              Zu dem ic",3,"transfer(nathan, [audience, klosterbruder], siblings(SIBLING[NATHAN], nathan))",false
-316656,316711,"      
-            TEMPELHERR.","Wie? auch den
-              Habt Ihr gekannt? Auch den?","NATHAN.
-            Er war mei",4,"transfer(nathan, [recha, saladin, sittah], dead(FATHER[TEMPELHERR]))",false
-317562,317571,"          
-            NATHAN.",Seid Ihr!,"TEMPELHERR.
-            Ich? i",5,"transfer(nathan, [audience, tempelherr], siblings(tempelherr, recha))",false
-302658,302683,stlichem Geblüte; sei getauft;,Sei Nathans Tochter nicht,"; er nicht mein Vater! –
-     ",6,"transfer(recha, sittah, transfer(daja, recha, !child_of(recha, nathan)))",false
-252578,252588,"  Wohl nicht, daß unter diesen",meine Frau,Mit sieben hoffnungsvollen Söh,7,"transfer(nathan, [audience, klosterbruder], spouses(SPOUSE[NATHAN], nathan))",false
-176066,176166,"           So bring ihn her! –","Ich habe meiner Schwester
-              Von diesem ihren Bruder, den sie nicht
-              Gekannt",", so viel erzählet, daß ich si",8,"transfer(saladin, [audience, nathan], dead(BROTHER[SALADIN]))",false
-281344,281436,"leiben. – Hört mich, Nathan! –","In dieser Gärung schlich mir Daja nach,
-              Und warf mir ihr Geheimnis an den Kopf",",
-              Das mir den Au",9,"transfer(tempelherr, nathan, transfer(daja, tempelherr, !parent_of(nathan, recha)))",false
-380,405,"nen.
-          Sultan Saladin.","Sittah, dessen Schwester.","Nathan, ein reicher Jude in Je",10,"transfer(""Figurentafel"", audience, siblings(sittah, saladin))",false
-117839,117877,"      
-            TEMPELHERR.",Mein Name war – ist Curd von Stauffen.,"– Curd!
-          
-          
-",11,"transfer(tempelherr, nathan, has_name(tempelherr, ""Curd von Stauffen""))",false
-322249,322293,"     es begierig aufschlagend.",Ah! seine Hand! Auch die erkenn' ich wieder!,"NATHAN.
-            
-         ",12,"transfer(""Handschrift in Buch"", saladin, parent_of(""Assad"", tempelherr))",false
-118368,118471,"             O ja! hier waren,","Hier faulen des Geschlechts schon mehrere.
-              Mein Oheim selbst, – mein Vater will ich sagen",", –
-              Doch warum s",13,"transfer(tempelherr, [audience, nathan], dead(FATHER[TEMPELHERR]))",false
-20402,20429,"herrn
-              Begnadigt,",weil er seiner Brüder einem,",
-              Den er besonde",14,"transfer(daja, [audience, nathan, recha], siblings(SIBLING[SALADIN], saladin))",false
-196651,196681," 
-          
-            DAJA.","Nicht
-              Ihr Vater!","TEMPELHERR.
-            
-     ",15,"transfer(daja, tempelherr, !parent_of(nathan, recha))",false
-222080,222131," Betrogen, braver junger Mann!","Du bist
-              Mit Seel und Leib mein Assad.","Sieh! ich könnte
-             ",16,"transfer(saladin, audience, identity(BROTHER[SALADIN], ""Assad""))",false
-465,499,ein reicher Jude in Jerusalem.,"Recha, dessen angenommene Tochter.","Daja, eine Christin, aber in d",17,"transfer(""Figurentafel"", audience, fosterchild_of(recha, nathan))",false
-231151,231197,st für sie getan soll haben: –,"Dies Mädchen selbst, ist seine Tochter – nicht",";
-              Ist ein verzet",18,"transfer(tempelherr, saladin, !parent_of(nathan, recha))",false
-219206,219323,"     Ihn reiten, und allein! –","Ah, Lilla starb
-              Vor Gram, und hat mirs nie vergeben, daß
-              Ich so allein ihn reiten lassen.","– Er
-              Blieb weg!
-",19,"transfer(saladin, audience, dead(""Lilla""))",false
-29969,29977,"          
-            NATHAN.",Al-Hafi?,"das Al-Hafi?
-          
-      ",20,"transfer(nathan, audience, has_name(derwisch, ""Al-Hafi""))",false
-252673,252687,"              Befunden, die in",meines Bruders,"Hause,
-              Zu dem ic",21,"transfer(nathan, [audience, klosterbruder], dead(BROTHER[NATHAN]))",false
-252603,252636,"t, daß unter diesen meine Frau",Mit sieben hoffnungsvollen Söhnen,"sich
-              Befunden, d",22,"transfer(nathan, [audience, klosterbruder], dead(CHILDREN[NATHAN]))",false
-312920,312931,"          
-            NATHAN.",Ihr Bruder!,"SALADIN.
-            Rechas Br",23,"transfer(nathan, [saladin, sittah, recha], siblings(SIBLING[RECHA], recha))",false
-252603,252636,"t, daß unter diesen meine Frau",Mit sieben hoffnungsvollen Söhnen,"sich
-              Befunden, d",24,"transfer(nathan, [audience, klosterbruder], child_of(CHILDREN[NATHAN], nathan))",false
-20506,20589," lieb gehabt, so ähnlich sehe.","Doch da es viele zwanzig Jahre her,
-              Daß dieser Bruder nicht mehr lebt",", – er hieß,
-              Ich",25,"transfer(daja, [audience, nathan, recha], dead(SIBLING[SALADIN]))",false
-319307,319340,"          
-            NATHAN.","Blanda
-              Von Filneck!","TEMPELHERR.
-            
-     ",26,"transfer(nathan, [audience, saladin, sittah, tempelherr, recha], has_name(recha, ""Blanda von Filneck""))",false
-197644,197648," 
-          
-            DAJA.",Nie!,"TEMPELHERR.
-            
-     ",27,"transfer(daja, [audience, tempelherr], !knowledge(recha, !parent_of(nathan, recha)))",false
-287170,287208,"          
-            NATHAN.",Besonders hat ein Bruder sich gefunden,",
-              Bei dem Ihr um",28,"transfer(nathan, [audience, tempelherr], siblings(SIBLING[RECHA], recha))",false
-118176,118249,"          
-            NATHAN.","Von Stauffen? – Des Geschlechts
-              Sind wohl schon mehrere ...","TEMPELHERR.
-            
-     ",29,"transfer(tempelherr, nathan, relatives(tempelherr, ""Nathan Bekannter von Stauffen""), suspicion)",false
+         ",6,"transfer(daja, [audience, nathan], !dead(recha))",false
 2644,3024,"          
             NATHAN.","Verbrannt? Wer? meine Recha? sie? –
               Das hab' ich nicht gehört. – Nun dann! So hätte
@@ -104,4 +33,75 @@ begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
               Heraus nur! – Töte mich: und martre mich
               Nicht länger. – Ja, sie ist verbrannt.","DAJA.
             
-           ",30,"transfer(nathan, [audience, daja], dead(recha), uncertain)",false
+           ",7,"transfer(nathan, [audience, daja], dead(recha), uncertain)",false
+176066,176166,"           So bring ihn her! –","Ich habe meiner Schwester
+              Von diesem ihren Bruder, den sie nicht
+              Gekannt",", so viel erzählet, daß ich si",8,"transfer(saladin, [audience, nathan], dead(BROTHER[SALADIN]))",false
+317562,317571,"          
+            NATHAN.",Seid Ihr!,"TEMPELHERR.
+            Ich? i",9,"transfer(nathan, [audience, tempelherr], siblings(tempelherr, recha))",false
+252603,252636,"t, daß unter diesen meine Frau",Mit sieben hoffnungsvollen Söhnen,"sich
+              Befunden, d",10,"transfer(nathan, [audience, klosterbruder], dead(CHILDREN[NATHAN]))",false
+252578,252588,"  Wohl nicht, daß unter diesen",meine Frau,Mit sieben hoffnungsvollen Söh,11,"transfer(nathan, [audience, klosterbruder], spouses(SPOUSE[NATHAN], nathan))",false
+231151,231197,st für sie getan soll haben: –,"Dies Mädchen selbst, ist seine Tochter – nicht",";
+              Ist ein verzet",12,"transfer(tempelherr, saladin, !parent_of(nathan, recha))",false
+197644,197648," 
+          
+            DAJA.",Nie!,"TEMPELHERR.
+            
+     ",13,"transfer(daja, [audience, tempelherr], !knowledge(recha, !parent_of(nathan, recha)))",false
+252578,252588,"  Wohl nicht, daß unter diesen",meine Frau,Mit sieben hoffnungsvollen Söh,14,"transfer(nathan, [audience, klosterbruder], dead(SPOUSE[NATHAN]))",false
+322249,322293,"     es begierig aufschlagend.",Ah! seine Hand! Auch die erkenn' ich wieder!,"NATHAN.
+            
+         ",15,"transfer(""Handschrift in Buch"", saladin, parent_of(""Assad"", tempelherr))",false
+287170,287208,"          
+            NATHAN.",Besonders hat ein Bruder sich gefunden,",
+              Bei dem Ihr um",16,"transfer(nathan, [audience, tempelherr], siblings(SIBLING[RECHA], recha))",false
+20402,20429,"herrn
+              Begnadigt,",weil er seiner Brüder einem,",
+              Den er besonde",17,"transfer(daja, [audience, nathan, recha], siblings(SIBLING[SALADIN], saladin))",false
+20506,20589," lieb gehabt, so ähnlich sehe.","Doch da es viele zwanzig Jahre her,
+              Daß dieser Bruder nicht mehr lebt",", – er hieß,
+              Ich",18,"transfer(daja, [audience, nathan, recha], dead(SIBLING[SALADIN]))",false
+281344,281436,"leiben. – Hört mich, Nathan! –","In dieser Gärung schlich mir Daja nach,
+              Und warf mir ihr Geheimnis an den Kopf",",
+              Das mir den Au",19,"transfer(tempelherr, nathan, transfer(daja, tempelherr, !parent_of(nathan, recha)))",false
+319307,319340,"          
+            NATHAN.","Blanda
+              Von Filneck!","TEMPELHERR.
+            
+     ",20,"transfer(nathan, [audience, saladin, sittah, tempelherr, recha], has_name(recha, ""Blanda von Filneck""))",false
+29969,29977,"          
+            NATHAN.",Al-Hafi?,"das Al-Hafi?
+          
+      ",21,"transfer(nathan, audience, has_name(derwisch, ""Al-Hafi""))",false
+312920,312931,"          
+            NATHAN.",Ihr Bruder!,"SALADIN.
+            Rechas Br",22,"transfer(nathan, [saladin, sittah, recha], siblings(SIBLING[RECHA], recha))",false
+118368,118471,"             O ja! hier waren,","Hier faulen des Geschlechts schon mehrere.
+              Mein Oheim selbst, – mein Vater will ich sagen",", –
+              Doch warum s",23,"transfer(tempelherr, [audience, nathan], dead(FATHER[TEMPELHERR]))",false
+196651,196681," 
+          
+            DAJA.","Nicht
+              Ihr Vater!","TEMPELHERR.
+            
+     ",24,"transfer(daja, tempelherr, !parent_of(nathan, recha))",false
+380,405,"nen.
+          Sultan Saladin.","Sittah, dessen Schwester.","Nathan, ein reicher Jude in Je",25,"transfer(""Figurentafel"", audience, siblings(sittah, saladin))",false
+316656,316711,"      
+            TEMPELHERR.","Wie? auch den
+              Habt Ihr gekannt? Auch den?","NATHAN.
+            Er war mei",26,"transfer(nathan, [recha, saladin, sittah], dead(FATHER[TEMPELHERR]))",false
+252673,252687,"              Befunden, die in",meines Bruders,"Hause,
+              Zu dem ic",27,"transfer(nathan, [audience, klosterbruder], siblings(SIBLING[NATHAN], nathan))",false
+222080,222131," Betrogen, braver junger Mann!","Du bist
+              Mit Seel und Leib mein Assad.","Sieh! ich könnte
+             ",28,"transfer(saladin, audience, identity(BROTHER[SALADIN], ""Assad""))",false
+252673,252687,"              Befunden, die in",meines Bruders,"Hause,
+              Zu dem ic",29,"transfer(nathan, [audience, klosterbruder], dead(BROTHER[NATHAN]))",false
+118176,118249,"          
+            NATHAN.","Von Stauffen? – Des Geschlechts
+              Sind wohl schon mehrere ...","TEMPELHERR.
+            
+     ",30,"transfer(tempelherr, nathan, relatives(tempelherr, ""Nathan Bekannter von Stauffen""), suspicion)",false
