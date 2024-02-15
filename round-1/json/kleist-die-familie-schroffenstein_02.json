@@ -32,7 +32,7 @@
     {
       "position": 318,
       "source": "\"Figurentafel\"",
-      "target": "auidence",
+      "target": "audience",
       "relation": "child_of",
       "argument1": "johann",
       "argument2": "rupert",
@@ -77,7 +77,7 @@
     {
       "position": 548,
       "source": "\"Figurentafel\"",
-      "target": "auidence",
+      "target": "audience",
       "relation": "child_of",
       "argument1": "agnes",
       "argument2": "gertrude",
